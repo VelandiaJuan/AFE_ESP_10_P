@@ -1,7 +1,7 @@
-CILA2S-ESP-SWCPRO_V2
+CILA2S-ESP-SWCPRO_AFE
 ====================
 
-https://github.com/BCP-Group/CILA2S-ESP-SWCPRO_V2
+https://github.com/BCP-Group/CILA2S-ESP-SWCPRO_AFE
 
 ### About
 

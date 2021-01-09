@@ -812,9 +812,7 @@
             "195d3093.36368f"
         ],
         "x": 84,
-        "y": 13,
-        "w": 928,
-        "h": 1044
+        "y": 13
     },
     {
         "id": "f7ed166d.1aa528",
@@ -956,7 +954,9 @@
             "6a8c02f7.f4d81c"
         ],
         "x": 14,
-        "y": 239
+        "y": 239,
+        "w": 1542,
+        "h": 279.5
     },
     {
         "id": "7a498b99.415234",
@@ -987,8 +987,10 @@
             "11f55817.139c18",
             "cf57802e.7d258"
         ],
-        "x": 4,
-        "y": 13
+        "x": 14,
+        "y": 13,
+        "w": 1844,
+        "h": 214
     },
     {
         "id": "f2c899e7.e9eac8",
@@ -1044,9 +1046,7 @@
             "a7e99088.c8108"
         ],
         "x": 269,
-        "y": 73,
-        "w": 1693,
-        "h": 454
+        "y": 73
     },
     {
         "id": "43bab036.712ca",
@@ -1062,9 +1062,7 @@
             "e9d2f5f0.86a518"
         ],
         "x": 269,
-        "y": 535,
-        "w": 1693,
-        "h": 694
+        "y": 535
     },
     {
         "id": "27a0641a.d154dc",
@@ -1080,9 +1078,7 @@
             "1306de9a.9ba341"
         ],
         "x": 268,
-        "y": 1237,
-        "w": 1794,
-        "h": 384
+        "y": 1237
     },
     {
         "id": "af9ea997.5900c8",
@@ -1098,9 +1094,7 @@
             "7b926503.10d39c"
         ],
         "x": 268,
-        "y": 1629,
-        "w": 1324,
-        "h": 224
+        "y": 1629
     },
     {
         "id": "8a04702.34fd29",
@@ -1119,9 +1113,7 @@
             "8166c609.8e8328"
         ],
         "x": 1969,
-        "y": 75,
-        "w": 527,
-        "h": 156
+        "y": 75
     },
     {
         "id": "f7d4f68f.ac6a38",
@@ -1437,9 +1429,7 @@
             "4f79f4f3.46588c"
         ],
         "x": 88,
-        "y": 1063,
-        "w": 1264,
-        "h": 344
+        "y": 1063
     },
     {
         "id": "2fc65bf7.d30fb4",
@@ -1671,9 +1661,7 @@
             "9ac5fb1d.327ff8"
         ],
         "x": 114,
-        "y": 1269,
-        "w": 602,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "f738d604.f009b8",
@@ -1728,9 +1716,7 @@
             "f981eb1b.025a78"
         ],
         "x": 138,
-        "y": 33,
-        "w": 1294,
-        "h": 1284
+        "y": 33
     },
     {
         "id": "6889f2bb.892f0c",
@@ -1771,9 +1757,7 @@
             "36d73f7a.42644"
         ],
         "x": 1024,
-        "y": 19,
-        "w": 702,
-        "h": 642
+        "y": 19
     },
     {
         "id": "f8ecb97c.9e8978",
@@ -1799,9 +1783,7 @@
             "dabbb1f4.9b65e"
         ],
         "x": 1608,
-        "y": 33,
-        "w": 3384,
-        "h": 2534
+        "y": 33
     },
     {
         "id": "b586885.2404778",
@@ -1908,9 +1890,7 @@
             "d170d71.82f7928"
         ],
         "x": 884,
-        "y": 59,
-        "w": 522,
-        "h": 182
+        "y": 59
     },
     {
         "id": "aa324282.4f554",
@@ -1936,9 +1916,7 @@
             "27a2d5e6.eea14a"
         ],
         "x": 164,
-        "y": 239,
-        "w": 572,
-        "h": 182
+        "y": 239
     },
     {
         "id": "bf91bfd8.84eda",
@@ -1963,9 +1941,7 @@
             "3fe04302.c538cc"
         ],
         "x": 164,
-        "y": 59,
-        "w": 712,
-        "h": 172
+        "y": 59
     },
     {
         "id": "f58295c0.4d4228",
@@ -1982,9 +1958,7 @@
             "3cf0ba38.d2e4f6"
         ],
         "x": 748,
-        "y": 253,
-        "w": 614,
-        "h": 424
+        "y": 253
     },
     {
         "id": "f7a3cb7b.69e4d8",
@@ -2037,9 +2011,7 @@
             "dd39d2c6.25d75"
         ],
         "x": 164,
-        "y": 429,
-        "w": 492,
-        "h": 862
+        "y": 429
     },
     {
         "id": "11f55817.139c18",
@@ -2066,8 +2038,10 @@
             "ebf4df19.2cfb2",
             "1660e38d.24cefc"
         ],
-        "x": 30,
-        "y": 39
+        "x": 40,
+        "y": 39,
+        "w": 892,
+        "h": 162
     },
     {
         "id": "c9848ab6.981718",
@@ -2122,7 +2096,9 @@
             "ffbe710d.b4cce"
         ],
         "x": 940,
-        "y": 39
+        "y": 39,
+        "w": 892,
+        "h": 162
     },
     {
         "id": "1027a10.a1e515f",
@@ -2296,9 +2272,7 @@
             "cb0d324.9efa3d"
         ],
         "x": 1634,
-        "y": 149,
-        "w": 972,
-        "h": 592
+        "y": 149
     },
     {
         "id": "35440cdc.e5d764",
@@ -2352,9 +2326,7 @@
             "5bf3fb88.25b264"
         ],
         "x": 2614,
-        "y": 149,
-        "w": 932,
-        "h": 592
+        "y": 149
     },
     {
         "id": "888265d9.138288",
@@ -2408,9 +2380,7 @@
             "ea97a2e4.6a67d"
         ],
         "x": 3554,
-        "y": 149,
-        "w": 1092,
-        "h": 592
+        "y": 149
     },
     {
         "id": "54b245d3.9431dc",
@@ -2464,9 +2434,7 @@
             "b636759a.1af358"
         ],
         "x": 1634,
-        "y": 749,
-        "w": 1052,
-        "h": 592
+        "y": 749
     },
     {
         "id": "58747709.2ffd98",
@@ -2520,9 +2488,7 @@
             "86aeff9f.23163"
         ],
         "x": 2694,
-        "y": 749,
-        "w": 1092,
-        "h": 592
+        "y": 749
     },
     {
         "id": "4b571a8f.d70524",
@@ -2576,9 +2542,7 @@
             "3368017a.de213e"
         ],
         "x": 3794,
-        "y": 749,
-        "w": 1172,
-        "h": 592
+        "y": 749
     },
     {
         "id": "b7d3914a.2a17",
@@ -2632,9 +2596,7 @@
             "ada97752.874638"
         ],
         "x": 1634,
-        "y": 1349,
-        "w": 1092,
-        "h": 592
+        "y": 1349
     },
     {
         "id": "a3b836be.d5cde8",
@@ -2688,9 +2650,7 @@
             "739b4fcf.1c18"
         ],
         "x": 2734,
-        "y": 1349,
-        "w": 1092,
-        "h": 592
+        "y": 1349
     },
     {
         "id": "f3c2e7cf.5ed158",
@@ -2745,9 +2705,7 @@
             "968d5347.1b134"
         ],
         "x": 234,
-        "y": 39,
-        "w": 752,
-        "h": 242
+        "y": 39
     },
     {
         "id": "991382e7.7f2e6",
@@ -2779,9 +2737,7 @@
             "24dd678c.7f1308"
         ],
         "x": 234,
-        "y": 289,
-        "w": 752,
-        "h": 242
+        "y": 289
     },
     {
         "id": "91feb623.ce89e8",
@@ -2813,9 +2769,7 @@
             "e8ae66c1.7229a8"
         ],
         "x": 234,
-        "y": 539,
-        "w": 752,
-        "h": 242
+        "y": 539
     },
     {
         "id": "a035a752.10f9d8",
@@ -2847,9 +2801,7 @@
             "bd48652a.f5a5e8"
         ],
         "x": 234,
-        "y": 789,
-        "w": 752,
-        "h": 242
+        "y": 789
     },
     {
         "id": "53806295.7831ac",
@@ -2903,9 +2855,7 @@
             "4fe0e535.f16e5c"
         ],
         "x": 3834,
-        "y": 1349,
-        "w": 1072,
-        "h": 592
+        "y": 1349
     },
     {
         "id": "dabbb1f4.9b65e",
@@ -2922,9 +2872,7 @@
             "a72a1eba.19d99"
         ],
         "x": 1634,
-        "y": 59,
-        "w": 132,
-        "h": 82
+        "y": 59
     },
     {
         "id": "eb91dac5.690838",
@@ -2988,9 +2936,7 @@
             "f75e195a.cf9c28"
         ],
         "x": 295,
-        "y": 99,
-        "w": 832,
-        "h": 402
+        "y": 99
     },
     {
         "id": "27c43941.e9e0c6",
@@ -3041,9 +2987,7 @@
             "3ac432d5.f6b63e"
         ],
         "x": 295,
-        "y": 561,
-        "w": 822,
-        "h": 642
+        "y": 561
     },
     {
         "id": "c41a251e.427c98",
@@ -3074,9 +3018,7 @@
             "4305893.7fd6878"
         ],
         "x": 294,
-        "y": 1263,
-        "w": 942,
-        "h": 332
+        "y": 1263
     },
     {
         "id": "a7e99088.c8108",
@@ -3113,9 +3055,7 @@
             "c48a9a39.50daa8"
         ],
         "x": 1134,
-        "y": 99,
-        "w": 802,
-        "h": 402
+        "y": 99
     },
     {
         "id": "b60351ac.2ba88",
@@ -3137,9 +3077,7 @@
             "1f8e91cb.d426be"
         ],
         "x": 294,
-        "y": 1655,
-        "w": 752,
-        "h": 162
+        "y": 1655
     },
     {
         "id": "e9d2f5f0.86a518",
@@ -3173,9 +3111,7 @@
             "8307ca17.c4d5b8"
         ],
         "x": 1124,
-        "y": 567,
-        "w": 812,
-        "h": 404
+        "y": 567
     },
     {
         "id": "1306de9a.9ba341",
@@ -3201,9 +3137,7 @@
             "2e60217a.d7bbae"
         ],
         "x": 1244,
-        "y": 1265,
-        "w": 792,
-        "h": 246
+        "y": 1265
     },
     {
         "id": "7b926503.10d39c",
@@ -3224,9 +3158,7 @@
             "b60d4442.d5f0e8"
         ],
         "x": 1054,
-        "y": 1655,
-        "w": 512,
-        "h": 172
+        "y": 1655
     },
     {
         "id": "25d1d69b.64e0ca",
@@ -4031,9 +3963,7 @@
             "6db11539.a3447c"
         ],
         "x": 724,
-        "y": 1089,
-        "w": 602,
-        "h": 82
+        "y": 1089
     },
     {
         "id": "9560ef4.a49141",
@@ -4057,9 +3987,7 @@
             "864b03bd.9ce3c"
         ],
         "x": 114,
-        "y": 1089,
-        "w": 602,
-        "h": 82
+        "y": 1089
     },
     {
         "id": "f185a628.7c4598",
@@ -4080,9 +4008,7 @@
             "d73d6d43.ab8f4"
         ],
         "x": 724,
-        "y": 1179,
-        "w": 232,
-        "h": 82
+        "y": 1179
     },
     {
         "id": "b5305a67.80d008",
@@ -4108,9 +4034,7 @@
             "8207386.0661fc8"
         ],
         "x": 964,
-        "y": 1179,
-        "w": 362,
-        "h": 202
+        "y": 1179
     },
     {
         "id": "52cef377.daab5c",
@@ -4134,9 +4058,7 @@
             "b4b08522.2499f8"
         ],
         "x": 114,
-        "y": 1179,
-        "w": 602,
-        "h": 82
+        "y": 1179
     },
     {
         "id": "de6d41a4.0f4d2",
@@ -4332,9 +4254,7 @@
             "5f1b7de2.8dd7c4"
         ],
         "x": 1634,
-        "y": 1949,
-        "w": 972,
-        "h": 592
+        "y": 1949
     },
     {
         "id": "dde9e22c.88ef2",
@@ -4578,9 +4498,7 @@
             "5805c268.31f02c"
         ],
         "x": 774,
-        "y": 279,
-        "w": 562,
-        "h": 242
+        "y": 279
     },
     {
         "id": "3cf0ba38.d2e4f6",
@@ -4598,9 +4516,7 @@
             "2f5679af.c10006"
         ],
         "x": 774,
-        "y": 529,
-        "w": 172,
-        "h": 122
+        "y": 529
     },
     {
         "id": "38ea9e35.6d66c2",
@@ -5037,6 +4953,40 @@
         ],
         "x": 684,
         "y": 479
+    },
+    {
+        "id": "90da307f.f1e8d",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "name": "Salidas analógicas",
+        "style": {
+            "fill": "#bfc7d7",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "5f2867aa.83ab38",
+            "9564fab5.983018",
+            "3f8b03ec.506cdc",
+            "e9373487.c7fa08",
+            "3be91bdb.6ea684",
+            "57abbc41.176ff4",
+            "d92a7cde.4850e",
+            "9a8e8228.837d",
+            "84d2378f.68fed8",
+            "a75cfb72.5926b8",
+            "fcda2fbe.ad0b2",
+            "9fc08388.ed34f",
+            "ce922e0.da955d",
+            "37b8b949.eaea56",
+            "ae57732a.5f92c",
+            "53fbe394.d4ce6c",
+            "767edd18.2de7f4"
+        ],
+        "x": 1344,
+        "y": 2039,
+        "w": 792,
+        "h": 382
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -9568,6 +9518,22 @@
             {
                 "addr": "N45:6",
                 "name": "PF755T_ControlCommands"
+            },
+            {
+                "addr": "N45:8",
+                "name": "AO1"
+            },
+            {
+                "addr": "N45:10",
+                "name": "AO2"
+            },
+            {
+                "addr": "N45:12",
+                "name": "AO3"
+            },
+            {
+                "addr": "N45:14",
+                "name": "AO4"
             }
         ]
     },
@@ -28200,23 +28166,13 @@
                 "type": "str"
             },
             {
-                "label": "Estado DPS.",
-                "value": "Estado_DPS",
+                "label": "Disparo alta temperatura SUT",
+                "value": "Disparo_alta_temperatura_SUT",
                 "type": "str"
             },
             {
-                "label": "Sobre temperatura filtros (HF-SW)",
-                "value": "Alta_temp_filtros",
-                "type": "str"
-            },
-            {
-                "label": "Falla UPS",
-                "value": "Falla_UPS",
-                "type": "str"
-            },
-            {
-                "label": "Alta temperatura SUT",
-                "value": "Alta_temp_SUT",
+                "label": "Alarma Alta temperatura SUT",
+                "value": "Alarma_Alta_temp_SUT",
                 "type": "str"
             },
             {
@@ -28225,28 +28181,13 @@
                 "type": "str"
             },
             {
-                "label": "Disparo por bajo nivel de aceite SUT",
-                "value": "Disparo_bajo_aceite_SUT",
+                "label": "Disparo bajo bajo nivel de aceite SUT",
+                "value": "Disparo_bajo_bajo_aceite_SUT",
                 "type": "str"
             },
             {
-                "label": "Disparo por sobre presión (THP)",
-                "value": "Disparo_THP",
-                "type": "str"
-            },
-            {
-                "label": "Disparo por sobre presión SUT",
-                "value": "Disparo_presion_SUT",
-                "type": "str"
-            },
-            {
-                "label": "Presión baja en la troncal",
-                "value": "Presión_baja_troncal",
-                "type": "str"
-            },
-            {
-                "label": "Luz Interna",
-                "value": "Luz_Interna",
+                "label": "Disparo Valvula sobrepresión SUT",
+                "value": "Disparo_valvula_sobrepresion",
                 "type": "str"
             }
         ],
@@ -31797,7 +31738,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "b974d4b3.9e3f78",
         "name": "Salidas Digitales",
-        "func": "var ES = flow.get('ES')||null;\nvar Drive_Status = global.get('Drive_Status','memoryOnly') || null;\nvar ActFunctions = flow.get('ActFunctions','memoryOnly') || null;\nvar Prot = global.get('Protections.RFlag','memoryOnly') || 0;\nvar FA = global.get('Filtro_armonicos.Estado','memoryOnly')||false;\n\n// Arreglo de Canales\nvar Data    = { \n    32:false, 33:false, 34:false, 35:false, \n    36:false, 37:false, 38:false, 39:false, \n    40:false, 41:false, 42:false, 43:false\n};\n\n// Obtener llaves del objeto Data\nvar Canal = Object.keys(Data);\n// Declaración del string con \nvar canalmsg;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"CILA2S_EN_MARCHA\"          : Drive_Status != null ? (Drive_Status.Active == 1 ? true:false): false ,\n    \"FALLA_GENERAL\"             : Drive_Status != null ? (Drive_Status.Fault  == 1 ? true:false || Prot):false, \n    \"DISPARO_BREAKER_MODULO_ESD\": InFunction(ActFunctions,'Stop_ESD'),\n    \"BYPASS_FILTRO_ARMONICOS\"   : FA,\n    \"LUZ_INTERNA\"               : InFunction(ActFunctions,'Luz_Interna')\n}\n\n// Funciones que se activan desde una entrada digital\nfunction InFunction(Var,Str){\n    for(var j = 0; j < Var.length; j++){\n        if(Var[j].Funcion == Str){\n            return Var[j].Estado;\n        }\n    }\n}\n\n// Llaves del vector FuncionesC2S\nvar Keys = Object.keys(FuncionC2S);\n\n// Para cada canal de salida\nfor(var i=0; i <Canal.length; i++){\n    canalmsg ='Canal'+ Canal[i];\n    // Si la configuración del canal está declarada\n    if(typeof ES.SD[canalmsg] != 'undefined'){\n        // Para cada llave del vector FuncionesC2S que coincida con la configuración del canal\n        for(var j=0; j<Keys.length; j++){\n            if(ES.SD[canalmsg].Funcion == Keys[j]){\n                // Asignar el valor contenido en el vector de funciones al canal de salida\n                Data[Canal[i]] = ES.SD[canalmsg].Tipo == \"NO\" ? FuncionC2S[Keys[j]]:!FuncionC2S[Keys[j]];\n            } \n        }\n    }\n}\n\n// Asignar variable con los valores a escribir  (Se puede eliminar al asignar directamente).\nvar values = Object.values(Data);\n\n// Escribir datos en el Cubloc\nmsg.payload = { \n    value: values, \n    'fc': 15, \n    'unitid': 1, \n    'address': 4096, \n    'quantity': 12 \n}\n\n// Retorno del mensaje\nreturn msg;",
+        "func": "var ES = flow.get('ES')||null;\nvar Drive_Status = global.get('Drive_Status','memoryOnly') || null;\nvar ActFunctions = flow.get('ActFunctions','memoryOnly') || null;\nvar Prot = global.get('Protections.RFlag','memoryOnly') || 0;\nvar FA = global.get('Filtro_armonicos.Estado','memoryOnly')||false;\n\n// Arreglo de Canales\nvar Data    = { \n    32:false, 33:false, 34:false, 35:false, \n    36:false, 37:false, 38:false, 39:false, \n    40:false, 41:false, 42:false, 43:false\n};\n\n// Obtener llaves del objeto Data\nvar Canal = Object.keys(Data);\n// Declaración del string con \nvar canalmsg;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"CILA2S_EN_MARCHA\"          : Drive_Status != null ? (Drive_Status.Active == 1 ? true:false): false ,\n    \"FALLA_GENERAL\"             : Drive_Status != null ? (Drive_Status.Fault  == 1 ? true:false || Prot):false, \n    \"DISPARO_BREAKER_MODULO_ESD\": InFunction(ActFunctions,'Stop_ESD') || InFunction(ActFunctions,'Disparo_bajo_bajo_aceite_SUT') || InFunction(ActFunctions,'Disparo_valvula_sobrepresion') ||InFunction(ActFunctions,'Disparo_alta_temperatura_SUT') ,\n    \"BYPASS_FILTRO_ARMONICOS\"   : FA,\n    \"LUZ_INTERNA\"               : InFunction(ActFunctions,'Luz_Interna')\n}\n\n// Funciones que se activan desde una entrada digital\nfunction InFunction(Var,Str){\n    for(var j = 0; j < Var.length; j++){\n        if(Var[j].Funcion == Str){\n            return Var[j].Estado;\n        }\n    }\n}\n\n// Llaves del vector FuncionesC2S\nvar Keys = Object.keys(FuncionC2S);\n\n// Para cada canal de salida\nfor(var i=0; i <Canal.length; i++){\n    canalmsg ='Canal'+ Canal[i];\n    // Si la configuración del canal está declarada\n    if(typeof ES.SD[canalmsg] != 'undefined'){\n        // Para cada llave del vector FuncionesC2S que coincida con la configuración del canal\n        for(var j=0; j<Keys.length; j++){\n            if(ES.SD[canalmsg].Funcion == Keys[j]){\n                // Asignar el valor contenido en el vector de funciones al canal de salida\n                Data[Canal[i]] = ES.SD[canalmsg].Tipo == \"NO\" ? FuncionC2S[Keys[j]]:!FuncionC2S[Keys[j]];\n            } \n        }\n    }\n}\n\n// Asignar variable con los valores a escribir  (Se puede eliminar al asignar directamente).\nvar values = Object.values(Data);\n\n// Escribir datos en el Cubloc\nmsg.payload = { \n    value: values, \n    'fc': 15, \n    'unitid': 1, \n    'address': 4096, \n    'quantity': 12 \n}\n\n// Retorno del mensaje\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -60122,5 +60063,366 @@
         "x": 690,
         "y": 2350,
         "wires": []
+    },
+    {
+        "id": "5f2867aa.83ab38",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::IO.AO.AO2",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2010,
+        "y": 2160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9564fab5.983018",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::IO.AO.AO1",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2010,
+        "y": 2080,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3f8b03ec.506cdc",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::IO.AO.AO3",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2010,
+        "y": 2250,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e9373487.c7fa08",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::IO.AO.AO4",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2010,
+        "y": 2340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3be91bdb.6ea684",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "name": "Escalizar 4-20",
+        "func": "msg.payload = Escalizar([0,10],parseFloat(msg.payload/10000)).toFixed(2);\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1810,
+        "y": 2340,
+        "wires": [
+            [
+                "e9373487.c7fa08"
+            ]
+        ]
+    },
+    {
+        "id": "57abbc41.176ff4",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "name": "Escalizar 4-20",
+        "func": "msg.payload = Escalizar([0,10],parseFloat(msg.payload/10000)).toFixed(2);\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1810,
+        "y": 2250,
+        "wires": [
+            [
+                "3f8b03ec.506cdc"
+            ]
+        ]
+    },
+    {
+        "id": "d92a7cde.4850e",
+        "type": "pccc out",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "endpoint": "5a40295d.6caa18",
+        "variable": "AO2",
+        "name": "",
+        "x": 1780,
+        "y": 2200,
+        "wires": []
+    },
+    {
+        "id": "9a8e8228.837d",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "name": "Escalizar 4-20",
+        "func": "msg.payload = Escalizar([0,10],parseFloat(msg.payload/10000)).toFixed(2);\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1810,
+        "y": 2160,
+        "wires": [
+            [
+                "5f2867aa.83ab38"
+            ]
+        ]
+    },
+    {
+        "id": "84d2378f.68fed8",
+        "type": "pccc out",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "endpoint": "5a40295d.6caa18",
+        "variable": "AO1",
+        "name": "",
+        "x": 1780,
+        "y": 2120,
+        "wires": []
+    },
+    {
+        "id": "a75cfb72.5926b8",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "name": "Escalizar 4-20",
+        "func": "msg.payload = Escalizar([0,10],parseFloat(msg.payload/10000)).toFixed(2);\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1810,
+        "y": 2080,
+        "wires": [
+            [
+                "9564fab5.983018"
+            ]
+        ]
+    },
+    {
+        "id": "fcda2fbe.ad0b2",
+        "type": "pccc out",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "endpoint": "5a40295d.6caa18",
+        "variable": "AO4",
+        "name": "",
+        "x": 1780,
+        "y": 2380,
+        "wires": []
+    },
+    {
+        "id": "9fc08388.ed34f",
+        "type": "pccc out",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "endpoint": "5a40295d.6caa18",
+        "variable": "AO3",
+        "name": "",
+        "x": 1780,
+        "y": 2290,
+        "wires": []
+    },
+    {
+        "id": "ce922e0.da955d",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "name": "AO4",
+        "func": "var AO = flow.get('ES.SA.AO4')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*10000);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    return msg;\n}\nelse{\n    return;\n}\n\nfunction Escalizar(a,value){\n    b = [0,100];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1640,
+        "y": 2380,
+        "wires": [
+            [
+                "fcda2fbe.ad0b2",
+                "3be91bdb.6ea684"
+            ]
+        ],
+        "inputLabels": [
+            "Activar función"
+        ],
+        "outputLabels": [
+            "Canal32"
+        ]
+    },
+    {
+        "id": "37b8b949.eaea56",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "name": "AO3",
+        "func": "var AO = flow.get('ES.SA.AO3')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*10000);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    return msg;\n}\nelse{\n    return;\n}\n\nfunction Escalizar(a,value){\n    b = [0,100];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1640,
+        "y": 2290,
+        "wires": [
+            [
+                "9fc08388.ed34f",
+                "57abbc41.176ff4"
+            ]
+        ],
+        "inputLabels": [
+            "Activar función"
+        ],
+        "outputLabels": [
+            "Canal32"
+        ]
+    },
+    {
+        "id": "ae57732a.5f92c",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "name": "AO2",
+        "func": "var AO = flow.get('ES.SA.AO2')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*10000);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    return msg;\n}\nelse{\n    return;\n}\n\nfunction Escalizar(a,value){\n    b = [0,100];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1640,
+        "y": 2200,
+        "wires": [
+            [
+                "d92a7cde.4850e",
+                "9a8e8228.837d"
+            ]
+        ],
+        "inputLabels": [
+            "Activar función"
+        ],
+        "outputLabels": [
+            "Canal32"
+        ]
+    },
+    {
+        "id": "53fbe394.d4ce6c",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "name": "AO1",
+        "func": "var AO = flow.get('ES.SA.AO1')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*10000);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n}\nelse{\n    node.status({fill:\"gray\",shape:\"dot\",text:\"--\"});\n    msg.payload = 0;\n\n}\nreturn msg;\n\nfunction Escalizar(a,value){\n    b = [0,100];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1640,
+        "y": 2120,
+        "wires": [
+            [
+                "84d2378f.68fed8",
+                "a75cfb72.5926b8"
+            ]
+        ],
+        "inputLabels": [
+            "Activar función"
+        ],
+        "outputLabels": [
+            "Canal32"
+        ]
+    },
+    {
+        "id": "767edd18.2de7f4",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "0.5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 1440,
+        "y": 2120,
+        "wires": [
+            [
+                "53fbe394.d4ce6c",
+                "ae57732a.5f92c",
+                "37b8b949.eaea56",
+                "ce922e0.da955d"
+            ]
+        ]
     }
 ]

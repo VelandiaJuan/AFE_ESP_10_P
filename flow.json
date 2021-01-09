@@ -1728,7 +1728,9 @@
             "f981eb1b.025a78"
         ],
         "x": 138,
-        "y": 33
+        "y": 33,
+        "w": 1294,
+        "h": 1284
     },
     {
         "id": "6889f2bb.892f0c",
@@ -1797,7 +1799,9 @@
             "dabbb1f4.9b65e"
         ],
         "x": 1608,
-        "y": 33
+        "y": 33,
+        "w": 3384,
+        "h": 2534
     },
     {
         "id": "b586885.2404778",
@@ -1904,7 +1908,9 @@
             "d170d71.82f7928"
         ],
         "x": 884,
-        "y": 59
+        "y": 59,
+        "w": 522,
+        "h": 182
     },
     {
         "id": "aa324282.4f554",
@@ -1930,7 +1936,9 @@
             "27a2d5e6.eea14a"
         ],
         "x": 164,
-        "y": 239
+        "y": 239,
+        "w": 572,
+        "h": 182
     },
     {
         "id": "bf91bfd8.84eda",
@@ -1955,7 +1963,9 @@
             "3fe04302.c538cc"
         ],
         "x": 164,
-        "y": 59
+        "y": 59,
+        "w": 712,
+        "h": 172
     },
     {
         "id": "f58295c0.4d4228",
@@ -1972,7 +1982,9 @@
             "3cf0ba38.d2e4f6"
         ],
         "x": 748,
-        "y": 253
+        "y": 253,
+        "w": 614,
+        "h": 424
     },
     {
         "id": "f7a3cb7b.69e4d8",
@@ -2025,7 +2037,9 @@
             "dd39d2c6.25d75"
         ],
         "x": 164,
-        "y": 429
+        "y": 429,
+        "w": 492,
+        "h": 862
     },
     {
         "id": "11f55817.139c18",
@@ -2282,7 +2296,9 @@
             "cb0d324.9efa3d"
         ],
         "x": 1634,
-        "y": 149
+        "y": 149,
+        "w": 972,
+        "h": 592
     },
     {
         "id": "35440cdc.e5d764",
@@ -2336,7 +2352,9 @@
             "5bf3fb88.25b264"
         ],
         "x": 2614,
-        "y": 149
+        "y": 149,
+        "w": 932,
+        "h": 592
     },
     {
         "id": "888265d9.138288",
@@ -2390,7 +2408,9 @@
             "ea97a2e4.6a67d"
         ],
         "x": 3554,
-        "y": 149
+        "y": 149,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "54b245d3.9431dc",
@@ -2444,7 +2464,9 @@
             "b636759a.1af358"
         ],
         "x": 1634,
-        "y": 749
+        "y": 749,
+        "w": 1052,
+        "h": 592
     },
     {
         "id": "58747709.2ffd98",
@@ -2498,7 +2520,9 @@
             "86aeff9f.23163"
         ],
         "x": 2694,
-        "y": 749
+        "y": 749,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "4b571a8f.d70524",
@@ -2552,7 +2576,9 @@
             "3368017a.de213e"
         ],
         "x": 3794,
-        "y": 749
+        "y": 749,
+        "w": 1172,
+        "h": 592
     },
     {
         "id": "b7d3914a.2a17",
@@ -2606,7 +2632,9 @@
             "ada97752.874638"
         ],
         "x": 1634,
-        "y": 1349
+        "y": 1349,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "a3b836be.d5cde8",
@@ -2660,7 +2688,9 @@
             "739b4fcf.1c18"
         ],
         "x": 2734,
-        "y": 1349
+        "y": 1349,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "f3c2e7cf.5ed158",
@@ -2873,7 +2903,9 @@
             "4fe0e535.f16e5c"
         ],
         "x": 3834,
-        "y": 1349
+        "y": 1349,
+        "w": 1072,
+        "h": 592
     },
     {
         "id": "dabbb1f4.9b65e",
@@ -2890,7 +2922,9 @@
             "a72a1eba.19d99"
         ],
         "x": 1634,
-        "y": 59
+        "y": 59,
+        "w": 132,
+        "h": 82
     },
     {
         "id": "eb91dac5.690838",
@@ -4298,7 +4332,9 @@
             "5f1b7de2.8dd7c4"
         ],
         "x": 1634,
-        "y": 1949
+        "y": 1949,
+        "w": 972,
+        "h": 592
     },
     {
         "id": "dde9e22c.88ef2",
@@ -4542,7 +4578,9 @@
             "5805c268.31f02c"
         ],
         "x": 774,
-        "y": 279
+        "y": 279,
+        "w": 562,
+        "h": 242
     },
     {
         "id": "3cf0ba38.d2e4f6",
@@ -4560,7 +4598,9 @@
             "2f5679af.c10006"
         ],
         "x": 774,
-        "y": 529
+        "y": 529,
+        "w": 172,
+        "h": 122
     },
     {
         "id": "38ea9e35.6d66c2",
@@ -38251,8 +38291,8 @@
         "type": "function",
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
-        "name": "Evento de Torque",
-        "func": "node.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Torque HH\";\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Torque LL\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Torque H\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Torque L\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "name": "Evento de Carga",
+        "func": "node.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Corriente HH\";\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Corriente LL\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Corriente H\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Corriente L\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",

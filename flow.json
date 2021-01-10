@@ -1154,9 +1154,7 @@
             "47e5c17d.f308"
         ],
         "x": 604,
-        "y": 1089,
-        "w": 852,
-        "h": 122
+        "y": 1089
     },
     {
         "id": "1dd5b051.a95e6",
@@ -1323,7 +1321,9 @@
             "9bdf522.eba6db"
         ],
         "x": 28,
-        "y": 3
+        "y": 3,
+        "w": 1004,
+        "h": 544
     },
     {
         "id": "353eeed0.7959d2",
@@ -1340,7 +1340,9 @@
             "ab7a4a2c.17d8a8"
         ],
         "x": 28,
-        "y": 553
+        "y": 553,
+        "w": 1924,
+        "h": 1104
     },
     {
         "id": "e3aa057d.09fb18",
@@ -1357,7 +1359,9 @@
             "8f8a192b.bb2ef8"
         ],
         "x": 28,
-        "y": 1663
+        "y": 1663,
+        "w": 2684,
+        "h": 1062
     },
     {
         "id": "a163450f.bc4438",
@@ -1527,7 +1531,9 @@
             "ba5f4e4b.e55a2"
         ],
         "x": 1054,
-        "y": 1119
+        "y": 1119,
+        "w": 412,
+        "h": 82
     },
     {
         "id": "7f0ad68d.a88dc8",
@@ -1633,9 +1639,7 @@
             "a0ac95a3.e40228"
         ],
         "x": 1074,
-        "y": 69,
-        "w": 1302,
-        "h": 242
+        "y": 69
     },
     {
         "id": "3b54d390.52686c",
@@ -1795,9 +1799,7 @@
             "dde9e22c.88ef2"
         ],
         "x": 92,
-        "y": 17,
-        "w": 4190,
-        "h": 1006
+        "y": 17
     },
     {
         "id": "57eba231.4d56dc",
@@ -1817,9 +1819,7 @@
             "e9e93a2c.deeb18"
         ],
         "x": 98,
-        "y": 1083,
-        "w": 374,
-        "h": 224
+        "y": 1083
     },
     {
         "id": "90da307f.f1e8d",
@@ -1856,6 +1856,31 @@
         "h": 382
     },
     {
+        "id": "75ca0b0c.5ff524",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "name": "Eventos I/O",
+        "style": {
+            "fill": "#3f5787",
+            "label": true,
+            "color": "#ffffff"
+        },
+        "nodes": [
+            "7d437608.8781c8",
+            "6e837680.b705c8",
+            "58faeca6.e95934",
+            "edf47f97.68e64",
+            "675d7e0d.b5798",
+            "e45d336f.9503d",
+            "40bc37d4.aa90f8",
+            "c099945b.08bf98"
+        ],
+        "x": 14,
+        "y": 2539,
+        "w": 872,
+        "h": 162
+    },
+    {
         "id": "e2589faa.5b6d2",
         "type": "group",
         "z": "5f404c88.fa75a4",
@@ -1871,9 +1896,7 @@
             "ad87cee4.7dbb5"
         ],
         "x": 124,
-        "y": 1109,
-        "w": 322,
-        "h": 82
+        "y": 1109
     },
     {
         "id": "e9e93a2c.deeb18",
@@ -1892,9 +1915,7 @@
             "805762db.d27b7"
         ],
         "x": 174,
-        "y": 1199,
-        "w": 272,
-        "h": 82
+        "y": 1199
     },
     {
         "id": "f981eb1b.025a78",
@@ -3508,7 +3529,9 @@
             "d0a19b38.893ab8"
         ],
         "x": 54,
-        "y": 29
+        "y": 29,
+        "w": 952,
+        "h": 252
     },
     {
         "id": "9bdf522.eba6db",
@@ -3538,7 +3561,9 @@
             "e6356da9.60663"
         ],
         "x": 54,
-        "y": 289
+        "y": 289,
+        "w": 952,
+        "h": 232
     },
     {
         "id": "fbbdc4b7.95b5c8",
@@ -3607,7 +3632,9 @@
             "272ed76d.7cce68"
         ],
         "x": 54,
-        "y": 879
+        "y": 879,
+        "w": 1568,
+        "h": 752
     },
     {
         "id": "84c9494b.d4dbe8",
@@ -3641,7 +3668,9 @@
             "e2832ff4.8c486"
         ],
         "x": 54,
-        "y": 579
+        "y": 579,
+        "w": 912,
+        "h": 292
     },
     {
         "id": "dad84feb.d4773",
@@ -3714,7 +3743,9 @@
             "bc0c7c1c.40245"
         ],
         "x": 54,
-        "y": 1999
+        "y": 1999,
+        "w": 1542,
+        "h": 700
     },
     {
         "id": "7aad629d.de652c",
@@ -3776,7 +3807,9 @@
             "b8c12e8b.715b2"
         ],
         "x": 54,
-        "y": 1689
+        "y": 1689,
+        "w": 2632,
+        "h": 302
     },
     {
         "id": "4eb2e67c.e57628",
@@ -4169,7 +4202,9 @@
             "577047bb.6519b8"
         ],
         "x": 974,
-        "y": 579
+        "y": 579,
+        "w": 952,
+        "h": 242
     },
     {
         "id": "e2e299a6.d3c5c8",
@@ -4226,7 +4261,9 @@
             "73af0be0.8d91e4"
         ],
         "x": 1604,
-        "y": 1999
+        "y": 1999,
+        "w": 972,
+        "h": 282
     },
     {
         "id": "96de1dd.d202ce",
@@ -4331,9 +4368,7 @@
             "e6dcbeb6.ceddc"
         ],
         "x": 2784,
-        "y": 49,
-        "w": 1472,
-        "h": 532
+        "y": 49
     },
     {
         "id": "dc098d16.abc16",
@@ -4352,9 +4387,7 @@
             "e503ca5.7ac8738"
         ],
         "x": 118,
-        "y": 43,
-        "w": 2654,
-        "h": 954
+        "y": 43
     },
     {
         "id": "5613a5b2.95577c",
@@ -4382,9 +4415,7 @@
             "fd9df9f7.0350c8"
         ],
         "x": 144,
-        "y": 69,
-        "w": 922,
-        "h": 242
+        "y": 69
     },
     {
         "id": "7b165c8f.b14834",
@@ -4418,9 +4449,7 @@
             "d667ef8b.c9dd8"
         ],
         "x": 144,
-        "y": 319,
-        "w": 1722,
-        "h": 172
+        "y": 319
     },
     {
         "id": "e503ca5.7ac8738",
@@ -4495,9 +4524,7 @@
             "cfb42c45.e78cc"
         ],
         "x": 144,
-        "y": 499,
-        "w": 2602,
-        "h": 472
+        "y": 499
     },
     {
         "id": "779bed65.1819b4",
@@ -4859,7 +4886,9 @@
             "97085297.91fc4"
         ],
         "x": 924,
-        "y": 909
+        "y": 909,
+        "w": 672,
+        "h": 202
     },
     {
         "id": "5d1065e2.7b952c",
@@ -4979,31 +5008,6 @@
         ],
         "x": 684,
         "y": 479
-    },
-    {
-        "id": "75ca0b0c.5ff524",
-        "type": "group",
-        "z": "e86f0ca4.7feb5",
-        "name": "Eventos I/O",
-        "style": {
-            "fill": "#3f5787",
-            "label": true,
-            "color": "#ffffff"
-        },
-        "nodes": [
-            "7d437608.8781c8",
-            "6e837680.b705c8",
-            "58faeca6.e95934",
-            "edf47f97.68e64",
-            "675d7e0d.b5798",
-            "e45d336f.9503d",
-            "40bc37d4.aa90f8",
-            "c099945b.08bf98"
-        ],
-        "x": 14,
-        "y": 2539,
-        "w": 872,
-        "h": 162
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -29095,7 +29099,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "62757ffc.dca08",
         "name": "Vector de Funciones 2",
-        "func": "var ES = flow.get(\"ES\");\nvar Funcion = [];\nvar Lista_Funciones = {};\n\nvar Canal = [4,5,6,7,8,9,10,11,12,13,16];\n\nfor(var i=0; i<11; i++){\n    \n    // Concatenar el texto del canal\n    Canalmsg = 'Canal' + Canal[i];\n    \n    // Generar el vector con todas las posibles opciones de configuración\n    if( typeof ES.ED[Canalmsg] !== 'undefined'){\n        \n        // Lista Completa\n        Lista_Funciones[Canal[i]] = ES.ED[Canalmsg].Funcion;\n        \n        // Lista Simple\n        if(Funcion.find(element => element == ES.ED[Canalmsg].Funcion) !== ES.ED[Canalmsg].Funcion ){\n            Funcion.push(ES.ED[Canalmsg].Funcion);\n        }\n    }\n    else{\n        delete Lista_Funciones[Canal[i]];\n    }\n    \n}\n\nmsg.payload = {\n    'Lista_Simple':Funcion,\n    'Lista_Completa':Lista_Funciones\n}\n\nreturn msg;",
+        "func": "var ES = flow.get(\"ES\");\nvar Funcion = [];\nvar Lista_Funciones = {};\n\nvar Canal = [4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27];\n\nfor(var i=0; i<11; i++){\n    \n    // Concatenar el texto del canal\n    Canalmsg = 'Canal' + Canal[i];\n    \n    // Generar el vector con todas las posibles opciones de configuración\n    if( typeof ES.ED[Canalmsg] !== 'undefined'){\n        \n        // Lista Completa\n        Lista_Funciones[Canal[i]] = ES.ED[Canalmsg].Funcion;\n        \n        // Lista Simple\n        if(Funcion.find(element => element == ES.ED[Canalmsg].Funcion) !== ES.ED[Canalmsg].Funcion ){\n            Funcion.push(ES.ED[Canalmsg].Funcion);\n        }\n    }\n    else{\n        delete Lista_Funciones[Canal[i]];\n    }\n    \n}\n\nmsg.payload = {\n    'Lista_Simple':Funcion,\n    'Lista_Completa':Lista_Funciones\n}\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -29145,7 +29149,16 @@
             "39314781.1c5188",
             "8d5d3cd1.75de5",
             "c44c2bcf.479ab8",
-            "c8be3f70.1b147"
+            "c8be3f70.1b147",
+            "f682cea0.507b9",
+            "dba1ea5a.227608",
+            "bf79e240.5ab82",
+            "c971dc53.ca862",
+            "92923f3a.deb0e",
+            "dabf45d6.c9a6b8",
+            "1b8abdf6.3dcb22",
+            "adc1722f.13e2",
+            "ba03cbde.df6f78"
         ],
         "uncaught": false,
         "x": 210,

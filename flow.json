@@ -954,9 +954,7 @@
             "6a8c02f7.f4d81c"
         ],
         "x": 14,
-        "y": 239,
-        "w": 1542,
-        "h": 279.5
+        "y": 239
     },
     {
         "id": "7a498b99.415234",
@@ -988,9 +986,7 @@
             "cf57802e.7d258"
         ],
         "x": 14,
-        "y": 13,
-        "w": 1844,
-        "h": 214
+        "y": 13
     },
     {
         "id": "f2c899e7.e9eac8",
@@ -1826,6 +1822,40 @@
         "h": 224
     },
     {
+        "id": "90da307f.f1e8d",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "name": "Salidas analógicas",
+        "style": {
+            "fill": "#bfc7d7",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "5f2867aa.83ab38",
+            "9564fab5.983018",
+            "3f8b03ec.506cdc",
+            "e9373487.c7fa08",
+            "3be91bdb.6ea684",
+            "57abbc41.176ff4",
+            "d92a7cde.4850e",
+            "9a8e8228.837d",
+            "84d2378f.68fed8",
+            "a75cfb72.5926b8",
+            "fcda2fbe.ad0b2",
+            "9fc08388.ed34f",
+            "ce922e0.da955d",
+            "37b8b949.eaea56",
+            "ae57732a.5f92c",
+            "53fbe394.d4ce6c",
+            "767edd18.2de7f4"
+        ],
+        "x": 1344,
+        "y": 2039,
+        "w": 792,
+        "h": 382
+    },
+    {
         "id": "e2589faa.5b6d2",
         "type": "group",
         "z": "5f404c88.fa75a4",
@@ -2039,9 +2069,7 @@
             "1660e38d.24cefc"
         ],
         "x": 40,
-        "y": 39,
-        "w": 892,
-        "h": 162
+        "y": 39
     },
     {
         "id": "c9848ab6.981718",
@@ -2096,9 +2124,7 @@
             "ffbe710d.b4cce"
         ],
         "x": 940,
-        "y": 39,
-        "w": 892,
-        "h": 162
+        "y": 39
     },
     {
         "id": "1027a10.a1e515f",
@@ -4955,38 +4981,29 @@
         "y": 479
     },
     {
-        "id": "90da307f.f1e8d",
+        "id": "75ca0b0c.5ff524",
         "type": "group",
         "z": "e86f0ca4.7feb5",
-        "name": "Salidas analógicas",
+        "name": "Eventos I/O",
         "style": {
-            "fill": "#bfc7d7",
+            "fill": "#3f5787",
             "label": true,
-            "color": "#000000"
+            "color": "#ffffff"
         },
         "nodes": [
-            "5f2867aa.83ab38",
-            "9564fab5.983018",
-            "3f8b03ec.506cdc",
-            "e9373487.c7fa08",
-            "3be91bdb.6ea684",
-            "57abbc41.176ff4",
-            "d92a7cde.4850e",
-            "9a8e8228.837d",
-            "84d2378f.68fed8",
-            "a75cfb72.5926b8",
-            "fcda2fbe.ad0b2",
-            "9fc08388.ed34f",
-            "ce922e0.da955d",
-            "37b8b949.eaea56",
-            "ae57732a.5f92c",
-            "53fbe394.d4ce6c",
-            "767edd18.2de7f4"
+            "7d437608.8781c8",
+            "6e837680.b705c8",
+            "58faeca6.e95934",
+            "edf47f97.68e64",
+            "675d7e0d.b5798",
+            "e45d336f.9503d",
+            "40bc37d4.aa90f8",
+            "c099945b.08bf98"
         ],
-        "x": 1344,
-        "y": 2039,
-        "w": 792,
-        "h": 382
+        "x": 14,
+        "y": 2539,
+        "w": 872,
+        "h": 162
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -18107,7 +18124,8 @@
             "1b0e4b2b.ecf4e5",
             "2e60217a.d7bbae",
             "49449801.c79e48",
-            "66f58a7.5c16574"
+            "66f58a7.5c16574",
+            "40bc37d4.aa90f8"
         ],
         "x": 371,
         "y": 80,
@@ -24348,7 +24366,8 @@
         "g": "cf57802e.7d258",
         "name": "Alarmas",
         "links": [
-            "4e8f42ac.3431ac"
+            "4e8f42ac.3431ac",
+            "c099945b.08bf98"
         ],
         "x": 1271,
         "y": 80,
@@ -59998,7 +60017,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "15ca143a.56aa5c",
         "name": "",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -60424,5 +60443,171 @@
                 "ce922e0.da955d"
             ]
         ]
+    },
+    {
+        "id": "7d437608.8781c8",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "75ca0b0c.5ff524",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "0.5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "#:(memoryOnly)::ActFunctions",
+        "payloadType": "flow",
+        "x": 150,
+        "y": 2580,
+        "wires": [
+            [
+                "6e837680.b705c8"
+            ]
+        ]
+    },
+    {
+        "id": "6e837680.b705c8",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "75ca0b0c.5ff524",
+        "name": "Eventos I/O",
+        "func": "for(var i=0; i<msg.payload.length; i++){\n    if(msg.payload[i].Estado === true){\n        msg.payload = msg.payload[i].Funcion;\n        return msg;\n    }\n}\nmsg.payload = \"\";\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 330,
+        "y": 2580,
+        "wires": [
+            [
+                "edf47f97.68e64"
+            ]
+        ]
+    },
+    {
+        "id": "58faeca6.e95934",
+        "type": "ui_toast",
+        "z": "e86f0ca4.7feb5",
+        "g": "75ca0b0c.5ff524",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "topic": "",
+        "name": "",
+        "x": 770,
+        "y": 2580,
+        "wires": []
+    },
+    {
+        "id": "edf47f97.68e64",
+        "type": "rbe",
+        "z": "e86f0ca4.7feb5",
+        "g": "75ca0b0c.5ff524",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 470,
+        "y": 2580,
+        "wires": [
+            [
+                "675d7e0d.b5798"
+            ]
+        ]
+    },
+    {
+        "id": "675d7e0d.b5798",
+        "type": "switch",
+        "z": "e86f0ca4.7feb5",
+        "g": "75ca0b0c.5ff524",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "nempty"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 590,
+        "y": 2580,
+        "wires": [
+            [
+                "58faeca6.e95934",
+                "e45d336f.9503d"
+            ]
+        ]
+    },
+    {
+        "id": "e45d336f.9503d",
+        "type": "switch",
+        "z": "e86f0ca4.7feb5",
+        "g": "75ca0b0c.5ff524",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "Alarma",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 730,
+        "y": 2640,
+        "wires": [
+            [
+                "c099945b.08bf98"
+            ],
+            [
+                "40bc37d4.aa90f8"
+            ]
+        ]
+    },
+    {
+        "id": "40bc37d4.aa90f8",
+        "type": "link out",
+        "z": "e86f0ca4.7feb5",
+        "g": "75ca0b0c.5ff524",
+        "name": "",
+        "links": [
+            "59e817c2.295b38"
+        ],
+        "x": 825,
+        "y": 2660,
+        "wires": []
+    },
+    {
+        "id": "c099945b.08bf98",
+        "type": "link out",
+        "z": "e86f0ca4.7feb5",
+        "g": "75ca0b0c.5ff524",
+        "name": "",
+        "links": [
+            "33f2aa3c.6c08f6"
+        ],
+        "x": 825,
+        "y": 2620,
+        "wires": []
     }
 ]

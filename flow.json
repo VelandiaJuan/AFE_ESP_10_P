@@ -856,9 +856,7 @@
             "ccd73af1.690d48"
         ],
         "x": 3084,
-        "y": 1369,
-        "w": 1202,
-        "h": 202
+        "y": 1369
     },
     {
         "id": "25cd4464.cad59c",
@@ -921,7 +919,9 @@
             "2409fb72.507894"
         ],
         "x": 1744,
-        "y": 19
+        "y": 19,
+        "w": 512,
+        "h": 142
     },
     {
         "id": "31baddff.ea0922",
@@ -970,7 +970,9 @@
             "ac1f5c0.f7b06a"
         ],
         "x": 18,
-        "y": 13
+        "y": 13,
+        "w": 794,
+        "h": 1994
     },
     {
         "id": "7b6f4b41.106164",
@@ -1004,9 +1006,7 @@
             "15ca143a.56aa5c"
         ],
         "x": 12,
-        "y": 7,
-        "w": 2706,
-        "h": 1626
+        "y": 7
     },
     {
         "id": "c17de691.f363c8",
@@ -1024,9 +1024,7 @@
             "de6d41a4.0f4d2"
         ],
         "x": 12,
-        "y": 1637,
-        "w": 2626,
-        "h": 806
+        "y": 1637
     },
     {
         "id": "68e6bb30.d1fce4",
@@ -1134,7 +1132,9 @@
             "215bed4c.7858c2"
         ],
         "x": 818,
-        "y": 13
+        "y": 13,
+        "w": 914,
+        "h": 2654
     },
     {
         "id": "aa1ba550.cbd9d8",
@@ -1224,7 +1224,9 @@
             "b9ed60ab.26f43"
         ],
         "x": 24,
-        "y": 19
+        "y": 19,
+        "w": 2012,
+        "h": 442
     },
     {
         "id": "74789700.1df498",
@@ -1262,9 +1264,7 @@
             "87f9add.d16445"
         ],
         "x": 3074,
-        "y": 19,
-        "w": 912,
-        "h": 452
+        "y": 19
     },
     {
         "id": "8341562d.ffacc8",
@@ -1287,7 +1287,9 @@
             "b509ce91.c5418"
         ],
         "x": 28,
-        "y": 473
+        "y": 473,
+        "w": 1584,
+        "h": 1224
     },
     {
         "id": "58f712f1.3e5eec",
@@ -1323,7 +1325,9 @@
             "9bdf522.eba6db"
         ],
         "x": 28,
-        "y": 3
+        "y": 3,
+        "w": 1004,
+        "h": 544
     },
     {
         "id": "353eeed0.7959d2",
@@ -1340,7 +1344,9 @@
             "ab7a4a2c.17d8a8"
         ],
         "x": 28,
-        "y": 553
+        "y": 553,
+        "w": 1924,
+        "h": 1104
     },
     {
         "id": "e3aa057d.09fb18",
@@ -1357,7 +1363,9 @@
             "8f8a192b.bb2ef8"
         ],
         "x": 28,
-        "y": 1663
+        "y": 1663,
+        "w": 2684,
+        "h": 1062
     },
     {
         "id": "a163450f.bc4438",
@@ -1401,7 +1409,9 @@
             "9b29345d.646748"
         ],
         "x": 824,
-        "y": 2679
+        "y": 2679,
+        "w": 852,
+        "h": 242
     },
     {
         "id": "4888c9a8.82cb88",
@@ -1442,9 +1452,7 @@
             "5039e78a.ed1d88"
         ],
         "x": 14,
-        "y": 2449,
-        "w": 462,
-        "h": 82
+        "y": 2449
     },
     {
         "id": "70d8d562.df63ac",
@@ -1474,22 +1482,17 @@
             "66f58a7.5c16574"
         ],
         "x": 3074,
-        "y": 479,
-        "w": 1362,
-        "h": 232
+        "y": 479
     },
     {
         "id": "96c06653.552da8",
         "type": "group",
         "z": "d35c32b9.6419b",
+        "name": "Trend Staggered Start",
         "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
+            "fill": "#ffefbf",
             "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
+            "color": "#000000"
         },
         "nodes": [
             "8849a3f7.9bc5c",
@@ -1499,7 +1502,6 @@
             "8dc70b63.8db398",
             "6cb6e6d5.480798",
             "d1fecbd.301b138",
-            "946eb79c.0d04e8",
             "cea13bfe.739068",
             "ed0df9a.c740c08",
             "f6342c49.36019",
@@ -1508,8 +1510,10 @@
             "5bacb488.41284c",
             "55be084e.2ad3b8"
         ],
-        "x": 34,
-        "y": 1709
+        "x": 24,
+        "y": 1709,
+        "w": 1312,
+        "h": 222
     },
     {
         "id": "440775ff.2a92fc",
@@ -1527,7 +1531,9 @@
             "ba5f4e4b.e55a2"
         ],
         "x": 1054,
-        "y": 1119
+        "y": 1119,
+        "w": 412,
+        "h": 82
     },
     {
         "id": "7f0ad68d.a88dc8",
@@ -1567,22 +1573,17 @@
             "2249a8a.5b30458"
         ],
         "x": 3084,
-        "y": 1579,
-        "w": 1412,
-        "h": 492
+        "y": 1579
     },
     {
         "id": "aafad2ba.dcc8b",
         "type": "group",
         "z": "d35c32b9.6419b",
+        "name": "Trend Harmonics",
         "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
+            "fill": "#ffefbf",
             "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
+            "color": "#000000"
         },
         "nodes": [
             "5b529f4c.7ffeb",
@@ -1596,11 +1597,14 @@
             "3ea5879e.bf0588",
             "c8aa3a95.12b518",
             "20b8681c.81fd48",
-            "16f68bea.684694",
-            "ec03441d.979088"
+            "ec03441d.979088",
+            "8c73338.8deb8d",
+            "3ccbaa0b.2db096"
         ],
-        "x": 34,
-        "y": 2019
+        "x": 24,
+        "y": 1939,
+        "w": 1072,
+        "h": 232
     },
     {
         "id": "c57d2588.a42f68",
@@ -1673,9 +1677,7 @@
             "ebc9a134.b2cde"
         ],
         "x": 3078,
-        "y": 723,
-        "w": 1054,
-        "h": 344
+        "y": 723
     },
     {
         "id": "f7a06233.68524",
@@ -1691,9 +1693,7 @@
             "e2e299a6.d3c5c8"
         ],
         "x": 3078,
-        "y": 1183,
-        "w": 1084,
-        "h": 174
+        "y": 1183
     },
     {
         "id": "63291ccb.08e434",
@@ -1851,9 +1851,30 @@
             "767edd18.2de7f4"
         ],
         "x": 1344,
-        "y": 2039,
-        "w": 792,
-        "h": 382
+        "y": 2039
+    },
+    {
+        "id": "75ca0b0c.5ff524",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "name": "Eventos I/O",
+        "style": {
+            "fill": "#3f5787",
+            "label": true,
+            "color": "#ffffff"
+        },
+        "nodes": [
+            "7d437608.8781c8",
+            "6e837680.b705c8",
+            "58faeca6.e95934",
+            "edf47f97.68e64",
+            "675d7e0d.b5798",
+            "e45d336f.9503d",
+            "40bc37d4.aa90f8",
+            "c099945b.08bf98"
+        ],
+        "x": 14,
+        "y": 2539
     },
     {
         "id": "e2589faa.5b6d2",
@@ -2097,7 +2118,9 @@
             "273454d7.4d089c"
         ],
         "x": 44,
-        "y": 39
+        "y": 39,
+        "w": 682,
+        "h": 242
     },
     {
         "id": "cf57802e.7d258",
@@ -2142,9 +2165,7 @@
             "5c3a9c15.3a4554"
         ],
         "x": 1338,
-        "y": 33,
-        "w": 1354,
-        "h": 904
+        "y": 33
     },
     {
         "id": "23bbdddc.b8c5c2",
@@ -2163,9 +2184,7 @@
             "5d1065e2.7b952c"
         ],
         "x": 38,
-        "y": 33,
-        "w": 1284,
-        "h": 1574
+        "y": 33
     },
     {
         "id": "d22a2793.24a988",
@@ -2183,9 +2202,7 @@
             "1b19a252.cfe16e"
         ],
         "x": 38,
-        "y": 1663,
-        "w": 1284,
-        "h": 754
+        "y": 1663
     },
     {
         "id": "ac1f5c0.f7b06a",
@@ -2244,7 +2261,9 @@
             "a8914523.bc9e68"
         ],
         "x": 44,
-        "y": 289
+        "y": 289,
+        "w": 742,
+        "h": 1692
     },
     {
         "id": "51885913.764608",
@@ -3217,7 +3236,9 @@
             "da8d71fd.6a33c"
         ],
         "x": 844,
-        "y": 319
+        "y": 319,
+        "w": 862,
+        "h": 452
     },
     {
         "id": "5073e01d.10857",
@@ -3240,7 +3261,9 @@
             "cd729508.733ad8"
         ],
         "x": 844,
-        "y": 1009
+        "y": 1009,
+        "w": 722,
+        "h": 222
     },
     {
         "id": "d7658545.b7ac78",
@@ -3263,7 +3286,9 @@
             "6ca291a4.d57d7"
         ],
         "x": 844,
-        "y": 1239
+        "y": 1239,
+        "w": 722,
+        "h": 222
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -3288,7 +3313,9 @@
             "fd328934.0ddd18"
         ],
         "x": 844,
-        "y": 1799
+        "y": 1799,
+        "w": 662,
+        "h": 202
     },
     {
         "id": "f78dcb63.bde038",
@@ -3310,7 +3337,9 @@
             "7ced728d.a743bc"
         ],
         "x": 844,
-        "y": 1649
+        "y": 1649,
+        "w": 642,
+        "h": 142
     },
     {
         "id": "90ebdbed.1907a8",
@@ -3336,7 +3365,9 @@
             "75954ddb.3b0f04"
         ],
         "x": 844,
-        "y": 39
+        "y": 39,
+        "w": 812,
+        "h": 272
     },
     {
         "id": "311890ad.cc4ed",
@@ -3361,7 +3392,9 @@
             "1ba7dd1.c24d723"
         ],
         "x": 844,
-        "y": 779
+        "y": 779,
+        "w": 572,
+        "h": 202
     },
     {
         "id": "f8e8eeb2.3f011",
@@ -3384,7 +3417,9 @@
             "39dc61d6.38245e"
         ],
         "x": 844,
-        "y": 1469
+        "y": 1469,
+        "w": 782,
+        "h": 172
     },
     {
         "id": "8a7f783.a732b88",
@@ -3407,7 +3442,9 @@
             "f65a5bee.378fe8"
         ],
         "x": 844,
-        "y": 2009
+        "y": 2009,
+        "w": 572,
+        "h": 182
     },
     {
         "id": "8c3082f9.73975",
@@ -3431,7 +3468,9 @@
             "23b2730.9c7eb8e"
         ],
         "x": 844,
-        "y": 2199
+        "y": 2199,
+        "w": 602,
+        "h": 142
     },
     {
         "id": "215bed4c.7858c2",
@@ -3453,7 +3492,9 @@
             "2a671cfc.7a9654"
         ],
         "x": 844,
-        "y": 2349
+        "y": 2349,
+        "w": 152,
+        "h": 292
     },
     {
         "id": "5ff12c29.d4cc64",
@@ -3478,7 +3519,9 @@
             "3a6fab3.c7e5154"
         ],
         "x": 54,
-        "y": 1389
+        "y": 1389,
+        "w": 532,
+        "h": 282
     },
     {
         "id": "1d477816.993308",
@@ -3508,7 +3551,9 @@
             "d0a19b38.893ab8"
         ],
         "x": 54,
-        "y": 29
+        "y": 29,
+        "w": 952,
+        "h": 252
     },
     {
         "id": "9bdf522.eba6db",
@@ -3538,7 +3583,9 @@
             "e6356da9.60663"
         ],
         "x": 54,
-        "y": 289
+        "y": 289,
+        "w": 952,
+        "h": 232
     },
     {
         "id": "fbbdc4b7.95b5c8",
@@ -3607,7 +3654,9 @@
             "272ed76d.7cce68"
         ],
         "x": 54,
-        "y": 879
+        "y": 879,
+        "w": 1568,
+        "h": 752
     },
     {
         "id": "84c9494b.d4dbe8",
@@ -3641,7 +3690,9 @@
             "e2832ff4.8c486"
         ],
         "x": 54,
-        "y": 579
+        "y": 579,
+        "w": 912,
+        "h": 292
     },
     {
         "id": "dad84feb.d4773",
@@ -3714,7 +3765,9 @@
             "bc0c7c1c.40245"
         ],
         "x": 54,
-        "y": 1999
+        "y": 1999,
+        "w": 1542,
+        "h": 700
     },
     {
         "id": "7aad629d.de652c",
@@ -3776,7 +3829,9 @@
             "b8c12e8b.715b2"
         ],
         "x": 54,
-        "y": 1689
+        "y": 1689,
+        "w": 2632,
+        "h": 302
     },
     {
         "id": "4eb2e67c.e57628",
@@ -3800,7 +3855,9 @@
             "e2792bcf.8bea78"
         ],
         "x": 54,
-        "y": 499
+        "y": 499,
+        "w": 1142,
+        "h": 162
     },
     {
         "id": "da3ae781.998328",
@@ -3820,7 +3877,9 @@
             "d49cbbef.71a878"
         ],
         "x": 54,
-        "y": 669
+        "y": 669,
+        "w": 712,
+        "h": 122
     },
     {
         "id": "e60e8bfd.7a3248",
@@ -3844,7 +3903,9 @@
             "9d2ef708.6a7618"
         ],
         "x": 54,
-        "y": 799
+        "y": 799,
+        "w": 802,
+        "h": 162
     },
     {
         "id": "b19ef7d3.42ea68",
@@ -3868,7 +3929,9 @@
             "30a20927.0852c6"
         ],
         "x": 54,
-        "y": 969
+        "y": 969,
+        "w": 882,
+        "h": 162
     },
     {
         "id": "9dbc79d1.85ede8",
@@ -3896,7 +3959,9 @@
             "6a9bae72.3bb93"
         ],
         "x": 54,
-        "y": 1139
+        "y": 1139,
+        "w": 1242,
+        "h": 242
     },
     {
         "id": "9e9a162d.d4b0a8",
@@ -3919,7 +3984,9 @@
             "d1ec13b9.2d54a"
         ],
         "x": 964,
-        "y": 819
+        "y": 819,
+        "w": 622,
+        "h": 162
     },
     {
         "id": "b509ce91.c5418",
@@ -3939,7 +4006,9 @@
             "af5bc0f2.0bc23"
         ],
         "x": 594,
-        "y": 1389
+        "y": 1389,
+        "w": 702,
+        "h": 142
     },
     {
         "id": "15ca143a.56aa5c",
@@ -3963,9 +4032,7 @@
             "a14ed9ad.89be18"
         ],
         "x": 1344,
-        "y": 949,
-        "w": 962,
-        "h": 162
+        "y": 949
     },
     {
         "id": "17c31216.1aa6ce",
@@ -4100,9 +4167,7 @@
             "38ea9e35.6d66c2"
         ],
         "x": 1328,
-        "y": 1663,
-        "w": 1284,
-        "h": 364
+        "y": 1663
     },
     {
         "id": "ebc9a134.b2cde",
@@ -4136,9 +4201,7 @@
             "8b8bfe12.48faa"
         ],
         "x": 3104,
-        "y": 749,
-        "w": 1002,
-        "h": 292
+        "y": 749
     },
     {
         "id": "ab7a4a2c.17d8a8",
@@ -4169,7 +4232,9 @@
             "577047bb.6519b8"
         ],
         "x": 974,
-        "y": 579
+        "y": 579,
+        "w": 952,
+        "h": 242
     },
     {
         "id": "e2e299a6.d3c5c8",
@@ -4192,9 +4257,7 @@
             "238050bf.0374f"
         ],
         "x": 3104,
-        "y": 1209,
-        "w": 1032,
-        "h": 122
+        "y": 1209
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -4226,7 +4289,9 @@
             "73af0be0.8d91e4"
         ],
         "x": 1604,
-        "y": 1999
+        "y": 1999,
+        "w": 972,
+        "h": 282
     },
     {
         "id": "96de1dd.d202ce",
@@ -4579,9 +4644,7 @@
             "85f12e7a.2e726"
         ],
         "x": 1354,
-        "y": 1689,
-        "w": 1232,
-        "h": 312
+        "y": 1689
     },
     {
         "id": "c05026cc.2a6048",
@@ -4646,9 +4709,7 @@
             "2b33cbc0.5a4c64"
         ],
         "x": 64,
-        "y": 909,
-        "w": 1232,
-        "h": 482
+        "y": 909
     },
     {
         "id": "5c3a9c15.3a4554",
@@ -4690,9 +4751,7 @@
             "95efa56e.233d78"
         ],
         "x": 1364,
-        "y": 479,
-        "w": 752,
-        "h": 432
+        "y": 479
     },
     {
         "id": "62757ffc.dca08",
@@ -4745,9 +4804,7 @@
             "ba03cbde.df6f78"
         ],
         "x": 64,
-        "y": 59,
-        "w": 1232,
-        "h": 842
+        "y": 59
     },
     {
         "id": "2d061227.66d7ce",
@@ -4793,9 +4850,7 @@
             "924f3cdb.96bbe"
         ],
         "x": 1364,
-        "y": 59,
-        "w": 1302,
-        "h": 412
+        "y": 59
     },
     {
         "id": "a80677cf.4274c8",
@@ -4859,7 +4914,9 @@
             "97085297.91fc4"
         ],
         "x": 924,
-        "y": 909
+        "y": 909,
+        "w": 672,
+        "h": 202
     },
     {
         "id": "5d1065e2.7b952c",
@@ -4888,9 +4945,7 @@
             "55d7f98f.7ca518"
         ],
         "x": 64,
-        "y": 1399,
-        "w": 632,
-        "h": 182
+        "y": 1399
     },
     {
         "id": "b974d4b3.9e3f78",
@@ -4912,9 +4967,7 @@
             "d2dd56dc.b7a0e8"
         ],
         "x": 64,
-        "y": 2219,
-        "w": 722,
-        "h": 172
+        "y": 2219
     },
     {
         "id": "1b19a252.cfe16e",
@@ -4956,9 +5009,7 @@
             "16a30db2.f4a332"
         ],
         "x": 64,
-        "y": 1689,
-        "w": 1232,
-        "h": 522
+        "y": 1689
     },
     {
         "id": "be55ea76.ed4478",
@@ -4979,31 +5030,6 @@
         ],
         "x": 684,
         "y": 479
-    },
-    {
-        "id": "75ca0b0c.5ff524",
-        "type": "group",
-        "z": "e86f0ca4.7feb5",
-        "name": "Eventos I/O",
-        "style": {
-            "fill": "#3f5787",
-            "label": true,
-            "color": "#ffffff"
-        },
-        "nodes": [
-            "7d437608.8781c8",
-            "6e837680.b705c8",
-            "58faeca6.e95934",
-            "edf47f97.68e64",
-            "675d7e0d.b5798",
-            "e45d336f.9503d",
-            "40bc37d4.aa90f8",
-            "c099945b.08bf98"
-        ],
-        "x": 14,
-        "y": 2539,
-        "w": 872,
-        "h": 162
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -40813,7 +40839,8 @@
             "3ffc59.29e723a8",
             "577047bb.6519b8",
             "b275f5b2.e7e328",
-            "73af0be0.8d91e4"
+            "73af0be0.8d91e4",
+            "8c73338.8deb8d"
         ],
         "x": 405,
         "y": 1150,
@@ -45718,8 +45745,8 @@
         "type": "pccc out",
         "z": "3df4c8d9.0bdc38",
         "g": "fbbdc4b7.95b5c8",
-        "endpoint": "bdf717d2.f19ae8",
-        "variable": "Speed_Reference",
+        "endpoint": "5a40295d.6caa18",
+        "variable": "PF755T_SpeedReference",
         "name": "Referencia de velocidad",
         "x": 710,
         "y": 1170,
@@ -45751,8 +45778,8 @@
         "type": "pccc out",
         "z": "3df4c8d9.0bdc38",
         "g": "fbbdc4b7.95b5c8",
-        "endpoint": "bdf717d2.f19ae8",
-        "variable": "Speed_Reference",
+        "endpoint": "5a40295d.6caa18",
+        "variable": "PF755T_SpeedReference",
         "name": "Referencia de velocidad",
         "x": 710,
         "y": 1470,
@@ -52647,8 +52674,8 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 170,
-        "y": 1940,
+        "x": 160,
+        "y": 1770,
         "wires": [
             [
                 "d7f76c0e.485b3"
@@ -52671,8 +52698,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 590,
-        "y": 1940,
+        "x": 620,
+        "y": 1770,
         "wires": [
             [
                 "da1755b1.3969a8"
@@ -52685,13 +52712,13 @@
         "z": "d35c32b9.6419b",
         "g": "96c06653.552da8",
         "name": "Data Handle-StaggeredStart",
-        "func": "var C2S_Data                = global.get(\"C2S\", \"memoryOnly\") || \"\";\nvar Data_Points             = flow.get(\"Staggered_Start.Data_Points\",\"memoryOnly\") ||[];\nvar Final_Reference         = flow.get(\"Staggered_Start.Final_Reference\",\"memoryOnly\") || 30; \nvar Staggered_Start_Run     = flow.get(\"Staggered_Start.Running\",\"memoryOnly\") || false; \nvar Current_OperativeData   = { \n                                'Time'              :Date.now(), \n                                'Feedback_Speed'    :C2S_Data.Output_Frecuency, \n                                };\n\nif (C2S_Data.Output_Frecuency != Final_Reference)\n    {   \n        Data_Points.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Feedback_Speed}); \n\n        msg.payload = [Data_Points];\n        //msg.series  = [\"Velocidad Feedbak\"];\n        //msg.label   = \"Arranque Escalonado\";\n    }\nelse {\n        \n      Staggered_Start_Run = false;\n    } \n    \nnode.status({fill:\"green\",shape:\"dot\",text:C2S_Data.Output_Frecuency+''+Final_Reference});\n\nflow.set(\"Staggered_Start.Running\",Staggered_Start_Run,\"memoryOnly\");\nflow.set(\"Staggered_Start.Data_Points\", Data_Points,\"memoryOnly\");\nreturn msg; \n       \n\n\n",
+        "func": "var C2S_Data                = global.get(\"C2S\", \"memoryOnly\") || \"\";\nvar Data_Points             = flow.get(\"Staggered_Start.Data_Points\",\"memoryOnly\") ||[];\nvar Final_Reference         = flow.get(\"Staggered_Start.Final_Reference\",\"memoryOnly\") || 30; \nvar Staggered_Start_Run     = flow.get(\"Staggered_Start.Running\",\"memoryOnly\") || false; \n\nvar Current_OperativeData   = { \n    'Time'              :Date.now(), \n    'Feedback_Speed'    :C2S_Data.Output_Frecuency, \n};\n\nif (C2S_Data.Output_Frecuency != Final_Reference){   \n    Data_Points.unshift({\n        \"x\":Current_OperativeData.Time,\n        \"y\":Current_OperativeData.Feedback_Speed\n    }); \n    msg.payload = [Data_Points];\n    //msg.series  = [\"Velocidad Feedbak\"];\n    //msg.label   = \"Arranque Escalonado\";\n}\nelse {\n    Staggered_Start_Run = false;\n}\n\nnode.status({fill:\"green\",shape:\"dot\",text:C2S_Data.Output_Frecuency+''+Final_Reference});\nflow.set(\"Staggered_Start.Running\",Staggered_Start_Run,\"memoryOnly\");\nflow.set(\"Staggered_Start.Data_Points\", Data_Points,\"memoryOnly\");\n\nreturn msg; \n       \n\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 800,
-        "y": 1940,
+        "x": 850,
+        "y": 1770,
         "wires": [
             [
                 "87c65176.454a3"
@@ -52704,13 +52731,13 @@
         "z": "d35c32b9.6419b",
         "g": "96c06653.552da8",
         "name": "Chart generation",
-        "func": "var chart = \n    [{\n\"series\": msg.series,\n\"data\": msg.payload,\n\"labels\": [\"\"]\n\n}];\nmsg.payload = chart;\n\nreturn msg;\n",
+        "func": "var chart = [{\n    \"series\": msg.series,\n    \"data\": msg.payload,\n    \"labels\": [\"\"]\n}];\n\nmsg.payload = chart;\nreturn msg;\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1010,
-        "y": 1940,
+        "x": 1080,
+        "y": 1770,
         "wires": [
             [
                 "8dc70b63.8db398",
@@ -52755,8 +52782,8 @@
             "#c5b0d5"
         ],
         "outputs": 1,
-        "x": 1150,
-        "y": 1860,
+        "x": 1240,
+        "y": 1750,
         "wires": [
             []
         ]
@@ -52786,8 +52813,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 530,
-        "y": 1800,
+        "x": 500,
+        "y": 1810,
         "wires": [
             []
         ]
@@ -52803,23 +52830,12 @@
             "f87a07cd.22b318"
         ],
         "x": 235,
-        "y": 1800,
+        "y": 1810,
         "wires": [
             [
                 "5bacb488.41284c"
             ]
         ]
-    },
-    {
-        "id": "946eb79c.0d04e8",
-        "type": "comment",
-        "z": "d35c32b9.6419b",
-        "g": "96c06653.552da8",
-        "name": "Trend Staggered Start",
-        "info": "",
-        "x": 170,
-        "y": 1750,
-        "wires": []
     },
     {
         "id": "cea13bfe.739068",
@@ -52831,7 +52847,7 @@
             "e2832ff4.8c486"
         ],
         "x": 235,
-        "y": 1840,
+        "y": 1850,
         "wires": [
             [
                 "ed0df9a.c740c08"
@@ -52858,8 +52874,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 420,
-        "y": 1840,
+        "x": 400,
+        "y": 1850,
         "wires": [
             []
         ]
@@ -52874,7 +52890,7 @@
             "ba5f4e4b.e55a2"
         ],
         "x": 235,
-        "y": 1880,
+        "y": 1890,
         "wires": [
             [
                 "a561eba3.47a5f8"
@@ -52901,8 +52917,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 400,
-        "y": 1880,
+        "x": 380,
+        "y": 1890,
         "wires": [
             []
         ]
@@ -52923,8 +52939,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 380,
-        "y": 1940,
+        "x": 390,
+        "y": 1770,
         "wires": [
             [
                 "55ada7e8.48e908"
@@ -53020,8 +53036,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 330,
-        "y": 1800,
+        "x": 320,
+        "y": 1810,
         "wires": [
             [
                 "6cb6e6d5.480798"
@@ -53042,8 +53058,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1170,
-        "y": 1960,
+        "x": 1240,
+        "y": 1790,
         "wires": []
     },
     {
@@ -53827,8 +53843,8 @@
             "#c5b0d5"
         ],
         "outputs": 1,
-        "x": 970,
-        "y": 2120,
+        "x": 1020,
+        "y": 2030,
         "wires": [
             []
         ]
@@ -53844,8 +53860,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 800,
-        "y": 2120,
+        "x": 830,
+        "y": 2030,
         "wires": [
             [
                 "5b529f4c.7ffeb"
@@ -53870,8 +53886,8 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 150,
-        "y": 2120,
+        "x": 120,
+        "y": 2030,
         "wires": [
             [
                 "c8aa3a95.12b518"
@@ -53917,8 +53933,8 @@
         ],
         "payload": "",
         "topic": "",
-        "x": 350,
-        "y": 2060,
+        "x": 520,
+        "y": 1980,
         "wires": [
             [
                 "20b8681c.81fd48"
@@ -53934,8 +53950,8 @@
         "links": [
             "97407954.a004c8"
         ],
-        "x": 135,
-        "y": 2200,
+        "x": 155,
+        "y": 2090,
         "wires": [
             [
                 "eddefb96.175bf8",
@@ -53966,8 +53982,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 300,
-        "y": 2200,
+        "x": 310,
+        "y": 2090,
         "wires": [
             [
                 "a5c181ee.2efe1"
@@ -53997,8 +54013,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 600,
-        "y": 2180,
+        "x": 590,
+        "y": 2070,
         "wires": [
             []
         ]
@@ -54023,8 +54039,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 600,
-        "y": 2220,
+        "x": 590,
+        "y": 2110,
         "wires": [
             []
         ]
@@ -54040,8 +54056,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 560,
-        "y": 2120,
+        "x": 570,
+        "y": 2030,
         "wires": [
             [
                 "6c9ed5d3.e7799c"
@@ -54064,8 +54080,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 320,
-        "y": 2120,
+        "x": 310,
+        "y": 2030,
         "wires": [
             [
                 "3ea5879e.bf0588"
@@ -54092,22 +54108,11 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 560,
-        "y": 2060,
+        "x": 750,
+        "y": 1980,
         "wires": [
             []
         ]
-    },
-    {
-        "id": "16f68bea.684694",
-        "type": "comment",
-        "z": "d35c32b9.6419b",
-        "g": "aafad2ba.dcc8b",
-        "name": "Trend Harmonics",
-        "info": "",
-        "x": 140,
-        "y": 2060,
-        "wires": []
     },
     {
         "id": "ec03441d.979088",
@@ -54123,8 +54128,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 230,
-        "y": 2240,
+        "x": 240,
+        "y": 2130,
         "wires": []
     },
     {
@@ -60609,5 +60614,50 @@
         "x": 825,
         "y": 2620,
         "wires": []
+    },
+    {
+        "id": "8c73338.8deb8d",
+        "type": "link in",
+        "z": "d35c32b9.6419b",
+        "g": "aafad2ba.dcc8b",
+        "name": "",
+        "links": [
+            "ad87cee4.7dbb5"
+        ],
+        "x": 235,
+        "y": 1980,
+        "wires": [
+            [
+                "3ccbaa0b.2db096"
+            ]
+        ]
+    },
+    {
+        "id": "3ccbaa0b.2db096",
+        "type": "change",
+        "z": "d35c32b9.6419b",
+        "g": "aafad2ba.dcc8b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "LineaP",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 350,
+        "y": 1980,
+        "wires": [
+            [
+                "23815ef1.931a32"
+            ]
+        ]
     }
 ]

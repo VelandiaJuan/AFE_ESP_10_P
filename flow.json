@@ -812,7 +812,9 @@
             "195d3093.36368f"
         ],
         "x": 84,
-        "y": 13
+        "y": 13,
+        "w": 928,
+        "h": 1044
     },
     {
         "id": "f7ed166d.1aa528",
@@ -1230,7 +1232,9 @@
             "b9ed60ab.26f43"
         ],
         "x": 24,
-        "y": 19
+        "y": 19,
+        "w": 2012,
+        "h": 442
     },
     {
         "id": "74789700.1df498",
@@ -1293,7 +1297,9 @@
             "b509ce91.c5418"
         ],
         "x": 28,
-        "y": 473
+        "y": 473,
+        "w": 1584,
+        "h": 1224
     },
     {
         "id": "58f712f1.3e5eec",
@@ -1369,7 +1375,7 @@
         ],
         "x": 28,
         "y": 1663,
-        "w": 2684,
+        "w": 2860,
         "h": 1062
     },
     {
@@ -1440,7 +1446,9 @@
             "4f79f4f3.46588c"
         ],
         "x": 88,
-        "y": 1063
+        "y": 1063,
+        "w": 1264,
+        "h": 344
     },
     {
         "id": "2fc65bf7.d30fb4",
@@ -1520,7 +1528,9 @@
             "55be084e.2ad3b8"
         ],
         "x": 24,
-        "y": 1709
+        "y": 1709,
+        "w": 1312,
+        "h": 222
     },
     {
         "id": "440775ff.2a92fc",
@@ -1611,7 +1621,9 @@
             "3ccbaa0b.2db096"
         ],
         "x": 24,
-        "y": 1939
+        "y": 1939,
+        "w": 1072,
+        "h": 232
     },
     {
         "id": "c57d2588.a42f68",
@@ -1668,7 +1680,9 @@
             "9ac5fb1d.327ff8"
         ],
         "x": 114,
-        "y": 1269
+        "y": 1269,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "f738d604.f009b8",
@@ -1723,9 +1737,7 @@
             "f981eb1b.025a78"
         ],
         "x": 138,
-        "y": 33,
-        "w": 1294,
-        "h": 1284
+        "y": 33
     },
     {
         "id": "6889f2bb.892f0c",
@@ -1766,7 +1778,9 @@
             "36d73f7a.42644"
         ],
         "x": 1024,
-        "y": 19
+        "y": 19,
+        "w": 702,
+        "h": 642
     },
     {
         "id": "f8ecb97c.9e8978",
@@ -1792,9 +1806,7 @@
             "dabbb1f4.9b65e"
         ],
         "x": 1608,
-        "y": 33,
-        "w": 3384,
-        "h": 2534
+        "y": 33
     },
     {
         "id": "b586885.2404778",
@@ -1960,9 +1972,7 @@
             "d170d71.82f7928"
         ],
         "x": 884,
-        "y": 59,
-        "w": 522,
-        "h": 182
+        "y": 59
     },
     {
         "id": "aa324282.4f554",
@@ -1988,9 +1998,7 @@
             "27a2d5e6.eea14a"
         ],
         "x": 164,
-        "y": 239,
-        "w": 572,
-        "h": 182
+        "y": 239
     },
     {
         "id": "bf91bfd8.84eda",
@@ -2015,9 +2023,7 @@
             "3fe04302.c538cc"
         ],
         "x": 164,
-        "y": 59,
-        "w": 712,
-        "h": 172
+        "y": 59
     },
     {
         "id": "f58295c0.4d4228",
@@ -2034,9 +2040,7 @@
             "3cf0ba38.d2e4f6"
         ],
         "x": 748,
-        "y": 253,
-        "w": 614,
-        "h": 424
+        "y": 253
     },
     {
         "id": "f7a3cb7b.69e4d8",
@@ -2089,9 +2093,7 @@
             "dd39d2c6.25d75"
         ],
         "x": 164,
-        "y": 429,
-        "w": 492,
-        "h": 862
+        "y": 429
     },
     {
         "id": "11f55817.139c18",
@@ -2352,9 +2354,7 @@
             "cb0d324.9efa3d"
         ],
         "x": 1634,
-        "y": 149,
-        "w": 972,
-        "h": 592
+        "y": 149
     },
     {
         "id": "35440cdc.e5d764",
@@ -2408,9 +2408,7 @@
             "5bf3fb88.25b264"
         ],
         "x": 2614,
-        "y": 149,
-        "w": 932,
-        "h": 592
+        "y": 149
     },
     {
         "id": "888265d9.138288",
@@ -2464,9 +2462,7 @@
             "ea97a2e4.6a67d"
         ],
         "x": 3554,
-        "y": 149,
-        "w": 1092,
-        "h": 592
+        "y": 149
     },
     {
         "id": "54b245d3.9431dc",
@@ -2520,9 +2516,7 @@
             "b636759a.1af358"
         ],
         "x": 1634,
-        "y": 749,
-        "w": 1052,
-        "h": 592
+        "y": 749
     },
     {
         "id": "58747709.2ffd98",
@@ -2576,9 +2570,7 @@
             "86aeff9f.23163"
         ],
         "x": 2694,
-        "y": 749,
-        "w": 1092,
-        "h": 592
+        "y": 749
     },
     {
         "id": "4b571a8f.d70524",
@@ -2632,9 +2624,7 @@
             "3368017a.de213e"
         ],
         "x": 3794,
-        "y": 749,
-        "w": 1172,
-        "h": 592
+        "y": 749
     },
     {
         "id": "b7d3914a.2a17",
@@ -2688,9 +2678,7 @@
             "ada97752.874638"
         ],
         "x": 1634,
-        "y": 1349,
-        "w": 1092,
-        "h": 592
+        "y": 1349
     },
     {
         "id": "a3b836be.d5cde8",
@@ -2744,9 +2732,7 @@
             "739b4fcf.1c18"
         ],
         "x": 2734,
-        "y": 1349,
-        "w": 1092,
-        "h": 592
+        "y": 1349
     },
     {
         "id": "f3c2e7cf.5ed158",
@@ -2801,7 +2787,9 @@
             "968d5347.1b134"
         ],
         "x": 234,
-        "y": 39
+        "y": 39,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "991382e7.7f2e6",
@@ -2833,7 +2821,9 @@
             "24dd678c.7f1308"
         ],
         "x": 234,
-        "y": 289
+        "y": 289,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "91feb623.ce89e8",
@@ -2865,7 +2855,9 @@
             "e8ae66c1.7229a8"
         ],
         "x": 234,
-        "y": 539
+        "y": 539,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "a035a752.10f9d8",
@@ -2897,7 +2889,9 @@
             "bd48652a.f5a5e8"
         ],
         "x": 234,
-        "y": 789
+        "y": 789,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "53806295.7831ac",
@@ -2951,9 +2945,7 @@
             "4fe0e535.f16e5c"
         ],
         "x": 3834,
-        "y": 1349,
-        "w": 1072,
-        "h": 592
+        "y": 1349
     },
     {
         "id": "dabbb1f4.9b65e",
@@ -2970,9 +2962,7 @@
             "a72a1eba.19d99"
         ],
         "x": 1634,
-        "y": 59,
-        "w": 132,
-        "h": 82
+        "y": 59
     },
     {
         "id": "eb91dac5.690838",
@@ -3574,7 +3564,9 @@
             "3a6fab3.c7e5154"
         ],
         "x": 54,
-        "y": 1389
+        "y": 1389,
+        "w": 532,
+        "h": 282
     },
     {
         "id": "1d477816.993308",
@@ -3909,7 +3901,9 @@
             "e2792bcf.8bea78"
         ],
         "x": 54,
-        "y": 499
+        "y": 499,
+        "w": 1142,
+        "h": 162
     },
     {
         "id": "da3ae781.998328",
@@ -3929,7 +3923,9 @@
             "d49cbbef.71a878"
         ],
         "x": 54,
-        "y": 669
+        "y": 669,
+        "w": 712,
+        "h": 122
     },
     {
         "id": "e60e8bfd.7a3248",
@@ -3953,7 +3949,9 @@
             "9d2ef708.6a7618"
         ],
         "x": 54,
-        "y": 799
+        "y": 799,
+        "w": 802,
+        "h": 162
     },
     {
         "id": "b19ef7d3.42ea68",
@@ -3977,7 +3975,9 @@
             "30a20927.0852c6"
         ],
         "x": 54,
-        "y": 969
+        "y": 969,
+        "w": 882,
+        "h": 162
     },
     {
         "id": "9dbc79d1.85ede8",
@@ -4005,7 +4005,9 @@
             "6a9bae72.3bb93"
         ],
         "x": 54,
-        "y": 1139
+        "y": 1139,
+        "w": 1242,
+        "h": 242
     },
     {
         "id": "9e9a162d.d4b0a8",
@@ -4028,7 +4030,9 @@
             "d1ec13b9.2d54a"
         ],
         "x": 964,
-        "y": 819
+        "y": 819,
+        "w": 622,
+        "h": 162
     },
     {
         "id": "b509ce91.c5418",
@@ -4048,7 +4052,9 @@
             "af5bc0f2.0bc23"
         ],
         "x": 594,
-        "y": 1389
+        "y": 1389,
+        "w": 702,
+        "h": 142
     },
     {
         "id": "15ca143a.56aa5c",
@@ -4098,7 +4104,9 @@
             "6db11539.a3447c"
         ],
         "x": 724,
-        "y": 1089
+        "y": 1089,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "9560ef4.a49141",
@@ -4122,7 +4130,9 @@
             "864b03bd.9ce3c"
         ],
         "x": 114,
-        "y": 1089
+        "y": 1089,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "f185a628.7c4598",
@@ -4143,7 +4153,9 @@
             "d73d6d43.ab8f4"
         ],
         "x": 724,
-        "y": 1179
+        "y": 1179,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "b5305a67.80d008",
@@ -4169,7 +4181,9 @@
             "8207386.0661fc8"
         ],
         "x": 964,
-        "y": 1179
+        "y": 1179,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "52cef377.daab5c",
@@ -4193,7 +4207,9 @@
             "b4b08522.2499f8"
         ],
         "x": 114,
-        "y": 1179
+        "y": 1179,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "de6d41a4.0f4d2",
@@ -4394,9 +4410,7 @@
             "5f1b7de2.8dd7c4"
         ],
         "x": 1634,
-        "y": 1949,
-        "w": 972,
-        "h": 592
+        "y": 1949
     },
     {
         "id": "dde9e22c.88ef2",
@@ -4471,6 +4485,26 @@
         "y": 43,
         "w": 2654,
         "h": 954
+    },
+    {
+        "id": "b9df7528.923398",
+        "type": "group",
+        "z": "3df4c8d9.0bdc38",
+        "g": "e3aa057d.09fb18",
+        "name": "Re-arranque por disparo de protección",
+        "style": {
+            "label": true,
+            "fill": "#addb7b",
+            "color": "#000000"
+        },
+        "nodes": [
+            "65994a87.9d5eb4",
+            "c25b39de.c92f08"
+        ],
+        "x": 1608,
+        "y": 2293,
+        "w": 1254,
+        "h": 384
     },
     {
         "id": "5613a5b2.95577c",
@@ -4640,9 +4674,7 @@
             "5805c268.31f02c"
         ],
         "x": 774,
-        "y": 279,
-        "w": 562,
-        "h": 242
+        "y": 279
     },
     {
         "id": "3cf0ba38.d2e4f6",
@@ -4660,9 +4692,7 @@
             "2f5679af.c10006"
         ],
         "x": 774,
-        "y": 529,
-        "w": 172,
-        "h": 122
+        "y": 529
     },
     {
         "id": "38ea9e35.6d66c2",
@@ -5103,26 +5133,6 @@
         "y": 479
     },
     {
-        "id": "b9df7528.923398",
-        "type": "group",
-        "z": "3df4c8d9.0bdc38",
-        "g": "e3aa057d.09fb18",
-        "name": "Re-arranque por disparo de protección",
-        "style": {
-            "label": true,
-            "fill": "#addb7b",
-            "color": "#000000"
-        },
-        "nodes": [
-            "65994a87.9d5eb4",
-            "c25b39de.c92f08"
-        ],
-        "x": 1608,
-        "y": 2293,
-        "w": 1074,
-        "h": 384
-    },
-    {
         "id": "65994a87.9d5eb4",
         "type": "group",
         "z": "3df4c8d9.0bdc38",
@@ -5137,11 +5147,12 @@
             "e8ffc67a.2f5778",
             "c5745a1a.186ed8",
             "b0f432e9.afb6f",
-            "f4363e16.f1813"
+            "f4363e16.f1813",
+            "1f72cbbe.a84cb4"
         ],
         "x": 1634,
         "y": 2319,
-        "w": 1022,
+        "w": 1202,
         "h": 82
     },
     {
@@ -28389,6 +28400,16 @@
                 "label": "Disparo Valvula sobrepresión SUT",
                 "value": "Disparo_valvula_sobrepresion",
                 "type": "str"
+            },
+            {
+                "label": "Alarma DPS",
+                "value": "Alarma DPS",
+                "type": "str"
+            },
+            {
+                "label": "Disparo alta temperatura filtros",
+                "value": "Disparo_alta_temperatura_filtros",
+                "type": "str"
             }
         ],
         "payload": "",
@@ -31947,7 +31968,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "b974d4b3.9e3f78",
         "name": "Salidas Digitales",
-        "func": "var ES = flow.get('ES')||null;\nvar Drive_Status = global.get('Drive_Status','memoryOnly') || null;\nvar ActFunctions = flow.get('ActFunctions','memoryOnly') || null;\nvar Prot = global.get('Protections.RFlag','memoryOnly') || 0;\nvar FA = global.get('Filtro_armonicos.Estado','memoryOnly')||false;\n\n// Arreglo de Canales\nvar Data    = { \n    32:false, 33:false, 34:false, 35:false, \n    36:false, 37:false, 38:false, 39:false, \n    40:false, 41:false, 42:false, 43:false\n};\n\n// Obtener llaves del objeto Data\nvar Canal = Object.keys(Data);\n// Declaración del string con \nvar canalmsg;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"CILA2S_EN_MARCHA\"          : Drive_Status != null ? (Drive_Status.Active == 1 ? true:false): false ,\n    \"FALLA_GENERAL\"             : Drive_Status != null ? (Drive_Status.Fault  == 1 ? true:false || Prot):false, \n    \"DISPARO_BREAKER_MODULO_ESD\": InFunction(ActFunctions,'Stop_ESD') || InFunction(ActFunctions,'Disparo_bajo_bajo_aceite_SUT') || InFunction(ActFunctions,'Disparo_valvula_sobrepresion') ||InFunction(ActFunctions,'Disparo_alta_temperatura_SUT') ,\n    \"BYPASS_FILTRO_ARMONICOS\"   : FA,\n    \"LUZ_INTERNA\"               : InFunction(ActFunctions,'Luz_Interna')\n}\n\n// Funciones que se activan desde una entrada digital\nfunction InFunction(Var,Str){\n    for(var j = 0; j < Var.length; j++){\n        if(Var[j].Funcion == Str){\n            return Var[j].Estado;\n        }\n    }\n}\n\n// Llaves del vector FuncionesC2S\nvar Keys = Object.keys(FuncionC2S);\n\n// Para cada canal de salida\nfor(var i=0; i <Canal.length; i++){\n    canalmsg ='Canal'+ Canal[i];\n    // Si la configuración del canal está declarada\n    if(typeof ES.SD[canalmsg] != 'undefined'){\n        // Para cada llave del vector FuncionesC2S que coincida con la configuración del canal\n        for(var j=0; j<Keys.length; j++){\n            if(ES.SD[canalmsg].Funcion == Keys[j]){\n                // Asignar el valor contenido en el vector de funciones al canal de salida\n                Data[Canal[i]] = ES.SD[canalmsg].Tipo == \"NO\" ? FuncionC2S[Keys[j]]:!FuncionC2S[Keys[j]];\n            } \n        }\n    }\n}\n\n// Asignar variable con los valores a escribir  (Se puede eliminar al asignar directamente).\nvar values = Object.values(Data);\n\n// Escribir datos en el Cubloc\nmsg.payload = { \n    value: values, \n    'fc': 15, \n    'unitid': 1, \n    'address': 4096, \n    'quantity': 12 \n}\n\n// Retorno del mensaje\nreturn msg;",
+        "func": "var ES = flow.get('ES')||null;\nvar Drive_Status = global.get('Drive_Status','memoryOnly') || null;\nvar ActFunctions = flow.get('ActFunctions','memoryOnly') || null;\nvar Prot = global.get('Protections.RFlag','memoryOnly') || 0;\nvar FA = global.get('Filtro_armonicos.Estado','memoryOnly')||false;\n\n// Arreglo de Canales\nvar Data    = { \n    32:false, 33:false, 34:false, 35:false, \n    36:false, 37:false, 38:false, 39:false, \n    40:false, 41:false, 42:false, 43:false\n};\n\n// Obtener llaves del objeto Data\nvar Canal = Object.keys(Data);\n// Declaración del string con \nvar canalmsg;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"CILA2S_EN_MARCHA\"          : Drive_Status != null ? (Drive_Status.Active == 1 ? true:false): false ,\n    \"FALLA_GENERAL\"             : Drive_Status != null ? (Drive_Status.Fault  == 1 ? true:false || Prot):false, \n    \"DISPARO_BREAKER_MODULO_ESD\": InFunction(ActFunctions,'Stop_ESD') || InFunction(ActFunctions,'Disparo_bajo_bajo_aceite_SUT') || InFunction(ActFunctions,'Disparo_valvula_sobrepresion') ||InFunction(ActFunctions,'Disparo_alta_temperatura_SUT') || InFunction(ActFunctions,'Disparo_alta_temperatura_filtros'),\n    \"BYPASS_FILTRO_ARMONICOS\"   : FA,\n    \"LUZ_INTERNA\"               : InFunction(ActFunctions,'Luz_Interna')\n}\n\n// Funciones que se activan desde una entrada digital\nfunction InFunction(Var,Str){\n    for(var j = 0; j < Var.length; j++){\n        if(Var[j].Funcion == Str){\n            return Var[j].Estado;\n        }\n    }\n}\n\n// Llaves del vector FuncionesC2S\nvar Keys = Object.keys(FuncionC2S);\n\n// Para cada canal de salida\nfor(var i=0; i <Canal.length; i++){\n    canalmsg ='Canal'+ Canal[i];\n    // Si la configuración del canal está declarada\n    if(typeof ES.SD[canalmsg] != 'undefined'){\n        // Para cada llave del vector FuncionesC2S que coincida con la configuración del canal\n        for(var j=0; j<Keys.length; j++){\n            if(ES.SD[canalmsg].Funcion == Keys[j]){\n                // Asignar el valor contenido en el vector de funciones al canal de salida\n                Data[Canal[i]] = ES.SD[canalmsg].Tipo == \"NO\" ? FuncionC2S[Keys[j]]:!FuncionC2S[Keys[j]];\n            } \n        }\n    }\n}\n\n// Asignar variable con los valores a escribir  (Se puede eliminar al asignar directamente).\nvar values = Object.values(Data);\n\n// Escribir datos en el Cubloc\nmsg.payload = { \n    value: values, \n    'fc': 15, \n    'unitid': 1, \n    'address': 4096, \n    'quantity': 12 \n}\n\n// Retorno del mensaje\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -42018,7 +42039,7 @@
         "z": "d35c32b9.6419b",
         "g": "da3ae781.998328",
         "name": "",
-        "func": "var CurrentTab              = flow.get(\"Current-Tab\",\"memoryOnly\") || \"\";\nvar CurrentMeasurement      = flow.get(\"Query\",\"memoryOnly\") || {'Measurement': \"\"};\nvar ArrayDB                 = flow.get(\"Trend\",\"memoryOnly\");\nvar PQA_Data                = global.get(\"PQA\", \"memoryOnly\") || \"\";\nvar C2S_Data                = global.get(\"C2S\", \"memoryOnly\") || \"\";\n\nvar i = 0;\nvar Current_OperativeData     = { \n                                'Time'              :Date.now(), \n                                'Current_Mtr'       :C2S_Data.Output_Current, \n                                'Current_VFD'       :C2S_Data.Output_Current, \n                                'Power_KW'          :C2S_Data.Output_Power,\n                                'Reference'         :C2S_Data.Commanded_SpdRef, \n                                'VBusDC'            :C2S_Data.Bus_DC_Volts,\n                                'Voltage_Out'       :C2S_Data.Output_Voltage,\n                                'Feedback_Speed'    :C2S_Data.Mtr_Vel_Fdbk, \n                                'Voltage_Mtr'       :C2S_Data.Output_Voltage, \n                                'CHP'               :0, \n                                'THP'               :0, \n                                'CHT'               :0, \n                                'THT'               :0, \n                                //'Torque'            :0,\n                                };\nCurrent_InputData             = { \n                                'Time'              :Date.now(),\n                                'V_L1N'             :parseFloat(PQA_Data.Real_Time_Parameters.Phase_1_Voltage.toFixed(3)),\n                                'V_L2N'             :parseFloat(PQA_Data.Real_Time_Parameters.Phase_2_Voltage.toFixed(3)),\n                                'V_L3N'             :parseFloat(PQA_Data.Real_Time_Parameters.Phase_3_Voltage.toFixed(3)),\n                                'V_L1L2'            :parseFloat(PQA_Data.Real_Time_Parameters.Line_Voltage_1_2.toFixed(3)),\n                                'V_L1L3'            :parseFloat(PQA_Data.Real_Time_Parameters.Line_Voltage_3_1.toFixed(3)),\n                                'V_L2L3'            :parseFloat(PQA_Data.Real_Time_Parameters.Line_Voltage_2_3.toFixed(3)),\n                                'I_L1'              :parseFloat(PQA_Data.Real_Time_Parameters.Total_Phase_A_Current.toFixed(3)),\n                                'I_L2'              :parseFloat(PQA_Data.Real_Time_Parameters.Total_Phase_B_Current.toFixed(3)),\n                                'I_L3'              :parseFloat(PQA_Data.Real_Time_Parameters.Total_Phase_C_Current.toFixed(3)),\n                                'P_Act'             :parseFloat(PQA_Data.Real_Time_Parameters.Total_System_Power.toFixed(3)),\n                                'P_Rct'             :parseFloat(PQA_Data.Real_Time_Parameters.Total_Reactive_Power.toFixed(3)),\n                                'P_Apa'             :parseFloat(PQA_Data.Real_Time_Parameters.Total_Apparent_Power.toFixed(3)),\n                                }; \n                                \nCurrent_DownholeData          = { \n                                'Time'              :Date.now(),\n                                'PIn'               :[],\n                                'POut'              :[],\n                                'PDiff'             :[],\n                                'T_In'              :[],\n                                'T_Out'             :[],\n                                }; \n                \n//------------------------------------------ Tendencias Datos Operativos ------------------------------------------\n\nif (CurrentMeasurement.Measurement == \"Operative_Data\")\n    {\n            //------------------------------------------------------ Velocidad ------------------------------------------------------------\n            if (CurrentTab == \"VelocidadActual\")\n                {   \n                    ArrayDB.Time.unshift(Current_OperativeData.Time);        \n                    ArrayDB.Reference.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Reference});\n                    ArrayDB.Feedback_Speed.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Feedback_Speed}); \n                    \n                    ArrayDB.Time.pop();\n                    ArrayDB.Reference.pop();\n                    ArrayDB.Feedback_Speed.pop();\n                            \n                    msg.payload = [ArrayDB.Reference, ArrayDB.Feedback_Speed];\n                    msg.series  = [\"Referencia de Velocidad\", \"Velocidad Actal\"];\n                    msg.label   = \"Velocidad vs Feedback\";\n                }\n             //------------------------------------------------------ Tensión ------------------------------------------------------------ \n            else if (CurrentTab == \"Voltaje\")\n                {\n                    ArrayDB.Time.unshift(Current_OperativeData.Time);\n                    ArrayDB.Voltage_Out.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Voltage_Out});\n                    ArrayDB.VBusDC.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.VBusDC});\n                    ArrayDB.Voltage_Mtr.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Voltage_Mtr});\n                    \n                    ArrayDB.Time.pop();\n                    ArrayDB.Voltage_Out.pop();\n                    ArrayDB.VBusDC.pop();\n                    ArrayDB.Voltage_Mtr.pop();            \n                \n                    msg.payload = [ArrayDB.Voltage_Out,ArrayDB.VBusDC, ArrayDB.Voltage_Mtr];\n                    msg.series  = [\"Voltaje VFD\", \"Voltaje BusDC\", \"Voltaje de Motor\"];\n                    msg.label   = \"Niveles de Tensión del sistema\";     \n                }\n            //------------------------------------------------------ Carga ------------------------------------------------------------    \n            else if (CurrentTab == \"Carga\")\n                {\n                    ArrayDB.Time.unshift(Current_OperativeData.Time);    \n                    ArrayDB.Current_VFD.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Current_Mtr});\n                    ArrayDB.Current_Mtr.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Current_Mtr});\n                    //ArrayDB.Torque.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Torque});\n                    \n                    ArrayDB.Time.pop();\n                    ArrayDB.Current_VFD.pop();\n                    ArrayDB.Current_Mtr.pop();\n                    //ArrayDB.Torque.pop();\n                    \n                    //msg.payload = [ArrayDB.Current_VFD,ArrayDB.Current_Mtr, ArrayDB.Torque];\n                    msg.payload = [ArrayDB.Current_VFD,ArrayDB.Current_Mtr];\n                    msg.series  = [\"Corriente VFD\", \"Corriente de Motor\"]; \n                    msg.label   = \"Carga del sistema\";   \n                }\n            //------------------------------------------------------ Potencia ------------------------------------------------------------\n            else if (CurrentTab == \"Potencia\")\n                {\n                    ArrayDB.Time.unshift(Current_OperativeData.Time);\n    \n                    ArrayDB.Power_KW.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Power_KW});\n                    //ArrayDB.Power_KVAR.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Power_KVAR});\n                    //ArrayDB.Power_KVA.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Power_KVA});\n                    \n                    ArrayDB.Time.pop();\n                    ArrayDB.Power_KW.pop();\n                    //ArrayDB.Power_KVAR.pop();\n                    //ArrayDB.Power_KVA.pop();\n                    \n                    //msg.payload = [ArrayDB.Power_KW,ArrayDB.Power_KVAR, ArrayDB.Power_KVA];\n                    msg.payload = [ArrayDB.Power_KW];\n                    //msg.series  = [\"Potencia activa\", \"Potencia reactiva\", \"Potencia aparente\"];\n                    msg.series  = [\"Potencia activa\"];\n                    msg.label   = \"Potencia del sistema\";     \n                }\n            //------------------------------------------------------ Temperatura ------------------------------------------------------------        \n            else if (CurrentTab == \"Temperatura\")\n                {\n                    ArrayDB.Time.unshift(Current_OperativeData.Time);\n                    ArrayDB.CHT.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.CHT});\n                    ArrayDB.THT.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.THT});\n                    \n                    ArrayDB.Time.pop();\n                    ArrayDB.CHT.pop();\n                    ArrayDB.THT.pop();\n                    \n                    msg.payload = [ArrayDB.CHT,ArrayDB.THT];\n                    msg.series  = [\"CHT\", \"THT\"];\n                    msg.label   = \"Temperatura del sistema\";\n                }\n            //------------------------------------------------------ Presión ------------------------------------------------------------        \n            else if (CurrentTab == \"Presion\")\n                {\n                    ArrayDB.Time.unshift(Current_OperativeData.Time);\n                    ArrayDB.CHP.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.CHP});\n                    ArrayDB.THP.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.THP});\n                    \n                    ArrayDB.Time.pop();\n                    ArrayDB.CHP.pop();\n                    ArrayDB.THP.pop();\n                    \n                    msg.payload = [ArrayDB.CHP, ArrayDB.THP];\n                    msg.series  = [\"CHP\", \"THP\"];\n                    msg.label   = \"Presión del sistema\";    \n                }        \n    }\n/* ------------------------------------------ Tendencias Datos Eléctricos ------------------------------------------ */\nelse if (CurrentMeasurement.Measurement == \"Input_Data\")\n    {\n        //------------------------------------------------------ Voltaje de Entrada ------------------------------------------------------------\n        if(CurrentTab == \"Voltaje\")\n            {\n                ArrayDB.Time.unshift(Current_InputData.Time);\n                ArrayDB.V_L1N.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.V_L1N});\n                ArrayDB.V_L2N.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.V_L2N});\n                ArrayDB.V_L3N.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.V_L3N});\n                ArrayDB.V_L1L2.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.V_L1L2}); \n                ArrayDB.V_L1L3.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.V_L1L2}); \n                ArrayDB.V_L2L3.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.V_L1L2});   \n                \n                ArrayDB.Time.pop();\n                ArrayDB.V_L1N.pop();\n                ArrayDB.V_L2N.pop();\n                ArrayDB.V_L3N.pop();\n                ArrayDB.V_L1L2.pop();\n                ArrayDB.V_L1L3.pop();\n                ArrayDB.V_L2L3.pop();\n                \n                msg.payload =   [   \n                                    ArrayDB.V_L1N,ArrayDB.V_L2N,ArrayDB.V_L3N,ArrayDB.V_L1L2,\n                                    ArrayDB.V_L1L3,ArrayDB.V_L2L3\n                                ];\n                msg.series  = [\"L1-N\",\"L2-N\",\"L3-N\",\"L1-L2\",\"L1-L3\",\"L2L3\"];\n                msg.label   = \"Tensión de entrada del sistema\";   \n            }\n        //------------------------------------------------------ Corriente de Entrada ------------------------------------------------------------   \n        else if (CurrentTab == \"Corriente\")\n            {\n                ArrayDB.Time.unshift(Current_InputData.Time);\n                ArrayDB.I_L1.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.I_L1});\n                ArrayDB.I_L2.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.I_L2});\n                ArrayDB.I_L3.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.I_L3});\n                \n                ArrayDB.Time.pop();\n                ArrayDB.I_L1.pop();\n                ArrayDB.I_L2.pop();\n                ArrayDB.I_L3.pop();\n                \n                msg.payload = [ArrayDB.I_L1, ArrayDB.I_L2,ArrayDB.I_L3];\n                msg.series  = [\"L1\", \"L2\", \"L3\"];\n                msg.label   = \"Corriente de entrada del sistema\";\n            }\n        //------------------------------------------------------ Potencia de Entrada ------------------------------------------------------------\n        else if (CurrentTab == \"Potencia\")\n            {\n                ArrayDB.Time.unshift(Current_InputData.Time);\n                ArrayDB.P_Act.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.P_Act});\n                ArrayDB.P_Rct.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.P_Rct});\n                ArrayDB.P_Apa.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.P_Apa});\n                \n                ArrayDB.Time.pop();\n                ArrayDB.P_Act.pop();\n                ArrayDB.P_Rct.pop();\n                ArrayDB.P_Apa.pop();\n                        \n                msg.payload = [ArrayDB.P_Act,ArrayDB.P_Rct,ArrayDB.P_Apa];\n                msg.series  = [\"Potencia activa\", \"Potencia reactiva\", \"Potencia aparente\"];\n                msg.label   = \"Potencia de entrada del sistema\";        \n            }    \n    } \n/*------------------------------------------ Tendencias Datos de Fondo ------------------------------------------*/    \nelse if (CurrentMeasurement.Measurement == \"Downhole_Data\")\n    {\n        //------------------------------------------------------ Presión de fondo ------------------------------------------------------------\n        if (CurrentTab == \"Presión\")\n           {\n                ArrayDB.Time.unshift(Current_DownholeData.Time);\n                ArrayDB.PIn.unshift({\"x\":Current_DownholeData.Time,\"y\":Current_DownholeData.PIn});\n                ArrayDB.POut.unshift({\"x\":Current_DownholeData.Time,\"y\":Current_DownholeData.POut});\n                ArrayDB.PDiff.unshift({\"x\":Current_DownholeData.Time,\"y\":Current_DownholeData.PDiff});\n                \n                ArrayDB.Time.pop();\n                ArrayDB.P_Act.pop();\n                ArrayDB.P_Rct.pop();\n                ArrayDB.P_Apa.pop();\n                \n                msg.payload = [Array_DownholeData.PIn,Array_DownholeData.POut,Array_DownholeData.PDiff];\n                msg.series  = [\"Presión de entrada\",\"Presión de Salida\",\"Presión diferencial\"];\n                msg.label   = \"Presión de entrada del sistema\";\n            }\n            \n        //------------------------------------------------------ Temperatura de fondo ------------------------------------------------------------\n        else if (CurrentTab == \"Temperatura\")\n           {\n                ArrayDB.Time.unshift(Current_DownholeData.Time);\n                ArrayDB.T_In.unshift({\"x\":Current_DownholeData.Time,\"y\":Current_DownholeData.T_In});\n                ArrayDB.T_Out.unshift({\"x\":Current_DownholeData.Time,\"y\":Current_DownholeData.T_Out});\n                \n                ArrayDB.Time.pop();\n                ArrayDB.P_Act.pop();\n                ArrayDB.P_Rct.pop();\n                ArrayDB.P_Apa.pop();\n                \n                msg.payload = [Array_DownholeData.T_In,Array_DownholeData.T_Out];\n                msg.series  = [\"Temperatura de entrada\",\"Temperatura de Salida\"];\n                msg.label   = \"Presión de entrada del sistema\";\n                      \n            }\n    }\nflow.set(\"Trend\", ArrayDB,\"memoryOnly\");\nreturn msg;        \n\n\n",
+        "func": "var CurrentTab              = flow.get(\"Current-Tab\",\"memoryOnly\") || \"\";\nvar CurrentMeasurement      = flow.get(\"Query\",\"memoryOnly\") || {'Measurement': \"\"};\nvar ArrayDB                 = flow.get(\"Trend\",\"memoryOnly\");\nvar PQA_Data                = global.get(\"PQA\", \"memoryOnly\") || \"\";\nvar C2S_Data                = global.get(\"C2S\", \"memoryOnly\") || \"\";\n\nvar i = 0;\nvar Current_OperativeData     = { \n                                'Time'              :Date.now(), \n                                'Current_Mtr'       :C2S_Data.Output_Current, \n                                'Current_VFD'       :C2S_Data.Output_Current, \n                                'Power_KW'          :C2S_Data.Output_Power,\n                                'Reference'         :C2S_Data.Commanded_SpdRef, \n                                'VBusDC'            :C2S_Data.Bus_DC_Volts,\n                                'Voltage_Out'       :C2S_Data.Output_Voltage,\n                                'Feedback_Speed'    :C2S_Data.Output_Frecuency, \n                                'Voltage_Mtr'       :C2S_Data.Output_Voltage, \n                                'CHP'               :0, \n                                'THP'               :0, \n                                'CHT'               :0, \n                                'THT'               :0, \n                                //'Torque'            :0,\n                                };\nCurrent_InputData             = { \n                                'Time'              :Date.now(),\n                                'V_L1N'             :parseFloat(PQA_Data.Real_Time_Parameters.Phase_1_Voltage.toFixed(3)),\n                                'V_L2N'             :parseFloat(PQA_Data.Real_Time_Parameters.Phase_2_Voltage.toFixed(3)),\n                                'V_L3N'             :parseFloat(PQA_Data.Real_Time_Parameters.Phase_3_Voltage.toFixed(3)),\n                                'V_L1L2'            :parseFloat(PQA_Data.Real_Time_Parameters.Line_Voltage_1_2.toFixed(3)),\n                                'V_L1L3'            :parseFloat(PQA_Data.Real_Time_Parameters.Line_Voltage_3_1.toFixed(3)),\n                                'V_L2L3'            :parseFloat(PQA_Data.Real_Time_Parameters.Line_Voltage_2_3.toFixed(3)),\n                                'I_L1'              :parseFloat(PQA_Data.Real_Time_Parameters.Total_Phase_A_Current.toFixed(3)),\n                                'I_L2'              :parseFloat(PQA_Data.Real_Time_Parameters.Total_Phase_B_Current.toFixed(3)),\n                                'I_L3'              :parseFloat(PQA_Data.Real_Time_Parameters.Total_Phase_C_Current.toFixed(3)),\n                                'P_Act'             :parseFloat(PQA_Data.Real_Time_Parameters.Total_System_Power.toFixed(3)),\n                                'P_Rct'             :parseFloat(PQA_Data.Real_Time_Parameters.Total_Reactive_Power.toFixed(3)),\n                                'P_Apa'             :parseFloat(PQA_Data.Real_Time_Parameters.Total_Apparent_Power.toFixed(3)),\n                                }; \n                                \nCurrent_DownholeData          = { \n                                'Time'              :Date.now(),\n                                'PIn'               :[],\n                                'POut'              :[],\n                                'PDiff'             :[],\n                                'T_In'              :[],\n                                'T_Out'             :[],\n                                }; \n                \n//------------------------------------------ Tendencias Datos Operativos ------------------------------------------\n\nif (CurrentMeasurement.Measurement == \"Operative_Data\")\n    {\n            //------------------------------------------------------ Velocidad ------------------------------------------------------------\n            if (CurrentTab == \"VelocidadActual\")\n                {   \n                    ArrayDB.Time.unshift(Current_OperativeData.Time);        \n                    ArrayDB.Reference.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Reference});\n                    ArrayDB.Feedback_Speed.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Feedback_Speed}); \n                    \n                    ArrayDB.Time.pop();\n                    ArrayDB.Reference.pop();\n                    ArrayDB.Feedback_Speed.pop();\n                            \n                    msg.payload = [ArrayDB.Reference, ArrayDB.Feedback_Speed];\n                    msg.series  = [\"Referencia de Velocidad\", \"Velocidad Actal\"];\n                    msg.label   = \"Velocidad vs Feedback\";\n                }\n             //------------------------------------------------------ Tensión ------------------------------------------------------------ \n            else if (CurrentTab == \"Voltaje\")\n                {\n                    ArrayDB.Time.unshift(Current_OperativeData.Time);\n                    ArrayDB.Voltage_Out.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Voltage_Out});\n                    ArrayDB.VBusDC.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.VBusDC});\n                    ArrayDB.Voltage_Mtr.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Voltage_Mtr});\n                    \n                    ArrayDB.Time.pop();\n                    ArrayDB.Voltage_Out.pop();\n                    ArrayDB.VBusDC.pop();\n                    ArrayDB.Voltage_Mtr.pop();            \n                \n                    msg.payload = [ArrayDB.Voltage_Out,ArrayDB.VBusDC, ArrayDB.Voltage_Mtr];\n                    msg.series  = [\"Voltaje VFD\", \"Voltaje BusDC\", \"Voltaje de Motor\"];\n                    msg.label   = \"Niveles de Tensión del sistema\";     \n                }\n            //------------------------------------------------------ Carga ------------------------------------------------------------    \n            else if (CurrentTab == \"Carga\")\n                {\n                    ArrayDB.Time.unshift(Current_OperativeData.Time);    \n                    ArrayDB.Current_VFD.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Current_Mtr});\n                    ArrayDB.Current_Mtr.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Current_Mtr});\n                    //ArrayDB.Torque.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Torque});\n                    \n                    ArrayDB.Time.pop();\n                    ArrayDB.Current_VFD.pop();\n                    ArrayDB.Current_Mtr.pop();\n                    //ArrayDB.Torque.pop();\n                    \n                    //msg.payload = [ArrayDB.Current_VFD,ArrayDB.Current_Mtr, ArrayDB.Torque];\n                    msg.payload = [ArrayDB.Current_VFD,ArrayDB.Current_Mtr];\n                    msg.series  = [\"Corriente VFD\", \"Corriente de Motor\"]; \n                    msg.label   = \"Carga del sistema\";   \n                }\n            //------------------------------------------------------ Potencia ------------------------------------------------------------\n            else if (CurrentTab == \"Potencia\")\n                {\n                    ArrayDB.Time.unshift(Current_OperativeData.Time);\n    \n                    ArrayDB.Power_KW.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Power_KW});\n                    //ArrayDB.Power_KVAR.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Power_KVAR});\n                    //ArrayDB.Power_KVA.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.Power_KVA});\n                    \n                    ArrayDB.Time.pop();\n                    ArrayDB.Power_KW.pop();\n                    //ArrayDB.Power_KVAR.pop();\n                    //ArrayDB.Power_KVA.pop();\n                    \n                    //msg.payload = [ArrayDB.Power_KW,ArrayDB.Power_KVAR, ArrayDB.Power_KVA];\n                    msg.payload = [ArrayDB.Power_KW];\n                    //msg.series  = [\"Potencia activa\", \"Potencia reactiva\", \"Potencia aparente\"];\n                    msg.series  = [\"Potencia activa\"];\n                    msg.label   = \"Potencia del sistema\";     \n                }\n            //------------------------------------------------------ Temperatura ------------------------------------------------------------        \n            else if (CurrentTab == \"Temperatura\")\n                {\n                    ArrayDB.Time.unshift(Current_OperativeData.Time);\n                    ArrayDB.CHT.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.CHT});\n                    ArrayDB.THT.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.THT});\n                    \n                    ArrayDB.Time.pop();\n                    ArrayDB.CHT.pop();\n                    ArrayDB.THT.pop();\n                    \n                    msg.payload = [ArrayDB.CHT,ArrayDB.THT];\n                    msg.series  = [\"CHT\", \"THT\"];\n                    msg.label   = \"Temperatura del sistema\";\n                }\n            //------------------------------------------------------ Presión ------------------------------------------------------------        \n            else if (CurrentTab == \"Presion\")\n                {\n                    ArrayDB.Time.unshift(Current_OperativeData.Time);\n                    ArrayDB.CHP.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.CHP});\n                    ArrayDB.THP.unshift({\"x\":Current_OperativeData.Time,\"y\":Current_OperativeData.THP});\n                    \n                    ArrayDB.Time.pop();\n                    ArrayDB.CHP.pop();\n                    ArrayDB.THP.pop();\n                    \n                    msg.payload = [ArrayDB.CHP, ArrayDB.THP];\n                    msg.series  = [\"CHP\", \"THP\"];\n                    msg.label   = \"Presión del sistema\";    \n                }        \n    }\n/* ------------------------------------------ Tendencias Datos Eléctricos ------------------------------------------ */\nelse if (CurrentMeasurement.Measurement == \"Input_Data\")\n    {\n        //------------------------------------------------------ Voltaje de Entrada ------------------------------------------------------------\n        if(CurrentTab == \"Voltaje\")\n            {\n                ArrayDB.Time.unshift(Current_InputData.Time);\n                ArrayDB.V_L1N.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.V_L1N});\n                ArrayDB.V_L2N.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.V_L2N});\n                ArrayDB.V_L3N.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.V_L3N});\n                ArrayDB.V_L1L2.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.V_L1L2}); \n                ArrayDB.V_L1L3.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.V_L1L2}); \n                ArrayDB.V_L2L3.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.V_L1L2});   \n                \n                ArrayDB.Time.pop();\n                ArrayDB.V_L1N.pop();\n                ArrayDB.V_L2N.pop();\n                ArrayDB.V_L3N.pop();\n                ArrayDB.V_L1L2.pop();\n                ArrayDB.V_L1L3.pop();\n                ArrayDB.V_L2L3.pop();\n                \n                msg.payload =   [   \n                                    ArrayDB.V_L1N,ArrayDB.V_L2N,ArrayDB.V_L3N,ArrayDB.V_L1L2,\n                                    ArrayDB.V_L1L3,ArrayDB.V_L2L3\n                                ];\n                msg.series  = [\"L1-N\",\"L2-N\",\"L3-N\",\"L1-L2\",\"L1-L3\",\"L2L3\"];\n                msg.label   = \"Tensión de entrada del sistema\";   \n            }\n        //------------------------------------------------------ Corriente de Entrada ------------------------------------------------------------   \n        else if (CurrentTab == \"Corriente\")\n            {\n                ArrayDB.Time.unshift(Current_InputData.Time);\n                ArrayDB.I_L1.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.I_L1});\n                ArrayDB.I_L2.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.I_L2});\n                ArrayDB.I_L3.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.I_L3});\n                \n                ArrayDB.Time.pop();\n                ArrayDB.I_L1.pop();\n                ArrayDB.I_L2.pop();\n                ArrayDB.I_L3.pop();\n                \n                msg.payload = [ArrayDB.I_L1, ArrayDB.I_L2,ArrayDB.I_L3];\n                msg.series  = [\"L1\", \"L2\", \"L3\"];\n                msg.label   = \"Corriente de entrada del sistema\";\n            }\n        //------------------------------------------------------ Potencia de Entrada ------------------------------------------------------------\n        else if (CurrentTab == \"Potencia\")\n            {\n                ArrayDB.Time.unshift(Current_InputData.Time);\n                ArrayDB.P_Act.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.P_Act});\n                ArrayDB.P_Rct.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.P_Rct});\n                ArrayDB.P_Apa.unshift({\"x\":Current_InputData.Time,\"y\":Current_InputData.P_Apa});\n                \n                ArrayDB.Time.pop();\n                ArrayDB.P_Act.pop();\n                ArrayDB.P_Rct.pop();\n                ArrayDB.P_Apa.pop();\n                        \n                msg.payload = [ArrayDB.P_Act,ArrayDB.P_Rct,ArrayDB.P_Apa];\n                msg.series  = [\"Potencia activa\", \"Potencia reactiva\", \"Potencia aparente\"];\n                msg.label   = \"Potencia de entrada del sistema\";        \n            }    \n    } \n/*------------------------------------------ Tendencias Datos de Fondo ------------------------------------------*/    \nelse if (CurrentMeasurement.Measurement == \"Downhole_Data\")\n    {\n        //------------------------------------------------------ Presión de fondo ------------------------------------------------------------\n        if (CurrentTab == \"Presión\")\n           {\n                ArrayDB.Time.unshift(Current_DownholeData.Time);\n                ArrayDB.PIn.unshift({\"x\":Current_DownholeData.Time,\"y\":Current_DownholeData.PIn});\n                ArrayDB.POut.unshift({\"x\":Current_DownholeData.Time,\"y\":Current_DownholeData.POut});\n                ArrayDB.PDiff.unshift({\"x\":Current_DownholeData.Time,\"y\":Current_DownholeData.PDiff});\n                \n                ArrayDB.Time.pop();\n                ArrayDB.P_Act.pop();\n                ArrayDB.P_Rct.pop();\n                ArrayDB.P_Apa.pop();\n                \n                msg.payload = [Array_DownholeData.PIn,Array_DownholeData.POut,Array_DownholeData.PDiff];\n                msg.series  = [\"Presión de entrada\",\"Presión de Salida\",\"Presión diferencial\"];\n                msg.label   = \"Presión de entrada del sistema\";\n            }\n            \n        //------------------------------------------------------ Temperatura de fondo ------------------------------------------------------------\n        else if (CurrentTab == \"Temperatura\")\n           {\n                ArrayDB.Time.unshift(Current_DownholeData.Time);\n                ArrayDB.T_In.unshift({\"x\":Current_DownholeData.Time,\"y\":Current_DownholeData.T_In});\n                ArrayDB.T_Out.unshift({\"x\":Current_DownholeData.Time,\"y\":Current_DownholeData.T_Out});\n                \n                ArrayDB.Time.pop();\n                ArrayDB.P_Act.pop();\n                ArrayDB.P_Rct.pop();\n                ArrayDB.P_Apa.pop();\n                \n                msg.payload = [Array_DownholeData.T_In,Array_DownholeData.T_Out];\n                msg.series  = [\"Temperatura de entrada\",\"Temperatura de Salida\"];\n                msg.label   = \"Presión de entrada del sistema\";\n                      \n            }\n    }\nflow.set(\"Trend\", ArrayDB,\"memoryOnly\");\nreturn msg;        \n\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -60767,7 +60788,7 @@
                 "p": "payload"
             }
         ],
-        "repeat": "",
+        "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
@@ -61215,7 +61236,8 @@
         "y": 2360,
         "wires": [
             [
-                "f4363e16.f1813"
+                "f4363e16.f1813",
+                "1f72cbbe.a84cb4"
             ]
         ]
     },
@@ -61337,5 +61359,22 @@
                 "e9373487.c7fa08"
             ]
         ]
+    },
+    {
+        "id": "1f72cbbe.a84cb4",
+        "type": "debug",
+        "z": "3df4c8d9.0bdc38",
+        "g": "65994a87.9d5eb4",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2720,
+        "y": 2360,
+        "wires": []
     }
 ]

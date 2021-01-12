@@ -856,7 +856,9 @@
             "ccd73af1.690d48"
         ],
         "x": 3084,
-        "y": 1369
+        "y": 1369,
+        "w": 1202,
+        "h": 202
     },
     {
         "id": "25cd4464.cad59c",
@@ -1006,7 +1008,9 @@
             "15ca143a.56aa5c"
         ],
         "x": 12,
-        "y": 7
+        "y": 7,
+        "w": 2706,
+        "h": 1626
     },
     {
         "id": "c17de691.f363c8",
@@ -1024,7 +1028,9 @@
             "de6d41a4.0f4d2"
         ],
         "x": 12,
-        "y": 1637
+        "y": 1637,
+        "w": 2626,
+        "h": 806
     },
     {
         "id": "68e6bb30.d1fce4",
@@ -1154,7 +1160,9 @@
             "47e5c17d.f308"
         ],
         "x": 604,
-        "y": 1089
+        "y": 1089,
+        "w": 852,
+        "h": 122
     },
     {
         "id": "1dd5b051.a95e6",
@@ -1222,9 +1230,7 @@
             "b9ed60ab.26f43"
         ],
         "x": 24,
-        "y": 19,
-        "w": 2012,
-        "h": 442
+        "y": 19
     },
     {
         "id": "74789700.1df498",
@@ -1262,7 +1268,9 @@
             "87f9add.d16445"
         ],
         "x": 3074,
-        "y": 19
+        "y": 19,
+        "w": 912,
+        "h": 452
     },
     {
         "id": "8341562d.ffacc8",
@@ -1285,9 +1293,7 @@
             "b509ce91.c5418"
         ],
         "x": 28,
-        "y": 473,
-        "w": 1584,
-        "h": 1224
+        "y": 473
     },
     {
         "id": "58f712f1.3e5eec",
@@ -1358,7 +1364,8 @@
         "nodes": [
             "dad84feb.d4773",
             "7aad629d.de652c",
-            "8f8a192b.bb2ef8"
+            "8f8a192b.bb2ef8",
+            "b9df7528.923398"
         ],
         "x": 28,
         "y": 1663,
@@ -1450,7 +1457,9 @@
             "5039e78a.ed1d88"
         ],
         "x": 14,
-        "y": 2449
+        "y": 2449,
+        "w": 462,
+        "h": 82
     },
     {
         "id": "70d8d562.df63ac",
@@ -1480,7 +1489,9 @@
             "66f58a7.5c16574"
         ],
         "x": 3074,
-        "y": 479
+        "y": 479,
+        "w": 1362,
+        "h": 232
     },
     {
         "id": "96c06653.552da8",
@@ -1509,9 +1520,7 @@
             "55be084e.2ad3b8"
         ],
         "x": 24,
-        "y": 1709,
-        "w": 1312,
-        "h": 222
+        "y": 1709
     },
     {
         "id": "440775ff.2a92fc",
@@ -1571,7 +1580,9 @@
             "2249a8a.5b30458"
         ],
         "x": 3084,
-        "y": 1579
+        "y": 1579,
+        "w": 1412,
+        "h": 492
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -1600,9 +1611,7 @@
             "3ccbaa0b.2db096"
         ],
         "x": 24,
-        "y": 1939,
-        "w": 1072,
-        "h": 232
+        "y": 1939
     },
     {
         "id": "c57d2588.a42f68",
@@ -1635,7 +1644,9 @@
             "a0ac95a3.e40228"
         ],
         "x": 1074,
-        "y": 69
+        "y": 69,
+        "w": 1302,
+        "h": 242
     },
     {
         "id": "3b54d390.52686c",
@@ -1673,7 +1684,9 @@
             "ebc9a134.b2cde"
         ],
         "x": 3078,
-        "y": 723
+        "y": 723,
+        "w": 1054,
+        "h": 344
     },
     {
         "id": "f7a06233.68524",
@@ -1689,7 +1702,9 @@
             "e2e299a6.d3c5c8"
         ],
         "x": 3078,
-        "y": 1183
+        "y": 1183,
+        "w": 1084,
+        "h": 174
     },
     {
         "id": "63291ccb.08e434",
@@ -1708,7 +1723,9 @@
             "f981eb1b.025a78"
         ],
         "x": 138,
-        "y": 33
+        "y": 33,
+        "w": 1294,
+        "h": 1284
     },
     {
         "id": "6889f2bb.892f0c",
@@ -1775,7 +1792,9 @@
             "dabbb1f4.9b65e"
         ],
         "x": 1608,
-        "y": 33
+        "y": 33,
+        "w": 3384,
+        "h": 2534
     },
     {
         "id": "b586885.2404778",
@@ -1791,7 +1810,9 @@
             "dde9e22c.88ef2"
         ],
         "x": 92,
-        "y": 17
+        "y": 17,
+        "w": 4190,
+        "h": 1006
     },
     {
         "id": "57eba231.4d56dc",
@@ -1811,7 +1832,9 @@
             "e9e93a2c.deeb18"
         ],
         "x": 98,
-        "y": 1083
+        "y": 1083,
+        "w": 374,
+        "h": 224
     },
     {
         "id": "90da307f.f1e8d",
@@ -1828,45 +1851,24 @@
             "9564fab5.983018",
             "3f8b03ec.506cdc",
             "e9373487.c7fa08",
-            "3be91bdb.6ea684",
-            "57abbc41.176ff4",
             "d92a7cde.4850e",
-            "9a8e8228.837d",
             "84d2378f.68fed8",
-            "a75cfb72.5926b8",
             "fcda2fbe.ad0b2",
             "9fc08388.ed34f",
             "ce922e0.da955d",
             "37b8b949.eaea56",
             "ae57732a.5f92c",
             "53fbe394.d4ce6c",
-            "767edd18.2de7f4"
+            "767edd18.2de7f4",
+            "86a1a8ce.c23f58",
+            "7dba063a.4b3cd8",
+            "4407ad32.953ac4",
+            "bd487a3c.8e19c8"
         ],
-        "x": 1344,
-        "y": 2039
-    },
-    {
-        "id": "75ca0b0c.5ff524",
-        "type": "group",
-        "z": "e86f0ca4.7feb5",
-        "name": "Eventos I/O",
-        "style": {
-            "fill": "#3f5787",
-            "label": true,
-            "color": "#ffffff"
-        },
-        "nodes": [
-            "7d437608.8781c8",
-            "6e837680.b705c8",
-            "58faeca6.e95934",
-            "edf47f97.68e64",
-            "675d7e0d.b5798",
-            "e45d336f.9503d",
-            "40bc37d4.aa90f8",
-            "c099945b.08bf98"
-        ],
-        "x": 14,
-        "y": 2539
+        "x": 1334,
+        "y": 2459,
+        "w": 752,
+        "h": 392
     },
     {
         "id": "75ca0b0c.5ff524",
@@ -1909,7 +1911,9 @@
             "ad87cee4.7dbb5"
         ],
         "x": 124,
-        "y": 1109
+        "y": 1109,
+        "w": 322,
+        "h": 82
     },
     {
         "id": "e9e93a2c.deeb18",
@@ -1928,7 +1932,9 @@
             "805762db.d27b7"
         ],
         "x": 174,
-        "y": 1199
+        "y": 1199,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "f981eb1b.025a78",
@@ -1954,7 +1960,9 @@
             "d170d71.82f7928"
         ],
         "x": 884,
-        "y": 59
+        "y": 59,
+        "w": 522,
+        "h": 182
     },
     {
         "id": "aa324282.4f554",
@@ -1980,7 +1988,9 @@
             "27a2d5e6.eea14a"
         ],
         "x": 164,
-        "y": 239
+        "y": 239,
+        "w": 572,
+        "h": 182
     },
     {
         "id": "bf91bfd8.84eda",
@@ -2005,7 +2015,9 @@
             "3fe04302.c538cc"
         ],
         "x": 164,
-        "y": 59
+        "y": 59,
+        "w": 712,
+        "h": 172
     },
     {
         "id": "f58295c0.4d4228",
@@ -2022,7 +2034,9 @@
             "3cf0ba38.d2e4f6"
         ],
         "x": 748,
-        "y": 253
+        "y": 253,
+        "w": 614,
+        "h": 424
     },
     {
         "id": "f7a3cb7b.69e4d8",
@@ -2075,7 +2089,9 @@
             "dd39d2c6.25d75"
         ],
         "x": 164,
-        "y": 429
+        "y": 429,
+        "w": 492,
+        "h": 862
     },
     {
         "id": "11f55817.139c18",
@@ -2178,7 +2194,9 @@
             "5c3a9c15.3a4554"
         ],
         "x": 1338,
-        "y": 33
+        "y": 33,
+        "w": 1354,
+        "h": 904
     },
     {
         "id": "23bbdddc.b8c5c2",
@@ -2197,7 +2215,9 @@
             "5d1065e2.7b952c"
         ],
         "x": 38,
-        "y": 33
+        "y": 33,
+        "w": 1284,
+        "h": 1574
     },
     {
         "id": "d22a2793.24a988",
@@ -2215,7 +2235,9 @@
             "1b19a252.cfe16e"
         ],
         "x": 38,
-        "y": 1663
+        "y": 1663,
+        "w": 1284,
+        "h": 754
     },
     {
         "id": "ac1f5c0.f7b06a",
@@ -2330,7 +2352,9 @@
             "cb0d324.9efa3d"
         ],
         "x": 1634,
-        "y": 149
+        "y": 149,
+        "w": 972,
+        "h": 592
     },
     {
         "id": "35440cdc.e5d764",
@@ -2384,7 +2408,9 @@
             "5bf3fb88.25b264"
         ],
         "x": 2614,
-        "y": 149
+        "y": 149,
+        "w": 932,
+        "h": 592
     },
     {
         "id": "888265d9.138288",
@@ -2438,7 +2464,9 @@
             "ea97a2e4.6a67d"
         ],
         "x": 3554,
-        "y": 149
+        "y": 149,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "54b245d3.9431dc",
@@ -2492,7 +2520,9 @@
             "b636759a.1af358"
         ],
         "x": 1634,
-        "y": 749
+        "y": 749,
+        "w": 1052,
+        "h": 592
     },
     {
         "id": "58747709.2ffd98",
@@ -2546,7 +2576,9 @@
             "86aeff9f.23163"
         ],
         "x": 2694,
-        "y": 749
+        "y": 749,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "4b571a8f.d70524",
@@ -2600,7 +2632,9 @@
             "3368017a.de213e"
         ],
         "x": 3794,
-        "y": 749
+        "y": 749,
+        "w": 1172,
+        "h": 592
     },
     {
         "id": "b7d3914a.2a17",
@@ -2654,7 +2688,9 @@
             "ada97752.874638"
         ],
         "x": 1634,
-        "y": 1349
+        "y": 1349,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "a3b836be.d5cde8",
@@ -2708,7 +2744,9 @@
             "739b4fcf.1c18"
         ],
         "x": 2734,
-        "y": 1349
+        "y": 1349,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "f3c2e7cf.5ed158",
@@ -2913,7 +2951,9 @@
             "4fe0e535.f16e5c"
         ],
         "x": 3834,
-        "y": 1349
+        "y": 1349,
+        "w": 1072,
+        "h": 592
     },
     {
         "id": "dabbb1f4.9b65e",
@@ -2930,7 +2970,9 @@
             "a72a1eba.19d99"
         ],
         "x": 1634,
-        "y": 59
+        "y": 59,
+        "w": 132,
+        "h": 82
     },
     {
         "id": "eb91dac5.690838",
@@ -3532,9 +3574,7 @@
             "3a6fab3.c7e5154"
         ],
         "x": 54,
-        "y": 1389,
-        "w": 532,
-        "h": 282
+        "y": 1389
     },
     {
         "id": "1d477816.993308",
@@ -3775,7 +3815,8 @@
             "37db10ec.6a6f7",
             "9423bfa9.83933",
             "f1031a6d.683328",
-            "bc0c7c1c.40245"
+            "bc0c7c1c.40245",
+            "c3276752.914e88"
         ],
         "x": 54,
         "y": 1999,
@@ -3868,9 +3909,7 @@
             "e2792bcf.8bea78"
         ],
         "x": 54,
-        "y": 499,
-        "w": 1142,
-        "h": 162
+        "y": 499
     },
     {
         "id": "da3ae781.998328",
@@ -3890,9 +3929,7 @@
             "d49cbbef.71a878"
         ],
         "x": 54,
-        "y": 669,
-        "w": 712,
-        "h": 122
+        "y": 669
     },
     {
         "id": "e60e8bfd.7a3248",
@@ -3916,9 +3953,7 @@
             "9d2ef708.6a7618"
         ],
         "x": 54,
-        "y": 799,
-        "w": 802,
-        "h": 162
+        "y": 799
     },
     {
         "id": "b19ef7d3.42ea68",
@@ -3942,9 +3977,7 @@
             "30a20927.0852c6"
         ],
         "x": 54,
-        "y": 969,
-        "w": 882,
-        "h": 162
+        "y": 969
     },
     {
         "id": "9dbc79d1.85ede8",
@@ -3972,9 +4005,7 @@
             "6a9bae72.3bb93"
         ],
         "x": 54,
-        "y": 1139,
-        "w": 1242,
-        "h": 242
+        "y": 1139
     },
     {
         "id": "9e9a162d.d4b0a8",
@@ -3997,9 +4028,7 @@
             "d1ec13b9.2d54a"
         ],
         "x": 964,
-        "y": 819,
-        "w": 622,
-        "h": 162
+        "y": 819
     },
     {
         "id": "b509ce91.c5418",
@@ -4019,9 +4048,7 @@
             "af5bc0f2.0bc23"
         ],
         "x": 594,
-        "y": 1389,
-        "w": 702,
-        "h": 142
+        "y": 1389
     },
     {
         "id": "15ca143a.56aa5c",
@@ -4045,7 +4072,9 @@
             "a14ed9ad.89be18"
         ],
         "x": 1344,
-        "y": 949
+        "y": 949,
+        "w": 962,
+        "h": 162
     },
     {
         "id": "17c31216.1aa6ce",
@@ -4180,7 +4209,9 @@
             "38ea9e35.6d66c2"
         ],
         "x": 1328,
-        "y": 1663
+        "y": 1663,
+        "w": 1284,
+        "h": 364
     },
     {
         "id": "ebc9a134.b2cde",
@@ -4214,7 +4245,9 @@
             "8b8bfe12.48faa"
         ],
         "x": 3104,
-        "y": 749
+        "y": 749,
+        "w": 1002,
+        "h": 292
     },
     {
         "id": "ab7a4a2c.17d8a8",
@@ -4270,7 +4303,9 @@
             "238050bf.0374f"
         ],
         "x": 3104,
-        "y": 1209
+        "y": 1209,
+        "w": 1032,
+        "h": 122
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -4299,11 +4334,12 @@
             "5472c69c.f21938",
             "b275f5b2.e7e328",
             "aedcd40.1fbec3",
-            "73af0be0.8d91e4"
+            "73af0be0.8d91e4",
+            "4e19cfd4.3982f"
         ],
         "x": 1604,
         "y": 1999,
-        "w": 972,
+        "w": 1002,
         "h": 282
     },
     {
@@ -4358,7 +4394,9 @@
             "5f1b7de2.8dd7c4"
         ],
         "x": 1634,
-        "y": 1949
+        "y": 1949,
+        "w": 972,
+        "h": 592
     },
     {
         "id": "dde9e22c.88ef2",
@@ -4409,7 +4447,9 @@
             "e6dcbeb6.ceddc"
         ],
         "x": 2784,
-        "y": 49
+        "y": 49,
+        "w": 1472,
+        "h": 532
     },
     {
         "id": "dc098d16.abc16",
@@ -4428,7 +4468,9 @@
             "e503ca5.7ac8738"
         ],
         "x": 118,
-        "y": 43
+        "y": 43,
+        "w": 2654,
+        "h": 954
     },
     {
         "id": "5613a5b2.95577c",
@@ -4456,7 +4498,9 @@
             "fd9df9f7.0350c8"
         ],
         "x": 144,
-        "y": 69
+        "y": 69,
+        "w": 922,
+        "h": 242
     },
     {
         "id": "7b165c8f.b14834",
@@ -4490,7 +4534,9 @@
             "d667ef8b.c9dd8"
         ],
         "x": 144,
-        "y": 319
+        "y": 319,
+        "w": 1722,
+        "h": 172
     },
     {
         "id": "e503ca5.7ac8738",
@@ -4565,7 +4611,9 @@
             "cfb42c45.e78cc"
         ],
         "x": 144,
-        "y": 499
+        "y": 499,
+        "w": 2602,
+        "h": 472
     },
     {
         "id": "779bed65.1819b4",
@@ -4592,7 +4640,9 @@
             "5805c268.31f02c"
         ],
         "x": 774,
-        "y": 279
+        "y": 279,
+        "w": 562,
+        "h": 242
     },
     {
         "id": "3cf0ba38.d2e4f6",
@@ -4610,7 +4660,9 @@
             "2f5679af.c10006"
         ],
         "x": 774,
-        "y": 529
+        "y": 529,
+        "w": 172,
+        "h": 122
     },
     {
         "id": "38ea9e35.6d66c2",
@@ -4647,7 +4699,9 @@
             "85f12e7a.2e726"
         ],
         "x": 1354,
-        "y": 1689
+        "y": 1689,
+        "w": 1232,
+        "h": 312
     },
     {
         "id": "c05026cc.2a6048",
@@ -4712,7 +4766,9 @@
             "2b33cbc0.5a4c64"
         ],
         "x": 64,
-        "y": 909
+        "y": 909,
+        "w": 1232,
+        "h": 482
     },
     {
         "id": "5c3a9c15.3a4554",
@@ -4754,7 +4810,9 @@
             "95efa56e.233d78"
         ],
         "x": 1364,
-        "y": 479
+        "y": 479,
+        "w": 752,
+        "h": 432
     },
     {
         "id": "62757ffc.dca08",
@@ -4807,7 +4865,9 @@
             "ba03cbde.df6f78"
         ],
         "x": 64,
-        "y": 59
+        "y": 59,
+        "w": 1232,
+        "h": 842
     },
     {
         "id": "2d061227.66d7ce",
@@ -4853,7 +4913,9 @@
             "924f3cdb.96bbe"
         ],
         "x": 1364,
-        "y": 59
+        "y": 59,
+        "w": 1302,
+        "h": 412
     },
     {
         "id": "a80677cf.4274c8",
@@ -4948,7 +5010,9 @@
             "55d7f98f.7ca518"
         ],
         "x": 64,
-        "y": 1399
+        "y": 1399,
+        "w": 632,
+        "h": 182
     },
     {
         "id": "b974d4b3.9e3f78",
@@ -4970,7 +5034,9 @@
             "d2dd56dc.b7a0e8"
         ],
         "x": 64,
-        "y": 2219
+        "y": 2219,
+        "w": 722,
+        "h": 172
     },
     {
         "id": "1b19a252.cfe16e",
@@ -5012,7 +5078,9 @@
             "16a30db2.f4a332"
         ],
         "x": 64,
-        "y": 1689
+        "y": 1689,
+        "w": 1232,
+        "h": 522
     },
     {
         "id": "be55ea76.ed4478",
@@ -5033,6 +5101,80 @@
         ],
         "x": 684,
         "y": 479
+    },
+    {
+        "id": "b9df7528.923398",
+        "type": "group",
+        "z": "3df4c8d9.0bdc38",
+        "g": "e3aa057d.09fb18",
+        "name": "Re-arranque por disparo de protección",
+        "style": {
+            "label": true,
+            "fill": "#addb7b",
+            "color": "#000000"
+        },
+        "nodes": [
+            "65994a87.9d5eb4",
+            "c25b39de.c92f08"
+        ],
+        "x": 1608,
+        "y": 2293,
+        "w": 1074,
+        "h": 384
+    },
+    {
+        "id": "65994a87.9d5eb4",
+        "type": "group",
+        "z": "3df4c8d9.0bdc38",
+        "g": "b9df7528.923398",
+        "name": "",
+        "style": {
+            "fill": "#e3f3d3",
+            "label": true
+        },
+        "nodes": [
+            "9fcfa3c7.5bb01",
+            "e8ffc67a.2f5778",
+            "c5745a1a.186ed8",
+            "b0f432e9.afb6f",
+            "f4363e16.f1813"
+        ],
+        "x": 1634,
+        "y": 2319,
+        "w": 1022,
+        "h": 82
+    },
+    {
+        "id": "c25b39de.c92f08",
+        "type": "group",
+        "z": "3df4c8d9.0bdc38",
+        "g": "b9df7528.923398",
+        "name": "",
+        "style": {
+            "fill": "#e3f3d3",
+            "label": true
+        },
+        "nodes": [
+            "d20b1d29.af131",
+            "f16c6dc8.39b26",
+            "c772f505.e2a288",
+            "81b94467.3df428",
+            "6470fc32.84d4e4",
+            "a50dd18a.76418",
+            "d989b122.fe955",
+            "b989f736.23a2b8",
+            "d7ce792.fe4a788",
+            "a431d62d.9fc4c8",
+            "d2d8c432.da5b08",
+            "111e0dd4.0a5e22",
+            "6048b01f.b48ef",
+            "7c18d010.a2ff9",
+            "38bdd4ac.3dc20c"
+        ],
+        "x": 1634,
+        "y": 2409,
+        "w": 762,
+        "h": 242
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -9367,7 +9509,7 @@
         "type": "ui_group",
         "name": "Habilitar",
         "tab": "cea47c8c.6a38d",
-        "order": 8,
+        "order": 9,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -10006,6 +10148,16 @@
         "order": 11,
         "width": 4,
         "height": 1
+    },
+    {
+        "id": "e776d901.69bb88",
+        "type": "ui_group",
+        "name": "Re-arranque por protección",
+        "tab": "cea47c8c.6a38d",
+        "order": 8,
+        "disp": false,
+        "width": "12",
+        "collapse": false
     },
     {
         "id": "32cc6176.70f1ae",
@@ -35855,7 +36007,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración-Estándar-Tipo_de_arranque_Habilitar\",\t                \"Configuración-Estándar-Tipo_de_arranque_Rampas_de_Aceleración\",\t                \"Configuración-Estándar-Tipo_de_arranque_Tiempo_de_rearme\",\t                \"Configuración-Estándar-Tipo_de_arranque_No._de_Intentos\"],\t       \"show\":[ \"Configuración-Estándar-Tipo_de_arranque_Arranque_escalonado\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración-Estándar-Tipo_de_arranque_Habilitar\",\t                \"Configuración-Estándar-Tipo_de_arranque_Rampas_de_Aceleración\",\t                \"Configuración-Estándar-Tipo_de_arranque_Tiempo_de_rearme\",\t                \"Configuración-Estándar-Tipo_de_arranque_Re-arranque_por_protección\",\t                \"Configuración-Estándar-Tipo_de_arranque_No._de_Intentos\"],\t       \"show\":[ \"Configuración-Estándar-Tipo_de_arranque_Arranque_escalonado\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -35883,7 +36035,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración-Estándar-Tipo_de_arranque_Arranque_escalonado\"],\t       \"show\":[ \"Configuración-Estándar-Tipo_de_arranque_Habilitar\",\t                \"Configuración-Estándar-Tipo_de_arranque_Rampas_de_Aceleración\",\t                \"Configuración-Estándar-Tipo_de_arranque_Tiempo_de_rearme\",\t                \"Configuración-Estándar-Tipo_de_arranque_No._de_Intentos\"]\t            }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración-Estándar-Tipo_de_arranque_Arranque_escalonado\"],\t       \"show\":[ \"Configuración-Estándar-Tipo_de_arranque_Habilitar\",\t                \"Configuración-Estándar-Tipo_de_arranque_Rampas_de_Aceleración\",\t                \"Configuración-Estándar-Tipo_de_arranque_Tiempo_de_rearme\",\t                \"Configuración-Estándar-Tipo_de_arranque_Re-arranque_por_protección\",\t                \"Configuración-Estándar-Tipo_de_arranque_No._de_Intentos\"]\t            }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -40852,7 +41004,11 @@
             "577047bb.6519b8",
             "b275f5b2.e7e328",
             "73af0be0.8d91e4",
-            "8c73338.8deb8d"
+            "8c73338.8deb8d",
+            "7c18d010.a2ff9",
+            "65b39642.c7ada8",
+            "ea1e3c9f.dc8c2",
+            "6048b01f.b48ef"
         ],
         "x": 405,
         "y": 1150,
@@ -47377,7 +47533,9 @@
         "name": "Automatic Restart enable In",
         "links": [
             "be37bc8e.b3c0e",
-            "1c3a6d7c.b77d53"
+            "1c3a6d7c.b77d53",
+            "602f998.3e64168",
+            "4e19cfd4.3982f"
         ],
         "x": 475,
         "y": 2070,
@@ -48957,7 +49115,7 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "true",
+        "payload": "false",
         "payloadType": "bool",
         "x": 360,
         "y": 2228,
@@ -56089,7 +56247,7 @@
         "g": "8f8a192b.bb2ef8",
         "name": "",
         "group": "cf893b29.8b0a68",
-        "order": 6,
+        "order": 1,
         "width": "6",
         "height": "1",
         "passthru": false,
@@ -56116,7 +56274,7 @@
         "g": "8f8a192b.bb2ef8",
         "name": "",
         "group": "cf893b29.8b0a68",
-        "order": 7,
+        "order": 2,
         "width": "6",
         "height": "1",
         "passthru": false,
@@ -56176,7 +56334,9 @@
         "x": 2470,
         "y": 2160,
         "wires": [
-            []
+            [
+                "4e19cfd4.3982f"
+            ]
         ]
     },
     {
@@ -60120,8 +60280,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2010,
-        "y": 2160,
+        "x": 1960,
+        "y": 2590,
         "wires": [
             []
         ]
@@ -60146,8 +60306,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2010,
-        "y": 2080,
+        "x": 1960,
+        "y": 2500,
         "wires": [
             []
         ]
@@ -60172,8 +60332,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2010,
-        "y": 2250,
+        "x": 1960,
+        "y": 2680,
         "wires": [
             []
         ]
@@ -60198,48 +60358,10 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2010,
-        "y": 2340,
+        "x": 1960,
+        "y": 2770,
         "wires": [
             []
-        ]
-    },
-    {
-        "id": "3be91bdb.6ea684",
-        "type": "function",
-        "z": "e86f0ca4.7feb5",
-        "g": "90da307f.f1e8d",
-        "name": "Escalizar 4-20",
-        "func": "msg.payload = Escalizar([0,10],parseFloat(msg.payload/10000)).toFixed(2);\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1810,
-        "y": 2340,
-        "wires": [
-            [
-                "e9373487.c7fa08"
-            ]
-        ]
-    },
-    {
-        "id": "57abbc41.176ff4",
-        "type": "function",
-        "z": "e86f0ca4.7feb5",
-        "g": "90da307f.f1e8d",
-        "name": "Escalizar 4-20",
-        "func": "msg.payload = Escalizar([0,10],parseFloat(msg.payload/10000)).toFixed(2);\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1810,
-        "y": 2250,
-        "wires": [
-            [
-                "3f8b03ec.506cdc"
-            ]
         ]
     },
     {
@@ -60250,28 +60372,9 @@
         "endpoint": "5a40295d.6caa18",
         "variable": "AO2",
         "name": "",
-        "x": 1780,
-        "y": 2200,
+        "x": 1770,
+        "y": 2630,
         "wires": []
-    },
-    {
-        "id": "9a8e8228.837d",
-        "type": "function",
-        "z": "e86f0ca4.7feb5",
-        "g": "90da307f.f1e8d",
-        "name": "Escalizar 4-20",
-        "func": "msg.payload = Escalizar([0,10],parseFloat(msg.payload/10000)).toFixed(2);\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1810,
-        "y": 2160,
-        "wires": [
-            [
-                "5f2867aa.83ab38"
-            ]
-        ]
     },
     {
         "id": "84d2378f.68fed8",
@@ -60281,28 +60384,9 @@
         "endpoint": "5a40295d.6caa18",
         "variable": "AO1",
         "name": "",
-        "x": 1780,
-        "y": 2120,
+        "x": 1770,
+        "y": 2540,
         "wires": []
-    },
-    {
-        "id": "a75cfb72.5926b8",
-        "type": "function",
-        "z": "e86f0ca4.7feb5",
-        "g": "90da307f.f1e8d",
-        "name": "Escalizar 4-20",
-        "func": "msg.payload = Escalizar([0,10],parseFloat(msg.payload/10000)).toFixed(2);\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1810,
-        "y": 2080,
-        "wires": [
-            [
-                "9564fab5.983018"
-            ]
-        ]
     },
     {
         "id": "fcda2fbe.ad0b2",
@@ -60312,8 +60396,8 @@
         "endpoint": "5a40295d.6caa18",
         "variable": "AO4",
         "name": "",
-        "x": 1780,
-        "y": 2380,
+        "x": 1770,
+        "y": 2810,
         "wires": []
     },
     {
@@ -60324,8 +60408,8 @@
         "endpoint": "5a40295d.6caa18",
         "variable": "AO3",
         "name": "",
-        "x": 1780,
-        "y": 2290,
+        "x": 1770,
+        "y": 2720,
         "wires": []
     },
     {
@@ -60334,17 +60418,17 @@
         "z": "e86f0ca4.7feb5",
         "g": "90da307f.f1e8d",
         "name": "AO4",
-        "func": "var AO = flow.get('ES.SA.AO4')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*10000);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    return msg;\n}\nelse{\n    return;\n}\n\nfunction Escalizar(a,value){\n    b = [0,100];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
+        "func": "var AO = flow.get('ES.SA.AO4')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*1);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    return msg;\n}\nelse{\n    return;\n}\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1640,
-        "y": 2380,
+        "x": 1630,
+        "y": 2810,
         "wires": [
             [
                 "fcda2fbe.ad0b2",
-                "3be91bdb.6ea684"
+                "bd487a3c.8e19c8"
             ]
         ],
         "inputLabels": [
@@ -60360,17 +60444,17 @@
         "z": "e86f0ca4.7feb5",
         "g": "90da307f.f1e8d",
         "name": "AO3",
-        "func": "var AO = flow.get('ES.SA.AO3')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*10000);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    return msg;\n}\nelse{\n    return;\n}\n\nfunction Escalizar(a,value){\n    b = [0,100];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
+        "func": "var AO = flow.get('ES.SA.AO3')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*1);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    return msg;\n}\nelse{\n    return;\n}\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1640,
-        "y": 2290,
+        "x": 1630,
+        "y": 2720,
         "wires": [
             [
                 "9fc08388.ed34f",
-                "57abbc41.176ff4"
+                "4407ad32.953ac4"
             ]
         ],
         "inputLabels": [
@@ -60386,17 +60470,17 @@
         "z": "e86f0ca4.7feb5",
         "g": "90da307f.f1e8d",
         "name": "AO2",
-        "func": "var AO = flow.get('ES.SA.AO2')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*10000);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    return msg;\n}\nelse{\n    return;\n}\n\nfunction Escalizar(a,value){\n    b = [0,100];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
+        "func": "var AO = flow.get('ES.SA.AO2')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*1);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    return msg;\n}\nelse{\n    return;\n}\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1640,
-        "y": 2200,
+        "x": 1630,
+        "y": 2630,
         "wires": [
             [
                 "d92a7cde.4850e",
-                "9a8e8228.837d"
+                "7dba063a.4b3cd8"
             ]
         ],
         "inputLabels": [
@@ -60412,17 +60496,17 @@
         "z": "e86f0ca4.7feb5",
         "g": "90da307f.f1e8d",
         "name": "AO1",
-        "func": "var AO = flow.get('ES.SA.AO1')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*10000);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n}\nelse{\n    node.status({fill:\"gray\",shape:\"dot\",text:\"--\"});\n    msg.payload = 0;\n\n}\nreturn msg;\n\nfunction Escalizar(a,value){\n    b = [0,100];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
+        "func": "var AO = flow.get('ES.SA.AO1')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*1);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n}\nelse{\n    node.status({fill:\"gray\",shape:\"dot\",text:\"--\"});\n    msg.payload = 0;\n\n}\nreturn msg;\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1640,
-        "y": 2120,
+        "x": 1630,
+        "y": 2540,
         "wires": [
             [
                 "84d2378f.68fed8",
-                "a75cfb72.5926b8"
+                "86a1a8ce.c23f58"
             ]
         ],
         "inputLabels": [
@@ -60450,8 +60534,8 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 1440,
-        "y": 2120,
+        "x": 1430,
+        "y": 2540,
         "wires": [
             [
                 "53fbe394.d4ce6c",
@@ -60669,6 +60753,588 @@
         "wires": [
             [
                 "23815ef1.931a32"
+            ]
+        ]
+    },
+    {
+        "id": "c5745a1a.186ed8",
+        "type": "inject",
+        "z": "3df4c8d9.0bdc38",
+        "g": "65994a87.9d5eb4",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "#:(memoryOnly)::Protections.Status",
+        "payloadType": "global",
+        "x": 1790,
+        "y": 2360,
+        "wires": [
+            [
+                "e8ffc67a.2f5778"
+            ]
+        ]
+    },
+    {
+        "id": "e8ffc67a.2f5778",
+        "type": "rbe",
+        "z": "3df4c8d9.0bdc38",
+        "g": "65994a87.9d5eb4",
+        "name": "",
+        "func": "rbei",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1970,
+        "y": 2360,
+        "wires": [
+            [
+                "9fcfa3c7.5bb01"
+            ]
+        ]
+    },
+    {
+        "id": "9fcfa3c7.5bb01",
+        "type": "switch",
+        "z": "3df4c8d9.0bdc38",
+        "g": "65994a87.9d5eb4",
+        "name": "Condicion normalizada",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 2150,
+        "y": 2360,
+        "wires": [
+            [
+                "b0f432e9.afb6f"
+            ]
+        ]
+    },
+    {
+        "id": "81b94467.3df428",
+        "type": "ui_button",
+        "z": "3df4c8d9.0bdc38",
+        "g": "c25b39de.c92f08",
+        "name": "",
+        "group": "e776d901.69bb88",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "passthru": false,
+        "label": "No",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "",
+        "x": 2160,
+        "y": 2530,
+        "wires": [
+            [
+                "f16c6dc8.39b26"
+            ]
+        ]
+    },
+    {
+        "id": "c772f505.e2a288",
+        "type": "ui_button",
+        "z": "3df4c8d9.0bdc38",
+        "g": "c25b39de.c92f08",
+        "name": "",
+        "group": "e776d901.69bb88",
+        "order": 2,
+        "width": "2",
+        "height": "1",
+        "passthru": false,
+        "label": "Si",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "",
+        "x": 2160,
+        "y": 2490,
+        "wires": [
+            [
+                "d20b1d29.af131"
+            ]
+        ]
+    },
+    {
+        "id": "d20b1d29.af131",
+        "type": "change",
+        "z": "3df4c8d9.0bdc38",
+        "g": "c25b39de.c92f08",
+        "name": "Habilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Automatic_Restart.EnableProtection",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2290,
+        "y": 2490,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f16c6dc8.39b26",
+        "type": "change",
+        "z": "3df4c8d9.0bdc38",
+        "g": "c25b39de.c92f08",
+        "name": "Deshabilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Automatic_Restart.EnableProtection",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2300,
+        "y": 2530,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b989f736.23a2b8",
+        "type": "change",
+        "z": "3df4c8d9.0bdc38",
+        "g": "c25b39de.c92f08",
+        "name": "False",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2020,
+        "y": 2570,
+        "wires": [
+            [
+                "81b94467.3df428"
+            ]
+        ]
+    },
+    {
+        "id": "d989b122.fe955",
+        "type": "change",
+        "z": "3df4c8d9.0bdc38",
+        "g": "c25b39de.c92f08",
+        "name": "true",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2020,
+        "y": 2530,
+        "wires": [
+            [
+                "c772f505.e2a288"
+            ]
+        ]
+    },
+    {
+        "id": "a50dd18a.76418",
+        "type": "change",
+        "z": "3df4c8d9.0bdc38",
+        "g": "c25b39de.c92f08",
+        "name": "true",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2020,
+        "y": 2490,
+        "wires": [
+            [
+                "81b94467.3df428"
+            ]
+        ]
+    },
+    {
+        "id": "6470fc32.84d4e4",
+        "type": "change",
+        "z": "3df4c8d9.0bdc38",
+        "g": "c25b39de.c92f08",
+        "name": "False",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2020,
+        "y": 2450,
+        "wires": [
+            [
+                "c772f505.e2a288"
+            ]
+        ]
+    },
+    {
+        "id": "111e0dd4.0a5e22",
+        "type": "switch",
+        "z": "3df4c8d9.0bdc38",
+        "g": "c25b39de.c92f08",
+        "name": "",
+        "property": "Automatic_Restart.EnableProtection",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1880,
+        "y": 2510,
+        "wires": [
+            [
+                "6470fc32.84d4e4",
+                "a50dd18a.76418"
+            ],
+            [
+                "b989f736.23a2b8",
+                "d989b122.fe955"
+            ]
+        ]
+    },
+    {
+        "id": "7c18d010.a2ff9",
+        "type": "link in",
+        "z": "3df4c8d9.0bdc38",
+        "g": "c25b39de.c92f08",
+        "name": "Bypass filtro armónicos",
+        "links": [
+            "ad87cee4.7dbb5"
+        ],
+        "x": 1785,
+        "y": 2530,
+        "wires": [
+            [
+                "111e0dd4.0a5e22"
+            ]
+        ]
+    },
+    {
+        "id": "38bdd4ac.3dc20c",
+        "type": "complete",
+        "z": "3df4c8d9.0bdc38",
+        "g": "c25b39de.c92f08",
+        "name": "",
+        "scope": [
+            "d20b1d29.af131",
+            "f16c6dc8.39b26"
+        ],
+        "uncaught": false,
+        "x": 1730,
+        "y": 2490,
+        "wires": [
+            [
+                "111e0dd4.0a5e22"
+            ]
+        ]
+    },
+    {
+        "id": "d2d8c432.da5b08",
+        "type": "inject",
+        "z": "3df4c8d9.0bdc38",
+        "g": "c25b39de.c92f08",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 1880,
+        "y": 2570,
+        "wires": [
+            [
+                "a431d62d.9fc4c8"
+            ]
+        ]
+    },
+    {
+        "id": "6048b01f.b48ef",
+        "type": "link in",
+        "z": "3df4c8d9.0bdc38",
+        "g": "c25b39de.c92f08",
+        "name": "",
+        "links": [
+            "ad87cee4.7dbb5"
+        ],
+        "x": 1785,
+        "y": 2610,
+        "wires": [
+            [
+                "a431d62d.9fc4c8"
+            ]
+        ]
+    },
+    {
+        "id": "a431d62d.9fc4c8",
+        "type": "template",
+        "z": "3df4c8d9.0bdc38",
+        "g": "c25b39de.c92f08",
+        "name": "Boostrap",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <!--<link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">-->\n    \n  </head>\n  <body>\n    <div class=\"container\">\n        <div class =\"row justify-content-md-center mt-2\">\n            <strong class=\"text-center\">¿Arrancar luego de normalizar un disparo por protección?</strong>\n        </div>\n    </div>\n  </body>\n</html>",
+        "output": "str",
+        "x": 1900,
+        "y": 2610,
+        "wires": [
+            [
+                "d7ce792.fe4a788"
+            ]
+        ]
+    },
+    {
+        "id": "d7ce792.fe4a788",
+        "type": "ui_template",
+        "z": "3df4c8d9.0bdc38",
+        "g": "c25b39de.c92f08",
+        "group": "e776d901.69bb88",
+        "name": "Arranque por protección",
+        "order": 1,
+        "width": "8",
+        "height": "1",
+        "format": "<div ng-bind-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 2080,
+        "y": 2610,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b0f432e9.afb6f",
+        "type": "switch",
+        "z": "3df4c8d9.0bdc38",
+        "g": "65994a87.9d5eb4",
+        "name": "¿Arranque por protección activado?",
+        "property": "Automatic_Restart.EnableProtection",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 2430,
+        "y": 2360,
+        "wires": [
+            [
+                "f4363e16.f1813"
+            ]
+        ]
+    },
+    {
+        "id": "f4363e16.f1813",
+        "type": "link out",
+        "z": "3df4c8d9.0bdc38",
+        "g": "65994a87.9d5eb4",
+        "name": "",
+        "links": [
+            "c3276752.914e88"
+        ],
+        "x": 2615,
+        "y": 2360,
+        "wires": []
+    },
+    {
+        "id": "c3276752.914e88",
+        "type": "link in",
+        "z": "3df4c8d9.0bdc38",
+        "g": "dad84feb.d4773",
+        "name": "Re-Arranque desde función",
+        "links": [
+            "f4363e16.f1813"
+        ],
+        "x": 395,
+        "y": 2270,
+        "wires": [
+            [
+                "6db9c12b.c8705"
+            ]
+        ]
+    },
+    {
+        "id": "4e19cfd4.3982f",
+        "type": "link out",
+        "z": "3df4c8d9.0bdc38",
+        "g": "8f8a192b.bb2ef8",
+        "name": "Automatic Restart Enable Out",
+        "links": [
+            "55b87356.a4664c"
+        ],
+        "x": 2565,
+        "y": 2160,
+        "wires": []
+    },
+    {
+        "id": "86a1a8ce.c23f58",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "name": "toFixed(2)",
+        "func": "if(typeof msg.payload != 'undefined'){\n    msg.payload = (msg.payload).toFixed(2);\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1780,
+        "y": 2500,
+        "wires": [
+            [
+                "9564fab5.983018"
+            ]
+        ]
+    },
+    {
+        "id": "7dba063a.4b3cd8",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "name": "toFixed(2)",
+        "func": "if(typeof msg.payload != 'undefined'){\n    msg.payload = (msg.payload).toFixed(2);\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1780,
+        "y": 2590,
+        "wires": [
+            [
+                "5f2867aa.83ab38"
+            ]
+        ]
+    },
+    {
+        "id": "4407ad32.953ac4",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "name": "toFixed(2)",
+        "func": "if(typeof msg.payload != 'undefined'){\n    msg.payload = (msg.payload).toFixed(2);\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1780,
+        "y": 2680,
+        "wires": [
+            [
+                "3f8b03ec.506cdc"
+            ]
+        ]
+    },
+    {
+        "id": "bd487a3c.8e19c8",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "90da307f.f1e8d",
+        "name": "toFixed(2)",
+        "func": "if(typeof msg.payload != 'undefined'){\n    msg.payload = (msg.payload).toFixed(2);\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1780,
+        "y": 2770,
+        "wires": [
+            [
+                "e9373487.c7fa08"
             ]
         ]
     }

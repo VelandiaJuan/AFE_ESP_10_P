@@ -1235,7 +1235,9 @@
             "b9ed60ab.26f43"
         ],
         "x": 24,
-        "y": 19
+        "y": 19,
+        "w": 2012,
+        "h": 442
     },
     {
         "id": "74789700.1df498",
@@ -1301,7 +1303,9 @@
             "b509ce91.c5418"
         ],
         "x": 28,
-        "y": 473
+        "y": 473,
+        "w": 1584,
+        "h": 1224
     },
     {
         "id": "58f712f1.3e5eec",
@@ -1528,7 +1532,9 @@
             "55be084e.2ad3b8"
         ],
         "x": 24,
-        "y": 1709
+        "y": 1709,
+        "w": 1312,
+        "h": 222
     },
     {
         "id": "440775ff.2a92fc",
@@ -1577,7 +1583,9 @@
             "3ccbaa0b.2db096"
         ],
         "x": 24,
-        "y": 1939
+        "y": 1939,
+        "w": 1072,
+        "h": 232
     },
     {
         "id": "c57d2588.a42f68",
@@ -3544,7 +3552,9 @@
             "3a6fab3.c7e5154"
         ],
         "x": 54,
-        "y": 1389
+        "y": 1389,
+        "w": 532,
+        "h": 282
     },
     {
         "id": "1d477816.993308",
@@ -3879,7 +3889,9 @@
             "e2792bcf.8bea78"
         ],
         "x": 54,
-        "y": 499
+        "y": 499,
+        "w": 1142,
+        "h": 162
     },
     {
         "id": "da3ae781.998328",
@@ -3899,7 +3911,9 @@
             "d49cbbef.71a878"
         ],
         "x": 54,
-        "y": 669
+        "y": 669,
+        "w": 712,
+        "h": 122
     },
     {
         "id": "e60e8bfd.7a3248",
@@ -3923,7 +3937,9 @@
             "9d2ef708.6a7618"
         ],
         "x": 54,
-        "y": 799
+        "y": 799,
+        "w": 802,
+        "h": 162
     },
     {
         "id": "b19ef7d3.42ea68",
@@ -3947,7 +3963,9 @@
             "30a20927.0852c6"
         ],
         "x": 54,
-        "y": 969
+        "y": 969,
+        "w": 882,
+        "h": 162
     },
     {
         "id": "9dbc79d1.85ede8",
@@ -3975,7 +3993,9 @@
             "6a9bae72.3bb93"
         ],
         "x": 54,
-        "y": 1139
+        "y": 1139,
+        "w": 1242,
+        "h": 242
     },
     {
         "id": "9e9a162d.d4b0a8",
@@ -3998,7 +4018,9 @@
             "d1ec13b9.2d54a"
         ],
         "x": 964,
-        "y": 819
+        "y": 819,
+        "w": 622,
+        "h": 162
     },
     {
         "id": "b509ce91.c5418",
@@ -4018,7 +4040,9 @@
             "af5bc0f2.0bc23"
         ],
         "x": 594,
-        "y": 1389
+        "y": 1389,
+        "w": 702,
+        "h": 142
     },
     {
         "id": "15ca143a.56aa5c",
@@ -45242,7 +45266,7 @@
         "z": "3df4c8d9.0bdc38",
         "g": "fbbdc4b7.95b5c8",
         "name": "E4",
-        "func": "var Motor_Speed = global.get(\"C2S.Output_Frecuency\",'memoryOnly')||0;\nvar Reference1  = flow.get(\"Staggered_start\").Reference_1||0;\n\nif(Motor_Speed == Reference1){\n    msg.topic = \"Ref V1 Reached\";\n}\nelse{\n    msg.topic = \"Ref V1 Not reached yet\";\n}\nnode.status({fill:\"green\",shape:\"dot\",text:\"Reference : \"+Reference1+\", \"+\"Motor Speed : \"+ Motor_Speed});\nreturn msg;",
+        "func": "var Motor_Speed = Math.abs(global.get(\"C2S.Output_Frecuency\",'memoryOnly')||0);\nvar Reference1  = flow.get(\"Staggered_start\").Reference_1||0;\n\nif(Motor_Speed == Reference1){\n    msg.topic = \"Ref V1 Reached\";\n}\nelse{\n    msg.topic = \"Ref V1 Not reached yet\";\n}\nnode.status({fill:\"green\",shape:\"dot\",text:\"Reference : \"+Reference1+\", \"+\"Motor Speed : \"+ Motor_Speed});\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -45604,7 +45628,7 @@
         "z": "3df4c8d9.0bdc38",
         "g": "fbbdc4b7.95b5c8",
         "name": "E8",
-        "func": "var Motor_Speed = global.get(\"C2S.Output_Frecuency\",'memoryOnly')||0;\nvar Reference2  = flow.get(\"Staggered_start\").Reference_2||0;\n\nif(Motor_Speed == Reference2){\n    msg.topic = \"Ref V2 Reached\";\n}\nelse{\n    msg.topic = \"Ref V2 Not reached yet\"\n}\nnode.status({fill:\"green\",shape:\"dot\",text:\"Reference : \"+Reference2+\", \"+\"Motor Speed : \"+ Motor_Speed});\nreturn msg;",
+        "func": "var Motor_Speed = Math.abs(global.get(\"C2S.Output_Frecuency\",'memoryOnly')||0);\nvar Reference2  = flow.get(\"Staggered_start\").Reference_2||0;\n\nif(Motor_Speed == Reference2){\n    msg.topic = \"Ref V2 Reached\";\n}\nelse{\n    msg.topic = \"Ref V2 Not reached yet\"\n}\nnode.status({fill:\"green\",shape:\"dot\",text:\"Reference : \"+Reference2+\", \"+\"Motor Speed : \"+ Motor_Speed});\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -52951,7 +52975,7 @@
         "z": "d35c32b9.6419b",
         "g": "96c06653.552da8",
         "name": "Data Handle-StaggeredStart",
-        "func": "var C2S_Data                = global.get(\"C2S\", \"memoryOnly\") || \"\";\nvar Data_Points             = flow.get(\"Staggered_Start.Data_Points\",\"memoryOnly\") ||[];\nvar Final_Reference         = flow.get(\"Staggered_Start.Final_Reference\",\"memoryOnly\") || 30; \nvar Staggered_Start_Run     = flow.get(\"Staggered_Start.Running\",\"memoryOnly\") || false; \n\nvar Current_OperativeData   = { \n    'Time'              :Date.now(), \n    'Feedback_Speed'    :C2S_Data.Output_Frecuency, \n};\n\nif (C2S_Data.Output_Frecuency != Final_Reference){   \n    Data_Points.unshift({\n        \"x\":Current_OperativeData.Time,\n        \"y\":Current_OperativeData.Feedback_Speed\n    }); \n    msg.payload = [Data_Points];\n    //msg.series  = [\"Velocidad Feedbak\"];\n    //msg.label   = \"Arranque Escalonado\";\n}\nelse {\n    Staggered_Start_Run = false;\n}\n\nnode.status({fill:\"green\",shape:\"dot\",text:C2S_Data.Output_Frecuency+''+Final_Reference});\nflow.set(\"Staggered_Start.Running\",Staggered_Start_Run,\"memoryOnly\");\nflow.set(\"Staggered_Start.Data_Points\", Data_Points,\"memoryOnly\");\n\nreturn msg; \n       \n\n\n",
+        "func": "var C2S_Data                = global.get(\"C2S\", \"memoryOnly\") || \"\";\nvar Data_Points             = flow.get(\"Staggered_Start.Data_Points\",\"memoryOnly\") ||[];\nvar Final_Reference         = flow.get(\"Staggered_Start.Final_Reference\",\"memoryOnly\") || 30; \nvar Staggered_Start_Run     = flow.get(\"Staggered_Start.Running\",\"memoryOnly\") || false; \n\nvar Current_OperativeData   = { \n    'Time'              :Date.now(), \n    'Feedback_Speed'    :C2S_Data.Output_Frecuency, \n};\n\nif (Math.abs(C2S_Data.Output_Frecuency) != Final_Reference){   \n    Data_Points.unshift({\n        \"x\":Current_OperativeData.Time,\n        \"y\":Current_OperativeData.Feedback_Speed\n    }); \n    msg.payload = [Data_Points];\n    //msg.series  = [\"Velocidad Feedbak\"];\n    //msg.label   = \"Arranque Escalonado\";\n}\nelse {\n    Staggered_Start_Run = false;\n}\n\nnode.status({fill:\"green\",shape:\"dot\",text:C2S_Data.Output_Frecuency+''+Final_Reference});\nflow.set(\"Staggered_Start.Running\",Staggered_Start_Run,\"memoryOnly\");\nflow.set(\"Staggered_Start.Data_Points\", Data_Points,\"memoryOnly\");\n\nreturn msg; \n       \n\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",

@@ -403,39 +403,6 @@
         }
     },
     {
-        "id": "6140c191.470ef",
-        "type": "subflow",
-        "name": "VSDRead",
-        "info": "",
-        "category": "VSD",
-        "in": [],
-        "out": [
-            {
-                "x": 940,
-                "y": 70,
-                "wires": [
-                    {
-                        "id": "8375d89f.837d48",
-                        "port": 0
-                    }
-                ]
-            },
-            {
-                "x": 480,
-                "y": 110,
-                "wires": [
-                    {
-                        "id": "415b57f5.4abad8",
-                        "port": 0
-                    }
-                ]
-            }
-        ],
-        "env": [],
-        "color": "#E9967A",
-        "icon": "font-awesome/fa-inbox"
-    },
-    {
         "id": "f4a6b35e.fd0a3",
         "type": "subflow",
         "name": "Protection",
@@ -795,9 +762,7 @@
             "2939a4d0.1f6b6c"
         ],
         "x": 144,
-        "y": 19,
-        "w": 1002,
-        "h": 272
+        "y": 19
     },
     {
         "id": "95e4279e.465018",
@@ -836,9 +801,7 @@
             "eb91dac5.690838"
         ],
         "x": 128,
-        "y": 13,
-        "w": 1324,
-        "h": 810
+        "y": 13
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -886,9 +849,7 @@
             "1a75f72d.2bf409"
         ],
         "x": 144,
-        "y": 631.5,
-        "w": 492,
-        "h": 129.5
+        "y": 631.5
     },
     {
         "id": "c0366b36.2372f8",
@@ -912,9 +873,7 @@
             "2aac0837.208b38"
         ],
         "x": 144,
-        "y": 299,
-        "w": 492,
-        "h": 212
+        "y": 299
     },
     {
         "id": "e0133d8.e6db5c",
@@ -933,9 +892,7 @@
             "2409fb72.507894"
         ],
         "x": 1744,
-        "y": 19,
-        "w": 512,
-        "h": 142
+        "y": 19
     },
     {
         "id": "31baddff.ea0922",
@@ -969,9 +926,7 @@
             "6c6274de.8a002c"
         ],
         "x": 14,
-        "y": 239,
-        "w": 1592,
-        "h": 279.5
+        "y": 239
     },
     {
         "id": "7a498b99.415234",
@@ -987,9 +942,7 @@
             "ac1f5c0.f7b06a"
         ],
         "x": 18,
-        "y": 13,
-        "w": 794,
-        "h": 1994
+        "y": 13
     },
     {
         "id": "7b6f4b41.106164",
@@ -1005,9 +958,7 @@
             "cf57802e.7d258"
         ],
         "x": 14,
-        "y": 13,
-        "w": 1844,
-        "h": 214
+        "y": 13
     },
     {
         "id": "f2c899e7.e9eac8",
@@ -1155,9 +1106,7 @@
             "215bed4c.7858c2"
         ],
         "x": 818,
-        "y": 13,
-        "w": 914,
-        "h": 2204
+        "y": 13
     },
     {
         "id": "aa1ba550.cbd9d8",
@@ -1333,9 +1282,7 @@
             "82e7028e.38e78"
         ],
         "x": 644,
-        "y": 299,
-        "w": 472,
-        "h": 122
+        "y": 299
     },
     {
         "id": "675af0d1.a9fc4",
@@ -1351,9 +1298,7 @@
             "9bdf522.eba6db"
         ],
         "x": 28,
-        "y": 3,
-        "w": 1004,
-        "h": 544
+        "y": 3
     },
     {
         "id": "353eeed0.7959d2",
@@ -1370,9 +1315,7 @@
             "ab7a4a2c.17d8a8"
         ],
         "x": 28,
-        "y": 553,
-        "w": 1924,
-        "h": 1104
+        "y": 553
     },
     {
         "id": "e3aa057d.09fb18",
@@ -1390,9 +1333,7 @@
             "b9df7528.923398"
         ],
         "x": 28,
-        "y": 1663,
-        "w": 2860,
-        "h": 1062
+        "y": 1663
     },
     {
         "id": "a163450f.bc4438",
@@ -1410,9 +1351,7 @@
             "5f07f1b.ac4631"
         ],
         "x": 144,
-        "y": 521.5,
-        "w": 522,
-        "h": 97
+        "y": 521.5
     },
     {
         "id": "b55b6178.ef377",
@@ -1438,9 +1377,7 @@
             "9b29345d.646748"
         ],
         "x": 824,
-        "y": 2399,
-        "w": 852,
-        "h": 242
+        "y": 2399
     },
     {
         "id": "4888c9a8.82cb88",
@@ -1461,7 +1398,9 @@
             "f185a628.7c4598",
             "b5305a67.80d008",
             "52cef377.daab5c",
-            "4f79f4f3.46588c"
+            "4f79f4f3.46588c",
+            "f84640f8.5f42e",
+            "847c409b.80c02"
         ],
         "x": 88,
         "y": 1063
@@ -1562,9 +1501,7 @@
             "ba5f4e4b.e55a2"
         ],
         "x": 1054,
-        "y": 1119,
-        "w": 412,
-        "h": 82
+        "y": 1119
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -1862,6 +1799,30 @@
         "h": 714
     },
     {
+        "id": "aa2fba7e.146688",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3a6bee4b.22d342",
+            "ebb7241e.548d68",
+            "f059af07.db923",
+            "beae8e2f.5f80b"
+        ],
+        "x": 2748,
+        "y": 2183,
+        "w": 984,
+        "h": 784
+    },
+    {
         "id": "7f0ad68d.a88dc8",
         "type": "group",
         "z": "e86f0ca4.7feb5",
@@ -2118,9 +2079,7 @@
             "1660e38d.24cefc"
         ],
         "x": 40,
-        "y": 39,
-        "w": 892,
-        "h": 162
+        "y": 39
     },
     {
         "id": "c9848ab6.981718",
@@ -2148,9 +2107,7 @@
             "273454d7.4d089c"
         ],
         "x": 44,
-        "y": 39,
-        "w": 682,
-        "h": 242
+        "y": 39
     },
     {
         "id": "cf57802e.7d258",
@@ -2178,9 +2135,7 @@
             "f4dc844c.b0f888"
         ],
         "x": 940,
-        "y": 39,
-        "w": 892,
-        "h": 162
+        "y": 39
     },
     {
         "id": "1027a10.a1e515f",
@@ -2300,9 +2255,7 @@
             "a8914523.bc9e68"
         ],
         "x": 44,
-        "y": 289,
-        "w": 742,
-        "h": 1692
+        "y": 289
     },
     {
         "id": "51885913.764608",
@@ -2757,9 +2710,7 @@
             "723d59b.85ed6a8"
         ],
         "x": 154,
-        "y": 243,
-        "w": 928,
-        "h": 554
+        "y": 243
     },
     {
         "id": "195d3093.36368f",
@@ -2987,9 +2938,7 @@
             "3a348318.fe982c"
         ],
         "x": 154,
-        "y": 39,
-        "w": 1272,
-        "h": 192
+        "y": 39
     },
     {
         "id": "6cdd72bc.8124cc",
@@ -3280,9 +3229,7 @@
             "da8d71fd.6a33c"
         ],
         "x": 844,
-        "y": 319,
-        "w": 862,
-        "h": 452
+        "y": 319
     },
     {
         "id": "5073e01d.10857",
@@ -3305,9 +3252,7 @@
             "cd729508.733ad8"
         ],
         "x": 844,
-        "y": 1009,
-        "w": 722,
-        "h": 222
+        "y": 1009
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -3332,9 +3277,7 @@
             "fd328934.0ddd18"
         ],
         "x": 854,
-        "y": 1629,
-        "w": 662,
-        "h": 202
+        "y": 1629
     },
     {
         "id": "f78dcb63.bde038",
@@ -3358,9 +3301,7 @@
             "d458c292.e2009"
         ],
         "x": 844,
-        "y": 1439,
-        "w": 672,
-        "h": 162
+        "y": 1439
     },
     {
         "id": "90ebdbed.1907a8",
@@ -3386,9 +3327,7 @@
             "75954ddb.3b0f04"
         ],
         "x": 844,
-        "y": 39,
-        "w": 812,
-        "h": 272
+        "y": 39
     },
     {
         "id": "311890ad.cc4ed",
@@ -3413,9 +3352,7 @@
             "1ba7dd1.c24d723"
         ],
         "x": 844,
-        "y": 779,
-        "w": 572,
-        "h": 202
+        "y": 779
     },
     {
         "id": "f8e8eeb2.3f011",
@@ -3438,9 +3375,7 @@
             "39dc61d6.38245e"
         ],
         "x": 844,
-        "y": 1249,
-        "w": 782,
-        "h": 172
+        "y": 1249
     },
     {
         "id": "8a7f783.a732b88",
@@ -3463,9 +3398,7 @@
             "f65a5bee.378fe8"
         ],
         "x": 844,
-        "y": 1849,
-        "w": 572,
-        "h": 182
+        "y": 1849
     },
     {
         "id": "8c3082f9.73975",
@@ -3489,9 +3422,7 @@
             "23b2730.9c7eb8e"
         ],
         "x": 854,
-        "y": 2049,
-        "w": 602,
-        "h": 142
+        "y": 2049
     },
     {
         "id": "215bed4c.7858c2",
@@ -3513,9 +3444,7 @@
             "2a671cfc.7a9654"
         ],
         "x": 1484,
-        "y": 1889,
-        "w": 152,
-        "h": 292
+        "y": 1889
     },
     {
         "id": "5ff12c29.d4cc64",
@@ -3570,9 +3499,7 @@
             "d0a19b38.893ab8"
         ],
         "x": 54,
-        "y": 29,
-        "w": 952,
-        "h": 252
+        "y": 29
     },
     {
         "id": "9bdf522.eba6db",
@@ -3602,9 +3529,7 @@
             "e6356da9.60663"
         ],
         "x": 54,
-        "y": 289,
-        "w": 952,
-        "h": 232
+        "y": 289
     },
     {
         "id": "fbbdc4b7.95b5c8",
@@ -3673,9 +3598,7 @@
             "272ed76d.7cce68"
         ],
         "x": 54,
-        "y": 879,
-        "w": 1568,
-        "h": 752
+        "y": 879
     },
     {
         "id": "84c9494b.d4dbe8",
@@ -3709,9 +3632,7 @@
             "e2832ff4.8c486"
         ],
         "x": 54,
-        "y": 579,
-        "w": 912,
-        "h": 292
+        "y": 579
     },
     {
         "id": "dad84feb.d4773",
@@ -3785,9 +3706,7 @@
             "c3276752.914e88"
         ],
         "x": 54,
-        "y": 1999,
-        "w": 1542,
-        "h": 700
+        "y": 1999
     },
     {
         "id": "7aad629d.de652c",
@@ -3849,9 +3768,7 @@
             "b8c12e8b.715b2"
         ],
         "x": 54,
-        "y": 1689,
-        "w": 2632,
-        "h": 302
+        "y": 1689
     },
     {
         "id": "4eb2e67c.e57628",
@@ -4245,9 +4162,7 @@
             "577047bb.6519b8"
         ],
         "x": 974,
-        "y": 579,
-        "w": 952,
-        "h": 242
+        "y": 579
     },
     {
         "id": "e2e299a6.d3c5c8",
@@ -4305,9 +4220,7 @@
             "4e19cfd4.3982f"
         ],
         "x": 1604,
-        "y": 1999,
-        "w": 1002,
-        "h": 282
+        "y": 1999
     },
     {
         "id": "96de1dd.d202ce",
@@ -4453,9 +4366,7 @@
             "c25b39de.c92f08"
         ],
         "x": 1608,
-        "y": 2293,
-        "w": 1254,
-        "h": 384
+        "y": 2293
     },
     {
         "id": "46208c12.9b8aa4",
@@ -4486,6 +4397,105 @@
         "y": 1989,
         "w": 552,
         "h": 162
+    },
+    {
+        "id": "3a6bee4b.22d342",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "g": "aa2fba7e.146688",
+        "name": "Configurar sensor de fondo",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "2e9fdc57.907424",
+            "bcbc4f06.97315",
+            "1708596a.fe0687",
+            "5827de1e.b3965",
+            "2c7f0a4a.5cdbe6",
+            "e755d972.51be38",
+            "78a84227.12c87c",
+            "5e404384.1cee1c",
+            "ec994a08.2df8b8",
+            "12b0045f.8d610c",
+            "16b64fab.dbb22"
+        ],
+        "x": 2774,
+        "y": 2209,
+        "w": 772,
+        "h": 182
+    },
+    {
+        "id": "ebb7241e.548d68",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "g": "aa2fba7e.146688",
+        "name": "Mapa Modbus Sensor de fondo",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "a382052a.d8aa18",
+            "ab0727da.a53ac8",
+            "50db6dbc.984264",
+            "d5131ced.0892d",
+            "185f7c24.292724",
+            "198258ee.39ca47",
+            "32936c3.05fea94",
+            "4ee6be01.95143",
+            "6875b1aa.12a2b",
+            "68df2e1f.7d983",
+            "e7fa2ea4.726ea",
+            "1a2660d3.c50b5f"
+        ],
+        "x": 2774,
+        "y": 2399,
+        "w": 932,
+        "h": 322
+    },
+    {
+        "id": "f059af07.db923",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "g": "aa2fba7e.146688",
+        "name": "Objeto global propiedades del sensor",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "607f9200.e4c44c",
+            "85a003b1.e1e26",
+            "a9df7a9b.8847d8",
+            "b3c62075.a7822"
+        ],
+        "x": 2774,
+        "y": 2729,
+        "w": 602,
+        "h": 122
+    },
+    {
+        "id": "beae8e2f.5f80b",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "g": "aa2fba7e.146688",
+        "name": "Lectura y asignación DHS",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "88205ddf.276db",
+            "9a8806c3.c971a8",
+            "7b7a47b.51bdfb8",
+            "3d698efd.3e4e82"
+        ],
+        "x": 2774,
+        "y": 2859,
+        "w": 802,
+        "h": 82
     },
     {
         "id": "5613a5b2.95577c",
@@ -4946,9 +4956,7 @@
             "6d40adaa.11d2c4"
         ],
         "x": 684,
-        "y": 649,
-        "w": 242,
-        "h": 122
+        "y": 649
     },
     {
         "id": "64ff74e5.f4c53c",
@@ -4967,9 +4975,7 @@
             "42f85e00.83b314"
         ],
         "x": 684,
-        "y": 269,
-        "w": 173,
-        "h": 202
+        "y": 269
     },
     {
         "id": "272ed76d.7cce68",
@@ -4995,9 +5001,7 @@
             "97085297.91fc4"
         ],
         "x": 924,
-        "y": 909,
-        "w": 672,
-        "h": 202
+        "y": 909
     },
     {
         "id": "5d1065e2.7b952c",
@@ -5116,9 +5120,7 @@
             "d1a73825.d89578"
         ],
         "x": 684,
-        "y": 479,
-        "w": 372,
-        "h": 162
+        "y": 479
     },
     {
         "id": "65994a87.9d5eb4",
@@ -5139,9 +5141,7 @@
             "1f72cbbe.a84cb4"
         ],
         "x": 1634,
-        "y": 2319,
-        "w": 1202,
-        "h": 82
+        "y": 2319
     },
     {
         "id": "c25b39de.c92f08",
@@ -5171,9 +5171,7 @@
             "38bdd4ac.3dc20c"
         ],
         "x": 1634,
-        "y": 2409,
-        "w": 762,
-        "h": 242
+        "y": 2409
     },
     {
         "id": "2fb80d12.b93df2",
@@ -5376,31 +5374,6 @@
         "disp": true,
         "width": 8,
         "collapse": false
-    },
-    {
-        "id": "78d62e2c.99b72",
-        "type": "modbus-client",
-        "name": "LocalServer",
-        "clienttype": "tcp",
-        "bufferCommands": true,
-        "stateLogEnabled": false,
-        "queueLogEnabled": false,
-        "tcpHost": "localhost",
-        "tcpPort": "10502",
-        "tcpType": "DEFAULT",
-        "serialPort": "/dev/ttyUSB",
-        "serialType": "RTU-BUFFERD",
-        "serialBaudrate": "9600",
-        "serialDatabits": "8",
-        "serialStopbits": "1",
-        "serialParity": "none",
-        "serialConnectionDelay": "100",
-        "unit_id": 5,
-        "commandDelay": 1,
-        "clientTimeout": 1000,
-        "reconnectOnTimeout": true,
-        "reconnectTimeout": 2000,
-        "parallelUnitIdsAllowed": true
     },
     {
         "id": "c17f19ae.06fbf8",
@@ -10211,36 +10184,18 @@
         "tab": "2dbf183f.1f2ed8",
         "order": 2,
         "disp": true,
-        "width": "6",
+        "width": "3",
         "collapse": false
     },
     {
         "id": "1b1afe53.beb8f2",
         "type": "ui_group",
-        "name": "Estado",
+        "name": "Información",
         "tab": "2dbf183f.1f2ed8",
         "order": 3,
         "disp": true,
-        "width": "6",
+        "width": "9",
         "collapse": false
-    },
-    {
-        "id": "8d6073fb.7bfda",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "55a9eb4e.762c64",
-        "order": 4,
-        "width": "2",
-        "height": 1
-    },
-    {
-        "id": "d3ef5ee6.69aec",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "55a9eb4e.762c64",
-        "order": 6,
-        "width": "2",
-        "height": 1
     },
     {
         "id": "781adf2a.5397f",
@@ -10259,6 +10214,49 @@
         "order": 7,
         "width": "0",
         "height": "0"
+    },
+    {
+        "id": "3e9ddef7.710772",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "55a9eb4e.762c64",
+        "order": 8,
+        "width": "0",
+        "height": "0"
+    },
+    {
+        "id": "81f89a08.561f38",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "55a9eb4e.762c64",
+        "order": 9,
+        "width": "0",
+        "height": "0"
+    },
+    {
+        "id": "aeef0dfe.74e9c",
+        "type": "modbus-client",
+        "name": "DHS RS485",
+        "clienttype": "simpleser",
+        "bufferCommands": true,
+        "stateLogEnabled": false,
+        "queueLogEnabled": false,
+        "tcpHost": "127.0.0.1",
+        "tcpPort": "502",
+        "tcpType": "DEFAULT",
+        "serialPort": "/dev/serial1",
+        "serialType": "RTU-BUFFERD",
+        "serialBaudrate": "9600",
+        "serialDatabits": "8",
+        "serialStopbits": "1",
+        "serialParity": "none",
+        "serialConnectionDelay": "100",
+        "unit_id": "1",
+        "commandDelay": "1",
+        "clientTimeout": "1000",
+        "reconnectOnTimeout": true,
+        "reconnectTimeout": "2000",
+        "parallelUnitIdsAllowed": true
     },
     {
         "id": "32cc6176.70f1ae",
@@ -21419,139 +21417,6 @@
         ]
     },
     {
-        "id": "5f5c0eb1.85586",
-        "type": "modbus-read",
-        "z": "6140c191.470ef",
-        "name": "",
-        "topic": "",
-        "showStatusActivities": false,
-        "logIOActivities": false,
-        "showErrors": false,
-        "unitid": "",
-        "dataType": "HoldingRegister",
-        "adr": "0",
-        "quantity": "16",
-        "rate": "300",
-        "rateUnit": "ms",
-        "delayOnStart": false,
-        "startDelayTime": "",
-        "server": "78d62e2c.99b72",
-        "useIOFile": false,
-        "ioFile": "",
-        "useIOForPayload": false,
-        "emptyMsgOnFail": false,
-        "x": 117,
-        "y": 70,
-        "wires": [
-            [],
-            [
-                "8f39f447.253f48",
-                "415b57f5.4abad8"
-            ]
-        ]
-    },
-    {
-        "id": "8f39f447.253f48",
-        "type": "change",
-        "z": "6140c191.470ef",
-        "name": "Status Word",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "payload.data[0]",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 287,
-        "y": 70,
-        "wires": [
-            [
-                "43cf3328.11744c"
-            ]
-        ]
-    },
-    {
-        "id": "43cf3328.11744c",
-        "type": "function",
-        "z": "6140c191.470ef",
-        "name": "INT to BIN Buffer",
-        "func": "var buffer = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];\nvar temp = msg.payload;\nvar i = buffer.length\n\nwhile(temp > 0){\n    if(temp % 2 === 0){\n        buffer[i] = 0;\n    }\n    else{\n        buffer[i] = 1;\n    }\n    \n    i--;\n    temp = Math.floor(temp / 2);\n}\n\nmsg.payload = buffer.reverse();\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 467,
-        "y": 70,
-        "wires": [
-            [
-                "43b62275.c76bcc"
-            ]
-        ]
-    },
-    {
-        "id": "8375d89f.837d48",
-        "type": "function",
-        "z": "6140c191.470ef",
-        "name": "Status Function",
-        "func": "//Calling global variables\nvar Active  = global.get(\"Drive_Status.Active\") ||0;\nvar Alarm   = global.get(\"Drive_Status.Alarm\")  ||0;\nvar Fault   = global.get(\"Drive_Status.Faulted\")||0;\nvar Accel   = global.get(\"Drive_Status.Accel\")  ||0;\nvar Decel   = global.get(\"Drive_Status.Decel\")  ||0;\nvar Comm    = global.get(\"Estado_Comunicacion_Drive\");\n\nif(!Comm){\n    msg.payload = \"Falla de comunicación\";\n}\nelse if(Fault){\n    msg.payload = \"FALLA!\";\n}\nelse if (Alarm){\n    msg.payload = \"ALARMA!\";\n}\nelse if(Active){\n    if(Accel){\n        msg.payload = \"ACTIVO Acelerando\"; \n    }\n    else if(Decel){\n        msg.payload = \"ACTIVO Desacelerando\";\n    }\n    else{\n        msg.payload = \"ACTIVO\";\n    }\n}\nelse {\n    msg.payload = \"DETENIDO\";\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 817,
-        "y": 70,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "3868d9f2.6c3b86",
-        "type": "comment",
-        "z": "6140c191.470ef",
-        "name": "Lectura de los parámetros del Drive almacenados en el mapa Modbus del servidor local",
-        "info": "",
-        "x": 327,
-        "y": 20,
-        "wires": []
-    },
-    {
-        "id": "415b57f5.4abad8",
-        "type": "function",
-        "z": "6140c191.470ef",
-        "name": "Lectura Parámetros Drive",
-        "func": "msg.payload = {\n    \"Output_Frequency\"  :msg.payload.data[1]/100,\n    \"Speed_Reference\"   :msg.payload.data[2]/100,\n    \"Motor_Speed\"       :msg.payload.data[3]/100,\n    \"Output_Current\"    :msg.payload.data[4]/100,\n    \"Output_Voltage\"    :msg.payload.data[5]/100,\n    \"Output_Power\"      :msg.payload.data[6]/1000,\n    \"Power_Factor\"      :msg.payload.data[7]/100,\n    \"Bus_DC_Volts\"      :msg.payload.data[8]/10,\n    \"Elapsed_Runtime\"   :msg.payload.data[9]/1000,\n    \"Motor_KWh\"         :msg.payload.data[10],\n    \"Digital_Inputs\"    :msg.payload.data[11],\n    \"Drive_Status_2\"    :msg.payload.data[12],\n    \"IGBTS_Temperature\" :msg.payload.data[13],\n    \"Drive_Temperature\" :msg.payload.data[14],\n    \"Last_Fault_Code\"   :msg.payload.data[15]\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 327,
-        "y": 110,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "43b62275.c76bcc",
-        "type": "function",
-        "z": "6140c191.470ef",
-        "name": "Drive_Status",
-        "func": "msg.payload={\n    \"Run_Ready\"         :msg.payload[0],\n    \"Active\"            :msg.payload[1],\n    \"Command_dir\"       :msg.payload[2],\n    \"Actual_dir\"        :msg.payload[3],\n    \"Accel\"             :msg.payload[4],\n    \"Decel\"             :msg.payload[5],\n    \"Alarm\"             :msg.payload[6],\n    \"Fault\"             :msg.payload[7]\n}\nglobal.set(\"Drive_Status\",msg.payload)\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 647,
-        "y": 70,
-        "wires": [
-            [
-                "8375d89f.837d48"
-            ]
-        ]
-    },
-    {
         "id": "2728a87e.717058",
         "type": "ui_button",
         "z": "43b51d90.0b47f4",
@@ -22516,7 +22381,7 @@
         "fieldType": "msg",
         "format": "html",
         "syntax": "mustache",
-        "template": "<div class = \"container\">\n    <div class = \"row\"> \n        <!-- Image -->\n        <div class=\"col\">\n            \n            <!-- BCPGroup LOGO -->\n            <img src=\"http://localhost:1880/swcpro-images/hlogo.png\" width=\"45\" height=\"45\" class=\"d-inline-block align-center\" alt=\"\" loading=\"lazy\">\n        \n            <div class=\"btn-group\" role=\"group\" aria-label=\"Basic example\">\n                <!-- Main -->\n                <a href=\"http://localhost:1880/ui/#!/0\" type=\"button\" class=\"btn btn-link\">\n                    <!-- House icon -->\n                    <img src=\"http://localhost:1880/bootstrap-icons/icons/house.svg\" alt=\"\" width=\"30\" height=\"30\">\n                </a>\n                <!-- Menu -->\n                <a href=\"http://localhost:1880/ui/#!/1\" type=\"button\" class=\"btn btn-link\">\n                    <!-- List icon -->\n                    <img src=\"http://localhost:1880/bootstrap-icons/icons/list-ul.svg\" alt=\"\" width=\"30\" height=\"30\">\n                </a>\n            </div>\n        </div>    \n        <!-- Users -->\n        <div class=\"col\">\n            <div class=\"btn-group float-right\" role=\"group\" aria-label=\"Button group with nested dropdown\">\n                <!-- Events -->\n                <a href=\"http://localhost:1880/ui/#!/2\" type=\"button\" class=\"btn btn-link\">\n                    <!-- Calendar icon -->\n                    <img src=\"http://localhost:1880/bootstrap-icons/icons/calendar2-check.svg\" alt=\"\" width=\"30\" height=\"30\">\n                </a>\n                <!-- Users -->\n                <a href=\"http://localhost:1880/ui/#!/3\" type=\"button\" class=\"btn btn-link\">\n                    <!-- Person icon -->\n                    <img src=\"http://localhost:1880/bootstrap-icons/icons/file-person.svg\" alt=\"\" width=\"30\" height=\"30\">\n                </a>\n                <!-- Datalogger -->\n                <a href=\"http://localhost:1880/ui/#!/42\" type=\"button\" class=\"btn btn-link\">\n                    <!-- Person icon -->\n                    <img src=\"http://swcpro.local:1880/bootstrap-icons/icons/clipboard-data.svg\" alt=\"\" width=\"30\" height=\"30\">\n                </a>\n            </div>\n        </div>\n    </div>\n</div>\n",
+        "template": "<div class = \"container\">\n    <div class = \"row\"> \n        <!-- Image -->\n        <div class=\"col\">\n            \n            <!-- BCPGroup LOGO -->\n            <img src=\"http://localhost:1880/swcpro-images/hlogo.png\" width=\"45\" height=\"45\" class=\"d-inline-block align-center\" alt=\"\" loading=\"lazy\">\n        \n            <div class=\"btn-group\" role=\"group\" aria-label=\"Basic example\">\n                <!-- Main -->\n                <a href=\"http://localhost:1880/ui/#!/0\" type=\"button\" class=\"btn btn-link\">\n                    <!-- House icon -->\n                    <img src=\"http://localhost:1880/bootstrap-icons/icons/house.svg\" alt=\"\" width=\"30\" height=\"30\">\n                </a>\n                <!-- Menu -->\n                <a href=\"http://localhost:1880/ui/#!/1\" type=\"button\" class=\"btn btn-link\">\n                    <!-- List icon -->\n                    <img src=\"http://localhost:1880/bootstrap-icons/icons/list-ul.svg\" alt=\"\" width=\"30\" height=\"30\">\n                </a>\n            </div>\n        </div>    \n        <!-- Users -->\n        <div class=\"col\">\n            <div class=\"btn-group float-right\" role=\"group\" aria-label=\"Button group with nested dropdown\">\n                <!-- Events -->\n                <a href=\"http://localhost:1880/ui/#!/2\" type=\"button\" class=\"btn btn-link\">\n                    <!-- Calendar icon -->\n                    <img src=\"http://localhost:1880/bootstrap-icons/icons/calendar2-check.svg\" alt=\"\" width=\"30\" height=\"30\">\n                </a>\n                <!-- Users -->\n                <a href=\"http://localhost:1880/ui/#!/3\" type=\"button\" class=\"btn btn-link\">\n                    <!-- Person icon -->\n                    <img src=\"http://localhost:1880/bootstrap-icons/icons/file-person.svg\" alt=\"\" width=\"30\" height=\"30\">\n                </a>\n                <!-- Datalogger -->\n                <a href=\"http://localhost:1880/ui/#!/42\" type=\"button\" class=\"btn btn-link\">\n                    <!-- Person icon -->\n                    <img src=\"http://localhost:1880/bootstrap-icons/icons/clipboard-data.svg\" alt=\"\" width=\"30\" height=\"30\">\n                </a>\n            </div>\n        </div>\n    </div>\n</div>\n",
         "output": "str",
         "x": 170,
         "y": 420,
@@ -40967,7 +40832,8 @@
             "25506b4e.d714c4",
             "6b5f7518.04fddc",
             "1708596a.fe0687",
-            "88d232ea.2ef4b"
+            "88d232ea.2ef4b",
+            "b3c62075.a7822"
         ],
         "x": 405,
         "y": 1140,
@@ -61728,25 +61594,21 @@
         "id": "2e9fdc57.907424",
         "type": "ui_dropdown",
         "z": "e86f0ca4.7feb5",
+        "g": "3a6bee4b.22d342",
         "name": "Selección Sensor de Fondo",
         "label": "",
         "tooltip": "",
         "place": "",
         "group": "55a9eb4e.762c64",
         "order": 2,
-        "width": "6",
-        "height": "1",
+        "width": "0",
+        "height": "0",
         "passthru": true,
         "multiple": false,
         "options": [
             {
                 "label": "Ninguno",
                 "value": "Ninguno",
-                "type": "str"
-            },
-            {
-                "label": "Magneto PDL",
-                "value": "Magneto PDL",
                 "type": "str"
             },
             {
@@ -61760,13 +61622,8 @@
                 "type": "str"
             },
             {
-                "label": "Centinel",
-                "value": "Centinel",
-                "type": "str"
-            },
-            {
-                "label": "Scout",
-                "value": "Scout",
+                "label": "GRC Scout",
+                "value": "GRC Scout",
                 "type": "str"
             },
             {
@@ -61775,25 +61632,20 @@
                 "type": "str"
             },
             {
-                "label": "ZenithE7",
-                "value": "ZenithE7",
+                "label": "Borets",
+                "value": "Borets",
                 "type": "str"
             },
             {
-                "label": "ZenithC6",
-                "value": "ZenithC6",
-                "type": "str"
-            },
-            {
-                "label": "Borets SPS1500",
-                "value": "Borets SPS1500",
+                "label": "Borets Spy-Pro-SPS-1500",
+                "value": "Borets Spy-Pro-SPS-1500",
                 "type": "str"
             }
         ],
         "payload": "",
         "topic": "DownholeSensor_Brand",
-        "x": 3330,
-        "y": 2230,
+        "x": 3260,
+        "y": 2250,
         "wires": [
             [
                 "ec994a08.2df8b8"
@@ -61804,19 +61656,20 @@
         "id": "bcbc4f06.97315",
         "type": "ui_text_input",
         "z": "e86f0ca4.7feb5",
+        "g": "3a6bee4b.22d342",
         "name": "ID Sensor de fondo",
         "label": "ID",
         "tooltip": "",
         "group": "55a9eb4e.762c64",
         "order": 5,
-        "width": "2",
+        "width": "3",
         "height": "1",
         "passthru": true,
         "mode": "number",
         "delay": 300,
         "topic": "ID_Downhole",
-        "x": 3300,
-        "y": 2280,
+        "x": 3230,
+        "y": 2300,
         "wires": [
             [
                 "12b0045f.8d610c"
@@ -61827,12 +61680,13 @@
         "id": "1708596a.fe0687",
         "type": "link in",
         "z": "e86f0ca4.7feb5",
+        "g": "3a6bee4b.22d342",
         "name": "",
         "links": [
             "ad87cee4.7dbb5"
         ],
-        "x": 2885,
-        "y": 2280,
+        "x": 2815,
+        "y": 2300,
         "wires": [
             [
                 "2c7f0a4a.5cdbe6"
@@ -61843,14 +61697,15 @@
         "id": "5827de1e.b3965",
         "type": "ui_dropdown",
         "z": "e86f0ca4.7feb5",
+        "g": "3a6bee4b.22d342",
         "name": "Selección Protocolo",
         "label": "",
         "tooltip": "",
         "place": "Selección ...",
         "group": "55a9eb4e.762c64",
         "order": 3,
-        "width": "6",
-        "height": "1",
+        "width": "0",
+        "height": "0",
         "passthru": true,
         "multiple": false,
         "options": [
@@ -61867,8 +61722,8 @@
         ],
         "payload": "",
         "topic": "DownholeSensor_Protocol",
-        "x": 3310,
-        "y": 2330,
+        "x": 3240,
+        "y": 2350,
         "wires": [
             [
                 "16b64fab.dbb22"
@@ -61876,100 +61731,18 @@
         ]
     },
     {
-        "id": "436393ea.ce70bc",
-        "type": "template",
-        "z": "e86f0ca4.7feb5",
-        "name": "Registros Pre Configurados",
-        "field": "template",
-        "fieldType": "msg",
-        "format": "handlebars",
-        "syntax": "mustache",
-        "template": "<!DOCTYPE html>\n<html>\n    <head>\n        <style>\n            table {\n                font-family: arial, sans-serif;\n                border-collapse: collapse;\n                font-size: 14px;\n                margin-left: auto;\n                margin-right: auto;\n                margin-top:10px;\n            }\n            tr{\n                widtd:20px;\n            }\n            td,tr,th {\n              border: 2px solid #000000;\n              text-align: center;\n              padding: 4px;\n            }\n            th{\n                color: #fcfeff;\n                background-color: #77797a;\n            }\n            \n        </style>\n    </head>\n    <table id= \"Tabla\" class=\"TextBox\">\n        <tr>\n            <th>Variable</th>\n            <th>Registro</th>\n            <th>Tipo de dato</th>\n        </tr>\n        <tr>\n            <td>{{PIn.Name}}</td> <!-- 8 -->\n            <td>{{PIn.Register}}</td>\n            <td>{{payload.Tipo.0}}</td>\n        </tr>\n    </table>\n </body>\n</html>",
-        "output": "str",
-        "x": 3190,
-        "y": 2380,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "3e92b7c6.10e3c8",
-        "type": "inject",
-        "z": "e86f0ca4.7feb5",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "1",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 2940,
-        "y": 2420,
-        "wires": [
-            [
-                "a404afbf.f15b1"
-            ]
-        ]
-    },
-    {
-        "id": "a404afbf.f15b1",
-        "type": "switch",
-        "z": "e86f0ca4.7feb5",
-        "name": "",
-        "property": "DownholeSensor.Brand_DHS",
-        "propertyType": "flow",
-        "rules": [
-            {
-                "t": "neq",
-                "v": "Ninguno",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 3120,
-        "y": 2420,
-        "wires": [
-            [
-                "16ed2e43.6046d2"
-            ]
-        ]
-    },
-    {
-        "id": "16ed2e43.6046d2",
-        "type": "function",
-        "z": "e86f0ca4.7feb5",
-        "name": "",
-        "func": "var DownholeSensor = flow.get(\"DownholeSensor.Brand_DHS\");\nif (DownholeSensor == 'Magento PDL'){}\nelse if (DownholeSensor == 'Zenith'){}\nelse if (DownholeSensor == 'Schlumberger'){}\nelse if (DownholeSensor == 'Centinel'){}\nelse if (DownholeSensor == 'Scout'){}\nelse if (DownholeSensor == 'Novomet'){}\nelse if (DownholeSensor == 'ZenithE7'){}\nelse if (DownholeSensor == 'ZenithC6'){}\nelse if (DownholeSensor == 'Borets SPS1500'){}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 3530,
-        "y": 2420,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "2c7f0a4a.5cdbe6",
         "type": "function",
         "z": "e86f0ca4.7feb5",
+        "g": "3a6bee4b.22d342",
         "name": "DHS",
         "func": "\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "if(flow.get(\"DownholeSensor\") == undefined){\n    flow.set(\"DownholeSensor.Brand_DHS\",\"Ninguno\");\n    flow.set(\"DownholeSensor.ID\",253);\n    flow.set(\"DownholeSensor.Protocol\",\"RS485\");\n}",
         "finalize": "",
-        "x": 2970,
-        "y": 2280,
+        "x": 2900,
+        "y": 2300,
         "wires": [
             [
                 "e755d972.51be38",
@@ -61982,6 +61755,7 @@
         "id": "e755d972.51be38",
         "type": "change",
         "z": "e86f0ca4.7feb5",
+        "g": "3a6bee4b.22d342",
         "name": "Brand",
         "rules": [
             {
@@ -61997,8 +61771,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3120,
-        "y": 2230,
+        "x": 3050,
+        "y": 2250,
         "wires": [
             [
                 "2e9fdc57.907424"
@@ -62009,6 +61783,7 @@
         "id": "78a84227.12c87c",
         "type": "change",
         "z": "e86f0ca4.7feb5",
+        "g": "3a6bee4b.22d342",
         "name": "ID",
         "rules": [
             {
@@ -62024,8 +61799,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3120,
-        "y": 2280,
+        "x": 3050,
+        "y": 2300,
         "wires": [
             [
                 "bcbc4f06.97315"
@@ -62036,6 +61811,7 @@
         "id": "5e404384.1cee1c",
         "type": "change",
         "z": "e86f0ca4.7feb5",
+        "g": "3a6bee4b.22d342",
         "name": "Protocol",
         "rules": [
             {
@@ -62051,8 +61827,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3130,
-        "y": 2330,
+        "x": 3060,
+        "y": 2350,
         "wires": [
             [
                 "5827de1e.b3965"
@@ -62063,6 +61839,7 @@
         "id": "ec994a08.2df8b8",
         "type": "change",
         "z": "e86f0ca4.7feb5",
+        "g": "3a6bee4b.22d342",
         "name": "Brand",
         "rules": [
             {
@@ -62078,8 +61855,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3520,
-        "y": 2230,
+        "x": 3450,
+        "y": 2250,
         "wires": [
             []
         ]
@@ -62088,6 +61865,7 @@
         "id": "12b0045f.8d610c",
         "type": "change",
         "z": "e86f0ca4.7feb5",
+        "g": "3a6bee4b.22d342",
         "name": "ID",
         "rules": [
             {
@@ -62103,8 +61881,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3520,
-        "y": 2280,
+        "x": 3450,
+        "y": 2300,
         "wires": [
             []
         ]
@@ -62113,6 +61891,7 @@
         "id": "16b64fab.dbb22",
         "type": "change",
         "z": "e86f0ca4.7feb5",
+        "g": "3a6bee4b.22d342",
         "name": "Protocol",
         "rules": [
             {
@@ -62128,147 +61907,10 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3530,
-        "y": 2330,
+        "x": 3460,
+        "y": 2350,
         "wires": [
             []
-        ]
-    },
-    {
-        "id": "178cb7af.fdef28",
-        "type": "inject",
-        "z": "e86f0ca4.7feb5",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 2940,
-        "y": 2380,
-        "wires": [
-            [
-                "436393ea.ce70bc",
-                "4690ad59.abf8a4"
-            ]
-        ]
-    },
-    {
-        "id": "bdbabf2a.b66a",
-        "type": "ui_template",
-        "z": "e86f0ca4.7feb5",
-        "d": true,
-        "group": "1b1afe53.beb8f2",
-        "name": "",
-        "order": 1,
-        "width": "6",
-        "height": "7",
-        "format": "<div ng-bind-html=\"msg.payload || trusted\"></div>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "x": 3530,
-        "y": 2380,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "106b6cbc.a317a3",
-        "type": "inject",
-        "z": "e86f0ca4.7feb5",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 2940,
-        "y": 2460,
-        "wires": [
-            [
-                "2197cf22.6e10f"
-            ]
-        ]
-    },
-    {
-        "id": "2197cf22.6e10f",
-        "type": "template",
-        "z": "e86f0ca4.7feb5",
-        "name": "",
-        "field": "payload",
-        "fieldType": "msg",
-        "format": "handlebars",
-        "syntax": "mustache",
-        "template": "<tr>\n    <td>***</td> <!-- 8 -->\n    <td>+++</td>\n    <td>---</td>\n</tr>",
-        "output": "str",
-        "x": 3130,
-        "y": 2460,
-        "wires": [
-            [
-                "d8cda366.9e06b"
-            ]
-        ]
-    },
-    {
-        "id": "6db8e8da.168878",
-        "type": "debug",
-        "z": "e86f0ca4.7feb5",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 3520,
-        "y": 2460,
-        "wires": []
-    },
-    {
-        "id": "d8cda366.9e06b",
-        "type": "change",
-        "z": "e86f0ca4.7feb5",
-        "name": "",
-        "rules": [
-            {
-                "t": "change",
-                "p": "payload",
-                "pt": "msg",
-                "from": "***",
-                "fromt": "str",
-                "to": "123",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 3310,
-        "y": 2460,
-        "wires": [
-            [
-                "6db8e8da.168878"
-            ]
         ]
     },
     {
@@ -62298,23 +61940,621 @@
         ]
     },
     {
-        "id": "4690ad59.abf8a4",
-        "type": "ui_template",
+        "id": "a382052a.d8aa18",
+        "type": "ui_table",
         "z": "e86f0ca4.7feb5",
+        "g": "ebb7241e.548d68",
         "group": "1b1afe53.beb8f2",
-        "name": "Crear tabla dinámica",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "format": "<!doctype html>\n<html lang=\"en\">\n    <head>\n        <!-- Required meta tags -->\n        <meta charset=\"utf-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n        <!-- Bootstrap CSS -->\n        <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    </head>\n    <body>\n        <div id=\"{{'MSG_'+$id}}\"></div>\n        <script>\n            (function(scope){\n                scope.$watch('msg', function(msg) {\n                    if (msg) {\n                        // Do something when msg arrives\n                        $(\"#MSG_\"+scope.$id).html(msg.payload);\n                    }\n                });\n            })(scope);\n        </script>\n    \n    </body>\n</html>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "x": 3570,
-        "y": 2510,
+        "name": "",
+        "order": 2,
+        "width": "9",
+        "height": "7",
+        "columns": [
+            {
+                "field": "No",
+                "title": "#",
+                "width": "8 %",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "Descripción",
+                "title": "Descripción",
+                "width": "30 %",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "Tipo de dato",
+                "title": "T. Dato",
+                "width": "17 %",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "Tipo de registro",
+                "title": "MBS FC",
+                "width": "17 %",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "Registro",
+                "title": "Registro",
+                "width": "17 %",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "Multiplicador",
+                "title": "Mul",
+                "width": "11 %",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            }
+        ],
+        "outputs": 0,
+        "cts": false,
+        "x": 3470,
+        "y": 2520,
+        "wires": []
+    },
+    {
+        "id": "ab0727da.a53ac8",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "ebb7241e.548d68",
+        "name": "Ninguno",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "[]",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3200,
+        "y": 2440,
+        "wires": [
+            [
+                "a382052a.d8aa18",
+                "e7fa2ea4.726ea"
+            ]
+        ]
+    },
+    {
+        "id": "50db6dbc.984264",
+        "type": "complete",
+        "z": "e86f0ca4.7feb5",
+        "g": "ebb7241e.548d68",
+        "name": "",
+        "scope": [
+            "ec994a08.2df8b8"
+        ],
+        "uncaught": false,
+        "x": 2870,
+        "y": 2560,
+        "wires": [
+            [
+                "d5131ced.0892d"
+            ]
+        ]
+    },
+    {
+        "id": "d5131ced.0892d",
+        "type": "switch",
+        "z": "e86f0ca4.7feb5",
+        "g": "ebb7241e.548d68",
+        "name": "DHS",
+        "property": "DownholeSensor.Brand_DHS",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Ninguno",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Zenith",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Schlumberger",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "GRC Scout",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Novomet",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Borets",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Borets Spy-Pro-SPS-1500",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 7,
+        "x": 3010,
+        "y": 2560,
+        "wires": [
+            [
+                "ab0727da.a53ac8"
+            ],
+            [
+                "185f7c24.292724"
+            ],
+            [
+                "198258ee.39ca47"
+            ],
+            [
+                "32936c3.05fea94"
+            ],
+            [
+                "4ee6be01.95143"
+            ],
+            [
+                "6875b1aa.12a2b"
+            ],
+            [
+                "68df2e1f.7d983"
+            ]
+        ]
+    },
+    {
+        "id": "185f7c24.292724",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "ebb7241e.548d68",
+        "name": "Zenith",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":1,\"Multiplicador\":\"1/10\"},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2,\"Multiplicador\":\"1/10\"},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":3,\"Multiplicador\":\"1/10\"},{\"No\":4,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":4,\"Multiplicador\":\"1/10\"},{\"No\":5,\"Descripción\":\"Vibración X\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":5,\"Multiplicador\":\"1/100\"},{\"No\":6,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":6,\"Multiplicador\":\"1/100\"},{\"No\":7,\"Descripción\":\"Corriente de fuga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":7,\"Multiplicador\":\"1/10\"}]",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3190,
+        "y": 2480,
+        "wires": [
+            [
+                "a382052a.d8aa18",
+                "e7fa2ea4.726ea"
+            ]
+        ]
+    },
+    {
+        "id": "198258ee.39ca47",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "ebb7241e.548d68",
+        "name": "Schlumberger",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2137,\"Multiplicador\":\"1/10\"},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2138,\"Multiplicador\":\"1/10\"},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2139,\"Multiplicador\":\"1/10\"},{\"No\":4,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2140,\"Multiplicador\":\"1/10\"},{\"No\":5,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2141,\"Multiplicador\":\"1/100\"},{\"No\":6,\"Descripción\":\"Corriente de fuga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2142,\"Multiplicador\":\"1/100\"}]",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3220,
+        "y": 2520,
+        "wires": [
+            [
+                "a382052a.d8aa18",
+                "e7fa2ea4.726ea"
+            ]
+        ]
+    },
+    {
+        "id": "32936c3.05fea94",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "ebb7241e.548d68",
+        "name": "GRC Scout",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":1801,\"Multiplicador\":\"1/10\"},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":1802,\"Multiplicador\":\"1/10\"},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":1803,\"Multiplicador\":\"1/10\"},{\"No\":4,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":1804,\"Multiplicador\":\"1/10\"},{\"No\":5,\"Descripción\":\"Vibración X\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":53,\"Multiplicador\":\"1/10\"},{\"No\":6,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":54,\"Multiplicador\":\"1/10\"},{\"No\":7,\"Descripción\":\"Corriente de fuga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":15,\"Multiplicador\":\"1/100\"}]",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3210,
+        "y": 2560,
+        "wires": [
+            [
+                "a382052a.d8aa18",
+                "e7fa2ea4.726ea"
+            ]
+        ]
+    },
+    {
+        "id": "4ee6be01.95143",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "ebb7241e.548d68",
+        "name": "Novomet",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":38,\"Multiplicador\":\"1/10\"},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":40,\"Multiplicador\":\"1/10\"},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":37,\"Multiplicador\":\"1/10\"},{\"No\":4,\"Descripción\":\"Temperatura de Descarga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":39,\"Multiplicador\":\"1/10\"},{\"No\":5,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":41,\"Multiplicador\":\"1/10\"},{\"No\":6,\"Descripción\":\"Vibración X\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":42,\"Multiplicador\":\"1/100\"},{\"No\":7,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":43,\"Multiplicador\":\"1/100\"},{\"No\":8,\"Descripción\":\"Corriente de fuga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":44,\"Multiplicador\":\"1/100\"}]",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3200,
+        "y": 2600,
+        "wires": [
+            [
+                "a382052a.d8aa18",
+                "e7fa2ea4.726ea"
+            ]
+        ]
+    },
+    {
+        "id": "6875b1aa.12a2b",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "ebb7241e.548d68",
+        "name": "Borets",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":1,\"Multiplicador\":\"1/10\"},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":2,\"Multiplicador\":\"1/10\"},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":4,\"Multiplicador\":\"1/10\"},{\"No\":4,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":5,\"Multiplicador\":\"1/10\"},{\"No\":5,\"Descripción\":\"Vibración X\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":6,\"Multiplicador\":\"1/100\"},{\"No\":6,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":7,\"Multiplicador\":\"1/100\"}]",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3190,
+        "y": 2640,
+        "wires": [
+            [
+                "a382052a.d8aa18",
+                "e7fa2ea4.726ea"
+            ]
+        ]
+    },
+    {
+        "id": "68df2e1f.7d983",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "ebb7241e.548d68",
+        "name": "Borets SPS1500",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1007,\"Multiplicador\":\"1/10\"},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1011,\"Multiplicador\":\"1/10\"},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1009,\"Multiplicador\":\"1/10\"},{\"No\":4,\"Descripción\":\"Temperatura de Descarga\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1013,\"Multiplicador\":\"1/10\"},{\"No\":5,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1015,\"Multiplicador\":\"1/10\"},{\"No\":6,\"Descripción\":\"Vibración X\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1017,\"Multiplicador\":\"1/100\"},{\"No\":7,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1021,\"Multiplicador\":\"1/100\"},{\"No\":8,\"Descripción\":\"Corriente de fuga\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1029,\"Multiplicador\":\"1/10\"}]",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3220,
+        "y": 2680,
+        "wires": [
+            [
+                "a382052a.d8aa18",
+                "e7fa2ea4.726ea"
+            ]
+        ]
+    },
+    {
+        "id": "e7fa2ea4.726ea",
+        "type": "json",
+        "z": "e86f0ca4.7feb5",
+        "g": "ebb7241e.548d68",
+        "name": "",
+        "property": "payload",
+        "action": "obj",
+        "pretty": false,
+        "x": 3470,
+        "y": 2560,
+        "wires": [
+            [
+                "1a2660d3.c50b5f"
+            ]
+        ]
+    },
+    {
+        "id": "1a2660d3.c50b5f",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "ebb7241e.548d68",
+        "name": "Mapa MBS",
+        "rules": [
+            {
+                "t": "set",
+                "p": "DownholeSensor.MBSMap",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3610,
+        "y": 2560,
         "wires": [
             []
+        ]
+    },
+    {
+        "id": "88205ddf.276db",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "beae8e2f.5f80b",
+        "name": "DHS",
+        "props": [
+            {
+                "p": "DHS",
+                "v": "DownholeSensor",
+                "vt": "flow"
+            }
+        ],
+        "repeat": "2",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payloadType": "str",
+        "x": 2870,
+        "y": 2900,
+        "wires": [
+            [
+                "9a8806c3.c971a8"
+            ]
+        ]
+    },
+    {
+        "id": "f84640f8.5f42e",
+        "type": "catch",
+        "z": "68deacdf.9a36f4",
+        "g": "4888c9a8.82cb88",
+        "name": "",
+        "scope": [
+            "72bc0ef0.eb795",
+            "c4d4160a.bd9958",
+            "fe4792d6.27d84",
+            "f894367d.626e58"
+        ],
+        "uncaught": false,
+        "x": 170,
+        "y": 1390,
+        "wires": [
+            [
+                "847c409b.80c02"
+            ]
+        ]
+    },
+    {
+        "id": "847c409b.80c02",
+        "type": "debug",
+        "z": "68deacdf.9a36f4",
+        "g": "4888c9a8.82cb88",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 310,
+        "y": 1390,
+        "wires": []
+    },
+    {
+        "id": "9a8806c3.c971a8",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "beae8e2f.5f80b",
+        "name": "Mensajes asíncronos Modbus",
+        "func": "// Enviar mensajes de lectura Modbus de forma asíncrona\nfor(var i=0; i<msg.DHS.MBSMap.length; i+=1){\n    msg.payload = { \n        'fc':       msg.DHS.MBSMap[i][\"Tipo de registro\"] == \"HR\" ? 3:4, \n        'unitid':   msg.DHS.ID, \n        'address':  msg.DHS.MBSMap[i].Registro, \n        'quantity': 1\n    }\n    msg.topic = msg.DHS.MBSMap[i][\"Descripción\"];\n    node.send(msg)\n}\nreturn;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 3070,
+        "y": 2900,
+        "wires": [
+            [
+                "7b7a47b.51bdfb8"
+            ]
+        ]
+    },
+    {
+        "id": "7b7a47b.51bdfb8",
+        "type": "modbus-flex-getter",
+        "z": "e86f0ca4.7feb5",
+        "g": "beae8e2f.5f80b",
+        "name": "DHS RS485",
+        "showStatusActivities": false,
+        "showErrors": false,
+        "logIOActivities": false,
+        "server": "aeef0dfe.74e9c",
+        "useIOFile": false,
+        "ioFile": "",
+        "useIOForPayload": false,
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 3290,
+        "y": 2900,
+        "wires": [
+            [
+                "3d698efd.3e4e82"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "3d698efd.3e4e82",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "beae8e2f.5f80b",
+        "name": "Asingar Datos",
+        "func": "global.set(\"DownHoleData[msg.topic]\",msg.payload)\nreturn;",
+        "outputs": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 3470,
+        "y": 2900,
+        "wires": []
+    },
+    {
+        "id": "607f9200.e4c44c",
+        "type": "complete",
+        "z": "e86f0ca4.7feb5",
+        "g": "f059af07.db923",
+        "name": "",
+        "scope": [
+            "1a2660d3.c50b5f"
+        ],
+        "uncaught": false,
+        "x": 2870,
+        "y": 2770,
+        "wires": [
+            [
+                "85a003b1.e1e26"
+            ]
+        ]
+    },
+    {
+        "id": "85a003b1.e1e26",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "f059af07.db923",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "DownholeSensor.MBSMap",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3070,
+        "y": 2770,
+        "wires": [
+            [
+                "a9df7a9b.8847d8"
+            ]
+        ]
+    },
+    {
+        "id": "a9df7a9b.8847d8",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "f059af07.db923",
+        "name": "Objeto DHSData",
+        "func": "DHS = flow.get(\"DownholeSensor.MBSMap\");\nDownHoleData = {};\nfor(var i=0; i<DHS.length; i+=1){\n    DownHoleData[DHS[i].Descripción] = 0;\n}\nmsg.payload = {DownHoleData}\nglobal.set(\"DownHoleData\",DownHoleData,\"memoryOnly\");\nreturn;",
+        "outputs": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 3260,
+        "y": 2770,
+        "wires": []
+    },
+    {
+        "id": "b3c62075.a7822",
+        "type": "link in",
+        "z": "e86f0ca4.7feb5",
+        "g": "f059af07.db923",
+        "name": "DHS Link In",
+        "links": [
+            "ad87cee4.7dbb5"
+        ],
+        "x": 2925,
+        "y": 2810,
+        "wires": [
+            [
+                "85a003b1.e1e26"
+            ]
         ]
     }
 ]

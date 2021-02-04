@@ -790,7 +790,9 @@
             "195d3093.36368f"
         ],
         "x": 84,
-        "y": 13
+        "y": 13,
+        "w": 928,
+        "h": 1044
     },
     {
         "id": "f7ed166d.1aa528",
@@ -834,7 +836,9 @@
             "ccd73af1.690d48"
         ],
         "x": 2744,
-        "y": 1249
+        "y": 1249,
+        "w": 1202,
+        "h": 202
     },
     {
         "id": "25cd4464.cad59c",
@@ -981,7 +985,9 @@
             "15ca143a.56aa5c"
         ],
         "x": 12,
-        "y": 7
+        "y": 7,
+        "w": 2706,
+        "h": 1626
     },
     {
         "id": "c17de691.f363c8",
@@ -999,7 +1005,9 @@
             "de6d41a4.0f4d2"
         ],
         "x": 12,
-        "y": 1637
+        "y": 1637,
+        "w": 2626,
+        "h": 866
     },
     {
         "id": "68e6bb30.d1fce4",
@@ -1238,7 +1246,9 @@
             "ad35e08b.93dd"
         ],
         "x": 2744,
-        "y": 9
+        "y": 9,
+        "w": 912,
+        "h": 452
     },
     {
         "id": "8341562d.ffacc8",
@@ -1402,7 +1412,9 @@
             "847c409b.80c02"
         ],
         "x": 88,
-        "y": 1063
+        "y": 1063,
+        "w": 1264,
+        "h": 368
     },
     {
         "id": "2fc65bf7.d30fb4",
@@ -1419,7 +1431,9 @@
             "5039e78a.ed1d88"
         ],
         "x": 14,
-        "y": 2629
+        "y": 2629,
+        "w": 462,
+        "h": 82
     },
     {
         "id": "70d8d562.df63ac",
@@ -1449,7 +1463,9 @@
             "66f58a7.5c16574"
         ],
         "x": 2744,
-        "y": 469
+        "y": 469,
+        "w": 1362,
+        "h": 232
     },
     {
         "id": "96c06653.552da8",
@@ -1582,7 +1598,9 @@
             "9ac5fb1d.327ff8"
         ],
         "x": 114,
-        "y": 1269
+        "y": 1269,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "f738d604.f009b8",
@@ -1598,7 +1616,9 @@
             "ebc9a134.b2cde"
         ],
         "x": 2748,
-        "y": 713
+        "y": 713,
+        "w": 1054,
+        "h": 344
     },
     {
         "id": "f7a06233.68524",
@@ -1614,7 +1634,9 @@
             "e2e299a6.d3c5c8"
         ],
         "x": 2748,
-        "y": 1063
+        "y": 1063,
+        "w": 1084,
+        "h": 174
     },
     {
         "id": "63291ccb.08e434",
@@ -1674,7 +1696,9 @@
             "36d73f7a.42644"
         ],
         "x": 1024,
-        "y": 19
+        "y": 19,
+        "w": 702,
+        "h": 642
     },
     {
         "id": "f8ecb97c.9e8978",
@@ -1763,7 +1787,9 @@
             "c099945b.08bf98"
         ],
         "x": 14,
-        "y": 2459
+        "y": 2459,
+        "w": 872,
+        "h": 162
     },
     {
         "id": "40cf1345.13cc7c",
@@ -1783,7 +1809,9 @@
             "7f0ad68d.a88dc8"
         ],
         "x": 2748,
-        "y": 1463
+        "y": 1463,
+        "w": 1464,
+        "h": 714
     },
     {
         "id": "aa2fba7e.146688",
@@ -1805,7 +1833,9 @@
             "beae8e2f.5f80b"
         ],
         "x": 2748,
-        "y": 2183
+        "y": 2183,
+        "w": 1094,
+        "h": 864
     },
     {
         "id": "6150cb44.a8b4c4",
@@ -1863,7 +1893,50 @@
             "9bfc4b14.b3c7a8"
         ],
         "x": 94,
-        "y": 1439
+        "y": 1439,
+        "w": 702,
+        "h": 362
+    },
+    {
+        "id": "8a437085.d2b8",
+        "type": "group",
+        "z": "8ba0552a.e27ca8",
+        "name": "Actualizar librería AFE",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "6f9f13ef.fb565c",
+            "73f3cb42.e412c4",
+            "b2068e1d.c9d9",
+            "bf48213c.3548c",
+            "129d922.5d7c86e",
+            "2cd9e470.7e562c",
+            "2dae23d1.de8fec",
+            "849c9546.4f8a58"
+        ],
+        "x": 14,
+        "y": 21.5,
+        "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
+    },
+    {
+        "id": "262051d5.79c84e",
+        "type": "group",
+        "z": "8ba0552a.e27ca8",
+        "name": "Cambiar Splash",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "aa3c422d.31446",
+            "4a92f2f5.dac4fc",
+            "6b91a284.15037c",
+            "5e35a538.cad0cc"
+        ],
+        "x": 14,
+        "y": 251.5
     },
     {
         "id": "7f0ad68d.a88dc8",
@@ -1904,7 +1977,9 @@
             "2249a8a.5b30458"
         ],
         "x": 2774,
-        "y": 1489
+        "y": 1489,
+        "w": 1412,
+        "h": 492
     },
     {
         "id": "e2589faa.5b6d2",
@@ -2194,7 +2269,9 @@
             "5c3a9c15.3a4554"
         ],
         "x": 1338,
-        "y": 33
+        "y": 33,
+        "w": 1354,
+        "h": 904
     },
     {
         "id": "23bbdddc.b8c5c2",
@@ -2213,7 +2290,9 @@
             "5d1065e2.7b952c"
         ],
         "x": 38,
-        "y": 33
+        "y": 33,
+        "w": 1284,
+        "h": 1574
     },
     {
         "id": "d22a2793.24a988",
@@ -2231,7 +2310,9 @@
             "1b19a252.cfe16e"
         ],
         "x": 38,
-        "y": 1663
+        "y": 1663,
+        "w": 1284,
+        "h": 754
     },
     {
         "id": "ac1f5c0.f7b06a",
@@ -2778,7 +2859,9 @@
             "968d5347.1b134"
         ],
         "x": 234,
-        "y": 39
+        "y": 39,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "991382e7.7f2e6",
@@ -2810,7 +2893,9 @@
             "24dd678c.7f1308"
         ],
         "x": 234,
-        "y": 289
+        "y": 289,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "91feb623.ce89e8",
@@ -2842,7 +2927,9 @@
             "e8ae66c1.7229a8"
         ],
         "x": 234,
-        "y": 539
+        "y": 539,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "a035a752.10f9d8",
@@ -2874,7 +2961,9 @@
             "bd48652a.f5a5e8"
         ],
         "x": 234,
-        "y": 789
+        "y": 789,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "53806295.7831ac",
@@ -3998,7 +4087,9 @@
             "a14ed9ad.89be18"
         ],
         "x": 1344,
-        "y": 949
+        "y": 949,
+        "w": 962,
+        "h": 162
     },
     {
         "id": "17c31216.1aa6ce",
@@ -4022,7 +4113,9 @@
             "6db11539.a3447c"
         ],
         "x": 724,
-        "y": 1089
+        "y": 1089,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "9560ef4.a49141",
@@ -4046,7 +4139,9 @@
             "864b03bd.9ce3c"
         ],
         "x": 114,
-        "y": 1089
+        "y": 1089,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "f185a628.7c4598",
@@ -4067,7 +4162,9 @@
             "d73d6d43.ab8f4"
         ],
         "x": 724,
-        "y": 1179
+        "y": 1179,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "b5305a67.80d008",
@@ -4093,7 +4190,9 @@
             "8207386.0661fc8"
         ],
         "x": 964,
-        "y": 1179
+        "y": 1179,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "52cef377.daab5c",
@@ -4117,7 +4216,9 @@
             "b4b08522.2499f8"
         ],
         "x": 114,
-        "y": 1179
+        "y": 1179,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "de6d41a4.0f4d2",
@@ -4134,7 +4235,9 @@
             "2fb80d12.b93df2"
         ],
         "x": 1328,
-        "y": 1663
+        "y": 1663,
+        "w": 1284,
+        "h": 814
     },
     {
         "id": "ebc9a134.b2cde",
@@ -4168,7 +4271,9 @@
             "8b8bfe12.48faa"
         ],
         "x": 2774,
-        "y": 739
+        "y": 739,
+        "w": 1002,
+        "h": 292
     },
     {
         "id": "ab7a4a2c.17d8a8",
@@ -4222,7 +4327,9 @@
             "238050bf.0374f"
         ],
         "x": 2774,
-        "y": 1089
+        "y": 1089,
+        "w": 1032,
+        "h": 122
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -4429,7 +4536,9 @@
             "8b6bbe7b.4904"
         ],
         "x": 2774,
-        "y": 1989
+        "y": 1989,
+        "w": 552,
+        "h": 162
     },
     {
         "id": "3a6bee4b.22d342",
@@ -4455,7 +4564,9 @@
             "16b64fab.dbb22"
         ],
         "x": 2774,
-        "y": 2209
+        "y": 2209,
+        "w": 772,
+        "h": 182
     },
     {
         "id": "ebb7241e.548d68",
@@ -4482,7 +4593,9 @@
             "1a2660d3.c50b5f"
         ],
         "x": 2774,
-        "y": 2399
+        "y": 2399,
+        "w": 932,
+        "h": 322
     },
     {
         "id": "f059af07.db923",
@@ -4501,7 +4614,9 @@
             "b3c62075.a7822"
         ],
         "x": 2774,
-        "y": 2729
+        "y": 2729,
+        "w": 602,
+        "h": 122
     },
     {
         "id": "beae8e2f.5f80b",
@@ -4524,7 +4639,9 @@
             "57cd5933.3df778"
         ],
         "x": 2774,
-        "y": 2859
+        "y": 2859,
+        "w": 1042,
+        "h": 162
     },
     {
         "id": "5613a5b2.95577c",
@@ -4750,7 +4867,9 @@
             "85f12e7a.2e726"
         ],
         "x": 1354,
-        "y": 1689
+        "y": 1689,
+        "w": 1232,
+        "h": 312
     },
     {
         "id": "c05026cc.2a6048",
@@ -4815,7 +4934,9 @@
             "2b33cbc0.5a4c64"
         ],
         "x": 64,
-        "y": 909
+        "y": 909,
+        "w": 1232,
+        "h": 482
     },
     {
         "id": "5c3a9c15.3a4554",
@@ -4857,7 +4978,9 @@
             "95efa56e.233d78"
         ],
         "x": 1364,
-        "y": 479
+        "y": 479,
+        "w": 752,
+        "h": 432
     },
     {
         "id": "62757ffc.dca08",
@@ -4910,7 +5033,9 @@
             "ba03cbde.df6f78"
         ],
         "x": 64,
-        "y": 59
+        "y": 59,
+        "w": 1232,
+        "h": 842
     },
     {
         "id": "2d061227.66d7ce",
@@ -4956,7 +5081,9 @@
             "924f3cdb.96bbe"
         ],
         "x": 1364,
-        "y": 59
+        "y": 59,
+        "w": 1302,
+        "h": 412
     },
     {
         "id": "a80677cf.4274c8",
@@ -5049,7 +5176,9 @@
             "55d7f98f.7ca518"
         ],
         "x": 64,
-        "y": 1399
+        "y": 1399,
+        "w": 632,
+        "h": 182
     },
     {
         "id": "b974d4b3.9e3f78",
@@ -5071,7 +5200,9 @@
             "d2dd56dc.b7a0e8"
         ],
         "x": 64,
-        "y": 2219
+        "y": 2219,
+        "w": 722,
+        "h": 172
     },
     {
         "id": "1b19a252.cfe16e",
@@ -5113,7 +5244,9 @@
             "16a30db2.f4a332"
         ],
         "x": 64,
-        "y": 1689
+        "y": 1689,
+        "w": 1232,
+        "h": 522
     },
     {
         "id": "be55ea76.ed4478",
@@ -5220,52 +5353,9 @@
             "9d6b8eeb.cad3c"
         ],
         "x": 1354,
-        "y": 2009
-    },
-    {
-        "id": "8a437085.d2b8",
-        "type": "group",
-        "z": "8ba0552a.e27ca8",
-        "name": "Actualizar librería AFE",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "6f9f13ef.fb565c",
-            "73f3cb42.e412c4",
-            "b2068e1d.c9d9",
-            "bf48213c.3548c",
-            "129d922.5d7c86e",
-            "2cd9e470.7e562c",
-            "2dae23d1.de8fec",
-            "849c9546.4f8a58"
-        ],
-        "x": 14,
-        "y": 21.5,
-        "w": 552,
-        "h": 217,
-        "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
-    },
-    {
-        "id": "262051d5.79c84e",
-        "type": "group",
-        "z": "8ba0552a.e27ca8",
-        "name": "Cambiar Splash",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "aa3c422d.31446",
-            "4a92f2f5.dac4fc",
-            "6b91a284.15037c",
-            "5e35a538.cad0cc"
-        ],
-        "x": 14,
-        "y": 251.5,
-        "w": 432,
-        "h": 157
+        "y": 2009,
+        "w": 722,
+        "h": 442
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -29453,7 +29543,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "5c3a9c15.3a4554",
         "name": "Normalizar/Escalizar",
-        "func": "var EA = flow.get('ES').EA || null;\nvar canal = msg.topic;\nvar b = null;\nvar min = null;\nvar max = null;\n\nif(typeof EA[canal] !== 'undefined'){\n    if(typeof EA[canal].Rango_Min !== 'undefined' && EA[canal].Rango_Min !== null){\n        min = parseFloat(EA[canal].Rango_Min);\n    }\n    if(typeof EA[canal].Rango_Max !== \"undefined\" && EA[canal].Rango_Max !== null){\n        max = parseFloat(EA[canal].Rango_Max);\n    }\n    if(min !== null && max !== null){\n        b = [min,max];\n    } \n}\n\n// Valor a mapear\n//var value = Object.values(msg.payload)[0];\nvar value = msg.payload\n// Rango del valor a mapear\nvar a = [0,1023];\n\n// Mapeo\nif(b !== null ){\n    var t = (b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]))*1.1;\n    // Saturación\n    if(t > b[1]){    t = b[1];}\n    else if(t < b[0]){ t = b[0];}\n    // Asignar payload\n    msg.payload = parseFloat(t.toFixed(3));\n}\nelse{\n    // Asignar payload\n    msg.payload = 0;\n}\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:b});\nreturn msg;\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
+        "func": "var EA = flow.get('ES').EA || null;\nvar canal = msg.topic;\nvar b = null;\nvar min = null;\nvar max = null;\n\nif(typeof EA[canal] !== 'undefined'){\n    if(typeof EA[canal].Rango_Min !== 'undefined' && EA[canal].Rango_Min !== null){\n        min = parseFloat(EA[canal].Rango_Min);\n    }\n    if(typeof EA[canal].Rango_Max !== \"undefined\" && EA[canal].Rango_Max !== null){\n        max = parseFloat(EA[canal].Rango_Max);\n    }\n    if(min !== null && max !== null){\n        b = [min,max];\n    } \n}\n\n// Valor a mapear\n//var value = Object.values(msg.payload)[0];\nvar value = msg.payload\n// Rango del valor a mapear\nvar a = [0,1023];\n\n// Mapeo\nif(b !== null ){\n    var t = (b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]));\n    // Saturación\n    if(t > b[1]){    t = b[1];}\n    else if(t < b[0]){ t = b[0];}\n    // Asignar payload\n    msg.payload = parseFloat(t.toFixed(3));\n}\nelse{\n    // Asignar payload\n    msg.payload = 0;\n}\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -52162,7 +52252,7 @@
         "z": "68deacdf.9a36f4",
         "g": "17c31216.1aa6ce",
         "name": "EA",
-        "func": "Canal   = flow.get('ES');\nIO      = global.get('IO','memoryOnly');\n\nvar Funciones   = [];\nvar TipoIO      = [];\nvar Values      = [];\n\n// Entradas Digitales\nvar str = \"Canal\"+8;\nvar otro = Object.keys(IO.AI);\n\nfor(var i = 0; i<otro.length; i++){\n    var index= 'AN'+otro[i];\n    if(typeof Canal.EA[index] != 'undefined'){\n        Funciones.push(Canal.EA[index].Funcion);\n        Values.push(Escalizar([Canal.EA[index].Rango_Min,Canal.EA[index].Rango_Max],IO.AI[otro[i]]));\n    }\n    else{\n        Funciones.push('Ninguno');\n        Values.push('--');\n    }\n}\nmsg.payload = {\n    'Canales': otro, \n    'Funciones':Funciones,\n    'Tipo': TipoIO,\n    'Values': Values\n}\n\nfunction Escalizar(b,value){\n    a = [0,1023];\n    // Mapeo\n    if(b !== null && typeof b[0] == 'number' && typeof b[1] == 'number' ){\n        var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0])*1.1;\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseFloat(t.toFixed(3));\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}\n\nreturn msg;",
+        "func": "Canal   = flow.get('ES');\nIO      = global.get('IO','memoryOnly');\n\nvar Funciones   = [];\nvar TipoIO      = [];\nvar Values      = [];\n\n// Entradas Digitales\nvar str = \"Canal\"+8;\nvar otro = Object.keys(IO.AI);\n\nfor(var i = 0; i<otro.length; i++){\n    var index= 'AN'+otro[i];\n    if(typeof Canal.EA[index] != 'undefined'){\n        Funciones.push(Canal.EA[index].Funcion);\n        Values.push(Escalizar([Canal.EA[index].Rango_Min,Canal.EA[index].Rango_Max],IO.AI[otro[i]]));\n    }\n    else{\n        Funciones.push('Ninguno');\n        Values.push('--');\n    }\n}\nmsg.payload = {\n    'Canales': otro, \n    'Funciones':Funciones,\n    'Tipo': TipoIO,\n    'Values': Values\n}\n\nfunction Escalizar(b,value){\n    a = [0,1023];\n    // Mapeo\n    if(b !== null && typeof b[0] == 'number' && typeof b[1] == 'number' ){\n        var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseFloat(t.toFixed(2));\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",

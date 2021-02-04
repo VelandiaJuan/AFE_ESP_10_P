@@ -790,9 +790,7 @@
             "195d3093.36368f"
         ],
         "x": 84,
-        "y": 13,
-        "w": 928,
-        "h": 1044
+        "y": 13
     },
     {
         "id": "f7ed166d.1aa528",
@@ -986,7 +984,7 @@
         ],
         "x": 12,
         "y": 7,
-        "w": 2706,
+        "w": 2686,
         "h": 1626
     },
     {
@@ -1412,9 +1410,7 @@
             "847c409b.80c02"
         ],
         "x": 88,
-        "y": 1063,
-        "w": 1264,
-        "h": 368
+        "y": 1063
     },
     {
         "id": "2fc65bf7.d30fb4",
@@ -1431,7 +1427,7 @@
             "5039e78a.ed1d88"
         ],
         "x": 14,
-        "y": 2629,
+        "y": 2679,
         "w": 462,
         "h": 82
     },
@@ -1598,9 +1594,7 @@
             "9ac5fb1d.327ff8"
         ],
         "x": 114,
-        "y": 1269,
-        "w": 602,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "f738d604.f009b8",
@@ -1696,9 +1690,7 @@
             "36d73f7a.42644"
         ],
         "x": 1024,
-        "y": 19,
-        "w": 702,
-        "h": 642
+        "y": 19
     },
     {
         "id": "f8ecb97c.9e8978",
@@ -1787,7 +1779,7 @@
             "c099945b.08bf98"
         ],
         "x": 14,
-        "y": 2459,
+        "y": 2509,
         "w": 872,
         "h": 162
     },
@@ -1835,7 +1827,7 @@
         "x": 2748,
         "y": 2183,
         "w": 1094,
-        "h": 864
+        "h": 874
     },
     {
         "id": "6150cb44.a8b4c4",
@@ -1892,10 +1884,8 @@
             "48ae9e90.9011b",
             "9bfc4b14.b3c7a8"
         ],
-        "x": 94,
-        "y": 1439,
-        "w": 702,
-        "h": 362
+        "x": 54,
+        "y": 1439
     },
     {
         "id": "8a437085.d2b8",
@@ -2270,7 +2260,7 @@
         ],
         "x": 1338,
         "y": 33,
-        "w": 1354,
+        "w": 1334,
         "h": 904
     },
     {
@@ -2859,9 +2849,7 @@
             "968d5347.1b134"
         ],
         "x": 234,
-        "y": 39,
-        "w": 752,
-        "h": 242
+        "y": 39
     },
     {
         "id": "991382e7.7f2e6",
@@ -2893,9 +2881,7 @@
             "24dd678c.7f1308"
         ],
         "x": 234,
-        "y": 289,
-        "w": 752,
-        "h": 242
+        "y": 289
     },
     {
         "id": "91feb623.ce89e8",
@@ -2927,9 +2913,7 @@
             "e8ae66c1.7229a8"
         ],
         "x": 234,
-        "y": 539,
-        "w": 752,
-        "h": 242
+        "y": 539
     },
     {
         "id": "a035a752.10f9d8",
@@ -2961,9 +2945,7 @@
             "bd48652a.f5a5e8"
         ],
         "x": 234,
-        "y": 789,
-        "w": 752,
-        "h": 242
+        "y": 789
     },
     {
         "id": "53806295.7831ac",
@@ -4113,9 +4095,7 @@
             "6db11539.a3447c"
         ],
         "x": 724,
-        "y": 1089,
-        "w": 602,
-        "h": 82
+        "y": 1089
     },
     {
         "id": "9560ef4.a49141",
@@ -4139,9 +4119,7 @@
             "864b03bd.9ce3c"
         ],
         "x": 114,
-        "y": 1089,
-        "w": 602,
-        "h": 82
+        "y": 1089
     },
     {
         "id": "f185a628.7c4598",
@@ -4162,9 +4140,7 @@
             "d73d6d43.ab8f4"
         ],
         "x": 724,
-        "y": 1179,
-        "w": 232,
-        "h": 82
+        "y": 1179
     },
     {
         "id": "b5305a67.80d008",
@@ -4190,9 +4166,7 @@
             "8207386.0661fc8"
         ],
         "x": 964,
-        "y": 1179,
-        "w": 362,
-        "h": 202
+        "y": 1179
     },
     {
         "id": "52cef377.daab5c",
@@ -4216,9 +4190,7 @@
             "b4b08522.2499f8"
         ],
         "x": 114,
-        "y": 1179,
-        "w": 602,
-        "h": 82
+        "y": 1179
     },
     {
         "id": "de6d41a4.0f4d2",
@@ -4636,12 +4608,13 @@
             "7e7bae6e.af09d",
             "7b67956.808d16c",
             "ad027547.9a9c48",
-            "57cd5933.3df778"
+            "57cd5933.3df778",
+            "812b67ae.cdbbc8"
         ],
         "x": 2774,
         "y": 2859,
         "w": 1042,
-        "h": 162
+        "h": 172
     },
     {
         "id": "5613a5b2.95577c",
@@ -4975,11 +4948,15 @@
             "29f2664c.10cf1a",
             "511841f8.1761e",
             "c1ca7972.7efad8",
-            "95efa56e.233d78"
+            "95efa56e.233d78",
+            "77b4028a.3116dc",
+            "3b25cb79.a981f4",
+            "feca211c.60dc6",
+            "77783f2a.0aca1"
         ],
         "x": 1364,
         "y": 479,
-        "w": 752,
+        "w": 1022,
         "h": 432
     },
     {
@@ -5077,12 +5054,11 @@
             "e3fc54b9.c1b108",
             "a2be0fbd.31585",
             "4a02b457.a1fecc",
-            "ffda9256.dc79c",
-            "924f3cdb.96bbe"
+            "ffda9256.dc79c"
         ],
         "x": 1364,
         "y": 59,
-        "w": 1302,
+        "w": 1282,
         "h": 412
     },
     {
@@ -29941,7 +29917,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "2d061227.66d7ce",
         "name": "Vector de Funciones AN",
-        "func": "var ES = flow.get(\"ES\");\nvar Funcion = [];\nvar Lista_Funciones = {};\n\nvar Canal = ['AN1','AN2','AN3','AN4'];\n\nfor(var i=0; i<Canal.length; i++){\n    \n    // Generar el vector con todas las posibles opciones de configuración\n    if( typeof ES.EA[Canal[i]] !== 'undefined'){\n        \n        // Lista Completa\n        Lista_Funciones[Canal[i]] = ES.EA[Canal[i]].Funcion;\n        \n        // Lista Simple\n        if(Funcion.find(element => element == ES.EA[Canal[i]].Funcion) !== ES.EA[Canal[i]].Funcion ){\n            Funcion.push(ES.EA[Canal[i]].Funcion);\n        }\n    }\n    else{\n        delete Lista_Funciones[Canal[i]];\n    }\n    \n}\n\nmsg.payload = {\n    'Lista_Simple':Funcion,\n    'Lista_Completa':Lista_Funciones\n}\n\nreturn msg;",
+        "func": "var ES = flow.get(\"ES\");\nvar Funcion = [];\nvar Lista_Funciones = {};\n\nvar Canal = ['AN0','AN1','AN2','AN3','AN4','AN5','AN6','AN7'];\n\nfor(var i=0; i<Canal.length; i++){\n    \n    // Generar el vector con todas las posibles opciones de configuración\n    if( typeof ES.EA[Canal[i]] !== 'undefined'){\n        \n        // Lista Completa\n        Lista_Funciones[Canal[i]] = ES.EA[Canal[i]].Funcion;\n        \n        // Lista Simple\n        if(Funcion.find(element => element == ES.EA[Canal[i]].Funcion) !== ES.EA[Canal[i]].Funcion ){\n            Funcion.push(ES.EA[Canal[i]].Funcion);\n        }\n    }\n    else{\n        delete Lista_Funciones[Canal[i]];\n    }\n    \n}\n\nmsg.payload = {\n    'Lista_Simple':Funcion,\n    'Lista_Completa':Lista_Funciones\n}\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -30264,8 +30240,7 @@
         "y": 300,
         "wires": [
             [
-                "e3fc54b9.c1b108",
-                "924f3cdb.96bbe"
+                "e3fc54b9.c1b108"
             ],
             [
                 "5ba78aad.1e1004"
@@ -30389,11 +30364,15 @@
         "g": "2d061227.66d7ce",
         "name": "Configuración AN Completa",
         "scope": [
+            "955fc7d3.2b6ac8",
             "5ba78aad.1e1004",
             "ab3579b7.9be628",
             "5c582963.1ed7f8",
             "acf4e6b7.86a698",
-            "955fc7d3.2b6ac8"
+            "e3fc54b9.c1b108",
+            "a2be0fbd.31585",
+            "4a02b457.a1fecc",
+            "ffda9256.dc79c"
         ],
         "uncaught": false,
         "x": 1510,
@@ -40963,7 +40942,8 @@
             "88d232ea.2ef4b",
             "b3c62075.a7822",
             "9315f673.0e6318",
-            "51d2e767.639a98"
+            "51d2e767.639a98",
+            "37528c32.e720c4"
         ],
         "x": 405,
         "y": 1220,
@@ -50647,30 +50627,12 @@
         ]
     },
     {
-        "id": "924f3cdb.96bbe",
-        "type": "debug",
-        "z": "e86f0ca4.7feb5",
-        "g": "2d061227.66d7ce",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 2570,
-        "y": 110,
-        "wires": []
-    },
-    {
         "id": "d1695de0.41452",
         "type": "function",
         "z": "e86f0ca4.7feb5",
         "g": "5c3a9c15.3a4554",
         "name": "Normalizar/Escalizar",
-        "func": "var EA = flow.get('ES').EA || null;\nvar canal = msg.topic;\nvar b = null;\nvar min = null;\nvar max = null;\n\nif(typeof EA[canal] !== 'undefined'){\n    if(typeof EA[canal].Rango_Min !== 'undefined' && EA[canal].Rango_Min !== null){\n        min = parseFloat(EA[canal].Rango_Min);\n    }\n    if(typeof EA[canal].Rango_Max !== \"undefined\" && EA[canal].Rango_Max !== null){\n        max = parseFloat(EA[canal].Rango_Max);\n    }\n    if(min !== null && max !== null){\n        b = [min,max];\n    } \n}\n\n// Valor a mapear\n//var value = Object.values(msg.payload)[0];\nvar value = msg.payload\n// Rango del valor a mapear [0,5] señal eléctrica.\nvar a = [0,1023];\n\n// Mapeo\nif(b !== null ){\n    var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n    // Saturación\n    if(t > b[1]){    t = b[1];}\n    else if(t < b[0]){ t = b[0];}\n    // Asignar payload\n    msg.payload = parseFloat(t.toFixed(3));\n}\nelse{\n    // Asignar payload\n    msg.payload = 0;\n}\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:b});\nreturn msg;\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
+        "func": "var EA = flow.get('ES').EA || null;\nvar canal = msg.topic;\nvar b = null;\nvar min = null;\nvar max = null;\n\nif(typeof EA[canal] !== 'undefined'){\n    if(typeof EA[canal].Rango_Min !== 'undefined' && EA[canal].Rango_Min !== null){\n        min = parseFloat(EA[canal].Rango_Min);\n    }\n    if(typeof EA[canal].Rango_Max !== \"undefined\" && EA[canal].Rango_Max !== null){\n        max = parseFloat(EA[canal].Rango_Max);\n    }\n    if(min !== null && max !== null){\n        b = [min,max];\n    } \n}\n\n// Valor a mapear\n//var value = Object.values(msg.payload)[0];\nvar value = msg.payload\n// Rango del valor a mapear [0,5] señal eléctrica.\nvar a = [0,1023];\n\n// Mapeo\nif(b !== null ){\n    var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n    // Saturación\n    if(t > b[1]){    t = b[1];}\n    else if(t < b[0]){ t = b[0];}\n    // Asignar payload\n    msg.payload = parseFloat(t.toFixed(3));\n}\nelse{\n    // Asignar payload\n    msg.payload = 0;\n}\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -50690,7 +50652,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "5c3a9c15.3a4554",
         "name": "Normalizar/Escalizar",
-        "func": "var EA = flow.get('ES').EA || null;\nvar canal = msg.topic;\nvar b = null;\nvar min = null;\nvar max = null;\n\nif(typeof EA[canal] !== 'undefined'){\n    if(typeof EA[canal].Rango_Min !== 'undefined' && EA[canal].Rango_Min !== null){\n        min = parseFloat(EA[canal].Rango_Min);\n    }\n    if(typeof EA[canal].Rango_Max !== \"undefined\" && EA[canal].Rango_Max !== null){\n        max = parseFloat(EA[canal].Rango_Max);\n    }\n    if(min !== null && max !== null){\n        b = [min,max];\n    } \n}\n\n// Valor a mapear\n//var value = Object.values(msg.payload)[0];\nvar value = msg.payload\n// Rango del valor a mapear [0,5] señal eléctrica.\nvar a = [0,1023];\n\n// Mapeo\nif(b !== null ){\n    var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n    // Saturación\n    if(t > b[1]){    t = b[1];}\n    else if(t < b[0]){ t = b[0];}\n    // Asignar payload\n    msg.payload = parseFloat(t.toFixed(3));\n}\nelse{\n    // Asignar payload\n    msg.payload = 0;\n}\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:b});\nreturn msg;\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
+        "func": "var EA = flow.get('ES').EA || null;\nvar canal = msg.topic;\nvar b = null;\nvar min = null;\nvar max = null;\n\nif(typeof EA[canal] !== 'undefined'){\n    if(typeof EA[canal].Rango_Min !== 'undefined' && EA[canal].Rango_Min !== null){\n        min = parseFloat(EA[canal].Rango_Min);\n    }\n    if(typeof EA[canal].Rango_Max !== \"undefined\" && EA[canal].Rango_Max !== null){\n        max = parseFloat(EA[canal].Rango_Max);\n    }\n    if(min !== null && max !== null){\n        b = [min,max];\n    } \n}\n\n// Valor a mapear\n//var value = Object.values(msg.payload)[0];\nvar value = msg.payload\n// Rango del valor a mapear [0,5] señal eléctrica.\nvar a = [0,1023];\n\n// Mapeo\nif(b !== null ){\n    var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n    // Saturación\n    if(t > b[1]){    t = b[1];}\n    else if(t < b[0]){ t = b[0];}\n    // Asignar payload\n    msg.payload = parseFloat(t.toFixed(3));\n}\nelse{\n    // Asignar payload\n    msg.payload = 0;\n}\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -50710,7 +50672,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "5c3a9c15.3a4554",
         "name": "Normalizar/Escalizar",
-        "func": "var EA = flow.get('ES').EA || null;\nvar canal = msg.topic;\nvar b = null;\nvar min = null;\nvar max = null;\n\nif(typeof EA[canal] !== 'undefined'){\n    if(typeof EA[canal].Rango_Min !== 'undefined' && EA[canal].Rango_Min !== null){\n        min = parseFloat(EA[canal].Rango_Min);\n    }\n    if(typeof EA[canal].Rango_Max !== \"undefined\" && EA[canal].Rango_Max !== null){\n        max = parseFloat(EA[canal].Rango_Max);\n    }\n    if(min !== null && max !== null){\n        b = [min,max];\n    } \n}\n\n// Valor a mapear\n//var value = Object.values(msg.payload)[0];\nvar value = msg.payload\n// Rango del valor a mapear [0,5] señal eléctrica.\nvar a = [0,1023];\n\n// Mapeo\nif(b !== null ){\n    var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n    // Saturación\n    if(t > b[1]){    t = b[1];}\n    else if(t < b[0]){ t = b[0];}\n    // Asignar payload\n    msg.payload = parseFloat(t.toFixed(3));\n}\nelse{\n    // Asignar payload\n    msg.payload = 0;\n}\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:b});\nreturn msg;\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
+        "func": "var EA = flow.get('ES').EA || null;\nvar canal = msg.topic;\nvar b = null;\nvar min = null;\nvar max = null;\n\nif(typeof EA[canal] !== 'undefined'){\n    if(typeof EA[canal].Rango_Min !== 'undefined' && EA[canal].Rango_Min !== null){\n        min = parseFloat(EA[canal].Rango_Min);\n    }\n    if(typeof EA[canal].Rango_Max !== \"undefined\" && EA[canal].Rango_Max !== null){\n        max = parseFloat(EA[canal].Rango_Max);\n    }\n    if(min !== null && max !== null){\n        b = [min,max];\n    } \n}\n\n// Valor a mapear\n//var value = Object.values(msg.payload)[0];\nvar value = msg.payload\n// Rango del valor a mapear [0,5] señal eléctrica.\nvar a = [0,1023];\n\n// Mapeo\nif(b !== null ){\n    var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n    // Saturación\n    if(t > b[1]){    t = b[1];}\n    else if(t < b[0]){ t = b[0];}\n    // Asignar payload\n    msg.payload = parseFloat(t.toFixed(3));\n}\nelse{\n    // Asignar payload\n    msg.payload = 0;\n}\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -50730,7 +50692,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "5c3a9c15.3a4554",
         "name": "Normalizar/Escalizar",
-        "func": "var EA = flow.get('ES').EA || null;\nvar canal = msg.topic;\nvar b = null;\nvar min = null;\nvar max = null;\n\nif(typeof EA[canal] !== 'undefined'){\n    if(typeof EA[canal].Rango_Min !== 'undefined' && EA[canal].Rango_Min !== null){\n        min = parseFloat(EA[canal].Rango_Min);\n    }\n    if(typeof EA[canal].Rango_Max !== \"undefined\" && EA[canal].Rango_Max !== null){\n        max = parseFloat(EA[canal].Rango_Max);\n    }\n    if(min !== null && max !== null){\n        b = [min,max];\n    } \n}\n\n// Valor a mapear\n//var value = Object.values(msg.payload)[0];\nvar value = msg.payload\n// Rango del valor a mapear [0,5] señal eléctrica.\nvar a = [0,1023];\n\n// Mapeo\nif(b !== null ){\n    var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n    // Saturación\n    if(t > b[1]){    t = b[1];}\n    else if(t < b[0]){ t = b[0];}\n    // Asignar payload\n    msg.payload = parseFloat(t.toFixed(3));\n}\nelse{\n    // Asignar payload\n    msg.payload = 0;\n}\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:b});\nreturn msg;\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
+        "func": "var EA = flow.get('ES').EA || null;\nvar canal = msg.topic;\nvar b = null;\nvar min = null;\nvar max = null;\n\nif(typeof EA[canal] !== 'undefined'){\n    if(typeof EA[canal].Rango_Min !== 'undefined' && EA[canal].Rango_Min !== null){\n        min = parseFloat(EA[canal].Rango_Min);\n    }\n    if(typeof EA[canal].Rango_Max !== \"undefined\" && EA[canal].Rango_Max !== null){\n        max = parseFloat(EA[canal].Rango_Max);\n    }\n    if(min !== null && max !== null){\n        b = [min,max];\n    } \n}\n\n// Valor a mapear\n//var value = Object.values(msg.payload)[0];\nvar value = msg.payload\n// Rango del valor a mapear [0,5] señal eléctrica.\nvar a = [0,1023];\n\n// Mapeo\nif(b !== null ){\n    var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n    // Saturación\n    if(t > b[1]){    t = b[1];}\n    else if(t < b[0]){ t = b[0];}\n    // Asignar payload\n    msg.payload = parseFloat(t.toFixed(3));\n}\nelse{\n    // Asignar payload\n    msg.payload = 0;\n}\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -50750,7 +50712,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "5c3a9c15.3a4554",
         "name": "Normalizar/Escalizar",
-        "func": "var EA = flow.get('ES').EA || null;\nvar canal = msg.topic;\nvar b = null;\nvar min = null;\nvar max = null;\n\nif(typeof EA[canal] !== 'undefined'){\n    if(typeof EA[canal].Rango_Min !== 'undefined' && EA[canal].Rango_Min !== null){\n        min = parseFloat(EA[canal].Rango_Min);\n    }\n    if(typeof EA[canal].Rango_Max !== \"undefined\" && EA[canal].Rango_Max !== null){\n        max = parseFloat(EA[canal].Rango_Max);\n    }\n    if(min !== null && max !== null){\n        b = [min,max];\n    } \n}\n\n// Valor a mapear\n//var value = Object.values(msg.payload)[0];\nvar value = msg.payload\n// Rango del valor a mapear [0,5] señal eléctrica.\nvar a = [0,1023];\n\n// Mapeo\nif(b !== null ){\n    var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n    // Saturación\n    if(t > b[1]){    t = b[1];}\n    else if(t < b[0]){ t = b[0];}\n    // Asignar payload\n    msg.payload = parseFloat(t.toFixed(3));\n}\nelse{\n    // Asignar payload\n    msg.payload = 0;\n}\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:b});\nreturn msg;\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
+        "func": "var EA = flow.get('ES').EA || null;\nvar canal = msg.topic;\nvar b = null;\nvar min = null;\nvar max = null;\n\nif(typeof EA[canal] !== 'undefined'){\n    if(typeof EA[canal].Rango_Min !== 'undefined' && EA[canal].Rango_Min !== null){\n        min = parseFloat(EA[canal].Rango_Min);\n    }\n    if(typeof EA[canal].Rango_Max !== \"undefined\" && EA[canal].Rango_Max !== null){\n        max = parseFloat(EA[canal].Rango_Max);\n    }\n    if(min !== null && max !== null){\n        b = [min,max];\n    } \n}\n\n// Valor a mapear\n//var value = Object.values(msg.payload)[0];\nvar value = msg.payload\n// Rango del valor a mapear [0,5] señal eléctrica.\nvar a = [0,1023];\n\n// Mapeo\nif(b !== null ){\n    var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n    // Saturación\n    if(t > b[1]){    t = b[1];}\n    else if(t < b[0]){ t = b[0];}\n    // Asignar payload\n    msg.payload = parseFloat(t.toFixed(3));\n}\nelse{\n    // Asignar payload\n    msg.payload = 0;\n}\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -50770,7 +50732,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "5c3a9c15.3a4554",
         "name": "Normalizar/Escalizar",
-        "func": "var EA = flow.get('ES').EA || null;\nvar canal = msg.topic;\nvar b = null;\nvar min = null;\nvar max = null;\n\nif(typeof EA[canal] !== 'undefined'){\n    if(typeof EA[canal].Rango_Min !== 'undefined' && EA[canal].Rango_Min !== null){\n        min = parseFloat(EA[canal].Rango_Min);\n    }\n    if(typeof EA[canal].Rango_Max !== \"undefined\" && EA[canal].Rango_Max !== null){\n        max = parseFloat(EA[canal].Rango_Max);\n    }\n    if(min !== null && max !== null){\n        b = [min,max];\n    } \n}\n\n// Valor a mapear\n//var value = Object.values(msg.payload)[0];\nvar value = msg.payload\n// Rango del valor a mapear [0,5] señal eléctrica.\nvar a = [0,1023];\n\n// Mapeo\nif(b !== null ){\n    var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n    // Saturación\n    if(t > b[1]){    t = b[1];}\n    else if(t < b[0]){ t = b[0];}\n    // Asignar payload\n    msg.payload = parseFloat(t.toFixed(3));\n}\nelse{\n    // Asignar payload\n    msg.payload = 0;\n}\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:b});\nreturn msg;\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
+        "func": "var EA = flow.get('ES').EA || null;\nvar canal = msg.topic;\nvar b = null;\nvar min = null;\nvar max = null;\n\nif(typeof EA[canal] !== 'undefined'){\n    if(typeof EA[canal].Rango_Min !== 'undefined' && EA[canal].Rango_Min !== null){\n        min = parseFloat(EA[canal].Rango_Min);\n    }\n    if(typeof EA[canal].Rango_Max !== \"undefined\" && EA[canal].Rango_Max !== null){\n        max = parseFloat(EA[canal].Rango_Max);\n    }\n    if(min !== null && max !== null){\n        b = [min,max];\n    } \n}\n\n// Valor a mapear\n//var value = Object.values(msg.payload)[0];\nvar value = msg.payload\n// Rango del valor a mapear [0,5] señal eléctrica.\nvar a = [0,1023];\n\n// Mapeo\nif(b !== null ){\n    var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n    // Saturación\n    if(t > b[1]){    t = b[1];}\n    else if(t < b[0]){ t = b[0];}\n    // Asignar payload\n    msg.payload = parseFloat(t.toFixed(3));\n}\nelse{\n    // Asignar payload\n    msg.payload = 0;\n}\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -50790,7 +50752,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "5c3a9c15.3a4554",
         "name": "Normalizar/Escalizar",
-        "func": "var EA = flow.get('ES').EA || null;\nvar canal = msg.topic;\nvar b = null;\nvar min = null;\nvar max = null;\n\nif(typeof EA[canal] !== 'undefined'){\n    if(typeof EA[canal].Rango_Min !== 'undefined' && EA[canal].Rango_Min !== null){\n        min = parseFloat(EA[canal].Rango_Min);\n    }\n    if(typeof EA[canal].Rango_Max !== \"undefined\" && EA[canal].Rango_Max !== null){\n        max = parseFloat(EA[canal].Rango_Max);\n    }\n    if(min !== null && max !== null){\n        b = [min,max];\n    } \n}\n\n// Valor a mapear\n//var value = Object.values(msg.payload)[0];\nvar value = msg.payload\n// Rango del valor a mapear [0,5] señal eléctrica.\nvar a = [0,1023];\n\n// Mapeo\nif(b !== null ){\n    var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n    // Saturación\n    if(t > b[1]){    t = b[1];}\n    else if(t < b[0]){ t = b[0];}\n    // Asignar payload\n    msg.payload = parseFloat(t.toFixed(3));\n}\nelse{\n    // Asignar payload\n    msg.payload = 0;\n}\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:b});\nreturn msg;\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
+        "func": "var EA = flow.get('ES').EA || null;\nvar canal = msg.topic;\nvar b = null;\nvar min = null;\nvar max = null;\n\nif(typeof EA[canal] !== 'undefined'){\n    if(typeof EA[canal].Rango_Min !== 'undefined' && EA[canal].Rango_Min !== null){\n        min = parseFloat(EA[canal].Rango_Min);\n    }\n    if(typeof EA[canal].Rango_Max !== \"undefined\" && EA[canal].Rango_Max !== null){\n        max = parseFloat(EA[canal].Rango_Max);\n    }\n    if(min !== null && max !== null){\n        b = [min,max];\n    } \n}\n\n// Valor a mapear\n//var value = Object.values(msg.payload)[0];\nvar value = msg.payload\n// Rango del valor a mapear [0,5] señal eléctrica.\nvar a = [0,1023];\n\n// Mapeo\nif(b !== null ){\n    var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n    // Saturación\n    if(t > b[1]){    t = b[1];}\n    else if(t < b[0]){ t = b[0];}\n    // Asignar payload\n    msg.payload = parseFloat(t.toFixed(3));\n}\nelse{\n    // Asignar payload\n    msg.payload = 0;\n}\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -50825,6 +50787,16 @@
             },
             {
                 "t": "eq",
+                "v": "TEMPERATURA_INTAKE",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "TEMPERATURA_DISCHARGE",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
                 "v": "PRESION_CASING",
                 "vt": "str"
             },
@@ -50836,16 +50808,6 @@
             {
                 "t": "eq",
                 "v": "TEMPERATURA_CABEZA_THT",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "TEMPERATURA_INTAKE",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "TEMPERATURA_DISCHARGE",
                 "vt": "str"
             },
             {
@@ -50873,10 +50835,18 @@
         "x": 2000,
         "y": 690,
         "wires": [
-            [],
-            [],
-            [],
-            [],
+            [
+                "77b4028a.3116dc"
+            ],
+            [
+                "3b25cb79.a981f4"
+            ],
+            [
+                "feca211c.60dc6"
+            ],
+            [
+                "77783f2a.0aca1"
+            ],
             [],
             [],
             [],
@@ -52098,7 +52068,7 @@
         "to": "",
         "reg": false,
         "x": 320,
-        "y": 2670,
+        "y": 2720,
         "wires": [
             [
                 "56b9f9c.38c5208"
@@ -52115,7 +52085,7 @@
             "a842573a.e6e518"
         ],
         "x": 435,
-        "y": 2670,
+        "y": 2720,
         "wires": []
     },
     {
@@ -52156,7 +52126,7 @@
         ],
         "uncaught": false,
         "x": 130,
-        "y": 2670,
+        "y": 2720,
         "wires": [
             [
                 "cb16cea3.9311e"
@@ -52252,7 +52222,7 @@
         "z": "68deacdf.9a36f4",
         "g": "17c31216.1aa6ce",
         "name": "EA",
-        "func": "Canal   = flow.get('ES');\nIO      = global.get('IO','memoryOnly');\n\nvar Funciones   = [];\nvar TipoIO      = [];\nvar Values      = [];\n\n// Entradas Digitales\nvar str = \"Canal\"+8;\nvar otro = Object.keys(IO.AI);\n\nfor(var i = 0; i<otro.length; i++){\n    var index= 'AN'+otro[i];\n    if(typeof Canal.EA[index] != 'undefined'){\n        Funciones.push(Canal.EA[index].Funcion);\n        Values.push(Escalizar([Canal.EA[index].Rango_Min,Canal.EA[index].Rango_Max],IO.AI[otro[i]]));\n    }\n    else{\n        Funciones.push('Ninguno');\n        Values.push('--');\n    }\n}\nmsg.payload = {\n    'Canales': otro, \n    'Funciones':Funciones,\n    'Tipo': TipoIO,\n    'Values': Values\n}\n\nfunction Escalizar(b,value){\n    a = [0,1023];\n    // Mapeo\n    if(b !== null && typeof b[0] == 'number' && typeof b[1] == 'number' ){\n        var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseFloat(t.toFixed(2));\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}\n\nreturn msg;",
+        "func": "Canal   = flow.get('ES');\nIO      = global.get('IO','memoryOnly');\n\nvar Funciones   = [];\nvar TipoIO      = [];\nvar Values      = [];\n\n// Entradas Analogicas\nvar otro = Object.keys(IO.AI);\n\nfor(var i = 0; i<otro.length; i++){\n    var index= 'AN'+otro[i];\n    if(typeof Canal.EA[index] != 'undefined'){\n        Funciones.push(Canal.EA[index].Funcion);\n        Values.push(Escalizar([Canal.EA[index].Rango_Min,Canal.EA[index].Rango_Max],IO.AI[otro[i]]));\n    }\n    else{\n        Funciones.push('Ninguno');\n        Values.push('--');\n    }\n}\nmsg.payload = {\n    'Canales': otro, \n    'Funciones':Funciones,\n    'Tipo': TipoIO,\n    'Values': Values\n}\n\nfunction Escalizar(b,value){\n    a = [0,1023];\n    // Mapeo\n    if(b !== null && typeof b[0] == 'number' && typeof b[1] == 'number' ){\n        var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseFloat(t.toFixed(2));\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -59883,7 +59853,7 @@
         "type": "function",
         "z": "e86f0ca4.7feb5",
         "name": "",
-        "func": "var Rtx = flow.get(\"Relación_Transformación\");\nRel = Rtx.Tensión_secundario/480;\nmsg.payload = Rel.toFixed(2);\nreturn msg;",
+        "func": "var Rtx = flow.get(\"Relación_Transformación\") || null;\n\nif(Rtx != null){ \n    Rel = Rtx.Tensión_secundario/480;\n}\nelse{\n    Rel=1;\n}\n\nmsg.payload = Rel.toFixed(2);\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -59971,6 +59941,7 @@
         "z": "e86f0ca4.7feb5",
         "name": "",
         "links": [
+            "ad87cee4.7dbb5",
             "e6dcbeb6.ceddc"
         ],
         "x": 4195,
@@ -60448,7 +60419,7 @@
         "payload": "#:(memoryOnly)::ActFunctions",
         "payloadType": "flow",
         "x": 150,
-        "y": 2500,
+        "y": 2550,
         "wires": [
             [
                 "6e837680.b705c8"
@@ -60467,7 +60438,7 @@
         "initialize": "",
         "finalize": "",
         "x": 330,
-        "y": 2500,
+        "y": 2550,
         "wires": [
             [
                 "edf47f97.68e64"
@@ -60490,7 +60461,7 @@
         "topic": "",
         "name": "",
         "x": 770,
-        "y": 2500,
+        "y": 2550,
         "wires": []
     },
     {
@@ -60505,7 +60476,7 @@
         "inout": "out",
         "property": "payload",
         "x": 470,
-        "y": 2500,
+        "y": 2550,
         "wires": [
             [
                 "675d7e0d.b5798"
@@ -60529,7 +60500,7 @@
         "repair": false,
         "outputs": 1,
         "x": 590,
-        "y": 2500,
+        "y": 2550,
         "wires": [
             [
                 "58faeca6.e95934",
@@ -60559,7 +60530,7 @@
         "repair": false,
         "outputs": 2,
         "x": 730,
-        "y": 2560,
+        "y": 2610,
         "wires": [
             [
                 "c099945b.08bf98"
@@ -60579,7 +60550,7 @@
             "59e817c2.295b38"
         ],
         "x": 825,
-        "y": 2580,
+        "y": 2630,
         "wires": []
     },
     {
@@ -60592,7 +60563,7 @@
             "33f2aa3c.6c08f6"
         ],
         "x": 825,
-        "y": 2540,
+        "y": 2590,
         "wires": []
     },
     {
@@ -62619,7 +62590,8 @@
         "wires": [
             [
                 "3d698efd.3e4e82",
-                "7e7bae6e.af09d"
+                "7e7bae6e.af09d",
+                "812b67ae.cdbbc8"
             ],
             []
         ]
@@ -62628,9 +62600,10 @@
         "id": "3d698efd.3e4e82",
         "type": "function",
         "z": "e86f0ca4.7feb5",
+        "d": true,
         "g": "beae8e2f.5f80b",
         "name": "Asingar Datos",
-        "func": "if(msg.payload !== \"\"){\n    global.set(\"DownHoleData[msg.topic]\",msg.payload*msg.factor)\n}\nreturn;",
+        "func": "if(msg.payload !== \"\"){\n    global.set(\"DownHoleData.DHS[msg.topic]\",msg.payload*msg.factor)\n}\nreturn;",
         "outputs": 0,
         "noerr": 0,
         "initialize": "",
@@ -62691,7 +62664,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "f059af07.db923",
         "name": "Objeto DHSData",
-        "func": "DHS = flow.get(\"DownholeSensor.MBSMap\");\nDownHoleData = {};\nfor(var i=0; i<DHS.length; i+=1){\n    DownHoleData[DHS[i].Descripción] = 0;\n}\nmsg.payload = {DownHoleData}\nglobal.set(\"DownHoleData\",DownHoleData,\"memoryOnly\");\nreturn;",
+        "func": "DHS = flow.get(\"DownholeSensor.MBSMap\");\nDownHoleData = {};\nfor(var i=0; i<DHS.length; i+=1){\n    DownHoleData[DHS[i].Descripción] = 0;\n}\nmsg.payload = {DownHoleData}\nglobal.set(\"DownHoleData.DHS\",DownHoleData,\"memoryOnly\");\nreturn;",
         "outputs": 0,
         "noerr": 0,
         "initialize": "",
@@ -63139,9 +63112,9 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "#:(memoryOnly)::DownHoleData",
+        "payload": "#:(memoryOnly)::DownHoleData.DHS",
         "payloadType": "global",
-        "x": 240,
+        "x": 220,
         "y": 1620,
         "wires": [
             [
@@ -63826,6 +63799,128 @@
         "wires": [
             [],
             [],
+            []
+        ]
+    },
+    {
+        "id": "812b67ae.cdbbc8",
+        "type": "debug",
+        "z": "e86f0ca4.7feb5",
+        "g": "beae8e2f.5f80b",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 3300,
+        "y": 2990,
+        "wires": []
+    },
+    {
+        "id": "77b4028a.3116dc",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Presión de entrada",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::DownHoleData.AI[\"Presión de entrada\"]",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2230,
+        "y": 580,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3b25cb79.a981f4",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Presión de descarga",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::DownHoleData.AI[\"Presión de descarga\"]",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2240,
+        "y": 620,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "feca211c.60dc6",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Temperatura de entrada",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::DownHoleData.AI[\"Temperatura de entrada\"]",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2250,
+        "y": 660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "77783f2a.0aca1",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Temperatura de descarga",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::DownHoleData.AI[\"Temperatura de descarga\"]",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2250,
+        "y": 700,
+        "wires": [
             []
         ]
     }

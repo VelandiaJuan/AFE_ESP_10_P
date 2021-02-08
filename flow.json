@@ -984,7 +984,7 @@
         ],
         "x": 12,
         "y": 7,
-        "w": 2686,
+        "w": 2696,
         "h": 1626
     },
     {
@@ -1203,7 +1203,9 @@
             "b9ed60ab.26f43"
         ],
         "x": 24,
-        "y": 19
+        "y": 19,
+        "w": 2012,
+        "h": 442
     },
     {
         "id": "74789700.1df498",
@@ -1269,7 +1271,9 @@
             "b509ce91.c5418"
         ],
         "x": 28,
-        "y": 473
+        "y": 473,
+        "w": 1584,
+        "h": 1224
     },
     {
         "id": "58f712f1.3e5eec",
@@ -1305,7 +1309,9 @@
             "9bdf522.eba6db"
         ],
         "x": 28,
-        "y": 3
+        "y": 3,
+        "w": 1004,
+        "h": 544
     },
     {
         "id": "353eeed0.7959d2",
@@ -1322,7 +1328,9 @@
             "ab7a4a2c.17d8a8"
         ],
         "x": 28,
-        "y": 553
+        "y": 553,
+        "w": 1924,
+        "h": 1104
     },
     {
         "id": "e3aa057d.09fb18",
@@ -1340,7 +1348,9 @@
             "b9df7528.923398"
         ],
         "x": 28,
-        "y": 1663
+        "y": 1663,
+        "w": 2860,
+        "h": 1062
     },
     {
         "id": "a163450f.bc4438",
@@ -1490,7 +1500,9 @@
             "55be084e.2ad3b8"
         ],
         "x": 24,
-        "y": 1709
+        "y": 1709,
+        "w": 1312,
+        "h": 222
     },
     {
         "id": "440775ff.2a92fc",
@@ -1508,7 +1520,9 @@
             "ba5f4e4b.e55a2"
         ],
         "x": 1054,
-        "y": 1119
+        "y": 1119,
+        "w": 412,
+        "h": 82
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -1537,7 +1551,9 @@
             "3ccbaa0b.2db096"
         ],
         "x": 24,
-        "y": 1939
+        "y": 1939,
+        "w": 1072,
+        "h": 232
     },
     {
         "id": "c57d2588.a42f68",
@@ -1857,7 +1873,9 @@
             "51d2e767.639a98"
         ],
         "x": 1044,
-        "y": 29
+        "y": 29,
+        "w": 952,
+        "h": 242
     },
     {
         "id": "aaa733ec.38139",
@@ -2260,8 +2278,8 @@
         ],
         "x": 1338,
         "y": 33,
-        "w": 1334,
-        "h": 904
+        "w": 1344,
+        "h": 1011.5
     },
     {
         "id": "23bbdddc.b8c5c2",
@@ -3583,7 +3601,9 @@
             "3a6fab3.c7e5154"
         ],
         "x": 54,
-        "y": 1389
+        "y": 1389,
+        "w": 532,
+        "h": 282
     },
     {
         "id": "1d477816.993308",
@@ -3613,7 +3633,9 @@
             "d0a19b38.893ab8"
         ],
         "x": 54,
-        "y": 29
+        "y": 29,
+        "w": 952,
+        "h": 252
     },
     {
         "id": "9bdf522.eba6db",
@@ -3643,7 +3665,9 @@
             "e6356da9.60663"
         ],
         "x": 54,
-        "y": 289
+        "y": 289,
+        "w": 952,
+        "h": 232
     },
     {
         "id": "fbbdc4b7.95b5c8",
@@ -3712,7 +3736,9 @@
             "272ed76d.7cce68"
         ],
         "x": 54,
-        "y": 879
+        "y": 879,
+        "w": 1568,
+        "h": 752
     },
     {
         "id": "84c9494b.d4dbe8",
@@ -3746,7 +3772,9 @@
             "e2832ff4.8c486"
         ],
         "x": 54,
-        "y": 579
+        "y": 579,
+        "w": 912,
+        "h": 292
     },
     {
         "id": "dad84feb.d4773",
@@ -3820,7 +3848,9 @@
             "c3276752.914e88"
         ],
         "x": 54,
-        "y": 1999
+        "y": 1999,
+        "w": 1542,
+        "h": 700
     },
     {
         "id": "7aad629d.de652c",
@@ -3882,7 +3912,9 @@
             "b8c12e8b.715b2"
         ],
         "x": 54,
-        "y": 1689
+        "y": 1689,
+        "w": 2632,
+        "h": 302
     },
     {
         "id": "4eb2e67c.e57628",
@@ -3906,7 +3938,9 @@
             "e2792bcf.8bea78"
         ],
         "x": 54,
-        "y": 499
+        "y": 499,
+        "w": 1142,
+        "h": 162
     },
     {
         "id": "da3ae781.998328",
@@ -3926,7 +3960,9 @@
             "d49cbbef.71a878"
         ],
         "x": 54,
-        "y": 669
+        "y": 669,
+        "w": 712,
+        "h": 122
     },
     {
         "id": "e60e8bfd.7a3248",
@@ -3950,7 +3986,9 @@
             "9d2ef708.6a7618"
         ],
         "x": 54,
-        "y": 799
+        "y": 799,
+        "w": 802,
+        "h": 162
     },
     {
         "id": "b19ef7d3.42ea68",
@@ -3974,7 +4012,9 @@
             "30a20927.0852c6"
         ],
         "x": 54,
-        "y": 969
+        "y": 969,
+        "w": 882,
+        "h": 162
     },
     {
         "id": "9dbc79d1.85ede8",
@@ -4002,7 +4042,9 @@
             "6a9bae72.3bb93"
         ],
         "x": 54,
-        "y": 1139
+        "y": 1139,
+        "w": 1242,
+        "h": 242
     },
     {
         "id": "9e9a162d.d4b0a8",
@@ -4025,7 +4067,9 @@
             "d1ec13b9.2d54a"
         ],
         "x": 964,
-        "y": 819
+        "y": 819,
+        "w": 622,
+        "h": 162
     },
     {
         "id": "b509ce91.c5418",
@@ -4045,7 +4089,9 @@
             "af5bc0f2.0bc23"
         ],
         "x": 594,
-        "y": 1389
+        "y": 1389,
+        "w": 702,
+        "h": 142
     },
     {
         "id": "15ca143a.56aa5c",
@@ -4068,8 +4114,8 @@
             "86b92a12.8d03a8",
             "a14ed9ad.89be18"
         ],
-        "x": 1344,
-        "y": 949,
+        "x": 1334,
+        "y": 1439,
         "w": 962,
         "h": 162
     },
@@ -4276,7 +4322,9 @@
             "577047bb.6519b8"
         ],
         "x": 974,
-        "y": 579
+        "y": 579,
+        "w": 952,
+        "h": 242
     },
     {
         "id": "e2e299a6.d3c5c8",
@@ -4334,7 +4382,9 @@
             "4e19cfd4.3982f"
         ],
         "x": 1604,
-        "y": 1999
+        "y": 1999,
+        "w": 1002,
+        "h": 282
     },
     {
         "id": "96de1dd.d202ce",
@@ -4480,7 +4530,9 @@
             "c25b39de.c92f08"
         ],
         "x": 1608,
-        "y": 2293
+        "y": 2293,
+        "w": 1254,
+        "h": 384
     },
     {
         "id": "46208c12.9b8aa4",
@@ -4753,7 +4805,8 @@
             "b0908621.f81058",
             "5a59784b.c9d428",
             "cfb42c45.e78cc",
-            "a7a23c86.af952"
+            "a7a23c86.af952",
+            "dc0e9251.31ef4"
         ],
         "x": 144,
         "y": 539,
@@ -4948,16 +5001,29 @@
             "29f2664c.10cf1a",
             "511841f8.1761e",
             "c1ca7972.7efad8",
-            "95efa56e.233d78",
-            "77b4028a.3116dc",
-            "3b25cb79.a981f4",
+            "77783f2a.0aca1",
             "feca211c.60dc6",
-            "77783f2a.0aca1"
+            "3b25cb79.a981f4",
+            "77b4028a.3116dc",
+            "95efa56e.233d78",
+            "f9d05caa.b3206",
+            "8512c7a9.9f3008",
+            "ee85a47.ad49958",
+            "e78a55c6.016538",
+            "9b3a07a.3df91f8",
+            "3f48d1d.ab2bc2e",
+            "13df9639.62708a",
+            "ba9edd6f.41866",
+            "3e30e6e0.bd0faa",
+            "b59f826.3f1168",
+            "f74abfe3.0a48",
+            "795296da.abb248",
+            "f280a028.0f854"
         ],
         "x": 1364,
         "y": 479,
-        "w": 1022,
-        "h": 432
+        "w": 1292,
+        "h": 539.5
     },
     {
         "id": "62757ffc.dca08",
@@ -5123,7 +5189,9 @@
             "97085297.91fc4"
         ],
         "x": 924,
-        "y": 909
+        "y": 909,
+        "w": 672,
+        "h": 202
     },
     {
         "id": "5d1065e2.7b952c",
@@ -5263,7 +5331,9 @@
             "1f72cbbe.a84cb4"
         ],
         "x": 1634,
-        "y": 2319
+        "y": 2319,
+        "w": 1202,
+        "h": 82
     },
     {
         "id": "c25b39de.c92f08",
@@ -5293,7 +5363,9 @@
             "38bdd4ac.3dc20c"
         ],
         "x": 1634,
-        "y": 2409
+        "y": 2409,
+        "w": 762,
+        "h": 242
     },
     {
         "id": "2fb80d12.b93df2",
@@ -5332,6 +5404,36 @@
         "y": 2009,
         "w": 722,
         "h": 442
+    },
+    {
+        "id": "6f673d7.00debc4",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "612cc7cf.567ad8",
+            "d8eeaf95.db23f",
+            "c12718f2.0931d8",
+            "c4d711ba.787d",
+            "f30ebf17.3bacb",
+            "366d2c8.78aebd4",
+            "390af677.4f758a",
+            "37528c32.e720c4",
+            "d766579d.514298",
+            "8188a395.bb719"
+        ],
+        "x": 3814,
+        "y": 719,
+        "w": 522,
+        "h": 282
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -28471,6 +28573,26 @@
                 "label": "Disparo alta temperatura filtros",
                 "value": "Disparo_alta_temperatura_filtros",
                 "type": "str"
+            },
+            {
+                "label": "Disparo alta presión THP",
+                "value": "Disparo_Alta_presión_THP",
+                "type": "str"
+            },
+            {
+                "label": "Disparo sobre tensión SUT",
+                "value": "Disparo_sobre_tensión_SUT",
+                "type": "str"
+            },
+            {
+                "label": "E.S.D Remoto",
+                "value": "ESD_Remoto",
+                "type": "str"
+            },
+            {
+                "label": "Protección térmica de motor",
+                "value": "Proteccion_termica_de_motor",
+                "type": "str"
             }
         ],
         "payload": "",
@@ -31476,6 +31598,11 @@
                 "label": "Potencia de salida",
                 "value": "Potencia de salida",
                 "type": "str"
+            },
+            {
+                "label": "Tensión de motor",
+                "value": "Tensión de motor",
+                "type": "str"
             }
         ],
         "payload": "",
@@ -32032,7 +32159,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "b974d4b3.9e3f78",
         "name": "Salidas Digitales",
-        "func": "var ES = flow.get('ES')||null;\nvar Drive_Status = global.get('Drive_Status','memoryOnly') || null;\nvar ActFunctions = flow.get('ActFunctions','memoryOnly') || null;\nvar Prot = global.get('Protections.RFlag','memoryOnly') || 0;\nvar FA = global.get('Filtro_armonicos.Estado','memoryOnly')||false;\n\n// Arreglo de Canales\nvar Data    = { \n    32:false, 33:false, 34:false, 35:false, \n    36:false, 37:false, 38:false, 39:false, \n    40:false, 41:false, 42:false, 43:false\n};\n\n// Obtener llaves del objeto Data\nvar Canal = Object.keys(Data);\n// Declaración del string con \nvar canalmsg;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"CILA2S_EN_MARCHA\"          : Drive_Status != null ? (Drive_Status.Active == 1 ? true:false): false ,\n    \"FALLA_GENERAL\"             : Drive_Status != null ? (Drive_Status.Fault  == 1 ? true:false || Prot):false, \n    \"DISPARO_BREAKER_MODULO_ESD\": InFunction(ActFunctions,'Stop_ESD') || InFunction(ActFunctions,'Disparo_bajo_bajo_aceite_SUT') || InFunction(ActFunctions,'Disparo_valvula_sobrepresion') ||InFunction(ActFunctions,'Disparo_alta_temperatura_SUT') || InFunction(ActFunctions,'Disparo_alta_temperatura_filtros'),\n    \"BYPASS_FILTRO_ARMONICOS\"   : FA,\n    \"LUZ_INTERNA\"               : InFunction(ActFunctions,'Luz_Interna')\n}\n\n// Funciones que se activan desde una entrada digital\nfunction InFunction(Var,Str){\n    for(var j = 0; j < Var.length; j++){\n        if(Var[j].Funcion == Str){\n            return Var[j].Estado;\n        }\n    }\n}\n\n// Llaves del vector FuncionesC2S\nvar Keys = Object.keys(FuncionC2S);\n\n// Para cada canal de salida\nfor(var i=0; i <Canal.length; i++){\n    canalmsg ='Canal'+ Canal[i];\n    // Si la configuración del canal está declarada\n    if(typeof ES.SD[canalmsg] != 'undefined'){\n        // Para cada llave del vector FuncionesC2S que coincida con la configuración del canal\n        for(var j=0; j<Keys.length; j++){\n            if(ES.SD[canalmsg].Funcion == Keys[j]){\n                // Asignar el valor contenido en el vector de funciones al canal de salida\n                Data[Canal[i]] = ES.SD[canalmsg].Tipo == \"NO\" ? FuncionC2S[Keys[j]]:!FuncionC2S[Keys[j]];\n            } \n        }\n    }\n}\n\n// Asignar variable con los valores a escribir  (Se puede eliminar al asignar directamente).\nvar values = Object.values(Data);\n\n// Escribir datos en el Cubloc\nmsg.payload = { \n    value: values, \n    'fc': 15, \n    'unitid': 1, \n    'address': 4096, \n    'quantity': 12 \n}\n\n// Retorno del mensaje\nreturn msg;",
+        "func": "var ES = flow.get('ES')||null;\nvar Drive_Status = global.get('Drive_Status','memoryOnly') || null;\nvar ActFunctions = flow.get('ActFunctions','memoryOnly') || null;\nvar Prot = global.get('Protections.RFlag','memoryOnly') || 0;\nvar FA = global.get('Filtro_armonicos.Estado','memoryOnly')||false;\n\n// Arreglo de Canales\nvar Data    = { \n    32:false, 33:false, 34:false, 35:false, \n    36:false, 37:false, 38:false, 39:false, \n    40:false, 41:false, 42:false, 43:false\n};\n\n// Obtener llaves del objeto Data\nvar Canal = Object.keys(Data);\n// Declaración del string con \nvar canalmsg;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"CILA2S_EN_MARCHA\"          : Drive_Status != null ? (Drive_Status.Active == 1 ? true:false): false ,\n    \"FALLA_GENERAL\"             : Drive_Status != null ? (Drive_Status.Fault  == 1 ? true:false || Prot):false, \n    \"DISPARO_BREAKER_MODULO_ESD\": InFunction(ActFunctions,'Stop_ESD') || InFunction(ActFunctions,'Disparo_bajo_bajo_aceite_SUT') || InFunction(ActFunctions,'Disparo_valvula_sobrepresion') ||InFunction(ActFunctions,'Disparo_alta_temperatura_SUT') || InFunction(ActFunctions,'Disparo_alta_temperatura_filtros'|| InFunction(ActFunctions,'Disparo_Alta_presión_THP'),InFunction(ActFunctions,'Disparo_sobre_tensión_SUT'),InFunction(ActFunctions,'ESD_Remoto'),InFunction(ActFunctions,'Proteccion_termica_de_motor')),\n    \"BYPASS_FILTRO_ARMONICOS\"   : FA\n}\n\n// Funciones que se activan desde una entrada digital\nfunction InFunction(Var,Str){\n    for(var j = 0; j < Var.length; j++){\n        if(Var[j].Funcion == Str){\n            return Var[j].Estado;\n        }\n    }\n}\n\n// Llaves del vector FuncionesC2S\nvar Keys = Object.keys(FuncionC2S);\n\n// Para cada canal de salida\nfor(var i=0; i <Canal.length; i++){\n    canalmsg ='Canal'+ Canal[i];\n    // Si la configuración del canal está declarada\n    if(typeof ES.SD[canalmsg] != 'undefined'){\n        // Para cada llave del vector FuncionesC2S que coincida con la configuración del canal\n        for(var j=0; j<Keys.length; j++){\n            if(ES.SD[canalmsg].Funcion == Keys[j]){\n                // Asignar el valor contenido en el vector de funciones al canal de salida\n                Data[Canal[i]] = ES.SD[canalmsg].Tipo == \"NO\" ? FuncionC2S[Keys[j]]:!FuncionC2S[Keys[j]];\n            } \n        }\n    }\n}\n\n// Asignar variable con los valores a escribir  (Se puede eliminar al asignar directamente).\nvar values = Object.values(Data);\n\n// Escribir datos en el Cubloc\nmsg.payload = { \n    value: values, \n    'fc': 15, \n    'unitid': 1, \n    'address': 4096, \n    'quantity': 12 \n}\n\n// Retorno del mensaje\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -49216,8 +49343,8 @@
         "useIOForPayload": false,
         "emptyMsgOnFail": false,
         "keepMsgProperties": false,
-        "x": 1920,
-        "y": 990,
+        "x": 1910,
+        "y": 1480,
         "wires": [
             [],
             [
@@ -49236,8 +49363,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1650,
-        "y": 1030,
+        "x": 1640,
+        "y": 1520,
         "wires": [
             [
                 "2813ded5.10a312"
@@ -49255,8 +49382,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1640,
-        "y": 1070,
+        "x": 1630,
+        "y": 1560,
         "wires": [
             [
                 "2813ded5.10a312"
@@ -49281,8 +49408,8 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 1440,
-        "y": 990,
+        "x": 1430,
+        "y": 1480,
         "wires": [
             [
                 "a95021da.6a8c1",
@@ -49302,8 +49429,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 2160,
-        "y": 990,
+        "x": 2150,
+        "y": 1480,
         "wires": [
             []
         ]
@@ -50175,8 +50302,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1660,
-        "y": 990,
+        "x": 1650,
+        "y": 1480,
         "wires": [
             [
                 "2813ded5.10a312"
@@ -50767,96 +50894,6 @@
         ]
     },
     {
-        "id": "95efa56e.233d78",
-        "type": "switch",
-        "z": "e86f0ca4.7feb5",
-        "g": "5c3a9c15.3a4554",
-        "name": "Ruteo de señales",
-        "property": "function",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "PRESION_INTAKE",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "PRESION_DISCHARGE",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "TEMPERATURA_INTAKE",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "TEMPERATURA_DISCHARGE",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "PRESION_CASING",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "PRESION_CABEZA_THP",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "TEMPERATURA_CABEZA_THT",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "TEMPERATURA_MOTOR",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "REFERENCIA_REMOTA",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "CT_TRANSFORMADOR_ELEVADOR",
-                "vt": "str"
-            },
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 11,
-        "x": 2000,
-        "y": 690,
-        "wires": [
-            [
-                "77b4028a.3116dc"
-            ],
-            [
-                "3b25cb79.a981f4"
-            ],
-            [
-                "feca211c.60dc6"
-            ],
-            [
-                "77783f2a.0aca1"
-            ],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            []
-        ]
-    },
-    {
         "id": "2067d6cd.3e46ca",
         "type": "switch",
         "z": "e86f0ca4.7feb5",
@@ -51238,7 +51275,7 @@
         "bytopic": "all",
         "topic": "topic",
         "outputs": 1,
-        "x": 1350,
+        "x": 1540,
         "y": 710,
         "wires": [
             [
@@ -52670,6 +52707,7 @@
         "id": "dc0e9251.31ef4",
         "type": "change",
         "z": "5f404c88.fa75a4",
+        "g": "e503ca5.7ac8738",
         "name": "",
         "rules": [
             {
@@ -52685,8 +52723,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1640,
-        "y": 750,
+        "x": 1650,
+        "y": 790,
         "wires": [
             []
         ]
@@ -56480,8 +56518,8 @@
         "endpoint": "5a40295d.6caa18",
         "variable": "PF755T_ControlCommands",
         "name": "",
-        "x": 1370,
-        "y": 750,
+        "x": 1380,
+        "y": 790,
         "wires": []
     },
     {
@@ -59788,6 +59826,7 @@
         "id": "612cc7cf.567ad8",
         "type": "ui_text",
         "z": "e86f0ca4.7feb5",
+        "g": "6f673d7.00debc4",
         "group": "2666f936.6d0ee6",
         "order": 2,
         "width": "2",
@@ -59796,14 +59835,15 @@
         "label": "Rtx: ",
         "format": "{{msg.payload}}",
         "layout": "row-left",
-        "x": 4470,
-        "y": 790,
+        "x": 4140,
+        "y": 760,
         "wires": []
     },
     {
         "id": "d8eeaf95.db23f",
         "type": "ui_text",
         "z": "e86f0ca4.7feb5",
+        "g": "6f673d7.00debc4",
         "group": "536af8e6.0e6808",
         "order": 2,
         "width": "2",
@@ -59812,14 +59852,15 @@
         "label": "Rtx: ",
         "format": "{{msg.payload}}",
         "layout": "row-left",
-        "x": 4470,
-        "y": 830,
+        "x": 4140,
+        "y": 800,
         "wires": []
     },
     {
         "id": "c12718f2.0931d8",
         "type": "ui_text",
         "z": "e86f0ca4.7feb5",
+        "g": "6f673d7.00debc4",
         "group": "8370e95f.f0a918",
         "order": 6,
         "width": 4,
@@ -59828,14 +59869,15 @@
         "label": "Tensión Motor",
         "format": "<font size = 8px> {{msg.payload}}V",
         "layout": "col-center",
-        "x": 4500,
-        "y": 870,
+        "x": 4170,
+        "y": 840,
         "wires": []
     },
     {
         "id": "c4d711ba.787d",
         "type": "ui_text",
         "z": "e86f0ca4.7feb5",
+        "g": "6f673d7.00debc4",
         "group": "8370e95f.f0a918",
         "order": 9,
         "width": 4,
@@ -59844,22 +59886,23 @@
         "label": "Corriente Motor",
         "format": "<font size = 8px> {{msg.payload}}A",
         "layout": "col-center",
-        "x": 4500,
-        "y": 910,
+        "x": 4170,
+        "y": 920,
         "wires": []
     },
     {
         "id": "f30ebf17.3bacb",
         "type": "function",
         "z": "e86f0ca4.7feb5",
+        "g": "6f673d7.00debc4",
         "name": "",
         "func": "var Rtx = flow.get(\"Relación_Transformación\") || null;\n\nif(Rtx != null){ \n    Rel = Rtx.Tensión_secundario/480;\n}\nelse{\n    Rel=1;\n}\n\nmsg.payload = Rel.toFixed(2);\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 4340,
-        "y": 790,
+        "x": 4000,
+        "y": 760,
         "wires": [
             [
                 "612cc7cf.567ad8",
@@ -59871,17 +59914,19 @@
         "id": "366d2c8.78aebd4",
         "type": "function",
         "z": "e86f0ca4.7feb5",
+        "g": "6f673d7.00debc4",
         "name": "",
         "func": "var C2S = global.get('C2S','memoryOnly');\nvar Rtx = flow.get(\"Relación_Transformación\");\n\nvar Rel = Rtx.Tensión_secundario/480;\nvar Volt_Mtr = C2S.Output_Voltage * Rel;\n\nmsg.payload = Volt_Mtr.toFixed(1);\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 4340,
-        "y": 870,
+        "x": 4000,
+        "y": 840,
         "wires": [
             [
-                "c12718f2.0931d8"
+                "c12718f2.0931d8",
+                "d766579d.514298"
             ]
         ]
     },
@@ -59889,17 +59934,19 @@
         "id": "390af677.4f758a",
         "type": "function",
         "z": "e86f0ca4.7feb5",
+        "g": "6f673d7.00debc4",
         "name": "",
         "func": "var C2S = global.get('C2S','memoryOnly');\nvar Rtx = flow.get(\"Relación_Transformación\");\n\nvar Rel = Rtx.Tensión_secundario/480;\nvar Curr_Mtr = C2S.Output_Current / Rel;\n\nmsg.payload = Curr_Mtr.toFixed(2);\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 4340,
-        "y": 910,
+        "x": 4000,
+        "y": 920,
         "wires": [
             [
-                "c4d711ba.787d"
+                "c4d711ba.787d",
+                "8188a395.bb719"
             ]
         ]
     },
@@ -59939,13 +59986,14 @@
         "id": "37528c32.e720c4",
         "type": "link in",
         "z": "e86f0ca4.7feb5",
+        "g": "6f673d7.00debc4",
         "name": "",
         "links": [
             "ad87cee4.7dbb5",
             "e6dcbeb6.ceddc"
         ],
-        "x": 4195,
-        "y": 790,
+        "x": 3855,
+        "y": 760,
         "wires": [
             [
                 "f30ebf17.3bacb",
@@ -60057,8 +60105,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 2090,
-        "y": 1050,
+        "x": 2080,
+        "y": 1540,
         "wires": []
     },
     {
@@ -60071,8 +60119,8 @@
             "2813ded5.10a312"
         ],
         "uncaught": false,
-        "x": 1920,
-        "y": 1050,
+        "x": 1910,
+        "y": 1540,
         "wires": [
             [
                 "86b92a12.8d03a8"
@@ -60273,7 +60321,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "2fb80d12.b93df2",
         "name": "AO4",
-        "func": "var AO = flow.get('ES.SA.AO4')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*1);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    return msg;\n}\nelse{\n    return;\n}\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
+        "func": "var AO  = flow.get('ES.SA.AO1')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\nvar Mtr = global.get('Motor_Control','memoryOnly');\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0,\n    \"Tensión de motor\":             Mtr != null ? Mtr.Voltage:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*1);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    return msg;\n}\nelse{\n    return;\n}\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -60299,7 +60347,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "2fb80d12.b93df2",
         "name": "AO3",
-        "func": "var AO = flow.get('ES.SA.AO3')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*1);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    return msg;\n}\nelse{\n    return;\n}\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
+        "func": "var AO  = flow.get('ES.SA.AO1')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\nvar Mtr = global.get('Motor_Control','memoryOnly');\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0,\n    \"Tensión de motor\":             Mtr != null ? Mtr.Voltage:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*1);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    return msg;\n}\nelse{\n    return;\n}\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -60325,7 +60373,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "2fb80d12.b93df2",
         "name": "AO2",
-        "func": "var AO = flow.get('ES.SA.AO2')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*1);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    return msg;\n}\nelse{\n    return;\n}\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
+        "func": "var AO  = flow.get('ES.SA.AO1')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\nvar Mtr = global.get('Motor_Control','memoryOnly');\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0,\n    \"Tensión de motor\":             Mtr != null ? Mtr.Voltage:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*1);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    return msg;\n}\nelse{\n    return;\n}\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -60351,7 +60399,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "2fb80d12.b93df2",
         "name": "AO1",
-        "func": "var AO = flow.get('ES.SA.AO1')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*1);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n}\nelse{\n    node.status({fill:\"gray\",shape:\"dot\",text:\"--\"});\n    msg.payload = 0;\n\n}\nreturn msg;\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
+        "func": "var AO  = flow.get('ES.SA.AO1')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\nvar Mtr = global.get('Motor_Control','memoryOnly');\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n    \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n    \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n    \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0,\n    \"Tensión de motor\":             Mtr != null ? Mtr.Voltage:0\n}\nif(typeof AO!= 'undefined' && AO!= null){\n    msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*1);\n    node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n}\nelse{\n    node.status({fill:\"gray\",shape:\"dot\",text:\"--\"});\n    msg.payload = 0;\n\n}\nreturn msg;\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseInt(t);\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -63821,15 +63869,15 @@
         "wires": []
     },
     {
-        "id": "77b4028a.3116dc",
+        "id": "77783f2a.0aca1",
         "type": "change",
         "z": "e86f0ca4.7feb5",
         "g": "5c3a9c15.3a4554",
-        "name": "Presión de entrada",
+        "name": "Temperatura de descarga",
         "rules": [
             {
                 "t": "set",
-                "p": "#:(memoryOnly)::DownHoleData.AI[\"Presión de entrada\"]",
+                "p": "#:(memoryOnly)::DownHoleData.AI[\"Temperatura de descarga\"]",
                 "pt": "global",
                 "to": "payload",
                 "tot": "msg"
@@ -63840,34 +63888,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2230,
-        "y": 580,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "3b25cb79.a981f4",
-        "type": "change",
-        "z": "e86f0ca4.7feb5",
-        "g": "5c3a9c15.3a4554",
-        "name": "Presión de descarga",
-        "rules": [
-            {
-                "t": "set",
-                "p": "#:(memoryOnly)::DownHoleData.AI[\"Presión de descarga\"]",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 2240,
-        "y": 620,
+        "x": 2500,
+        "y": 690,
         "wires": [
             []
         ]
@@ -63892,22 +63914,22 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2250,
-        "y": 660,
+        "x": 2500,
+        "y": 650,
         "wires": [
             []
         ]
     },
     {
-        "id": "77783f2a.0aca1",
+        "id": "3b25cb79.a981f4",
         "type": "change",
         "z": "e86f0ca4.7feb5",
         "g": "5c3a9c15.3a4554",
-        "name": "Temperatura de descarga",
+        "name": "Presión de descarga",
         "rules": [
             {
                 "t": "set",
-                "p": "#:(memoryOnly)::DownHoleData.AI[\"Temperatura de descarga\"]",
+                "p": "#:(memoryOnly)::DownHoleData.AI[\"Presión de descarga\"]",
                 "pt": "global",
                 "to": "payload",
                 "tot": "msg"
@@ -63918,8 +63940,519 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2250,
-        "y": 700,
+        "x": 2490,
+        "y": 610,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "77b4028a.3116dc",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Presión de entrada",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::DownHoleData.AI[\"Presión de entrada\"]",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2480,
+        "y": 570,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "95efa56e.233d78",
+        "type": "switch",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Ruteo de señales",
+        "property": "function",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "PRESION_INTAKE",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "PRESION_DISCHARGE",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "TEMPERATURA_INTAKE",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "TEMPERATURA_DISCHARGE",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "TEMPERATURA_MOTOR",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "PRESION_CASING",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "PRESION_CABEZA_THP",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "TEMPERATURA_CABEZA_THT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "CT_TRANSFORMADOR_ELEVADOR",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "REFERENCIA_REMOTA",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 11,
+        "x": 2190,
+        "y": 910,
+        "wires": [
+            [
+                "77b4028a.3116dc"
+            ],
+            [
+                "3b25cb79.a981f4"
+            ],
+            [
+                "feca211c.60dc6"
+            ],
+            [
+                "77783f2a.0aca1"
+            ],
+            [
+                "3f48d1d.ab2bc2e"
+            ],
+            [
+                "ba9edd6f.41866"
+            ],
+            [
+                "f74abfe3.0a48"
+            ],
+            [
+                "f280a028.0f854"
+            ],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "f9d05caa.b3206",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "0.5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 1980,
+        "y": 560,
+        "wires": [
+            [
+                "8512c7a9.9f3008",
+                "ee85a47.ad49958",
+                "e78a55c6.016538",
+                "9b3a07a.3df91f8",
+                "13df9639.62708a",
+                "3e30e6e0.bd0faa",
+                "b59f826.3f1168",
+                "795296da.abb248"
+            ]
+        ]
+    },
+    {
+        "id": "8512c7a9.9f3008",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Limpiar PIntake",
+        "func": "var ES = Object.values(flow.get(\"ES.EA.Funciones.Lista_Simple\"));\nvar status = ES.indexOf(\"PRESION_INTAKE\");\n\nif(status != -1){\n    return;\n} \nelse{\n    return {'payload':0};\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 2180,
+        "y": 520,
+        "wires": [
+            [
+                "77b4028a.3116dc"
+            ]
+        ]
+    },
+    {
+        "id": "ee85a47.ad49958",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Limpiar PDischarge",
+        "func": "var ES = Object.values(flow.get(\"ES.EA.Funciones.Lista_Simple\"));\nvar status = ES.indexOf(\"PRESION_DISCHARGE\");\n\nif(status != -1){\n    return;\n} \nelse{\n    return {'payload':0};\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 2190,
+        "y": 560,
+        "wires": [
+            [
+                "3b25cb79.a981f4"
+            ]
+        ]
+    },
+    {
+        "id": "e78a55c6.016538",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Limpiar TIntake",
+        "func": "var ES = Object.values(flow.get(\"ES.EA.Funciones.Lista_Simple\"));\nvar status = ES.indexOf(\"TEMPERATURA_INTAKE\");\n\nif(status != -1){\n    return;\n} \nelse{\n    return {'payload':0};\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 2180,
+        "y": 600,
+        "wires": [
+            [
+                "feca211c.60dc6"
+            ]
+        ]
+    },
+    {
+        "id": "9b3a07a.3df91f8",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Limpiar TDischarge",
+        "func": "var ES = Object.values(flow.get(\"ES.EA.Funciones.Lista_Simple\"));\nvar status = ES.indexOf(\"TEMPERATURA_DISCHARGE\");\n\nif(status != -1){\n    return;\n} \nelse{\n    return {'payload':0};\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 2190,
+        "y": 640,
+        "wires": [
+            [
+                "77783f2a.0aca1"
+            ]
+        ]
+    },
+    {
+        "id": "a06fc65.b22c838",
+        "type": "inject",
+        "z": "6c7d2db7.37ef34",
+        "name": "Pin",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "0.5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "value",
+        "payload": "#:(memoryOnly)::DownHoleData.AI[\"Presión de entrada\"]",
+        "payloadType": "global",
+        "x": 60,
+        "y": 650,
+        "wires": [
+            [
+                "8d456762.d29828",
+                "a987ab73.5659c8"
+            ]
+        ]
+    },
+    {
+        "id": "3f48d1d.ab2bc2e",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Temperatura de motor",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::DownHoleData.AI[\"Temperatura de motor\"]",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2490,
+        "y": 730,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "13df9639.62708a",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Limpiar TMotor",
+        "func": "var ES = Object.values(flow.get(\"ES.EA.Funciones.Lista_Simple\"));\nvar status = ES.indexOf(\"TEMPERATURA_MOTOR\");\n\nif(status != -1){\n    return;\n} \nelse{\n    return {'payload':0};\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 2180,
+        "y": 680,
+        "wires": [
+            [
+                "3f48d1d.ab2bc2e"
+            ]
+        ]
+    },
+    {
+        "id": "ba9edd6f.41866",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Presión de casing",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::DownHoleData.AI[\"Presión de casing\"]",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2480,
+        "y": 770,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3e30e6e0.bd0faa",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Limpiar PCasing",
+        "func": "var ES = Object.values(flow.get(\"ES.EA.Funciones.Lista_Simple\"));\nvar status = ES.indexOf(\"PRESION_CASING\");\n\nif(status != -1){\n    return;\n} \nelse{\n    return {'payload':0};\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 2180,
+        "y": 720,
+        "wires": [
+            [
+                "ba9edd6f.41866"
+            ]
+        ]
+    },
+    {
+        "id": "b59f826.3f1168",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Limpiar PCabezaTHP",
+        "func": "var ES = Object.values(flow.get(\"ES.EA.Funciones.Lista_Simple\"));\nvar status = ES.indexOf(\"PRESION_CABEZA_THP\");\n\nif(status != -1){\n    return;\n} \nelse{\n    return {'payload':0};\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 2200,
+        "y": 760,
+        "wires": [
+            [
+                "f74abfe3.0a48"
+            ]
+        ]
+    },
+    {
+        "id": "f74abfe3.0a48",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Presión de cabeza THP",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::DownHoleData.AI[\"Presión de cabeza THP\"]",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2500,
+        "y": 810,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "795296da.abb248",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Limpiar TCabezaTHT",
+        "func": "var ES = Object.values(flow.get(\"ES.EA.Funciones.Lista_Simple\"));\nvar status = ES.indexOf(\"TEMPERATURA_CABEZA_THT\");\n\nif(status != -1){\n    return;\n} \nelse{\n    return {'payload':0};\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 2200,
+        "y": 800,
+        "wires": [
+            [
+                "f280a028.0f854"
+            ]
+        ]
+    },
+    {
+        "id": "f280a028.0f854",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "5c3a9c15.3a4554",
+        "name": "Temperatura de cabeza THT",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::DownHoleData.AI[\"Temperatura de cabeza THT\"]",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2510,
+        "y": 850,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d766579d.514298",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "6f673d7.00debc4",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Motor.Voltage",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 4200,
+        "y": 880,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8188a395.bb719",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "6f673d7.00debc4",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Motor.Current",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 4200,
+        "y": 960,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6a2b6f19.a11b3",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "name": "Selector de Datos AI/DHS",
+        "func": "var ES  = Object.values(flow.get(\"ES.EA.Funciones.Lista_Simple\"));\nvar DownHoleData = global.get('DownHoleData','memoryOnly');\n\nPIn     = ES.indexOf(\"PRESION_INTAKE\")          != -1 ? DownHoleData.AI[\"Presión de entrada\"]:DownHoleData.DHS[\"Presión de entrada\"];\nPout    = ES.indexOf(\"PRESION_DISCHARGE\")       != -1 ? DownHoleData.AI[\"Presión de descarga\"]:DownHoleData.DHS[\"Presión de descarga\"];\nTIn     = ES.indexOf(\"TEMPERATURA_INTAKE\")      != -1 ? DownHoleData.AI[\"Temperatura de entrada\"]:DownHoleData.DHS[\"Presión de descarga\"];\nTOut    = ES.indexOf(\"TEMPERATURA_DISCHARGE\")   != -1 ? DownHoleData.AI[\"Temperatura de entrada\"]:DownHoleData.DHS[\"Presión de descarga\"];\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 3820,
+        "y": 400,
         "wires": [
             []
         ]

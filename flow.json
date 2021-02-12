@@ -790,7 +790,9 @@
             "195d3093.36368f"
         ],
         "x": 84,
-        "y": 13
+        "y": 13,
+        "w": 928,
+        "h": 1044
     },
     {
         "id": "f7ed166d.1aa528",
@@ -1410,7 +1412,9 @@
             "847c409b.80c02"
         ],
         "x": 88,
-        "y": 1063
+        "y": 1063,
+        "w": 1264,
+        "h": 368
     },
     {
         "id": "2fc65bf7.d30fb4",
@@ -1594,7 +1598,9 @@
             "9ac5fb1d.327ff8"
         ],
         "x": 114,
-        "y": 1269
+        "y": 1269,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "f738d604.f009b8",
@@ -1692,7 +1698,9 @@
             "36d73f7a.42644"
         ],
         "x": 1024,
-        "y": 19
+        "y": 19,
+        "w": 702,
+        "h": 642
     },
     {
         "id": "f8ecb97c.9e8978",
@@ -1831,7 +1839,7 @@
         "x": 2748,
         "y": 2183,
         "w": 1094,
-        "h": 874
+        "h": 864
     },
     {
         "id": "6150cb44.a8b4c4",
@@ -1888,8 +1896,10 @@
             "48ae9e90.9011b",
             "9bfc4b14.b3c7a8"
         ],
-        "x": 54,
-        "y": 1439
+        "x": 94,
+        "y": 1439,
+        "w": 742,
+        "h": 362
     },
     {
         "id": "8a437085.d2b8",
@@ -2939,7 +2949,9 @@
             "968d5347.1b134"
         ],
         "x": 234,
-        "y": 39
+        "y": 39,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "991382e7.7f2e6",
@@ -2971,7 +2983,9 @@
             "24dd678c.7f1308"
         ],
         "x": 234,
-        "y": 289
+        "y": 289,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "91feb623.ce89e8",
@@ -3003,7 +3017,9 @@
             "e8ae66c1.7229a8"
         ],
         "x": 234,
-        "y": 539
+        "y": 539,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "a035a752.10f9d8",
@@ -3035,7 +3051,9 @@
             "bd48652a.f5a5e8"
         ],
         "x": 234,
-        "y": 789
+        "y": 789,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "53806295.7831ac",
@@ -4189,7 +4207,9 @@
             "6db11539.a3447c"
         ],
         "x": 724,
-        "y": 1089
+        "y": 1089,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "9560ef4.a49141",
@@ -4213,7 +4233,9 @@
             "864b03bd.9ce3c"
         ],
         "x": 114,
-        "y": 1089
+        "y": 1089,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "f185a628.7c4598",
@@ -4234,7 +4256,9 @@
             "d73d6d43.ab8f4"
         ],
         "x": 724,
-        "y": 1179
+        "y": 1179,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "b5305a67.80d008",
@@ -4260,7 +4284,9 @@
             "8207386.0661fc8"
         ],
         "x": 964,
-        "y": 1179
+        "y": 1179,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "52cef377.daab5c",
@@ -4284,7 +4310,9 @@
             "b4b08522.2499f8"
         ],
         "x": 114,
-        "y": 1179
+        "y": 1179,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "de6d41a4.0f4d2",
@@ -4704,13 +4732,12 @@
             "7e7bae6e.af09d",
             "7b67956.808d16c",
             "ad027547.9a9c48",
-            "57cd5933.3df778",
-            "812b67ae.cdbbc8"
+            "57cd5933.3df778"
         ],
         "x": 2774,
         "y": 2859,
         "w": 1042,
-        "h": 172
+        "h": 162
     },
     {
         "id": "5613a5b2.95577c",
@@ -62375,7 +62402,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":1,\"Multiplicador\":\"1/10\"},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2,\"Multiplicador\":\"1/10\"},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":3,\"Multiplicador\":\"1/10\"},{\"No\":4,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":4,\"Multiplicador\":\"1/10\"},{\"No\":5,\"Descripción\":\"Vibración X\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":5,\"Multiplicador\":\"1/100\"},{\"No\":6,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":6,\"Multiplicador\":\"1/100\"},{\"No\":7,\"Descripción\":\"Corriente de fuga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":7,\"Multiplicador\":\"1/10\"}]",
+                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":1,\"Multiplicador\":0.1},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2,\"Multiplicador\":0.1},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":3,\"Multiplicador\":0.1},{\"No\":4,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":4,\"Multiplicador\":0.1},{\"No\":5,\"Descripción\":\"Vibración X\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":5,\"Multiplicador\":0.01},{\"No\":6,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":6,\"Multiplicador\":0.01},{\"No\":7,\"Descripción\":\"Corriente de fuga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":7,\"Multiplicador\":0.1}]",
                 "tot": "json"
             }
         ],
@@ -62404,7 +62431,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2137,\"Multiplicador\":\"1/10\"},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2138,\"Multiplicador\":\"1/10\"},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2139,\"Multiplicador\":\"1/10\"},{\"No\":4,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2140,\"Multiplicador\":\"1/10\"},{\"No\":5,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2141,\"Multiplicador\":\"1/100\"},{\"No\":6,\"Descripción\":\"Corriente de fuga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2142,\"Multiplicador\":\"1/100\"}]",
+                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2137,\"Multiplicador\":0.1},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2138,\"Multiplicador\":0.1},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2139,\"Multiplicador\":0.1},{\"No\":4,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2140,\"Multiplicador\":0.1},{\"No\":5,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2141,\"Multiplicador\":0.01},{\"No\":6,\"Descripción\":\"Corriente de fuga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2142,\"Multiplicador\":0.01}]",
                 "tot": "json"
             }
         ],
@@ -62433,7 +62460,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":1801,\"Multiplicador\":\"1/10\"},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":1802,\"Multiplicador\":\"1/10\"},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":1803,\"Multiplicador\":\"1/10\"},{\"No\":4,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":1804,\"Multiplicador\":\"1/10\"},{\"No\":5,\"Descripción\":\"Vibración X\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":53,\"Multiplicador\":\"1/10\"},{\"No\":6,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":54,\"Multiplicador\":\"1/10\"},{\"No\":7,\"Descripción\":\"Corriente de fuga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":15,\"Multiplicador\":\"1/100\"}]",
+                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":1801,\"Multiplicador\":0.1},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":1802,\"Multiplicador\":0.1},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":1803,\"Multiplicador\":0.1},{\"No\":4,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":1804,\"Multiplicador\":0.1},{\"No\":5,\"Descripción\":\"Vibración X\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":53,\"Multiplicador\":0.1},{\"No\":6,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":54,\"Multiplicador\":0.1},{\"No\":7,\"Descripción\":\"Corriente de fuga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":15,\"Multiplicador\":0.01}]",
                 "tot": "json"
             }
         ],
@@ -62462,7 +62489,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":38,\"Multiplicador\":\"1/10\"},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":40,\"Multiplicador\":\"1/10\"},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":37,\"Multiplicador\":\"1/10\"},{\"No\":4,\"Descripción\":\"Temperatura de descarga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":39,\"Multiplicador\":\"1/10\"},{\"No\":5,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":41,\"Multiplicador\":\"1/10\"},{\"No\":6,\"Descripción\":\"Vibración X\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":42,\"Multiplicador\":\"1/100\"},{\"No\":7,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":43,\"Multiplicador\":\"1/100\"},{\"No\":8,\"Descripción\":\"Corriente de fuga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":44,\"Multiplicador\":\"1/100\"}]",
+                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":38,\"Multiplicador\":0.1},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":40,\"Multiplicador\":0.1},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":37,\"Multiplicador\":0.1},{\"No\":4,\"Descripción\":\"Temperatura de descarga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":39,\"Multiplicador\":0.1},{\"No\":5,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":41,\"Multiplicador\":0.1},{\"No\":6,\"Descripción\":\"Vibración X\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":42,\"Multiplicador\":0.01},{\"No\":7,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":43,\"Multiplicador\":0.01},{\"No\":8,\"Descripción\":\"Corriente de fuga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":44,\"Multiplicador\":0.01}]",
                 "tot": "json"
             }
         ],
@@ -62491,7 +62518,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":1,\"Multiplicador\":\"1/10\"},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":2,\"Multiplicador\":\"1/10\"},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":4,\"Multiplicador\":\"1/10\"},{\"No\":4,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":5,\"Multiplicador\":\"1/10\"},{\"No\":5,\"Descripción\":\"Vibración X\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":6,\"Multiplicador\":\"1/100\"},{\"No\":6,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":7,\"Multiplicador\":\"1/100\"}]",
+                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":1,\"Multiplicador\":0.1},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":2,\"Multiplicador\":0.1},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":4,\"Multiplicador\":0.1},{\"No\":4,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":5,\"Multiplicador\":0.1},{\"No\":5,\"Descripción\":\"Vibración X\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":6,\"Multiplicador\":0.01},{\"No\":6,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"IR\",\"Registro\":7,\"Multiplicador\":0.01}]",
                 "tot": "json"
             }
         ],
@@ -62520,7 +62547,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1007,\"Multiplicador\":\"1/10\"},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1011,\"Multiplicador\":\"1/10\"},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1009,\"Multiplicador\":\"1/10\"},{\"No\":4,\"Descripción\":\"Temperatura de descarga\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1013,\"Multiplicador\":\"1/10\"},{\"No\":5,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1015,\"Multiplicador\":\"1/10\"},{\"No\":6,\"Descripción\":\"Vibración X\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1017,\"Multiplicador\":\"1/100\"},{\"No\":7,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1021,\"Multiplicador\":\"1/100\"},{\"No\":8,\"Descripción\":\"Corriente de fuga\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1029,\"Multiplicador\":\"1/10\"}]",
+                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1007,\"Multiplicador\":0.1},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1011,\"Multiplicador\":0.1},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1009,\"Multiplicador\":0.1},{\"No\":4,\"Descripción\":\"Temperatura de descarga\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1013,\"Multiplicador\":0.1},{\"No\":5,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1015,\"Multiplicador\":0.1},{\"No\":6,\"Descripción\":\"Vibración X\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1017,\"Multiplicador\":0.01},{\"No\":7,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1021,\"Multiplicador\":0.01},{\"No\":8,\"Descripción\":\"Corriente de fuga\",\"Tipo de dato\":\"HR\",\"Tipo de registro\":\"LONG\",\"Registro\":1029,\"Multiplicador\":0.1}]",
                 "tot": "json"
             }
         ],
@@ -62680,14 +62707,13 @@
         "ioFile": "",
         "useIOForPayload": false,
         "emptyMsgOnFail": true,
-        "keepMsgProperties": false,
+        "keepMsgProperties": true,
         "x": 3290,
         "y": 2900,
         "wires": [
             [
                 "3d698efd.3e4e82",
-                "7e7bae6e.af09d",
-                "812b67ae.cdbbc8"
+                "7e7bae6e.af09d"
             ],
             []
         ]
@@ -62698,7 +62724,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "beae8e2f.5f80b",
         "name": "Asingar Datos",
-        "func": "if(msg.payload !== \"\"){\n    global.set(\"DownHoleData.DHS[msg.topic]\",msg.payload*msg.factor)\n}\nreturn;",
+        "func": "\nif(msg.payload !== \"\"){\n    Data = global.get('DownHoleData.DHS','memoryOnly');\n    Data[msg.topic] = (msg.payload[0]* msg.factor).toFixed(1);\n    context.set('Data',Data,'memoryOnly');\n    global.set(\"DownHoleData.DHS\",Data,'memoryOnly')\n}\nreturn;",
         "outputs": 0,
         "noerr": 0,
         "initialize": "",
@@ -63185,9 +63211,9 @@
         "height": 2,
         "name": "",
         "label": "Presión de Entrada",
-        "format": "<font size = 8px> {{msg.payload}}psi",
+        "format": "<font size = 7px> {{msg.payload}}psi",
         "layout": "col-center",
-        "x": 640,
+        "x": 680,
         "y": 1480,
         "wires": []
     },
@@ -63209,7 +63235,7 @@
         "topic": "",
         "payload": "#:(memoryOnly)::DownHoleData.DHS",
         "payloadType": "global",
-        "x": 220,
+        "x": 260,
         "y": 1620,
         "wires": [
             [
@@ -63228,7 +63254,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 410,
+        "x": 450,
         "y": 1620,
         "wires": [
             [
@@ -63278,9 +63304,9 @@
         "height": 2,
         "name": "",
         "label": "Presión de descarga",
-        "format": "<font size = 8px> {{msg.payload}}psi",
+        "format": "<font size = 7px> {{msg.payload}}psi",
         "layout": "col-center",
-        "x": 650,
+        "x": 690,
         "y": 1520,
         "wires": []
     },
@@ -63295,9 +63321,9 @@
         "height": 2,
         "name": "",
         "label": "Temperatura de entrada",
-        "format": "<font size = 8px> {{msg.payload}}ºF",
+        "format": "<font size = 7px> {{msg.payload}}ºF",
         "layout": "col-center",
-        "x": 660,
+        "x": 700,
         "y": 1560,
         "wires": []
     },
@@ -63312,9 +63338,9 @@
         "height": 2,
         "name": "",
         "label": "Temperatura de descarga",
-        "format": "<font size = 8px> {{msg.payload}}ºF",
+        "format": "<font size = 7px> {{msg.payload}}ºF",
         "layout": "col-center",
-        "x": 660,
+        "x": 700,
         "y": 1600,
         "wires": []
     },
@@ -63329,9 +63355,9 @@
         "height": 2,
         "name": "",
         "label": "Temperatura de motor",
-        "format": "<font size = 8px> {{msg.payload}}ºF",
+        "format": "<font size = 7px> {{msg.payload}}ºF",
         "layout": "col-center",
-        "x": 650,
+        "x": 690,
         "y": 1640,
         "wires": []
     },
@@ -63346,9 +63372,9 @@
         "height": 2,
         "name": "",
         "label": "Vibración en X",
-        "format": "<font size = 8px> {{msg.payload}}G",
+        "format": "<font size = 7px> {{msg.payload}}G",
         "layout": "col-center",
-        "x": 630,
+        "x": 670,
         "y": 1680,
         "wires": []
     },
@@ -63363,9 +63389,9 @@
         "height": 2,
         "name": "",
         "label": "Vibración en Z",
-        "format": "<font size = 8px> {{msg.payload}}G",
+        "format": "<font size = 7px> {{msg.payload}}G",
         "layout": "col-center",
-        "x": 630,
+        "x": 670,
         "y": 1720,
         "wires": []
     },
@@ -63380,9 +63406,9 @@
         "height": 2,
         "name": "",
         "label": "Corriente de fuga",
-        "format": "<font size = 8px> {{msg.payload}}A",
+        "format": "<font size = 7px> {{msg.payload}}A",
         "layout": "col-center",
-        "x": 640,
+        "x": 680,
         "y": 1760,
         "wires": []
     },
@@ -63896,24 +63922,6 @@
             [],
             []
         ]
-    },
-    {
-        "id": "812b67ae.cdbbc8",
-        "type": "debug",
-        "z": "e86f0ca4.7feb5",
-        "g": "beae8e2f.5f80b",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 3300,
-        "y": 2990,
-        "wires": []
     },
     {
         "id": "77783f2a.0aca1",

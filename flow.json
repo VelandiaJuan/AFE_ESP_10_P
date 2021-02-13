@@ -790,9 +790,7 @@
             "195d3093.36368f"
         ],
         "x": 84,
-        "y": 13,
-        "w": 928,
-        "h": 1044
+        "y": 13
     },
     {
         "id": "f7ed166d.1aa528",
@@ -1205,7 +1203,9 @@
             "b9ed60ab.26f43"
         ],
         "x": 24,
-        "y": 19
+        "y": 19,
+        "w": 2012,
+        "h": 442
     },
     {
         "id": "74789700.1df498",
@@ -1271,7 +1271,9 @@
             "b509ce91.c5418"
         ],
         "x": 28,
-        "y": 473
+        "y": 473,
+        "w": 1584,
+        "h": 1224
     },
     {
         "id": "58f712f1.3e5eec",
@@ -1412,9 +1414,7 @@
             "847c409b.80c02"
         ],
         "x": 88,
-        "y": 1063,
-        "w": 1264,
-        "h": 368
+        "y": 1063
     },
     {
         "id": "2fc65bf7.d30fb4",
@@ -1494,7 +1494,9 @@
             "55be084e.2ad3b8"
         ],
         "x": 24,
-        "y": 1709
+        "y": 1709,
+        "w": 1312,
+        "h": 222
     },
     {
         "id": "440775ff.2a92fc",
@@ -1541,7 +1543,9 @@
             "3ccbaa0b.2db096"
         ],
         "x": 24,
-        "y": 1939
+        "y": 1939,
+        "w": 1072,
+        "h": 232
     },
     {
         "id": "c57d2588.a42f68",
@@ -1598,9 +1602,7 @@
             "9ac5fb1d.327ff8"
         ],
         "x": 114,
-        "y": 1269,
-        "w": 602,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "f738d604.f009b8",
@@ -1698,9 +1700,7 @@
             "36d73f7a.42644"
         ],
         "x": 1024,
-        "y": 19,
-        "w": 702,
-        "h": 642
+        "y": 19
     },
     {
         "id": "f8ecb97c.9e8978",
@@ -1897,9 +1897,7 @@
             "9bfc4b14.b3c7a8"
         ],
         "x": 94,
-        "y": 1439,
-        "w": 742,
-        "h": 362
+        "y": 1439
     },
     {
         "id": "8a437085.d2b8",
@@ -2949,9 +2947,7 @@
             "968d5347.1b134"
         ],
         "x": 234,
-        "y": 39,
-        "w": 752,
-        "h": 242
+        "y": 39
     },
     {
         "id": "991382e7.7f2e6",
@@ -2983,9 +2979,7 @@
             "24dd678c.7f1308"
         ],
         "x": 234,
-        "y": 289,
-        "w": 752,
-        "h": 242
+        "y": 289
     },
     {
         "id": "91feb623.ce89e8",
@@ -3017,9 +3011,7 @@
             "e8ae66c1.7229a8"
         ],
         "x": 234,
-        "y": 539,
-        "w": 752,
-        "h": 242
+        "y": 539
     },
     {
         "id": "a035a752.10f9d8",
@@ -3051,9 +3043,7 @@
             "bd48652a.f5a5e8"
         ],
         "x": 234,
-        "y": 789,
-        "w": 752,
-        "h": 242
+        "y": 789
     },
     {
         "id": "53806295.7831ac",
@@ -3695,7 +3685,9 @@
             "3a6fab3.c7e5154"
         ],
         "x": 54,
-        "y": 1389
+        "y": 1389,
+        "w": 532,
+        "h": 282
     },
     {
         "id": "1d477816.993308",
@@ -4018,7 +4010,9 @@
             "e2792bcf.8bea78"
         ],
         "x": 54,
-        "y": 499
+        "y": 499,
+        "w": 1142,
+        "h": 162
     },
     {
         "id": "da3ae781.998328",
@@ -4038,7 +4032,9 @@
             "d49cbbef.71a878"
         ],
         "x": 54,
-        "y": 669
+        "y": 669,
+        "w": 712,
+        "h": 122
     },
     {
         "id": "e60e8bfd.7a3248",
@@ -4062,7 +4058,9 @@
             "9d2ef708.6a7618"
         ],
         "x": 54,
-        "y": 799
+        "y": 799,
+        "w": 802,
+        "h": 162
     },
     {
         "id": "b19ef7d3.42ea68",
@@ -4086,7 +4084,9 @@
             "30a20927.0852c6"
         ],
         "x": 54,
-        "y": 969
+        "y": 969,
+        "w": 882,
+        "h": 162
     },
     {
         "id": "9dbc79d1.85ede8",
@@ -4114,7 +4114,9 @@
             "6a9bae72.3bb93"
         ],
         "x": 54,
-        "y": 1139
+        "y": 1139,
+        "w": 1242,
+        "h": 242
     },
     {
         "id": "9e9a162d.d4b0a8",
@@ -4137,7 +4139,9 @@
             "d1ec13b9.2d54a"
         ],
         "x": 964,
-        "y": 819
+        "y": 819,
+        "w": 622,
+        "h": 162
     },
     {
         "id": "b509ce91.c5418",
@@ -4157,7 +4161,9 @@
             "af5bc0f2.0bc23"
         ],
         "x": 594,
-        "y": 1389
+        "y": 1389,
+        "w": 702,
+        "h": 142
     },
     {
         "id": "15ca143a.56aa5c",
@@ -4207,9 +4213,7 @@
             "6db11539.a3447c"
         ],
         "x": 724,
-        "y": 1089,
-        "w": 602,
-        "h": 82
+        "y": 1089
     },
     {
         "id": "9560ef4.a49141",
@@ -4233,9 +4237,7 @@
             "864b03bd.9ce3c"
         ],
         "x": 114,
-        "y": 1089,
-        "w": 602,
-        "h": 82
+        "y": 1089
     },
     {
         "id": "f185a628.7c4598",
@@ -4256,9 +4258,7 @@
             "d73d6d43.ab8f4"
         ],
         "x": 724,
-        "y": 1179,
-        "w": 232,
-        "h": 82
+        "y": 1179
     },
     {
         "id": "b5305a67.80d008",
@@ -4284,9 +4284,7 @@
             "8207386.0661fc8"
         ],
         "x": 964,
-        "y": 1179,
-        "w": 362,
-        "h": 202
+        "y": 1179
     },
     {
         "id": "52cef377.daab5c",
@@ -4310,9 +4308,7 @@
             "b4b08522.2499f8"
         ],
         "x": 114,
-        "y": 1179,
-        "w": 602,
-        "h": 82
+        "y": 1179
     },
     {
         "id": "de6d41a4.0f4d2",
@@ -40124,7 +40120,7 @@
         "z": "d35c32b9.6419b",
         "g": "1dd5b051.a95e6",
         "name": "Creación de archivo",
-        "func": "var PQA = global.get(\"PQA.Real_Time_Parameters\",'memoryOnly');\nvar C2S = global.get(\"C2S\",'memoryOnly');\n\nvar date    = new Date();\n\n// Date\nvar year    = date.getFullYear();\nvar month   = date.getMonth()+1;\nvar day     = date.getDate();\n\n//Time\nvar hours   = date.getHours();\nvar minutes = date.getMinutes();\nvar seconds = date.getSeconds();\n\nmsg.payload = {\n    'fecha_hora'            : year+'/'+month+'/'+day+\" \"+hours+':'+minutes+':'+seconds,\n    'Frecuencia'            : parseFloat(PQA.Frequency).toFixed(3),\n    'Phase_1_Voltage'       : parseFloat(PQA.Phase_1_Voltage).toFixed(3),\n    'Phase_2_Voltage'       : parseFloat(PQA.Phase_2_Voltage).toFixed(3),\n    'Phase_3_Voltage'       : parseFloat(PQA.Phase_3_Voltage).toFixed(3),\n    'Average_Phase_Voltage' : parseFloat(PQA.Average_Phase_Voltage).toFixed(3),\n    'Line_Voltage_1_2'      : parseFloat(PQA.Line_Voltage_1_2).toFixed(3),\n    'Line_Voltage_2_3'      : parseFloat(PQA.Line_Voltage_2_3).toFixed(3),\n    'Line_Voltage_3_1'      : parseFloat(PQA.Line_Voltage_3_1).toFixed(3),\n    'Average_Line_Voltage'  : parseFloat(PQA.Average_Line_Voltage).toFixed(3),\n    'Total_Phase_A_Current' : parseFloat(PQA.Total_Phase_A_Current).toFixed(3),\n    'Total_Phase_B_Current' : parseFloat(PQA.Total_Phase_B_Current).toFixed(3),\n    'Total_Phase_C_Current' : parseFloat(PQA.Total_Phase_C_Current).toFixed(3),\n    'Neutral_Current'       : parseFloat(PQA.Neutral_Current).toFixed(3),\n    'Phase_A_Power'         : parseFloat(PQA.Phase_A_Power).toFixed(3),\n    'Phase_B_Power'         : parseFloat(PQA.Phase_B_Power).toFixed(3),\n    'Phase_C_Power'         : parseFloat(PQA.Phase_C_Power).toFixed(3),\n    'Total_System_Power'    : parseFloat(PQA.Total_System_Power).toFixed(3),\n    'Phase_A_Reactive_Power': parseFloat(PQA.Phase_A_Reactive_Power).toFixed(3),\n    'Phase_B_Reactive_Power': parseFloat(PQA.Phase_B_Reactive_Power).toFixed(3),\n    'Phase_C_Reactive_Power': parseFloat(PQA.Phase_C_Reactive_Power).toFixed(3),\n    'Phase_A_Apparent_Power': parseFloat(PQA.Phase_A_Apparent_Power).toFixed(3),\n    'Phase_B_Apparent_Power': parseFloat(PQA.Phase_B_Apparent_Power).toFixed(3),\n    'Phase_C_Apparent_Power': parseFloat(PQA.Phase_C_Apparent_Power).toFixed(3),\n    'Output_Frecuency'      : parseFloat(C2S.Output_Frecuency).toFixed(3),\n    'Output_Current'        : parseFloat(C2S.Output_Current).toFixed(3),\n    'Output_Voltage'        : parseFloat(C2S.Output_Voltage).toFixed(3),\n    'Output_Power'          : parseFloat(C2S.Output_Power).toFixed(3),\n    'Power_Factor'          : parseFloat(C2S.Power_Factor).toFixed(3),\n    'Bus_DC_Volts'          : parseFloat(C2S.Bus_DC_Volts).toFixed(3),\n    'Drive_status_2'        : parseFloat(C2S.Drive_status_2).toFixed(3),\n    'Digital_In_Sts'        : parseFloat(C2S.Digital_In_Sts).toFixed(3),\n    'Mtr_Vel_Fdbk'          : parseFloat(C2S.Mtr_Vel_Fdbk).toFixed(3),\n    'Drive_Temp_C'          : parseFloat(C2S.Drive_Temp_C).toFixed(3),\n    'IGBT_Temp_C'           : parseFloat(C2S.IGBT_Temp_C).toFixed(3),\n    'Elapsed_Run_Time'      : parseFloat(C2S.Elapsed_Run_Time).toFixed(3),\n    'Maximum_Freq'          : parseFloat(C2S.Maximum_Freq).toFixed(3),\n    'Last_Fault_Code'       : parseFloat(C2S.Last_Fault_Code).toFixed(3),\n    'Elpsd_Mtr_kWHrs'       : parseFloat(C2S.Elpsd_Mtr_kWHrs).toFixed(3)\n}\n\n// Archivo\nmsg.columns = Object.keys(msg.payload).toString();\nreturn msg;",
+        "func": "var PQA             = global.get(\"PQA.Real_Time_Parameters\",'memoryOnly')   || null;\nvar C2S             = global.get(\"C2S\",'memoryOnly')                        ||null;\nvar DownHoleData    = global.get('DownHoleData','memoryOnly')               ||null;\n\nvar date            = new Date();\n\n// Date\nvar year            = date.getFullYear();\nvar month           = date.getMonth()+1;\nvar day             = date.getDate();\n\n//Time\nvar hours           = date.getHours();\nvar minutes         = date.getMinutes();\nvar seconds         = date.getSeconds();\n\nmsg.payload = {\n    'fecha_hora'                : year+'/'+month+'/'+day+\" \"+hours+':'+minutes+':'+seconds,\n    'Frequency'                 : PQA != null && typeof PQA. Frequency                                          != 'undefined' ? parseFloat(PQA.Frequency).toFixed(3):\"--\",\n    'Phase_1_Voltage'           : PQA != null && typeof PQA. Phase_1_Voltage                                    != 'undefined' ? parseFloat(PQA.Phase_1_Voltage).toFixed(3):\"--\",\n    'Phase_2_Voltage'           : PQA != null && typeof PQA. Phase_2_Voltage                                    != 'undefined' ? parseFloat(PQA.Phase_2_Voltage).toFixed(3):\"--\",\n    'Phase_3_Voltage'           : PQA != null && typeof PQA. Phase_3_Voltage                                    != 'undefined' ? parseFloat(PQA.Phase_3_Voltage).toFixed(3):\"--\",\n    'Average_Phase_Voltage'     : PQA != null && typeof PQA. Average_Phase_Voltage                              != 'undefined' ? parseFloat(PQA.Average_Phase_Voltage).toFixed(3):\"--\",\n    'Line_Voltage_1_2'          : PQA != null && typeof PQA. Line_Voltage_1_2                                   != 'undefined' ? parseFloat(PQA.Line_Voltage_1_2).toFixed(3):\"--\",\n    'Line_Voltage_2_3'          : PQA != null && typeof PQA. Line_Voltage_2_3                                   != 'undefined' ? parseFloat(PQA.Line_Voltage_2_3).toFixed(3):\"--\",\n    'Line_Voltage_3_1'          : PQA != null && typeof PQA. Line_Voltage_3_1                                   != 'undefined' ? parseFloat(PQA.Line_Voltage_3_1).toFixed(3):\"--\",\n    'Average_Line_Voltage'      : PQA != null && typeof PQA. Average_Line_Voltage                               != 'undefined' ? parseFloat(PQA.Average_Line_Voltage).toFixed(3):\"--\",\n    'Total_Phase_A_Current'     : PQA != null && typeof PQA. Total_Phase_A_Current                              != 'undefined' ? parseFloat(PQA.Total_Phase_A_Current).toFixed(3):\"--\",\n    'Total_Phase_B_Current'     : PQA != null && typeof PQA. Total_Phase_B_Current                              != 'undefined' ? parseFloat(PQA.Total_Phase_B_Current).toFixed(3):\"--\",\n    'Total_Phase_C_Current'     : PQA != null && typeof PQA. Total_Phase_C_Current                              != 'undefined' ? parseFloat(PQA.Total_Phase_C_Current).toFixed(3):\"--\",\n    'Neutral_Current'           : PQA != null && typeof PQA. Neutral_Current                                    != 'undefined' ? parseFloat(PQA.Neutral_Current).toFixed(3):\"--\",\n    'Phase_A_Power'             : PQA != null && typeof PQA. Phase_A_Power                                      != 'undefined' ? parseFloat(PQA.Phase_A_Power).toFixed(3):\"--\",\n    'Phase_B_Power'             : PQA != null && typeof PQA. Phase_B_Power                                      != 'undefined' ? parseFloat(PQA.Phase_B_Power).toFixed(3):\"--\",\n    'Phase_C_Power'             : PQA != null && typeof PQA. Phase_C_Power                                      != 'undefined' ? parseFloat(PQA.Phase_C_Power).toFixed(3):\"--\",\n    'Total_System_Power'        : PQA != null && typeof PQA. Total_System_Power                                 != 'undefined' ? parseFloat(PQA.Total_System_Power).toFixed(3):\"--\",\n    'Phase_A_Reactive_Power'    : PQA != null && typeof PQA. Phase_A_Reactive_Power                             != 'undefined' ? parseFloat(PQA.Phase_A_Reactive_Power).toFixed(3):\"--\",\n    'Phase_B_Reactive_Power'    : PQA != null && typeof PQA. Phase_B_Reactive_Power                             != 'undefined' ? parseFloat(PQA.Phase_B_Reactive_Power).toFixed(3):\"--\",\n    'Phase_C_Reactive_Power'    : PQA != null && typeof PQA. Phase_C_Reactive_Power                             != 'undefined' ? parseFloat(PQA.Phase_C_Reactive_Power).toFixed(3):\"--\",\n    'Phase_A_Apparent_Power'    : PQA != null && typeof PQA. Phase_A_Apparent_Power                             != 'undefined' ? parseFloat(PQA.Phase_A_Apparent_Power).toFixed(3):\"--\",\n    'Phase_B_Apparent_Power'    : PQA != null && typeof PQA. Phase_B_Apparent_Power                             != 'undefined' ? parseFloat(PQA.Phase_B_Apparent_Power).toFixed(3):\"--\",\n    'Phase_C_Apparent_Power'    : PQA != null && typeof PQA. Phase_C_Apparent_Power                             != 'undefined' ? parseFloat(PQA.Phase_C_Apparent_Power).toFixed(3):\"--\",\n    'Output_Frecuency'          : C2S != null && typeof C2S. Output_Frecuency                                   != 'undefined' ? parseFloat(C2S.Output_Frecuency).toFixed(3):\"--\",\n    'Output_Current'            : C2S != null && typeof C2S. Output_Current                                     != 'undefined' ? parseFloat(C2S.Output_Current).toFixed(3):\"--\",\n    'Output_Voltage'            : C2S != null && typeof C2S. Output_Voltage                                     != 'undefined' ? parseFloat(C2S.Output_Voltage).toFixed(3):\"--\",\n    'Output_Power'              : C2S != null && typeof C2S. Output_Power                                       != 'undefined' ? parseFloat(C2S.Output_Power).toFixed(3):\"--\",\n    'Power_Factor'              : C2S != null && typeof C2S. Power_Factor                                       != 'undefined' ? parseFloat(C2S.Power_Factor).toFixed(3):\"--\",\n    'Bus_DC_Volts'              : C2S != null && typeof C2S. Bus_DC_Volts                                       != 'undefined' ? parseFloat(C2S.Bus_DC_Volts).toFixed(3):\"--\",\n    'Drive_Temp_C'              : C2S != null && typeof C2S. Drive_Temp_C                                       != 'undefined' ? parseFloat(C2S.Drive_Temp_C).toFixed(3):\"--\",\n    'Elapsed_Run_Time'          : C2S != null && typeof C2S. Elapsed_Run_Time                                   != 'undefined' ? parseFloat(C2S.Elapsed_Run_Time).toFixed(3):\"--\",\n    'Last_Fault_Code'           : C2S != null && typeof C2S. Last_Fault_Code                                    != 'undefined' ? parseFloat(C2S.Last_Fault_Code).toFixed(3):\"--\",\n    'Presión de entrada'        : DownHoleData != null && typeof DownHoleData.DHS[\"Presión de entrada\"]         != 'undefined' ? parseFloat(DownHoleData.DHS[\"Presión de entrada\"]).toFixed(3):\"--\",\n    'Presión de descarga'       : DownHoleData != null && typeof DownHoleData.DHS[\"Presión de descarga\"]        != 'undefined' ? parseFloat(DownHoleData.DHS[\"Presión de descarga\"]).toFixed(3):\"--\",\n    'Temperatura de entrada'    : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de entrada\"]     != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de entrada\"]).toFixed(3):\"--\",\n    'Temperatura de descarga'   : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de descarga\"]    != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de descarga\"]).toFixed(3):\"--\",\n    'Temperatura de motor'      : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de motor\"]       != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de motor\"]).toFixed(3):\"--\",\n    'Vibración en X'            : DownHoleData != null && typeof DownHoleData.DHS[\"Vibración X\"]                != 'undefined' ? parseFloat(DownHoleData.DHS[\"Vibración X\"]).toFixed(3):\"--\",\n    'Vibración en Z'            : DownHoleData != null && typeof DownHoleData.DHS[\"Vibración Z\"]                != 'undefined' ? parseFloat(DownHoleData.DHS[\"Vibración Z\"]).toFixed(3):\"--\",\n    'Corriente de fuga'         : DownHoleData != null && typeof DownHoleData.DHS[\"Corriente de fuga\"]          != 'undefined' ? parseFloat(DownHoleData.DHS[\"Corriente de fuga\"]).toFixed(3):\"--\"\n    \n}\n\n// Archivo\nmsg.columns = Object.keys(msg.payload).toString();\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -60046,13 +60042,22 @@
         "type": "catch",
         "z": "6c7d2db7.37ef34",
         "g": "f7a3cb7b.69e4d8",
-        "name": "",
+        "name": "Error en los límites",
         "scope": [
+            "8ab99b43.236ef8",
+            "1baa28a3.faa137",
+            "15f0eae5.dcd0a5",
+            "c5e33e4d.00d55",
+            "a987ab73.5659c8",
+            "7dedf7c7.3568e8",
+            "b79b0088.e0571",
+            "39509b2.05d2f64",
+            "390f354c.d49e3a",
             "bb8e252c.9dfcb8"
         ],
         "uncaught": false,
-        "x": 660,
-        "y": 1180,
+        "x": 420,
+        "y": 1260,
         "wires": [
             []
         ]
@@ -62431,7 +62436,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2137,\"Multiplicador\":0.1},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2138,\"Multiplicador\":0.1},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2139,\"Multiplicador\":0.1},{\"No\":4,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2140,\"Multiplicador\":0.1},{\"No\":5,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2141,\"Multiplicador\":0.01},{\"No\":6,\"Descripción\":\"Corriente de fuga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2142,\"Multiplicador\":0.01}]",
+                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2136,\"Multiplicador\":0.1},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2137,\"Multiplicador\":0.1},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2139,\"Multiplicador\":0.1},{\"No\":4,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2140,\"Multiplicador\":0.1},{\"No\":5,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2141,\"Multiplicador\":0.01},{\"No\":6,\"Descripción\":\"Corriente de fuga\",\"Tipo de dato\":\"UINT\",\"Tipo de registro\":\"HR\",\"Registro\":2142,\"Multiplicador\":0.01}]",
                 "tot": "json"
             }
         ],

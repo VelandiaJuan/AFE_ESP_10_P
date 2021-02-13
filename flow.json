@@ -769,7 +769,9 @@
             "2939a4d0.1f6b6c"
         ],
         "x": 144,
-        "y": 19
+        "y": 19,
+        "w": 1002,
+        "h": 272
     },
     {
         "id": "95e4279e.465018",
@@ -790,7 +792,9 @@
             "195d3093.36368f"
         ],
         "x": 84,
-        "y": 13
+        "y": 13,
+        "w": 928,
+        "h": 1044
     },
     {
         "id": "f7ed166d.1aa528",
@@ -808,7 +812,9 @@
             "eb91dac5.690838"
         ],
         "x": 128,
-        "y": 13
+        "y": 13,
+        "w": 1324,
+        "h": 810
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -856,7 +862,9 @@
             "1a75f72d.2bf409"
         ],
         "x": 144,
-        "y": 631.5
+        "y": 631.5,
+        "w": 492,
+        "h": 129.5
     },
     {
         "id": "c0366b36.2372f8",
@@ -880,7 +888,9 @@
             "2aac0837.208b38"
         ],
         "x": 144,
-        "y": 299
+        "y": 299,
+        "w": 492,
+        "h": 212
     },
     {
         "id": "e0133d8.e6db5c",
@@ -899,7 +909,9 @@
             "2409fb72.507894"
         ],
         "x": 1744,
-        "y": 19
+        "y": 19,
+        "w": 512,
+        "h": 142
     },
     {
         "id": "31baddff.ea0922",
@@ -933,7 +945,9 @@
             "6c6274de.8a002c"
         ],
         "x": 14,
-        "y": 239
+        "y": 239,
+        "w": 1592,
+        "h": 279.5
     },
     {
         "id": "7a498b99.415234",
@@ -949,7 +963,9 @@
             "ac1f5c0.f7b06a"
         ],
         "x": 18,
-        "y": 13
+        "y": 13,
+        "w": 794,
+        "h": 2034
     },
     {
         "id": "7b6f4b41.106164",
@@ -965,7 +981,9 @@
             "cf57802e.7d258"
         ],
         "x": 14,
-        "y": 13
+        "y": 13,
+        "w": 1844,
+        "h": 214
     },
     {
         "id": "f2c899e7.e9eac8",
@@ -1021,7 +1039,9 @@
             "a7e99088.c8108"
         ],
         "x": 269,
-        "y": 73
+        "y": 73,
+        "w": 1693,
+        "h": 454
     },
     {
         "id": "43bab036.712ca",
@@ -1037,7 +1057,9 @@
             "e9d2f5f0.86a518"
         ],
         "x": 268,
-        "y": 533
+        "y": 533,
+        "w": 1704,
+        "h": 704
     },
     {
         "id": "27a0641a.d154dc",
@@ -1053,7 +1075,9 @@
             "1306de9a.9ba341"
         ],
         "x": 268,
-        "y": 1243
+        "y": 1243,
+        "w": 1744,
+        "h": 454
     },
     {
         "id": "af9ea997.5900c8",
@@ -1069,7 +1093,9 @@
             "7b926503.10d39c"
         ],
         "x": 268,
-        "y": 1703
+        "y": 1703,
+        "w": 1324,
+        "h": 224
     },
     {
         "id": "8a04702.34fd29",
@@ -1089,7 +1115,9 @@
             "49534500.cd9cdc"
         ],
         "x": 1969,
-        "y": 75
+        "y": 75,
+        "w": 527,
+        "h": 196
     },
     {
         "id": "f7d4f68f.ac6a38",
@@ -1113,7 +1141,9 @@
             "215bed4c.7858c2"
         ],
         "x": 818,
-        "y": 13
+        "y": 13,
+        "w": 914,
+        "h": 2204
     },
     {
         "id": "aa1ba550.cbd9d8",
@@ -1293,7 +1323,9 @@
             "82e7028e.38e78"
         ],
         "x": 644,
-        "y": 299
+        "y": 299,
+        "w": 472,
+        "h": 122
     },
     {
         "id": "675af0d1.a9fc4",
@@ -1309,7 +1341,9 @@
             "9bdf522.eba6db"
         ],
         "x": 28,
-        "y": 3
+        "y": 3,
+        "w": 1004,
+        "h": 544
     },
     {
         "id": "353eeed0.7959d2",
@@ -1326,7 +1360,9 @@
             "ab7a4a2c.17d8a8"
         ],
         "x": 28,
-        "y": 553
+        "y": 553,
+        "w": 1924,
+        "h": 1104
     },
     {
         "id": "e3aa057d.09fb18",
@@ -1344,7 +1380,9 @@
             "b9df7528.923398"
         ],
         "x": 28,
-        "y": 1663
+        "y": 1663,
+        "w": 2860,
+        "h": 1062
     },
     {
         "id": "a163450f.bc4438",
@@ -1362,7 +1400,9 @@
             "5f07f1b.ac4631"
         ],
         "x": 144,
-        "y": 521.5
+        "y": 521.5,
+        "w": 522,
+        "h": 97
     },
     {
         "id": "b55b6178.ef377",
@@ -1388,7 +1428,9 @@
             "9b29345d.646748"
         ],
         "x": 824,
-        "y": 2399
+        "y": 2399,
+        "w": 852,
+        "h": 242
     },
     {
         "id": "4888c9a8.82cb88",
@@ -1414,7 +1456,9 @@
             "847c409b.80c02"
         ],
         "x": 88,
-        "y": 1063
+        "y": 1063,
+        "w": 1264,
+        "h": 368
     },
     {
         "id": "2fc65bf7.d30fb4",
@@ -1514,7 +1558,9 @@
             "ba5f4e4b.e55a2"
         ],
         "x": 1054,
-        "y": 1119
+        "y": 1119,
+        "w": 412,
+        "h": 82
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -1602,7 +1648,9 @@
             "9ac5fb1d.327ff8"
         ],
         "x": 114,
-        "y": 1269
+        "y": 1269,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "f738d604.f009b8",
@@ -1700,7 +1748,9 @@
             "36d73f7a.42644"
         ],
         "x": 1024,
-        "y": 19
+        "y": 19,
+        "w": 702,
+        "h": 642
     },
     {
         "id": "f8ecb97c.9e8978",
@@ -1869,7 +1919,9 @@
             "51d2e767.639a98"
         ],
         "x": 1044,
-        "y": 29
+        "y": 29,
+        "w": 952,
+        "h": 242
     },
     {
         "id": "aaa733ec.38139",
@@ -1897,7 +1949,9 @@
             "9bfc4b14.b3c7a8"
         ],
         "x": 94,
-        "y": 1439
+        "y": 1439,
+        "w": 742,
+        "h": 362
     },
     {
         "id": "8a437085.d2b8",
@@ -1920,6 +1974,8 @@
         ],
         "x": 14,
         "y": 21.5,
+        "w": 552,
+        "h": 217,
         "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
     },
     {
@@ -1938,7 +1994,9 @@
             "5e35a538.cad0cc"
         ],
         "x": 14,
-        "y": 251.5
+        "y": 251.5,
+        "w": 432,
+        "h": 157
     },
     {
         "id": "6f673d7.00debc4",
@@ -2267,7 +2325,9 @@
             "1660e38d.24cefc"
         ],
         "x": 40,
-        "y": 39
+        "y": 39,
+        "w": 892,
+        "h": 162
     },
     {
         "id": "c9848ab6.981718",
@@ -2295,7 +2355,9 @@
             "273454d7.4d089c"
         ],
         "x": 44,
-        "y": 39
+        "y": 39,
+        "w": 682,
+        "h": 242
     },
     {
         "id": "cf57802e.7d258",
@@ -2323,7 +2385,9 @@
             "f4dc844c.b0f888"
         ],
         "x": 940,
-        "y": 39
+        "y": 39,
+        "w": 892,
+        "h": 162
     },
     {
         "id": "1027a10.a1e515f",
@@ -2444,7 +2508,9 @@
             "9709f15b.d49e5"
         ],
         "x": 44,
-        "y": 289
+        "y": 289,
+        "w": 742,
+        "h": 1732
     },
     {
         "id": "51885913.764608",
@@ -2915,7 +2981,9 @@
             "723d59b.85ed6a8"
         ],
         "x": 154,
-        "y": 243
+        "y": 243,
+        "w": 928,
+        "h": 554
     },
     {
         "id": "195d3093.36368f",
@@ -2947,7 +3015,9 @@
             "968d5347.1b134"
         ],
         "x": 234,
-        "y": 39
+        "y": 39,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "991382e7.7f2e6",
@@ -2979,7 +3049,9 @@
             "24dd678c.7f1308"
         ],
         "x": 234,
-        "y": 289
+        "y": 289,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "91feb623.ce89e8",
@@ -3011,7 +3083,9 @@
             "e8ae66c1.7229a8"
         ],
         "x": 234,
-        "y": 539
+        "y": 539,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "a035a752.10f9d8",
@@ -3043,7 +3117,9 @@
             "bd48652a.f5a5e8"
         ],
         "x": 234,
-        "y": 789
+        "y": 789,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "53806295.7831ac",
@@ -3147,7 +3223,9 @@
             "3a348318.fe982c"
         ],
         "x": 154,
-        "y": 39
+        "y": 39,
+        "w": 1272,
+        "h": 192
     },
     {
         "id": "6cdd72bc.8124cc",
@@ -3183,7 +3261,9 @@
             "f75e195a.cf9c28"
         ],
         "x": 295,
-        "y": 99
+        "y": 99,
+        "w": 832,
+        "h": 402
     },
     {
         "id": "27c43941.e9e0c6",
@@ -3234,7 +3314,9 @@
             "3ac432d5.f6b63e"
         ],
         "x": 294,
-        "y": 559
+        "y": 559,
+        "w": 832,
+        "h": 652
     },
     {
         "id": "c41a251e.427c98",
@@ -3270,7 +3352,9 @@
             "4b4d89b2.afea38"
         ],
         "x": 294,
-        "y": 1269
+        "y": 1269,
+        "w": 962,
+        "h": 402
     },
     {
         "id": "a7e99088.c8108",
@@ -3307,7 +3391,9 @@
             "c48a9a39.50daa8"
         ],
         "x": 1134,
-        "y": 99
+        "y": 99,
+        "w": 802,
+        "h": 402
     },
     {
         "id": "b60351ac.2ba88",
@@ -3329,7 +3415,9 @@
             "1f8e91cb.d426be"
         ],
         "x": 294,
-        "y": 1729
+        "y": 1729,
+        "w": 752,
+        "h": 162
     },
     {
         "id": "e9d2f5f0.86a518",
@@ -3363,7 +3451,9 @@
             "8307ca17.c4d5b8"
         ],
         "x": 1134,
-        "y": 559
+        "y": 559,
+        "w": 812,
+        "h": 412
     },
     {
         "id": "1306de9a.9ba341",
@@ -3391,7 +3481,9 @@
             "6f6dca07.0b3994"
         ],
         "x": 1264,
-        "y": 1269
+        "y": 1269,
+        "w": 722,
+        "h": 292
     },
     {
         "id": "7b926503.10d39c",
@@ -3412,7 +3504,9 @@
             "b60d4442.d5f0e8"
         ],
         "x": 1054,
-        "y": 1729
+        "y": 1729,
+        "w": 512,
+        "h": 172
     },
     {
         "id": "25d1d69b.64e0ca",
@@ -3445,7 +3539,9 @@
             "da8d71fd.6a33c"
         ],
         "x": 844,
-        "y": 319
+        "y": 319,
+        "w": 862,
+        "h": 452
     },
     {
         "id": "5073e01d.10857",
@@ -3468,7 +3564,9 @@
             "cd729508.733ad8"
         ],
         "x": 844,
-        "y": 1009
+        "y": 1009,
+        "w": 722,
+        "h": 222
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -3493,7 +3591,9 @@
             "fd328934.0ddd18"
         ],
         "x": 854,
-        "y": 1629
+        "y": 1629,
+        "w": 662,
+        "h": 202
     },
     {
         "id": "f78dcb63.bde038",
@@ -3517,7 +3617,9 @@
             "d458c292.e2009"
         ],
         "x": 844,
-        "y": 1439
+        "y": 1439,
+        "w": 672,
+        "h": 162
     },
     {
         "id": "90ebdbed.1907a8",
@@ -3543,7 +3645,9 @@
             "75954ddb.3b0f04"
         ],
         "x": 844,
-        "y": 39
+        "y": 39,
+        "w": 812,
+        "h": 272
     },
     {
         "id": "311890ad.cc4ed",
@@ -3568,7 +3672,9 @@
             "1ba7dd1.c24d723"
         ],
         "x": 844,
-        "y": 779
+        "y": 779,
+        "w": 572,
+        "h": 202
     },
     {
         "id": "f8e8eeb2.3f011",
@@ -3591,7 +3697,9 @@
             "39dc61d6.38245e"
         ],
         "x": 844,
-        "y": 1249
+        "y": 1249,
+        "w": 782,
+        "h": 172
     },
     {
         "id": "8a7f783.a732b88",
@@ -3614,7 +3722,9 @@
             "f65a5bee.378fe8"
         ],
         "x": 844,
-        "y": 1849
+        "y": 1849,
+        "w": 572,
+        "h": 182
     },
     {
         "id": "8c3082f9.73975",
@@ -3638,7 +3748,9 @@
             "23b2730.9c7eb8e"
         ],
         "x": 854,
-        "y": 2049
+        "y": 2049,
+        "w": 602,
+        "h": 142
     },
     {
         "id": "215bed4c.7858c2",
@@ -3660,7 +3772,9 @@
             "2a671cfc.7a9654"
         ],
         "x": 1484,
-        "y": 1889
+        "y": 1889,
+        "w": 152,
+        "h": 292
     },
     {
         "id": "5ff12c29.d4cc64",
@@ -3717,7 +3831,9 @@
             "d0a19b38.893ab8"
         ],
         "x": 54,
-        "y": 29
+        "y": 29,
+        "w": 952,
+        "h": 252
     },
     {
         "id": "9bdf522.eba6db",
@@ -3747,7 +3863,9 @@
             "e6356da9.60663"
         ],
         "x": 54,
-        "y": 289
+        "y": 289,
+        "w": 952,
+        "h": 232
     },
     {
         "id": "fbbdc4b7.95b5c8",
@@ -3816,7 +3934,9 @@
             "272ed76d.7cce68"
         ],
         "x": 54,
-        "y": 879
+        "y": 879,
+        "w": 1568,
+        "h": 752
     },
     {
         "id": "84c9494b.d4dbe8",
@@ -3850,7 +3970,9 @@
             "e2832ff4.8c486"
         ],
         "x": 54,
-        "y": 579
+        "y": 579,
+        "w": 912,
+        "h": 292
     },
     {
         "id": "dad84feb.d4773",
@@ -3924,7 +4046,9 @@
             "c3276752.914e88"
         ],
         "x": 54,
-        "y": 1999
+        "y": 1999,
+        "w": 1542,
+        "h": 700
     },
     {
         "id": "7aad629d.de652c",
@@ -3986,7 +4110,9 @@
             "b8c12e8b.715b2"
         ],
         "x": 54,
-        "y": 1689
+        "y": 1689,
+        "w": 2632,
+        "h": 302
     },
     {
         "id": "4eb2e67c.e57628",
@@ -4213,7 +4339,9 @@
             "6db11539.a3447c"
         ],
         "x": 724,
-        "y": 1089
+        "y": 1089,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "9560ef4.a49141",
@@ -4237,7 +4365,9 @@
             "864b03bd.9ce3c"
         ],
         "x": 114,
-        "y": 1089
+        "y": 1089,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "f185a628.7c4598",
@@ -4258,7 +4388,9 @@
             "d73d6d43.ab8f4"
         ],
         "x": 724,
-        "y": 1179
+        "y": 1179,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "b5305a67.80d008",
@@ -4284,7 +4416,9 @@
             "8207386.0661fc8"
         ],
         "x": 964,
-        "y": 1179
+        "y": 1179,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "52cef377.daab5c",
@@ -4308,7 +4442,9 @@
             "b4b08522.2499f8"
         ],
         "x": 114,
-        "y": 1179
+        "y": 1179,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "de6d41a4.0f4d2",
@@ -4394,7 +4530,9 @@
             "577047bb.6519b8"
         ],
         "x": 974,
-        "y": 579
+        "y": 579,
+        "w": 952,
+        "h": 242
     },
     {
         "id": "e2e299a6.d3c5c8",
@@ -4452,7 +4590,9 @@
             "4e19cfd4.3982f"
         ],
         "x": 1604,
-        "y": 1999
+        "y": 1999,
+        "w": 1002,
+        "h": 282
     },
     {
         "id": "96de1dd.d202ce",
@@ -4600,7 +4740,9 @@
             "c25b39de.c92f08"
         ],
         "x": 1608,
-        "y": 2293
+        "y": 2293,
+        "w": 1254,
+        "h": 384
     },
     {
         "id": "46208c12.9b8aa4",
@@ -5215,7 +5357,9 @@
             "6d40adaa.11d2c4"
         ],
         "x": 684,
-        "y": 649
+        "y": 649,
+        "w": 242,
+        "h": 122
     },
     {
         "id": "64ff74e5.f4c53c",
@@ -5234,7 +5378,9 @@
             "42f85e00.83b314"
         ],
         "x": 684,
-        "y": 269
+        "y": 269,
+        "w": 173,
+        "h": 202
     },
     {
         "id": "272ed76d.7cce68",
@@ -5260,7 +5406,9 @@
             "97085297.91fc4"
         ],
         "x": 924,
-        "y": 909
+        "y": 909,
+        "w": 672,
+        "h": 202
     },
     {
         "id": "5d1065e2.7b952c",
@@ -5379,7 +5527,9 @@
             "d1a73825.d89578"
         ],
         "x": 684,
-        "y": 479
+        "y": 479,
+        "w": 372,
+        "h": 162
     },
     {
         "id": "65994a87.9d5eb4",
@@ -5400,7 +5550,9 @@
             "1f72cbbe.a84cb4"
         ],
         "x": 1634,
-        "y": 2319
+        "y": 2319,
+        "w": 1202,
+        "h": 82
     },
     {
         "id": "c25b39de.c92f08",
@@ -5430,7 +5582,9 @@
             "38bdd4ac.3dc20c"
         ],
         "x": 1634,
-        "y": 2409
+        "y": 2409,
+        "w": 762,
+        "h": 242
     },
     {
         "id": "2fb80d12.b93df2",
@@ -40120,7 +40274,7 @@
         "z": "d35c32b9.6419b",
         "g": "1dd5b051.a95e6",
         "name": "Creación de archivo",
-        "func": "var PQA             = global.get(\"PQA.Real_Time_Parameters\",'memoryOnly')   || null;\nvar C2S             = global.get(\"C2S\",'memoryOnly')                        ||null;\nvar DownHoleData    = global.get('DownHoleData','memoryOnly')               ||null;\n\nvar date            = new Date();\n\n// Date\nvar year            = date.getFullYear();\nvar month           = date.getMonth()+1;\nvar day             = date.getDate();\n\n//Time\nvar hours           = date.getHours();\nvar minutes         = date.getMinutes();\nvar seconds         = date.getSeconds();\n\nmsg.payload = {\n    'fecha_hora'                : year+'/'+month+'/'+day+\" \"+hours+':'+minutes+':'+seconds,\n    'Frequency'                 : PQA != null && typeof PQA. Frequency                                          != 'undefined' ? parseFloat(PQA.Frequency).toFixed(3):\"--\",\n    'Phase_1_Voltage'           : PQA != null && typeof PQA. Phase_1_Voltage                                    != 'undefined' ? parseFloat(PQA.Phase_1_Voltage).toFixed(3):\"--\",\n    'Phase_2_Voltage'           : PQA != null && typeof PQA. Phase_2_Voltage                                    != 'undefined' ? parseFloat(PQA.Phase_2_Voltage).toFixed(3):\"--\",\n    'Phase_3_Voltage'           : PQA != null && typeof PQA. Phase_3_Voltage                                    != 'undefined' ? parseFloat(PQA.Phase_3_Voltage).toFixed(3):\"--\",\n    'Average_Phase_Voltage'     : PQA != null && typeof PQA. Average_Phase_Voltage                              != 'undefined' ? parseFloat(PQA.Average_Phase_Voltage).toFixed(3):\"--\",\n    'Line_Voltage_1_2'          : PQA != null && typeof PQA. Line_Voltage_1_2                                   != 'undefined' ? parseFloat(PQA.Line_Voltage_1_2).toFixed(3):\"--\",\n    'Line_Voltage_2_3'          : PQA != null && typeof PQA. Line_Voltage_2_3                                   != 'undefined' ? parseFloat(PQA.Line_Voltage_2_3).toFixed(3):\"--\",\n    'Line_Voltage_3_1'          : PQA != null && typeof PQA. Line_Voltage_3_1                                   != 'undefined' ? parseFloat(PQA.Line_Voltage_3_1).toFixed(3):\"--\",\n    'Average_Line_Voltage'      : PQA != null && typeof PQA. Average_Line_Voltage                               != 'undefined' ? parseFloat(PQA.Average_Line_Voltage).toFixed(3):\"--\",\n    'Total_Phase_A_Current'     : PQA != null && typeof PQA. Total_Phase_A_Current                              != 'undefined' ? parseFloat(PQA.Total_Phase_A_Current).toFixed(3):\"--\",\n    'Total_Phase_B_Current'     : PQA != null && typeof PQA. Total_Phase_B_Current                              != 'undefined' ? parseFloat(PQA.Total_Phase_B_Current).toFixed(3):\"--\",\n    'Total_Phase_C_Current'     : PQA != null && typeof PQA. Total_Phase_C_Current                              != 'undefined' ? parseFloat(PQA.Total_Phase_C_Current).toFixed(3):\"--\",\n    'Neutral_Current'           : PQA != null && typeof PQA. Neutral_Current                                    != 'undefined' ? parseFloat(PQA.Neutral_Current).toFixed(3):\"--\",\n    'Phase_A_Power'             : PQA != null && typeof PQA. Phase_A_Power                                      != 'undefined' ? parseFloat(PQA.Phase_A_Power).toFixed(3):\"--\",\n    'Phase_B_Power'             : PQA != null && typeof PQA. Phase_B_Power                                      != 'undefined' ? parseFloat(PQA.Phase_B_Power).toFixed(3):\"--\",\n    'Phase_C_Power'             : PQA != null && typeof PQA. Phase_C_Power                                      != 'undefined' ? parseFloat(PQA.Phase_C_Power).toFixed(3):\"--\",\n    'Total_System_Power'        : PQA != null && typeof PQA. Total_System_Power                                 != 'undefined' ? parseFloat(PQA.Total_System_Power).toFixed(3):\"--\",\n    'Phase_A_Reactive_Power'    : PQA != null && typeof PQA. Phase_A_Reactive_Power                             != 'undefined' ? parseFloat(PQA.Phase_A_Reactive_Power).toFixed(3):\"--\",\n    'Phase_B_Reactive_Power'    : PQA != null && typeof PQA. Phase_B_Reactive_Power                             != 'undefined' ? parseFloat(PQA.Phase_B_Reactive_Power).toFixed(3):\"--\",\n    'Phase_C_Reactive_Power'    : PQA != null && typeof PQA. Phase_C_Reactive_Power                             != 'undefined' ? parseFloat(PQA.Phase_C_Reactive_Power).toFixed(3):\"--\",\n    'Phase_A_Apparent_Power'    : PQA != null && typeof PQA. Phase_A_Apparent_Power                             != 'undefined' ? parseFloat(PQA.Phase_A_Apparent_Power).toFixed(3):\"--\",\n    'Phase_B_Apparent_Power'    : PQA != null && typeof PQA. Phase_B_Apparent_Power                             != 'undefined' ? parseFloat(PQA.Phase_B_Apparent_Power).toFixed(3):\"--\",\n    'Phase_C_Apparent_Power'    : PQA != null && typeof PQA. Phase_C_Apparent_Power                             != 'undefined' ? parseFloat(PQA.Phase_C_Apparent_Power).toFixed(3):\"--\",\n    'Output_Frecuency'          : C2S != null && typeof C2S. Output_Frecuency                                   != 'undefined' ? parseFloat(C2S.Output_Frecuency).toFixed(3):\"--\",\n    'Output_Current'            : C2S != null && typeof C2S. Output_Current                                     != 'undefined' ? parseFloat(C2S.Output_Current).toFixed(3):\"--\",\n    'Output_Voltage'            : C2S != null && typeof C2S. Output_Voltage                                     != 'undefined' ? parseFloat(C2S.Output_Voltage).toFixed(3):\"--\",\n    'Output_Power'              : C2S != null && typeof C2S. Output_Power                                       != 'undefined' ? parseFloat(C2S.Output_Power).toFixed(3):\"--\",\n    'Power_Factor'              : C2S != null && typeof C2S. Power_Factor                                       != 'undefined' ? parseFloat(C2S.Power_Factor).toFixed(3):\"--\",\n    'Bus_DC_Volts'              : C2S != null && typeof C2S. Bus_DC_Volts                                       != 'undefined' ? parseFloat(C2S.Bus_DC_Volts).toFixed(3):\"--\",\n    'Drive_Temp_C'              : C2S != null && typeof C2S. Drive_Temp_C                                       != 'undefined' ? parseFloat(C2S.Drive_Temp_C).toFixed(3):\"--\",\n    'Elapsed_Run_Time'          : C2S != null && typeof C2S. Elapsed_Run_Time                                   != 'undefined' ? parseFloat(C2S.Elapsed_Run_Time).toFixed(3):\"--\",\n    'Last_Fault_Code'           : C2S != null && typeof C2S. Last_Fault_Code                                    != 'undefined' ? parseFloat(C2S.Last_Fault_Code).toFixed(3):\"--\",\n    'Presión de entrada'        : DownHoleData != null && typeof DownHoleData.DHS[\"Presión de entrada\"]         != 'undefined' ? parseFloat(DownHoleData.DHS[\"Presión de entrada\"]).toFixed(3):\"--\",\n    'Presión de descarga'       : DownHoleData != null && typeof DownHoleData.DHS[\"Presión de descarga\"]        != 'undefined' ? parseFloat(DownHoleData.DHS[\"Presión de descarga\"]).toFixed(3):\"--\",\n    'Temperatura de entrada'    : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de entrada\"]     != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de entrada\"]).toFixed(3):\"--\",\n    'Temperatura de descarga'   : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de descarga\"]    != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de descarga\"]).toFixed(3):\"--\",\n    'Temperatura de motor'      : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de motor\"]       != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de motor\"]).toFixed(3):\"--\",\n    'Vibración en X'            : DownHoleData != null && typeof DownHoleData.DHS[\"Vibración X\"]                != 'undefined' ? parseFloat(DownHoleData.DHS[\"Vibración X\"]).toFixed(3):\"--\",\n    'Vibración en Z'            : DownHoleData != null && typeof DownHoleData.DHS[\"Vibración Z\"]                != 'undefined' ? parseFloat(DownHoleData.DHS[\"Vibración Z\"]).toFixed(3):\"--\",\n    'Corriente de fuga'         : DownHoleData != null && typeof DownHoleData.DHS[\"Corriente de fuga\"]          != 'undefined' ? parseFloat(DownHoleData.DHS[\"Corriente de fuga\"]).toFixed(3):\"--\"\n    \n}\n\n// Archivo\nmsg.columns = Object.keys(msg.payload).toString();\nreturn msg;",
+        "func": "var PQA             = global.get(\"PQA.Real_Time_Parameters\",'memoryOnly')   || null;\nvar C2S             = global.get(\"C2S\",'memoryOnly')                        || null;\nvar DownHoleData    = global.get('DownHoleData','memoryOnly')               || null;\n\nvar date            = new Date();\n\n// Date\nvar year            = date.getFullYear();\nvar month           = date.getMonth()+1;\nvar day             = date.getDate();\n\n//Time\nvar hours           = date.getHours();\nvar minutes         = date.getMinutes();\nvar seconds         = date.getSeconds();\n\nmsg.payload = {\n    'fecha_hora'                : year+'/'+month+'/'+day+\" \"+hours+':'+minutes+':'+seconds,\n    'Frequency'                 : PQA != null && typeof PQA. Frequency                                          != 'undefined' ? parseFloat(PQA.Frequency).toFixed(3):\"--\",\n    'Phase_1_Voltage'           : PQA != null && typeof PQA. Phase_1_Voltage                                    != 'undefined' ? parseFloat(PQA.Phase_1_Voltage).toFixed(3):\"--\",\n    'Phase_2_Voltage'           : PQA != null && typeof PQA. Phase_2_Voltage                                    != 'undefined' ? parseFloat(PQA.Phase_2_Voltage).toFixed(3):\"--\",\n    'Phase_3_Voltage'           : PQA != null && typeof PQA. Phase_3_Voltage                                    != 'undefined' ? parseFloat(PQA.Phase_3_Voltage).toFixed(3):\"--\",\n    'Average_Phase_Voltage'     : PQA != null && typeof PQA. Average_Phase_Voltage                              != 'undefined' ? parseFloat(PQA.Average_Phase_Voltage).toFixed(3):\"--\",\n    'Line_Voltage_1_2'          : PQA != null && typeof PQA. Line_Voltage_1_2                                   != 'undefined' ? parseFloat(PQA.Line_Voltage_1_2).toFixed(3):\"--\",\n    'Line_Voltage_2_3'          : PQA != null && typeof PQA. Line_Voltage_2_3                                   != 'undefined' ? parseFloat(PQA.Line_Voltage_2_3).toFixed(3):\"--\",\n    'Line_Voltage_3_1'          : PQA != null && typeof PQA. Line_Voltage_3_1                                   != 'undefined' ? parseFloat(PQA.Line_Voltage_3_1).toFixed(3):\"--\",\n    'Average_Line_Voltage'      : PQA != null && typeof PQA. Average_Line_Voltage                               != 'undefined' ? parseFloat(PQA.Average_Line_Voltage).toFixed(3):\"--\",\n    'Total_Phase_A_Current'     : PQA != null && typeof PQA. Total_Phase_A_Current                              != 'undefined' ? parseFloat(PQA.Total_Phase_A_Current).toFixed(3):\"--\",\n    'Total_Phase_B_Current'     : PQA != null && typeof PQA. Total_Phase_B_Current                              != 'undefined' ? parseFloat(PQA.Total_Phase_B_Current).toFixed(3):\"--\",\n    'Total_Phase_C_Current'     : PQA != null && typeof PQA. Total_Phase_C_Current                              != 'undefined' ? parseFloat(PQA.Total_Phase_C_Current).toFixed(3):\"--\",\n    'Neutral_Current'           : PQA != null && typeof PQA. Neutral_Current                                    != 'undefined' ? parseFloat(PQA.Neutral_Current).toFixed(3):\"--\",\n    'Phase_A_Power'             : PQA != null && typeof PQA. Phase_A_Power                                      != 'undefined' ? parseFloat(PQA.Phase_A_Power).toFixed(3):\"--\",\n    'Phase_B_Power'             : PQA != null && typeof PQA. Phase_B_Power                                      != 'undefined' ? parseFloat(PQA.Phase_B_Power).toFixed(3):\"--\",\n    'Phase_C_Power'             : PQA != null && typeof PQA. Phase_C_Power                                      != 'undefined' ? parseFloat(PQA.Phase_C_Power).toFixed(3):\"--\",\n    'Total_System_Power'        : PQA != null && typeof PQA. Total_System_Power                                 != 'undefined' ? parseFloat(PQA.Total_System_Power).toFixed(3):\"--\",\n    'Phase_A_Reactive_Power'    : PQA != null && typeof PQA. Phase_A_Reactive_Power                             != 'undefined' ? parseFloat(PQA.Phase_A_Reactive_Power).toFixed(3):\"--\",\n    'Phase_B_Reactive_Power'    : PQA != null && typeof PQA. Phase_B_Reactive_Power                             != 'undefined' ? parseFloat(PQA.Phase_B_Reactive_Power).toFixed(3):\"--\",\n    'Phase_C_Reactive_Power'    : PQA != null && typeof PQA. Phase_C_Reactive_Power                             != 'undefined' ? parseFloat(PQA.Phase_C_Reactive_Power).toFixed(3):\"--\",\n    'Phase_A_Apparent_Power'    : PQA != null && typeof PQA. Phase_A_Apparent_Power                             != 'undefined' ? parseFloat(PQA.Phase_A_Apparent_Power).toFixed(3):\"--\",\n    'Phase_B_Apparent_Power'    : PQA != null && typeof PQA. Phase_B_Apparent_Power                             != 'undefined' ? parseFloat(PQA.Phase_B_Apparent_Power).toFixed(3):\"--\",\n    'Phase_C_Apparent_Power'    : PQA != null && typeof PQA. Phase_C_Apparent_Power                             != 'undefined' ? parseFloat(PQA.Phase_C_Apparent_Power).toFixed(3):\"--\",\n    'Output_Frecuency'          : C2S != null && typeof C2S. Output_Frecuency                                   != 'undefined' ? parseFloat(C2S.Output_Frecuency).toFixed(3):\"--\",\n    'Output_Current'            : C2S != null && typeof C2S. Output_Current                                     != 'undefined' ? parseFloat(C2S.Output_Current).toFixed(3):\"--\",\n    'Output_Voltage'            : C2S != null && typeof C2S. Output_Voltage                                     != 'undefined' ? parseFloat(C2S.Output_Voltage).toFixed(3):\"--\",\n    'Output_Power'              : C2S != null && typeof C2S. Output_Power                                       != 'undefined' ? parseFloat(C2S.Output_Power).toFixed(3):\"--\",\n    'Power_Factor'              : C2S != null && typeof C2S. Power_Factor                                       != 'undefined' ? parseFloat(C2S.Power_Factor).toFixed(3):\"--\",\n    'Bus_DC_Volts'              : C2S != null && typeof C2S. Bus_DC_Volts                                       != 'undefined' ? parseFloat(C2S.Bus_DC_Volts).toFixed(3):\"--\",\n    'Drive_Temp_C'              : C2S != null && typeof C2S. Drive_Temp_C                                       != 'undefined' ? parseFloat(C2S.Drive_Temp_C).toFixed(3):\"--\",\n    'Elapsed_Run_Time'          : C2S != null && typeof C2S. Elapsed_Run_Time                                   != 'undefined' ? parseFloat(C2S.Elapsed_Run_Time).toFixed(3):\"--\",\n    'Last_Fault_Code'           : C2S != null && typeof C2S. Last_Fault_Code                                    != 'undefined' ? parseFloat(C2S.Last_Fault_Code).toFixed(3):\"--\",\n    'Presión de entrada'        : DownHoleData != null && typeof DownHoleData.DHS[\"Presión de entrada\"]         != 'undefined' ? parseFloat(DownHoleData.DHS[\"Presión de entrada\"]).toFixed(3):\"--\",\n    'Presión de descarga'       : DownHoleData != null && typeof DownHoleData.DHS[\"Presión de descarga\"]        != 'undefined' ? parseFloat(DownHoleData.DHS[\"Presión de descarga\"]).toFixed(3):\"--\",\n    'Temperatura de entrada'    : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de entrada\"]     != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de entrada\"]).toFixed(3):\"--\",\n    'Temperatura de descarga'   : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de descarga\"]    != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de descarga\"]).toFixed(3):\"--\",\n    'Temperatura de motor'      : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de motor\"]       != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de motor\"]).toFixed(3):\"--\",\n    'Vibración en X'            : DownHoleData != null && typeof DownHoleData.DHS[\"Vibración X\"]                != 'undefined' ? parseFloat(DownHoleData.DHS[\"Vibración X\"]).toFixed(3):\"--\",\n    'Vibración en Z'            : DownHoleData != null && typeof DownHoleData.DHS[\"Vibración Z\"]                != 'undefined' ? parseFloat(DownHoleData.DHS[\"Vibración Z\"]).toFixed(3):\"--\",\n    'Corriente de fuga'         : DownHoleData != null && typeof DownHoleData.DHS[\"Corriente de fuga\"]          != 'undefined' ? parseFloat(DownHoleData.DHS[\"Corriente de fuga\"]).toFixed(3):\"--\"\n    \n}\n\n// Archivo\nmsg.columns = Object.keys(msg.payload).toString();\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -44541,7 +44695,7 @@
         "z": "3df4c8d9.0bdc38",
         "g": "9bdf522.eba6db",
         "name": "VSD_Ref",
-        "func": "// Definitions\nvar PR          = flow.get(\"Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Mtr_Vel_Fdbk','memoryOnly');\n\nif(PR.Reference == Mtr_Speed){\n    msg.topic = \"Ref Reached\";\n    node.status({fill:\"green\",shape:\"dot\",text:Mtr_Speed});\n}\nelse{\n    msg.topic = \"Ref Not Reached yet\";\n}\n\nreturn msg;",
+        "func": "// Definitions\nvar PR          = flow.get(\"Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Output_Frecuency','memoryOnly');\n\nif(PR.Reference == Mtr_Speed){\n    msg.topic = \"Ref Reached\";\n    node.status({fill:\"green\",shape:\"dot\",text:Mtr_Speed});\n}\nelse{\n    msg.topic = \"Ref Not Reached yet\";\n}\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -44560,7 +44714,7 @@
         "z": "3df4c8d9.0bdc38",
         "g": "9bdf522.eba6db",
         "name": "VSD_Ref",
-        "func": "// Definitions\nvar PR          = flow.get(\"Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Mtr_Vel_Fdbk','memoryOnly')||null;\n\nif(PR.Reference < Mtr_Speed){\n    msg.payload = parseFloat(Mtr_Speed) - PR.dHz;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" - \"+PR.dHz+\" = \"+msg.payload});\n}\nelse if(PR.Reference > Mtr_Speed){\n    msg.payload = parseFloat(Mtr_Speed) + PR.dHz;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" + \"+PR.dHz+\" = \"+msg.payload});\n}\nelse{\n    msg.payload = Mtr_Speed;\n}\n\nmsg.payload = msg.payload * 10000;\nreturn msg;",
+        "func": "// Definitions\nvar PR          = flow.get(\"Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Output_Frecuency','memoryOnly')||null;\n\nif(PR.Reference < Mtr_Speed){\n    msg.payload = parseFloat(Mtr_Speed) - PR.dHz;\n    msg.payload = msg.payload - PR.dHz < PR.Reference ? PR.Reference : msg.payload;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" - \"+PR.dHz+\" = \"+msg.payload});\n}\nelse if(PR.Reference > Mtr_Speed){\n    msg.payload = parseFloat(Mtr_Speed) + PR.dHz;\n    msg.payload = msg.payload + PR.dHz > PR.Reference ? PR.Reference : msg.payload;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" + \"+PR.dHz+\" = \"+msg.payload});\n}\nelse{\n    msg.payload = Mtr_Speed;\n}\n\nmsg.payload = msg.payload * 10000;\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -44708,8 +44862,8 @@
         "type": "pccc out",
         "z": "3df4c8d9.0bdc38",
         "g": "9bdf522.eba6db",
-        "endpoint": "bdf717d2.f19ae8",
-        "variable": "Speed_Reference",
+        "endpoint": "5a40295d.6caa18",
+        "variable": "PF755T_SpeedReference",
         "name": "Referencia de velocidad",
         "x": 870,
         "y": 390,

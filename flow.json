@@ -942,11 +942,16 @@
             "61696fdd.aa672",
             "704ad7b8.7027e8",
             "6a8c02f7.f4d81c",
-            "6c6274de.8a002c"
+            "6c6274de.8a002c",
+            "cb3f54ff.b48688",
+            "750edf0f.0b80d",
+            "3b18545b.ad536c",
+            "b2ff0ea9.38896",
+            "23a4de49.b420d2"
         ],
         "x": 14,
         "y": 239,
-        "w": 1592,
+        "w": 2602,
         "h": 279.5
     },
     {
@@ -24595,7 +24600,7 @@
         "type": "change",
         "z": "8528a254.70837",
         "g": "31baddff.ea0922",
-        "name": "Eventos",
+        "name": "Alarmas",
         "rules": [
             {
                 "t": "set",
@@ -24652,9 +24657,12 @@
         "y": 390,
         "wires": [
             [
-                "6c6274de.8a002c"
+                "6c6274de.8a002c",
+                "cb3f54ff.b48688"
             ],
-            []
+            [
+                "cb3f54ff.b48688"
+            ]
         ]
     },
     {
@@ -61812,8 +61820,8 @@
         "links": [
             "f4dc844c.b0f888"
         ],
-        "x": 1565,
-        "y": 380,
+        "x": 1585,
+        "y": 390,
         "wires": []
     },
     {
@@ -65306,6 +65314,153 @@
         "wires": [
             [
                 "8133fd48.bdd92"
+            ]
+        ]
+    },
+    {
+        "id": "cb3f54ff.b48688",
+        "type": "change",
+        "z": "8528a254.70837",
+        "g": "31baddff.ea0922",
+        "name": "Datalogger",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "¿Desea descargar los archivos de Datalogger?",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Dispositivo USB encontrado",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1640,
+        "y": 430,
+        "wires": [
+            [
+                "750edf0f.0b80d"
+            ]
+        ]
+    },
+    {
+        "id": "750edf0f.0b80d",
+        "type": "ui_toast",
+        "z": "8528a254.70837",
+        "g": "31baddff.ea0922",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "SI",
+        "cancel": "NO",
+        "raw": false,
+        "topic": "",
+        "name": "Descargar Datalogger",
+        "x": 1830,
+        "y": 430,
+        "wires": [
+            [
+                "3b18545b.ad536c"
+            ]
+        ]
+    },
+    {
+        "id": "3b18545b.ad536c",
+        "type": "switch",
+        "z": "8528a254.70837",
+        "g": "31baddff.ea0922",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "SI",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "NO",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 2000,
+        "y": 430,
+        "wires": [
+            [
+                "23a4de49.b420d2"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "b2ff0ea9.38896",
+        "type": "exec",
+        "z": "8528a254.70837",
+        "g": "31baddff.ea0922",
+        "command": "sudo cp -R /home/pi/node_modules/Datalogger ",
+        "addpay": true,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "",
+        "x": 2410,
+        "y": 430,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "23a4de49.b420d2",
+        "type": "change",
+        "z": "8528a254.70837",
+        "g": "31baddff.ea0922",
+        "name": "CP Directory",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "+++/Datalogger",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "+++",
+                "fromt": "str",
+                "to": "USB_Drive",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2140,
+        "y": 430,
+        "wires": [
+            [
+                "b2ff0ea9.38896"
             ]
         ]
     }

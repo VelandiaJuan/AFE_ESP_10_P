@@ -58903,7 +58903,7 @@
         "height": 2,
         "name": "",
         "label": "Potencia",
-        "format": "<font size = 8px> {{msg.payload}}W",
+        "format": "<font size = 8px> {{msg.payload}}kW",
         "layout": "col-center",
         "x": 3800,
         "y": 250,

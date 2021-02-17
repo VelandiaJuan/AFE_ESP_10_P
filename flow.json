@@ -790,7 +790,9 @@
             "195d3093.36368f"
         ],
         "x": 84,
-        "y": 13
+        "y": 13,
+        "w": 928,
+        "h": 1044
     },
     {
         "id": "f7ed166d.1aa528",
@@ -1443,7 +1445,9 @@
             "847c409b.80c02"
         ],
         "x": 88,
-        "y": 1063
+        "y": 1063,
+        "w": 1264,
+        "h": 368
     },
     {
         "id": "2fc65bf7.d30fb4",
@@ -1633,7 +1637,9 @@
             "9ac5fb1d.327ff8"
         ],
         "x": 114,
-        "y": 1269
+        "y": 1269,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "f738d604.f009b8",
@@ -1731,7 +1737,9 @@
             "36d73f7a.42644"
         ],
         "x": 1024,
-        "y": 19
+        "y": 19,
+        "w": 702,
+        "h": 642
     },
     {
         "id": "f8ecb97c.9e8978",
@@ -1930,7 +1938,9 @@
             "9bfc4b14.b3c7a8"
         ],
         "x": 94,
-        "y": 1439
+        "y": 1439,
+        "w": 742,
+        "h": 362
     },
     {
         "id": "8a437085.d2b8",
@@ -2984,7 +2994,9 @@
             "968d5347.1b134"
         ],
         "x": 234,
-        "y": 39
+        "y": 39,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "991382e7.7f2e6",
@@ -3016,7 +3028,9 @@
             "24dd678c.7f1308"
         ],
         "x": 234,
-        "y": 289
+        "y": 289,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "91feb623.ce89e8",
@@ -3048,7 +3062,9 @@
             "e8ae66c1.7229a8"
         ],
         "x": 234,
-        "y": 539
+        "y": 539,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "a035a752.10f9d8",
@@ -3080,7 +3096,9 @@
             "bd48652a.f5a5e8"
         ],
         "x": 234,
-        "y": 789
+        "y": 789,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "53806295.7831ac",
@@ -4297,7 +4315,9 @@
             "6db11539.a3447c"
         ],
         "x": 724,
-        "y": 1089
+        "y": 1089,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "9560ef4.a49141",
@@ -4321,7 +4341,9 @@
             "864b03bd.9ce3c"
         ],
         "x": 114,
-        "y": 1089
+        "y": 1089,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "f185a628.7c4598",
@@ -4342,7 +4364,9 @@
             "d73d6d43.ab8f4"
         ],
         "x": 724,
-        "y": 1179
+        "y": 1179,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "b5305a67.80d008",
@@ -4368,7 +4392,9 @@
             "8207386.0661fc8"
         ],
         "x": 964,
-        "y": 1179
+        "y": 1179,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "52cef377.daab5c",
@@ -4392,7 +4418,9 @@
             "b4b08522.2499f8"
         ],
         "x": 114,
-        "y": 1179
+        "y": 1179,
+        "w": 602,
+        "h": 82
     },
     {
         "id": "de6d41a4.0f4d2",
@@ -20325,7 +20353,7 @@
         "height": "1",
         "name": "",
         "label": "Potencia:",
-        "format": "{{msg.payload}} KW",
+        "format": "{{msg.payload}} kW",
         "layout": "row-left",
         "x": 900,
         "y": 240,
@@ -20669,7 +20697,7 @@
         "height": "1",
         "name": "",
         "label": "Potencia:",
-        "format": "{{msg.payload}} KW",
+        "format": "{{msg.payload}} kW",
         "layout": "row-left",
         "x": 900,
         "y": 490,
@@ -21035,7 +21063,7 @@
         "height": "1",
         "name": "",
         "label": "Potencia:",
-        "format": "{{msg.payload}} KW",
+        "format": "{{msg.payload}} kW",
         "layout": "row-left",
         "x": 900,
         "y": 740,
@@ -21390,7 +21418,7 @@
         "height": "1",
         "name": "",
         "label": "Potencia:",
-        "format": "{{msg.payload}} KW",
+        "format": "{{msg.payload}} kW",
         "layout": "row-left",
         "x": 900,
         "y": 990,
@@ -23097,6 +23125,7 @@
         "id": "6df5b697.72df38",
         "type": "random",
         "z": "e86f0ca4.7feb5",
+        "d": true,
         "g": "74789700.1df498",
         "name": "",
         "low": "1",
@@ -23115,6 +23144,7 @@
         "id": "11284c61.9c1354",
         "type": "random",
         "z": "e86f0ca4.7feb5",
+        "d": true,
         "g": "74789700.1df498",
         "name": "",
         "low": "1",
@@ -23133,6 +23163,7 @@
         "id": "bf515d87.59e0d",
         "type": "random",
         "z": "e86f0ca4.7feb5",
+        "d": true,
         "g": "74789700.1df498",
         "name": "",
         "low": "1",
@@ -23151,6 +23182,7 @@
         "id": "f274d4b8.28afb8",
         "type": "random",
         "z": "e86f0ca4.7feb5",
+        "d": true,
         "g": "74789700.1df498",
         "name": "",
         "low": "1000",
@@ -40042,6 +40074,7 @@
         "id": "b18e026.fe2e",
         "type": "ui_text",
         "z": "e86f0ca4.7feb5",
+        "d": true,
         "g": "74789700.1df498",
         "group": "7ddeb867.f441b8",
         "order": 3,
@@ -40059,6 +40092,7 @@
         "id": "52556542.54c46c",
         "type": "ui_text",
         "z": "e86f0ca4.7feb5",
+        "d": true,
         "g": "74789700.1df498",
         "group": "7ddeb867.f441b8",
         "order": 9,
@@ -40076,6 +40110,7 @@
         "id": "947b1f9a.d8f17",
         "type": "ui_text",
         "z": "e86f0ca4.7feb5",
+        "d": true,
         "g": "74789700.1df498",
         "group": "7ddeb867.f441b8",
         "order": 10,
@@ -40093,6 +40128,7 @@
         "id": "a097facd.d32e48",
         "type": "ui_text",
         "z": "e86f0ca4.7feb5",
+        "d": true,
         "g": "74789700.1df498",
         "group": "7ddeb867.f441b8",
         "order": 4,
@@ -53358,7 +53394,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "7f0ad68d.a88dc8",
         "name": "Real Time Parameters IEC754 to Float ",
-        "func": "var CTS = global.get('PQA.CTS') || null;\nvar RelCT = CTS !== null ? CTS.CT1/CTS.CT2 :1;\n\n// Convert 2 registers of 16 bits in one of 32 bits\nvar Frequency               = ((msg.payload[0] << 16) + msg.payload[1]); Frequency                  = Int2Float32(Frequency);\nvar Phase_1_Voltage\t        = ((msg.payload[2] << 16) + msg.payload[3]); Phase_1_Voltage            = Int2Float32(Phase_1_Voltage);\nvar Phase_2_Voltage         = ((msg.payload[4] << 16) + msg.payload[5]); Phase_2_Voltage            = Int2Float32(Phase_2_Voltage);\nvar Phase_3_Voltage         = ((msg.payload[6] << 16) + msg.payload[7]); Phase_3_Voltage            = Int2Float32(Phase_3_Voltage);\nvar Average_Phase_Voltage\t= ((msg.payload[8] << 16) + msg.payload[9]); Average_Phase_Voltage      = Int2Float32(Average_Phase_Voltage);\n\nvar Line_Voltage_1_2        = ((msg.payload[10] << 16) + msg.payload[11]); Line_Voltage_1_2         = Int2Float32(Line_Voltage_1_2);\nvar Line_Voltage_2_3        = ((msg.payload[12] << 16) + msg.payload[13]); Line_Voltage_2_3         = Int2Float32(Line_Voltage_2_3);\nvar Line_Voltage_3_1        = ((msg.payload[14] << 16) + msg.payload[15]); Line_Voltage_3_1         = Int2Float32(Line_Voltage_3_1);\nvar Average_Line_Voltage\t= ((msg.payload[16] << 16) + msg.payload[17]); Average_Line_Voltage     = Int2Float32(Average_Line_Voltage);\n\nvar Total_Phase_A_Current   = ((msg.payload[18] << 16) + msg.payload[19]); Total_Phase_A_Current    = Int2Float32(Total_Phase_A_Current);\nvar Total_Phase_B_Current\t= ((msg.payload[20] << 16) + msg.payload[21]); Total_Phase_B_Current    = Int2Float32(Total_Phase_B_Current);\nvar Total_Phase_C_Current   = ((msg.payload[22] << 16) + msg.payload[23]); Total_Phase_C_Current    = Int2Float32(Total_Phase_C_Current);\nvar Average_Phase_Current\t= ((msg.payload[24] << 16) + msg.payload[25]); Average_Phase_Current    = Int2Float32(Average_Phase_Current);\nvar Neutral_Current         = ((msg.payload[26] << 16) + msg.payload[27]); Neutral_Current          = Int2Float32(Neutral_Current);\n\nvar Phase_A_Power           = ((msg.payload[28] << 16) + msg.payload[29]); Phase_A_Power            = Int2Float32(Phase_A_Power);\nvar Phase_B_Power\t        = ((msg.payload[30] << 16) + msg.payload[31]); Phase_B_Power            = Int2Float32(Phase_B_Power);\nvar Phase_C_Power           = ((msg.payload[32] << 16) + msg.payload[33]); Phase_C_Power\t        = Int2Float32(Phase_C_Power);\nvar Total_System_Power      = ((msg.payload[34] << 16) + msg.payload[35]); Total_System_Power       = Int2Float32(Total_System_Power);\n\nvar Phase_A_Reactive_Power  = ((msg.payload[36] << 16) + msg.payload[37]); Phase_A_Reactive_Power   = Int2Float32(Phase_A_Reactive_Power);\nvar Phase_B_Reactive_Power\t= ((msg.payload[38] << 16) + msg.payload[39]); Phase_B_Reactive_Power   = Int2Float32(Phase_B_Reactive_Power);\nvar Phase_C_Reactive_Power\t= ((msg.payload[40] << 16) + msg.payload[41]); Phase_C_Reactive_Power   = Int2Float32(Phase_C_Reactive_Power);\nvar Total_Reactive_Power    = ((msg.payload[42] << 16) + msg.payload[43]); Total_Reactive_Power     = Int2Float32(Total_Reactive_Power);\n\nvar Phase_A_Apparent_Power\t= ((msg.payload[44] << 16) + msg.payload[45]); Phase_A_Apparent_Power   = Int2Float32(Phase_A_Apparent_Power);\nvar Phase_B_Apparent_Power\t= ((msg.payload[46] << 16) + msg.payload[47]); Phase_B_Apparent_Power   = Int2Float32(Phase_B_Apparent_Power);\nvar Phase_C_Apparent_Power\t= ((msg.payload[48] << 16) + msg.payload[49]); Phase_C_Apparent_Power   = Int2Float32(Phase_C_Apparent_Power);\nvar Total_Apparent_Power\t= ((msg.payload[50] << 16) + msg.payload[51]); Total_Apparent_Power     = Int2Float32(Total_Apparent_Power);\n\nvar Phase_A_Power_Factor\t= ((msg.payload[52] << 16) + msg.payload[53]); Phase_A_Power_Factor     = Int2Float32(Phase_A_Power_Factor);\nvar Phase_B_Power_Factor    = ((msg.payload[54] << 16) + msg.payload[55]); Phase_B_Power_Factor     = Int2Float32(Phase_B_Power_Factor);\nvar Phase_C_Power_Factor    = ((msg.payload[56] << 16) + msg.payload[57]); Phase_C_Power_Factor     = Int2Float32(Phase_C_Power_Factor);\nvar Total_Power_Factor\t    = ((msg.payload[58] << 16) + msg.payload[59]); Total_Power_Factor       = Int2Float32(Total_Power_Factor);\n\n// Output Message\nmsg.payload = {\n    \"Frequency\"                 : Frequency,\n    \"Phase_1_Voltage\"           : Phase_1_Voltage,\n    \"Phase_2_Voltage\"           : Phase_2_Voltage,\n    \"Phase_3_Voltage\"           : Phase_3_Voltage,\n    \"Average_Phase_Voltage\"     : Average_Phase_Voltage,\n    \"Line_Voltage_1_2\"          : Line_Voltage_1_2,\n    \"Line_Voltage_2_3\"          : Line_Voltage_2_3,\n    \"Line_Voltage_3_1\"          : Line_Voltage_3_1,\n    \"Average_Line_Voltage\"      : Average_Line_Voltage,\n    \"Total_Phase_A_Current\"     : RelCT * Total_Phase_A_Current,\n    \"Total_Phase_B_Current\"     : RelCT * Total_Phase_B_Current,\n    \"Total_Phase_C_Current\"     : RelCT * Total_Phase_C_Current,\n    \"Average_Phase_Current\"     : RelCT * Average_Phase_Current,\n    \"Neutral_Current\"           : Neutral_Current,\n    \"Phase_A_Power\"             : Phase_A_Power,\n    \"Phase_B_Power\"             : Phase_B_Power,\n    \"Phase_C_Power\"             : Phase_C_Power,\n    \"Total_System_Power\"        : Total_System_Power,\n    \"Phase_A_Reactive_Power\"    : Phase_A_Reactive_Power,\n    \"Phase_B_Reactive_Power\"    : Phase_B_Reactive_Power,\n    \"Phase_C_Reactive_Power\"    : Phase_C_Reactive_Power,\n    \"Total_Reactive_Power\"      : Total_Reactive_Power,\n    \"Phase_A_Apparent_Power\"    : Phase_A_Apparent_Power,\n    \"Phase_B_Apparent_Power\"    : Phase_B_Apparent_Power,\n    \"Phase_C_Apparent_Power\"    : Phase_C_Apparent_Power,\n    \"Total_Apparent_Power\"      : Total_Apparent_Power,\n    \"Phase_A_Power_Factor\"      : Phase_A_Power_Factor,\n    \"Phase_B_Power_Factor\"      : Phase_B_Power_Factor,\n    \"Phase_C_Power_Factor\"      : Phase_C_Power_Factor,\n    \"Total_Power_Factor\"        : Total_Power_Factor\n}\n\nreturn msg;\n\n\n\n\n// IEC 754 to Float Function\n\n/* Converts from an number, string, buffer or array representing an IEEE-754 value\n * to a javascript float.\n * The following may be given in msg.payload:\n *      A string representing a number, which may be hex or binary\n *        examples, \"1735\"  \"0x02045789\"  0b01000000010010010000111111011011\n *      An integer value\n *      A four element array or buffer of 8 bit values, most significant byte first.\n*/ \n// first make a number from the given payload if necessary\n\nfunction Int2Float32(bytes) {\n    var sign = (bytes & 0x80000000) ? -1 : 1;\n    var exponent = ((bytes >> 23) & 0xFF) - 127;\n    var significand = (bytes & ~(-1 << 23));\n\n    if (exponent == 128) \n        return sign * ((significand) ? Number.NaN : Number.POSITIVE_INFINITY);\n\n    if (exponent == -127) {\n        if (significand === 0) return sign * 0.0;\n        exponent = -126;\n        significand /= (1 << 22);\n    } else significand = (significand | (1 << 23)) / (1 << 23);\n\n    return sign * significand * Math.pow(2, exponent);\n}\n\n// Créditos: https://flows.nodered.org/flow/359ead34237b7ab6ec0465ee85a34b62",
+        "func": "var CTS = global.get('PQA.CTS') || null;\nvar RelCT = CTS !== null ? CTS.CT1/CTS.CT2 :1;\n\n// Convert 2 registers of 16 bits in one of 32 bits\nvar Frequency               = ((msg.payload[0] << 16) + msg.payload[1]); Frequency                  = Int2Float32(Frequency);\nvar Phase_1_Voltage\t        = ((msg.payload[2] << 16) + msg.payload[3]); Phase_1_Voltage            = Int2Float32(Phase_1_Voltage);\nvar Phase_2_Voltage         = ((msg.payload[4] << 16) + msg.payload[5]); Phase_2_Voltage            = Int2Float32(Phase_2_Voltage);\nvar Phase_3_Voltage         = ((msg.payload[6] << 16) + msg.payload[7]); Phase_3_Voltage            = Int2Float32(Phase_3_Voltage);\nvar Average_Phase_Voltage\t= ((msg.payload[8] << 16) + msg.payload[9]); Average_Phase_Voltage      = Int2Float32(Average_Phase_Voltage);\n\nvar Line_Voltage_1_2        = ((msg.payload[10] << 16) + msg.payload[11]); Line_Voltage_1_2         = Int2Float32(Line_Voltage_1_2);\nvar Line_Voltage_2_3        = ((msg.payload[12] << 16) + msg.payload[13]); Line_Voltage_2_3         = Int2Float32(Line_Voltage_2_3);\nvar Line_Voltage_3_1        = ((msg.payload[14] << 16) + msg.payload[15]); Line_Voltage_3_1         = Int2Float32(Line_Voltage_3_1);\nvar Average_Line_Voltage\t= ((msg.payload[16] << 16) + msg.payload[17]); Average_Line_Voltage     = Int2Float32(Average_Line_Voltage);\n\nvar Total_Phase_A_Current   = ((msg.payload[18] << 16) + msg.payload[19]); Total_Phase_A_Current    = Int2Float32(Total_Phase_A_Current);\nvar Total_Phase_B_Current\t= ((msg.payload[20] << 16) + msg.payload[21]); Total_Phase_B_Current    = Int2Float32(Total_Phase_B_Current);\nvar Total_Phase_C_Current   = ((msg.payload[22] << 16) + msg.payload[23]); Total_Phase_C_Current    = Int2Float32(Total_Phase_C_Current);\nvar Average_Phase_Current\t= ((msg.payload[24] << 16) + msg.payload[25]); Average_Phase_Current    = Int2Float32(Average_Phase_Current);\nvar Neutral_Current         = ((msg.payload[26] << 16) + msg.payload[27]); Neutral_Current          = Int2Float32(Neutral_Current);\n\nvar Phase_A_Power           = ((msg.payload[28] << 16) + msg.payload[29]); Phase_A_Power            = Int2Float32(Phase_A_Power);\nvar Phase_B_Power\t        = ((msg.payload[30] << 16) + msg.payload[31]); Phase_B_Power            = Int2Float32(Phase_B_Power);\nvar Phase_C_Power           = ((msg.payload[32] << 16) + msg.payload[33]); Phase_C_Power\t        = Int2Float32(Phase_C_Power);\nvar Total_System_Power      = ((msg.payload[34] << 16) + msg.payload[35]); Total_System_Power       = Int2Float32(Total_System_Power);\n\nvar Phase_A_Reactive_Power  = ((msg.payload[36] << 16) + msg.payload[37]); Phase_A_Reactive_Power   = Int2Float32(Phase_A_Reactive_Power);\nvar Phase_B_Reactive_Power\t= ((msg.payload[38] << 16) + msg.payload[39]); Phase_B_Reactive_Power   = Int2Float32(Phase_B_Reactive_Power);\nvar Phase_C_Reactive_Power\t= ((msg.payload[40] << 16) + msg.payload[41]); Phase_C_Reactive_Power   = Int2Float32(Phase_C_Reactive_Power);\nvar Total_Reactive_Power    = ((msg.payload[42] << 16) + msg.payload[43]); Total_Reactive_Power     = Int2Float32(Total_Reactive_Power);\n\nvar Phase_A_Apparent_Power\t= ((msg.payload[44] << 16) + msg.payload[45]); Phase_A_Apparent_Power   = Int2Float32(Phase_A_Apparent_Power);\nvar Phase_B_Apparent_Power\t= ((msg.payload[46] << 16) + msg.payload[47]); Phase_B_Apparent_Power   = Int2Float32(Phase_B_Apparent_Power);\nvar Phase_C_Apparent_Power\t= ((msg.payload[48] << 16) + msg.payload[49]); Phase_C_Apparent_Power   = Int2Float32(Phase_C_Apparent_Power);\nvar Total_Apparent_Power\t= ((msg.payload[50] << 16) + msg.payload[51]); Total_Apparent_Power     = Int2Float32(Total_Apparent_Power);\n\nvar Phase_A_Power_Factor\t= ((msg.payload[52] << 16) + msg.payload[53]); Phase_A_Power_Factor     = Int2Float32(Phase_A_Power_Factor);\nvar Phase_B_Power_Factor    = ((msg.payload[54] << 16) + msg.payload[55]); Phase_B_Power_Factor     = Int2Float32(Phase_B_Power_Factor);\nvar Phase_C_Power_Factor    = ((msg.payload[56] << 16) + msg.payload[57]); Phase_C_Power_Factor     = Int2Float32(Phase_C_Power_Factor);\nvar Total_Power_Factor\t    = ((msg.payload[58] << 16) + msg.payload[59]); Total_Power_Factor       = Int2Float32(Total_Power_Factor);\n\n// Output Message\nmsg.payload = {\n    \"Frequency\"                 : Frequency,\n    \"Phase_1_Voltage\"           : Phase_1_Voltage,\n    \"Phase_2_Voltage\"           : Phase_2_Voltage,\n    \"Phase_3_Voltage\"           : Phase_3_Voltage,\n    \"Average_Phase_Voltage\"     : Average_Phase_Voltage,\n    \"Line_Voltage_1_2\"          : Line_Voltage_1_2,\n    \"Line_Voltage_2_3\"          : Line_Voltage_2_3,\n    \"Line_Voltage_3_1\"          : Line_Voltage_3_1,\n    \"Average_Line_Voltage\"      : Average_Line_Voltage,\n    \"Total_Phase_A_Current\"     : RelCT * Total_Phase_A_Current,\n    \"Total_Phase_B_Current\"     : RelCT * Total_Phase_B_Current,\n    \"Total_Phase_C_Current\"     : RelCT * Total_Phase_C_Current,\n    \"Average_Phase_Current\"     : RelCT * Average_Phase_Current,\n    \"Neutral_Current\"           : Neutral_Current,\n    \"Phase_A_Power\"             : RelCT * Phase_A_Power/1000,\n    \"Phase_B_Power\"             : RelCT * Phase_B_Power/1000,\n    \"Phase_C_Power\"             : RelCT * Phase_C_Power/1000,\n    \"Total_System_Power\"        : RelCT * Total_System_Power/1000,\n    \"Phase_A_Reactive_Power\"    : RelCT * Phase_A_Reactive_Power/1000,\n    \"Phase_B_Reactive_Power\"    : RelCT * Phase_B_Reactive_Power/1000,\n    \"Phase_C_Reactive_Power\"    : RelCT * Phase_C_Reactive_Power/1000,\n    \"Total_Reactive_Power\"      : RelCT * Total_Reactive_Power/1000,\n    \"Phase_A_Apparent_Power\"    : RelCT * Phase_A_Apparent_Power/1000,\n    \"Phase_B_Apparent_Power\"    : RelCT * Phase_B_Apparent_Power/1000,\n    \"Phase_C_Apparent_Power\"    : RelCT * Phase_C_Apparent_Power/1000,\n    \"Total_Apparent_Power\"      : RelCT * Total_Apparent_Power/1000,\n    \"Phase_A_Power_Factor\"      : Phase_A_Power_Factor,\n    \"Phase_B_Power_Factor\"      : Phase_B_Power_Factor,\n    \"Phase_C_Power_Factor\"      : Phase_C_Power_Factor,\n    \"Total_Power_Factor\"        : Total_Power_Factor\n}\n\nreturn msg;\n\n\n\n\n// IEC 754 to Float Function\n\n/* Converts from an number, string, buffer or array representing an IEEE-754 value\n * to a javascript float.\n * The following may be given in msg.payload:\n *      A string representing a number, which may be hex or binary\n *        examples, \"1735\"  \"0x02045789\"  0b01000000010010010000111111011011\n *      An integer value\n *      A four element array or buffer of 8 bit values, most significant byte first.\n*/ \n// first make a number from the given payload if necessary\n\nfunction Int2Float32(bytes) {\n    var sign = (bytes & 0x80000000) ? -1 : 1;\n    var exponent = ((bytes >> 23) & 0xFF) - 127;\n    var significand = (bytes & ~(-1 << 23));\n\n    if (exponent == 128) \n        return sign * ((significand) ? Number.NaN : Number.POSITIVE_INFINITY);\n\n    if (exponent == -127) {\n        if (significand === 0) return sign * 0.0;\n        exponent = -126;\n        significand /= (1 << 22);\n    } else significand = (significand | (1 << 23)) / (1 << 23);\n\n    return sign * significand * Math.pow(2, exponent);\n}\n\n// Créditos: https://flows.nodered.org/flow/359ead34237b7ab6ec0465ee85a34b62RelCT",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",

@@ -834,7 +834,9 @@
             "ccd73af1.690d48"
         ],
         "x": 2744,
-        "y": 1249
+        "y": 1249,
+        "w": 1202,
+        "h": 202
     },
     {
         "id": "25cd4464.cad59c",
@@ -986,7 +988,9 @@
             "15ca143a.56aa5c"
         ],
         "x": 12,
-        "y": 7
+        "y": 7,
+        "w": 2696,
+        "h": 1626
     },
     {
         "id": "c17de691.f363c8",
@@ -1004,7 +1008,9 @@
             "de6d41a4.0f4d2"
         ],
         "x": 12,
-        "y": 1637
+        "y": 1637,
+        "w": 2626,
+        "h": 866
     },
     {
         "id": "68e6bb30.d1fce4",
@@ -1243,7 +1249,9 @@
             "ad35e08b.93dd"
         ],
         "x": 2744,
-        "y": 9
+        "y": 9,
+        "w": 912,
+        "h": 452
     },
     {
         "id": "8341562d.ffacc8",
@@ -1302,9 +1310,7 @@
             "9bdf522.eba6db"
         ],
         "x": 28,
-        "y": 3,
-        "w": 1014,
-        "h": 524
+        "y": 3
     },
     {
         "id": "353eeed0.7959d2",
@@ -1321,9 +1327,7 @@
             "ab7a4a2c.17d8a8"
         ],
         "x": 28,
-        "y": 553,
-        "w": 2014,
-        "h": 1104
+        "y": 553
     },
     {
         "id": "e3aa057d.09fb18",
@@ -1341,9 +1345,7 @@
             "b9df7528.923398"
         ],
         "x": 28,
-        "y": 1663,
-        "w": 2900,
-        "h": 1080
+        "y": 1663
     },
     {
         "id": "a163450f.bc4438",
@@ -1430,7 +1432,9 @@
             "5039e78a.ed1d88"
         ],
         "x": 14,
-        "y": 2679
+        "y": 2679,
+        "w": 462,
+        "h": 82
     },
     {
         "id": "70d8d562.df63ac",
@@ -1460,7 +1464,9 @@
             "66f58a7.5c16574"
         ],
         "x": 2744,
-        "y": 469
+        "y": 469,
+        "w": 1362,
+        "h": 232
     },
     {
         "id": "96c06653.552da8",
@@ -1507,9 +1513,7 @@
             "ba5f4e4b.e55a2"
         ],
         "x": 1054,
-        "y": 1119,
-        "w": 412,
-        "h": 82
+        "y": 1119
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -1611,7 +1615,9 @@
             "ebc9a134.b2cde"
         ],
         "x": 2748,
-        "y": 713
+        "y": 713,
+        "w": 1054,
+        "h": 344
     },
     {
         "id": "f7a06233.68524",
@@ -1627,7 +1633,9 @@
             "e2e299a6.d3c5c8"
         ],
         "x": 2748,
-        "y": 1063
+        "y": 1063,
+        "w": 1084,
+        "h": 174
     },
     {
         "id": "63291ccb.08e434",
@@ -1776,7 +1784,9 @@
             "c099945b.08bf98"
         ],
         "x": 14,
-        "y": 2509
+        "y": 2509,
+        "w": 872,
+        "h": 162
     },
     {
         "id": "40cf1345.13cc7c",
@@ -1796,7 +1806,9 @@
             "7f0ad68d.a88dc8"
         ],
         "x": 2748,
-        "y": 1463
+        "y": 1463,
+        "w": 1464,
+        "h": 714
     },
     {
         "id": "aa2fba7e.146688",
@@ -1818,7 +1830,9 @@
             "beae8e2f.5f80b"
         ],
         "x": 2748,
-        "y": 2183
+        "y": 2183,
+        "w": 1094,
+        "h": 864
     },
     {
         "id": "6150cb44.a8b4c4",
@@ -1848,9 +1862,7 @@
             "51d2e767.639a98"
         ],
         "x": 1054,
-        "y": 9,
-        "w": 982,
-        "h": 262
+        "y": 9
     },
     {
         "id": "aaa733ec.38139",
@@ -1947,7 +1959,9 @@
             "8188a395.bb719"
         ],
         "x": 3814,
-        "y": 719
+        "y": 719,
+        "w": 522,
+        "h": 282
     },
     {
         "id": "7f0ad68d.a88dc8",
@@ -1988,7 +2002,9 @@
             "2249a8a.5b30458"
         ],
         "x": 2774,
-        "y": 1489
+        "y": 1489,
+        "w": 1412,
+        "h": 492
     },
     {
         "id": "e2589faa.5b6d2",
@@ -2308,7 +2324,9 @@
             "5c3a9c15.3a4554"
         ],
         "x": 1338,
-        "y": 33
+        "y": 33,
+        "w": 1344,
+        "h": 1011.5
     },
     {
         "id": "23bbdddc.b8c5c2",
@@ -2327,7 +2345,9 @@
             "5d1065e2.7b952c"
         ],
         "x": 38,
-        "y": 33
+        "y": 33,
+        "w": 1284,
+        "h": 1574
     },
     {
         "id": "d22a2793.24a988",
@@ -2345,7 +2365,9 @@
             "1b19a252.cfe16e"
         ],
         "x": 38,
-        "y": 1663
+        "y": 1663,
+        "w": 1284,
+        "h": 754
     },
     {
         "id": "ac1f5c0.f7b06a",
@@ -3651,9 +3673,7 @@
             "d0a19b38.893ab8"
         ],
         "x": 54,
-        "y": 29,
-        "w": 962,
-        "h": 212
+        "y": 29
     },
     {
         "id": "9bdf522.eba6db",
@@ -3687,9 +3707,7 @@
             "223f7107.39115e"
         ],
         "x": 54,
-        "y": 249,
-        "w": 912,
-        "h": 252
+        "y": 249
     },
     {
         "id": "fbbdc4b7.95b5c8",
@@ -3758,9 +3776,7 @@
             "272ed76d.7cce68"
         ],
         "x": 54,
-        "y": 879,
-        "w": 1568,
-        "h": 752
+        "y": 879
     },
     {
         "id": "84c9494b.d4dbe8",
@@ -3794,9 +3810,7 @@
             "e2832ff4.8c486"
         ],
         "x": 54,
-        "y": 579,
-        "w": 912,
-        "h": 292
+        "y": 579
     },
     {
         "id": "dad84feb.d4773",
@@ -3870,9 +3884,7 @@
             "c3276752.914e88"
         ],
         "x": 54,
-        "y": 1999,
-        "w": 1542,
-        "h": 700
+        "y": 1999
     },
     {
         "id": "7aad629d.de652c",
@@ -3934,9 +3946,7 @@
             "b8c12e8b.715b2"
         ],
         "x": 54,
-        "y": 1689,
-        "w": 2632,
-        "h": 302
+        "y": 1689
     },
     {
         "id": "4eb2e67c.e57628",
@@ -4123,7 +4133,9 @@
             "a14ed9ad.89be18"
         ],
         "x": 1334,
-        "y": 1439
+        "y": 1439,
+        "w": 962,
+        "h": 162
     },
     {
         "id": "17c31216.1aa6ce",
@@ -4259,7 +4271,9 @@
             "2fb80d12.b93df2"
         ],
         "x": 1328,
-        "y": 1663
+        "y": 1663,
+        "w": 1284,
+        "h": 814
     },
     {
         "id": "ebc9a134.b2cde",
@@ -4293,7 +4307,9 @@
             "8b8bfe12.48faa"
         ],
         "x": 2774,
-        "y": 739
+        "y": 739,
+        "w": 1002,
+        "h": 292
     },
     {
         "id": "ab7a4a2c.17d8a8",
@@ -4324,9 +4340,7 @@
             "577047bb.6519b8"
         ],
         "x": 974,
-        "y": 579,
-        "w": 1042,
-        "h": 272
+        "y": 579
     },
     {
         "id": "e2e299a6.d3c5c8",
@@ -4349,7 +4363,9 @@
             "238050bf.0374f"
         ],
         "x": 2774,
-        "y": 1089
+        "y": 1089,
+        "w": 1032,
+        "h": 122
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -4382,9 +4398,7 @@
             "4e19cfd4.3982f"
         ],
         "x": 1604,
-        "y": 1999,
-        "w": 1062,
-        "h": 312
+        "y": 1999
     },
     {
         "id": "96de1dd.d202ce",
@@ -4535,9 +4549,7 @@
             "c25b39de.c92f08"
         ],
         "x": 1608,
-        "y": 2343,
-        "w": 1294,
-        "h": 374
+        "y": 2343
     },
     {
         "id": "46208c12.9b8aa4",
@@ -4565,7 +4577,9 @@
             "8b6bbe7b.4904"
         ],
         "x": 2774,
-        "y": 1989
+        "y": 1989,
+        "w": 552,
+        "h": 162
     },
     {
         "id": "3a6bee4b.22d342",
@@ -4591,7 +4605,9 @@
             "16b64fab.dbb22"
         ],
         "x": 2774,
-        "y": 2209
+        "y": 2209,
+        "w": 772,
+        "h": 182
     },
     {
         "id": "ebb7241e.548d68",
@@ -4618,7 +4634,9 @@
             "1a2660d3.c50b5f"
         ],
         "x": 2774,
-        "y": 2399
+        "y": 2399,
+        "w": 932,
+        "h": 322
     },
     {
         "id": "f059af07.db923",
@@ -4637,7 +4655,9 @@
             "b3c62075.a7822"
         ],
         "x": 2774,
-        "y": 2729
+        "y": 2729,
+        "w": 602,
+        "h": 122
     },
     {
         "id": "beae8e2f.5f80b",
@@ -4660,7 +4680,9 @@
             "57cd5933.3df778"
         ],
         "x": 2774,
-        "y": 2859
+        "y": 2859,
+        "w": 1042,
+        "h": 162
     },
     {
         "id": "5613a5b2.95577c",
@@ -4888,7 +4910,9 @@
             "85f12e7a.2e726"
         ],
         "x": 1354,
-        "y": 1689
+        "y": 1689,
+        "w": 1232,
+        "h": 312
     },
     {
         "id": "c05026cc.2a6048",
@@ -4953,7 +4977,9 @@
             "2b33cbc0.5a4c64"
         ],
         "x": 64,
-        "y": 909
+        "y": 909,
+        "w": 1232,
+        "h": 482
     },
     {
         "id": "5c3a9c15.3a4554",
@@ -5012,7 +5038,9 @@
             "f280a028.0f854"
         ],
         "x": 1364,
-        "y": 479
+        "y": 479,
+        "w": 1292,
+        "h": 539.5
     },
     {
         "id": "62757ffc.dca08",
@@ -5065,7 +5093,9 @@
             "ba03cbde.df6f78"
         ],
         "x": 64,
-        "y": 59
+        "y": 59,
+        "w": 1232,
+        "h": 842
     },
     {
         "id": "2d061227.66d7ce",
@@ -5110,7 +5140,9 @@
             "ffda9256.dc79c"
         ],
         "x": 1364,
-        "y": 59
+        "y": 59,
+        "w": 1282,
+        "h": 412
     },
     {
         "id": "a80677cf.4274c8",
@@ -5174,9 +5206,7 @@
             "97085297.91fc4"
         ],
         "x": 924,
-        "y": 909,
-        "w": 672,
-        "h": 202
+        "y": 909
     },
     {
         "id": "5d1065e2.7b952c",
@@ -5205,7 +5235,9 @@
             "55d7f98f.7ca518"
         ],
         "x": 64,
-        "y": 1399
+        "y": 1399,
+        "w": 632,
+        "h": 182
     },
     {
         "id": "b974d4b3.9e3f78",
@@ -5227,7 +5259,9 @@
             "d2dd56dc.b7a0e8"
         ],
         "x": 64,
-        "y": 2219
+        "y": 2219,
+        "w": 722,
+        "h": 172
     },
     {
         "id": "1b19a252.cfe16e",
@@ -5269,7 +5303,9 @@
             "16a30db2.f4a332"
         ],
         "x": 64,
-        "y": 1689
+        "y": 1689,
+        "w": 1232,
+        "h": 522
     },
     {
         "id": "be55ea76.ed4478",
@@ -5309,9 +5345,7 @@
             "f4363e16.f1813"
         ],
         "x": 1634,
-        "y": 2369,
-        "w": 1022,
-        "h": 82
+        "y": 2369
     },
     {
         "id": "c25b39de.c92f08",
@@ -5341,9 +5375,7 @@
             "38bdd4ac.3dc20c"
         ],
         "x": 1634,
-        "y": 2459,
-        "w": 1242,
-        "h": 232
+        "y": 2459
     },
     {
         "id": "2fb80d12.b93df2",
@@ -5379,7 +5411,9 @@
             "9d6b8eeb.cad3c"
         ],
         "x": 1354,
-        "y": 2009
+        "y": 2009,
+        "w": 722,
+        "h": 442
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -28551,6 +28585,11 @@
                 "label": "Protección térmica de motor",
                 "value": "Proteccion_termica_de_motor",
                 "type": "str"
+            },
+            {
+                "label": "Simulación",
+                "value": "Simulación",
+                "type": "str"
             }
         ],
         "payload": "",
@@ -29438,7 +29477,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "62757ffc.dca08",
         "name": "Vector de Funciones 2",
-        "func": "var ES = flow.get(\"ES\");\nvar Funcion = [];\nvar Lista_Funciones = {};\n\nvar Canal = [4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27];\n\nfor(var i=0; i<11; i++){\n    \n    // Concatenar el texto del canal\n    Canalmsg = 'Canal' + Canal[i];\n    \n    // Generar el vector con todas las posibles opciones de configuración\n    if( typeof ES.ED[Canalmsg] !== 'undefined'){\n        \n        // Lista Completa\n        Lista_Funciones[Canal[i]] = ES.ED[Canalmsg].Funcion;\n        \n        // Lista Simple\n        if(Funcion.find(element => element == ES.ED[Canalmsg].Funcion) !== ES.ED[Canalmsg].Funcion ){\n            Funcion.push(ES.ED[Canalmsg].Funcion);\n        }\n    }\n    else{\n        delete Lista_Funciones[Canal[i]];\n    }\n    \n}\n\nmsg.payload = {\n    'Lista_Simple':Funcion,\n    'Lista_Completa':Lista_Funciones\n}\n\nreturn msg;",
+        "func": "var ES = flow.get(\"ES\");\nvar Funcion = [];\nvar Lista_Funciones = {};\n\nvar Canal = [4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27];\n\nfor(var i=0; i<Canal.length; i++){\n    \n    // Concatenar el texto del canal\n    Canalmsg = 'Canal' + Canal[i];\n    \n    // Generar el vector con todas las posibles opciones de configuración\n    if( typeof ES.ED[Canalmsg] !== 'undefined'){\n        \n        // Lista Completa\n        Lista_Funciones[Canal[i]] = ES.ED[Canalmsg].Funcion;\n        \n        // Lista Simple\n        if(Funcion.find(element => element == ES.ED[Canalmsg].Funcion) !== ES.ED[Canalmsg].Funcion ){\n            Funcion.push(ES.ED[Canalmsg].Funcion);\n        }\n    }\n    else{\n        delete Lista_Funciones[Canal[i]];\n    }\n    \n}\n\nmsg.payload = {\n    'Lista_Simple':Funcion,\n    'Lista_Completa':Lista_Funciones\n}\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -30720,8 +30759,8 @@
                 "type": "str"
             },
             {
-                "label": "LUZ INTERNA",
-                "value": "LUZ_INTERNA",
+                "label": "SIMULACION",
+                "value": "SIMULACION",
                 "type": "str"
             },
             {
@@ -32117,7 +32156,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "b974d4b3.9e3f78",
         "name": "Salidas Digitales",
-        "func": "var ES = flow.get('ES')||null;\nvar Drive_Status = global.get('Drive_Status','memoryOnly') || null;\nvar ActFunctions = flow.get('ActFunctions','memoryOnly') || null;\nvar Prot = global.get('Protections.RFlag','memoryOnly') || 0;\nvar FA = global.get('Filtro_armonicos.Estado','memoryOnly')||false;\n\n// Arreglo de Canales\nvar Data    = { \n    32:false, 33:false, 34:false, 35:false, \n    36:false, 37:false, 38:false, 39:false, \n    40:false, 41:false, 42:false, 43:false\n};\n\n// Obtener llaves del objeto Data\nvar Canal = Object.keys(Data);\n// Declaración del string con \nvar canalmsg;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"CILA2S_EN_MARCHA\"          : Drive_Status != null ? (Drive_Status.Active == 1 ? true:false): false ,\n    \"FALLA_GENERAL\"             : Drive_Status != null ? (Drive_Status.Fault  == 1 ? true:false || Prot):false, \n    \"DISPARO_BREAKER_MODULO_ESD\": InFunction(ActFunctions,'Stop_ESD') || InFunction(ActFunctions,'Disparo_bajo_bajo_aceite_SUT') || InFunction(ActFunctions,'Disparo_valvula_sobrepresion') ||InFunction(ActFunctions,'Disparo_alta_temperatura_SUT') || InFunction(ActFunctions,'Disparo_alta_temperatura_filtros'|| InFunction(ActFunctions,'Disparo_Alta_presión_THP'),InFunction(ActFunctions,'Disparo_sobre_tensión_SUT'),InFunction(ActFunctions,'ESD_Remoto'),InFunction(ActFunctions,'Proteccion_termica_de_motor')),\n    \"BYPASS_FILTRO_ARMONICOS\"   : FA\n}\n\n// Funciones que se activan desde una entrada digital\nfunction InFunction(Var,Str){\n    for(var j = 0; j < Var.length; j++){\n        if(Var[j].Funcion == Str){\n            return Var[j].Estado;\n        }\n    }\n}\n\n// Llaves del vector FuncionesC2S\nvar Keys = Object.keys(FuncionC2S);\n\n// Para cada canal de salida\nfor(var i=0; i <Canal.length; i++){\n    canalmsg ='Canal'+ Canal[i];\n    // Si la configuración del canal está declarada\n    if(typeof ES.SD[canalmsg] != 'undefined'){\n        // Para cada llave del vector FuncionesC2S que coincida con la configuración del canal\n        for(var j=0; j<Keys.length; j++){\n            if(ES.SD[canalmsg].Funcion == Keys[j]){\n                // Asignar el valor contenido en el vector de funciones al canal de salida\n                Data[Canal[i]] = ES.SD[canalmsg].Tipo == \"NO\" ? FuncionC2S[Keys[j]]:!FuncionC2S[Keys[j]];\n            } \n        }\n    }\n}\n\n// Asignar variable con los valores a escribir  (Se puede eliminar al asignar directamente).\nvar values = Object.values(Data);\n\n// Escribir datos en el Cubloc\nmsg.payload = { \n    value: values, \n    'fc': 15, \n    'unitid': 1, \n    'address': 4096, \n    'quantity': 12 \n}\n\n// Retorno del mensaje\nreturn msg;",
+        "func": "var ES = flow.get('ES')||null;\nvar Drive_Status = global.get('Drive_Status','memoryOnly') || null;\nvar ActFunctions = flow.get('ActFunctions','memoryOnly') || null;\nvar Prot = global.get('Protections.RFlag','memoryOnly') || 0;\nvar FA = global.get('Filtro_armonicos.Estado','memoryOnly')||false;\n\n// Arreglo de Canales\nvar Data    = { \n    32:false, 33:false, 34:false, 35:false, \n    36:false, 37:false, 38:false, 39:false, \n    40:false, 41:false, 42:false, 43:false\n};\n\n// Obtener llaves del objeto Data\nvar Canal = Object.keys(Data);\n// Declaración del string con \nvar canalmsg;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"CILA2S_EN_MARCHA\"          : Drive_Status != null ? (Drive_Status.Active == 1 ? true:false): false ,\n    \"FALLA_GENERAL\"             : Drive_Status != null ? (Drive_Status.Fault  == 1 ? true:false || Prot):false, \n    \"DISPARO_BREAKER_MODULO_ESD\": InFunction(ActFunctions,'Stop_ESD') || InFunction(ActFunctions,'Disparo_bajo_bajo_aceite_SUT') || InFunction(ActFunctions,'Disparo_valvula_sobrepresion') ||InFunction(ActFunctions,'Disparo_alta_temperatura_SUT') || InFunction(ActFunctions,'Disparo_alta_temperatura_filtros'|| InFunction(ActFunctions,'Disparo_Alta_presión_THP'),InFunction(ActFunctions,'Disparo_sobre_tensión_SUT'),InFunction(ActFunctions,'ESD_Remoto'),InFunction(ActFunctions,'Proteccion_termica_de_motor')),\n    \"BYPASS_FILTRO_ARMONICOS\"   : FA,\n    \"SIMULACION\"                : InFunction(ActFunctions,'Simulación')\n}\n\n// Funciones que se activan desde una entrada digital\nfunction InFunction(Var,Str){\n    for(var j = 0; j < Var.length; j++){\n        if(Var[j].Funcion == Str){\n            return Var[j].Estado;\n        }\n    }\n}\n\n// Llaves del vector FuncionesC2S\nvar Keys = Object.keys(FuncionC2S);\n\n// Para cada canal de salida\nfor(var i=0; i <Canal.length; i++){\n    canalmsg ='Canal'+ Canal[i];\n    // Si la configuración del canal está declarada\n    if(typeof ES.SD[canalmsg] != 'undefined'){\n        // Para cada llave del vector FuncionesC2S que coincida con la configuración del canal\n        for(var j=0; j<Keys.length; j++){\n            if(ES.SD[canalmsg].Funcion == Keys[j]){\n                // Asignar el valor contenido en el vector de funciones al canal de salida\n                Data[Canal[i]] = ES.SD[canalmsg].Tipo == \"NO\" ? FuncionC2S[Keys[j]]:!FuncionC2S[Keys[j]];\n            } \n        }\n    }\n}\n\n// Asignar variable con los valores a escribir  (Se puede eliminar al asignar directamente).\nvar values = Object.values(Data);\n\n// Escribir datos en el Cubloc\nmsg.payload = { \n    value: values, \n    'fc': 15, \n    'unitid': 1, \n    'address': 4096, \n    'quantity': 12 \n}\n\n// Retorno del mensaje\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",

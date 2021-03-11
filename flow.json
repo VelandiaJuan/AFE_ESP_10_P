@@ -1107,12 +1107,10 @@
         },
         "nodes": [
             "25d1d69b.64e0ca",
-            "5073e01d.10857",
             "9132da2c.b8c6b8",
             "f78dcb63.bde038",
             "90ebdbed.1907a8",
             "311890ad.cc4ed",
-            "f8e8eeb2.3f011",
             "8a7f783.a732b88",
             "8c3082f9.73975",
             "215bed4c.7858c2"
@@ -1435,39 +1433,6 @@
         "y": 2679,
         "w": 462,
         "h": 82
-    },
-    {
-        "id": "70d8d562.df63ac",
-        "type": "group",
-        "z": "e86f0ca4.7feb5",
-        "g": "93269d6d.f01df",
-        "name": "Arranque / Parada / Reset / Remotos",
-        "style": {
-            "label": true,
-            "fill": "#bfc7d7",
-            "color": "#000000"
-        },
-        "nodes": [
-            "95837cd7.bf6c2",
-            "2941139c.7c7b0c",
-            "a6adbd4d.9a3c4",
-            "a1197dc9.92f25",
-            "24025e15.4ddaf2",
-            "21fd4ac4.46c936",
-            "6e311205.1a499c",
-            "eb2a9f36.96637",
-            "4de602f2.c6858c",
-            "6054591f.97bbc8",
-            "20c7cde4.586f82",
-            "17ca02e7.855ccd",
-            "9515e42e.7cd818",
-            "24520f16.b2073",
-            "66f58a7.5c16574"
-        ],
-        "x": 2744,
-        "y": 499,
-        "w": 1362,
-        "h": 232
     },
     {
         "id": "96c06653.552da8",
@@ -1943,6 +1908,87 @@
         "y": 959,
         "w": 522,
         "h": 282
+    },
+    {
+        "id": "93269d6d.f01df",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "name": "",
+        "style": {
+            "fill": "#3f5787",
+            "label": true
+        },
+        "nodes": [
+            "70d8d562.df63ac",
+            "e2e299a6.d3c5c8",
+            "f6e30287.8d13d"
+        ],
+        "x": 2718,
+        "y": 473,
+        "w": 1814,
+        "h": 424
+    },
+    {
+        "id": "f766f95b.4e6278",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "name": "SCADA TCP / SCADA RTU",
+        "style": {
+            "fill": "#c8e7a7",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "590465b6.4ae93c",
+            "1f5ba763.537da9",
+            "daab098.dcf81f8",
+            "72d596c0.d63af8",
+            "e9678f2c.47c62",
+            "c4c078bf.1f98e8",
+            "285b480c.d0f7a8",
+            "779d3154.c1b8e",
+            "43a584bc.6d66ec",
+            "70af4a89.bf1b84",
+            "1e165b65.d6c425",
+            "78769808.230b18"
+        ],
+        "x": 3664,
+        "y": 179,
+        "w": 862,
+        "h": 222
+    },
+    {
+        "id": "70d8d562.df63ac",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "g": "93269d6d.f01df",
+        "name": "Arranque / Parada / Reset / Remotos",
+        "style": {
+            "label": true,
+            "fill": "#bfc7d7",
+            "color": "#000000"
+        },
+        "nodes": [
+            "95837cd7.bf6c2",
+            "2941139c.7c7b0c",
+            "a6adbd4d.9a3c4",
+            "a1197dc9.92f25",
+            "24025e15.4ddaf2",
+            "21fd4ac4.46c936",
+            "6e311205.1a499c",
+            "eb2a9f36.96637",
+            "4de602f2.c6858c",
+            "6054591f.97bbc8",
+            "20c7cde4.586f82",
+            "17ca02e7.855ccd",
+            "9515e42e.7cd818",
+            "24520f16.b2073",
+            "66f58a7.5c16574"
+        ],
+        "x": 2744,
+        "y": 499,
+        "w": 1362,
+        "h": 232
     },
     {
         "id": "7f0ad68d.a88dc8",
@@ -3392,29 +3438,6 @@
         "y": 319
     },
     {
-        "id": "5073e01d.10857",
-        "type": "group",
-        "z": "5ef5b1ce.d3899",
-        "g": "f7d4f68f.ac6a38",
-        "name": "",
-        "style": {
-            "fill": "#7f8faf",
-            "label": true
-        },
-        "nodes": [
-            "b4849b66.3cb828",
-            "53b720f4.9bf81",
-            "ffff58c2.e3d6f8",
-            "37c41387.a53fcc",
-            "dcddb7c0.bb3808",
-            "52e99374.8d9b7c",
-            "1981cd18.e62913",
-            "cd729508.733ad8"
-        ],
-        "x": 844,
-        "y": 1009
-    },
-    {
         "id": "9132da2c.b8c6b8",
         "type": "group",
         "z": "5ef5b1ce.d3899",
@@ -3436,8 +3459,8 @@
             "b0a2cd1a.ab273",
             "fd328934.0ddd18"
         ],
-        "x": 854,
-        "y": 1629
+        "x": 844,
+        "y": 1159
     },
     {
         "id": "f78dcb63.bde038",
@@ -3461,7 +3484,7 @@
             "d458c292.e2009"
         ],
         "x": 844,
-        "y": 1439
+        "y": 989
     },
     {
         "id": "90ebdbed.1907a8",
@@ -3515,29 +3538,6 @@
         "y": 779
     },
     {
-        "id": "f8e8eeb2.3f011",
-        "type": "group",
-        "z": "5ef5b1ce.d3899",
-        "g": "f7d4f68f.ac6a38",
-        "name": "",
-        "style": {
-            "fill": "#7f8faf",
-            "label": true
-        },
-        "nodes": [
-            "95cc11.a58333f",
-            "cc3d5da0.39c0b",
-            "c086da18.9bd4b8",
-            "d3df8b00.b0ac08",
-            "78f40470.e8302c",
-            "1d5d736d.cff5ad",
-            "d795f048.456e2",
-            "39dc61d6.38245e"
-        ],
-        "x": 844,
-        "y": 1249
-    },
-    {
         "id": "8a7f783.a732b88",
         "type": "group",
         "z": "5ef5b1ce.d3899",
@@ -3558,7 +3558,7 @@
             "f65a5bee.378fe8"
         ],
         "x": 844,
-        "y": 1849
+        "y": 1369
     },
     {
         "id": "8c3082f9.73975",
@@ -3581,8 +3581,8 @@
             "63ae6ad3.b07874",
             "23b2730.9c7eb8e"
         ],
-        "x": 854,
-        "y": 2049
+        "x": 844,
+        "y": 1559
     },
     {
         "id": "215bed4c.7858c2",
@@ -3603,8 +3603,8 @@
             "bc3bdaea.54eca8",
             "2a671cfc.7a9654"
         ],
-        "x": 1484,
-        "y": 1889
+        "x": 1554,
+        "y": 1409
     },
     {
         "id": "5ff12c29.d4cc64",
@@ -4347,7 +4347,7 @@
         ],
         "x": 2744,
         "y": 739,
-        "w": 1032,
+        "w": 942,
         "h": 132
     },
     {
@@ -4662,6 +4662,30 @@
         "y": 2699,
         "w": 1042,
         "h": 162
+    },
+    {
+        "id": "f6e30287.8d13d",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "g": "93269d6d.f01df",
+        "name": "Referencia remota",
+        "style": {
+            "fill": "#bfc7d7",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "826fef16.9c1a",
+            "2b0080ad.3ac38",
+            "5252f291.d6bb0c",
+            "da8e2bed.062538",
+            "6790da83.2d4c54",
+            "69f6e4eb.80e62c"
+        ],
+        "x": 3784,
+        "y": 739,
+        "w": 722,
+        "h": 122
     },
     {
         "id": "5613a5b2.95577c",
@@ -5394,48 +5418,6 @@
         "y": 2009,
         "w": 722,
         "h": 442
-    },
-    {
-        "id": "93269d6d.f01df",
-        "type": "group",
-        "z": "e86f0ca4.7feb5",
-        "name": "",
-        "style": {
-            "fill": "#3f5787",
-            "label": true
-        },
-        "nodes": [
-            "70d8d562.df63ac",
-            "e2e299a6.d3c5c8",
-            "f6e30287.8d13d"
-        ],
-        "x": 2718,
-        "y": 473,
-        "w": 1694,
-        "h": 424
-    },
-    {
-        "id": "f6e30287.8d13d",
-        "type": "group",
-        "z": "e86f0ca4.7feb5",
-        "g": "93269d6d.f01df",
-        "name": "Referencia remota",
-        "style": {
-            "fill": "#bfc7d7",
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "826fef16.9c1a",
-            "2b0080ad.3ac38",
-            "5252f291.d6bb0c",
-            "da8e2bed.062538",
-            "6790da83.2d4c54"
-        ],
-        "x": 3784,
-        "y": 739,
-        "w": 602,
-        "h": 122
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -6363,10 +6345,10 @@
     {
         "id": "56b03a99.1007f4",
         "type": "ui_group",
-        "name": "Navegación Comunicaciones",
+        "name": "Comunicación SCADA",
         "tab": "7eaa26da.d167a8",
         "order": 2,
-        "disp": false,
+        "disp": true,
         "width": "12",
         "collapse": false
     },
@@ -10472,6 +10454,33 @@
         "order": 11,
         "width": "0",
         "height": "0"
+    },
+    {
+        "id": "c1c0c620.00e288",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "56b03a99.1007f4",
+        "order": 1,
+        "width": "0",
+        "height": "0"
+    },
+    {
+        "id": "70159b9.da04964",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "56b03a99.1007f4",
+        "order": 5,
+        "width": "0",
+        "height": "0"
+    },
+    {
+        "id": "fcd10e0b.f82ac",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "56b03a99.1007f4",
+        "order": 2,
+        "width": "4",
+        "height": 1
     },
     {
         "id": "32cc6176.70f1ae",
@@ -32348,7 +32357,7 @@
         "fieldType": "msg",
         "format": "handlebars",
         "syntax": "mustache",
-        "template": " <!-- Navigation Bar -->\n    <div class=\"container align-self-center\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <ul class=\"nav nav-tabs nav-fill\" id=\"pills-tab\" role=\"tablist\">\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link active\" id=\"pills-Configurations-tab\" data-toggle=\"pill\" href=\"#pills-Configurations\" role=\"tab\" aria-controls=\"pills-Configurations\" aria-selected=\"true\">Configuración</a>\n                  </li>\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link\" id=\"pills-Trends-tab\" data-toggle=\"pill\" href=\"#pills-Trends\" role=\"tab\" aria-controls=\"pills-Trends\" aria-selected=\"false\">Tendencias</a>\n                  </li>\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link\" id=\"pills-Monitoring-tab\" data-toggle=\"pill\" href=\"#pills-Monitoring\" role=\"tab\" aria-controls=\"pills-Monitoring\" aria-selected=\"false\">Monitoreo</a>\n                  </li>\n                </ul>\n                <div class=\"tab-content\" id=\"pills-tabContent\">\n                    <!-- Configurations -->\n                    <div class=\"tab-pane fade show active\" id=\"pills-Configurations\" role=\"tabpanel\" aria-labelledby=\"pills-Configurations-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <p></p>\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                              <a class=\"nav-link active\" id=\"v-pills-Drive-tab\" data-toggle=\"pill\" href=\"#v-pills-Estandar\" role=\"tab\" aria-controls=\"v-pills-Estandar\" aria-selected=\"true\">Estándar</a>\n                              <a class=\"nav-link\" id=\"v-pills-IO-tab\" data-toggle=\"pill\" href=\"#v-pills-IO\" role=\"tab\" aria-controls=\"v-pills-IO\" aria-selected=\"false\">E/S</a>\n                              <a class=\"nav-link\" id=\"v-pills-Protection-tab\" data-toggle=\"pill\" href=\"#v-pills-Protection\" role=\"tab\" aria-controls=\"v-pills-Protection\" aria-selected=\"false\">Protecciones</a>\n                              <a class=\"nav-link\" id=\"v-pills-Communications-tab\" data-toggle=\"pill\" href=\"#v-pills-Communications\" role=\"tab\" aria-controls=\"v-pills-Communications\" aria-selected=\"false\">Comunicaciones</a>\n                              <!--<a class=\"nav-link\" id=\"v-pills-Control-tab\" data-toggle=\"pill\" href=\"#v-pills-Control\" role=\"tab\" aria-controls=\"v-pills-Control\" aria-selected=\"false\">Tipo de control</a>-->\n                              <a class=\"nav-link disabled\" id=\"v-pills-AVAS-tab\" data-toggle=\"pill\" href=\"#v-pills-AVAS\" role=\"tab\" aria-controls=\"v-pills-AVAS\" aria-selected=\"false\">AVAs</a>\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-Estandar\" role=\"tabpanel\" aria-labelledby=\"v-pills-Estandar-tab\">\n                                    <!-- Drive -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/4\" class=\"list-group-item list-group-item-action\">Variador C2S</a>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/5\" class=\"list-group-item list-group-item-action\">Relación de reducción</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/6\" class=\"list-group-item list-group-item-action\">Relación de transformación</a>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/7\" class=\"list-group-item list-group-item-action\">Hardware disponible</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/8\" class=\"list-group-item list-group-item-action\">Tipo de arranque</a>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/9\" class=\"list-group-item list-group-item-action\">Unidades de ingeniería</a>-->\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-IO\" role=\"tabpanel\" aria-labelledby=\"v-pills-IO-tab\">\n                                    <!-- IO -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/10\" class=\"list-group-item list-group-item-action\">Swc Pro®</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/10\" class=\"list-group-item list-group-item-action\">CILA2S</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Protection\" role=\"tabpanel\" aria-labelledby=\"v-pills-Protection-tab\">\n                                    <!-- Protection -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/12\" class=\"list-group-item list-group-item-action\">Fondo</a>\n                                        <a href=\"http://localhost:1880/ui/#!/13\" class=\"list-group-item list-group-item-action\">Superficie</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Communications\" role=\"tabpanel\" aria-labelledby=\"v-pills-Communications-tab\">\n                                    <!-- Communications -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/14\" class=\"list-group-item list-group-item-action\">SCADA</a>-->\n                                        <!--<a href=\"http://localhost:1880/ui/#!/15\" class=\"list-group-item list-group-item-action\">Downhole sensor</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/16\" class=\"list-group-item list-group-item-action\">PQA</a>\n                                        <a href=\"http://localhost:1880/ui/#!/17\" class=\"list-group-item list-group-item-action\">C2S</a>\n                                        <a href=\"http://localhost:1880/ui/#!/18\" class=\"list-group-item list-group-item-action\">SWC</a>\n                                        <a href=\"http://localhost:1880/ui/#!/15\" class=\"list-group-item list-group-item-action\">Sensor de fondo</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Control\" role=\"tabpanel\" aria-labelledby=\"v-pills-Control-tab\">\n                                    <!-- Control -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/19\" class=\"list-group-item list-group-item-action\">Control inteligente de torque</a>-->\n                                        <!--<a href=\"http://localhost:1880/ui/#!/20\" class=\"list-group-item list-group-item-action\">Control de backspin</a>-->\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-AVAS\" role=\"tabpanel\" aria-labelledby=\"v-pills-AVAS-tab\">\n                                    <!-- Control -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/21\" class=\"list-group-item list-group-item-action\">IWOC®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/22\" class=\"list-group-item list-group-item-action\">Sensor Less®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/23\" class=\"list-group-item list-group-item-action\">Power Sag®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/24\" class=\"list-group-item list-group-item-action\">IRL®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/25\" class=\"list-group-item list-group-item-action\">GasLock®</a>  \n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                  \n                    <!-- Trends -->\n                    <div class=\"tab-pane fade\" id=\"pills-Trends\" role=\"tabpanel\" aria-labelledby=\"pills-Trends-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                              <p></p>\n                              <a class=\"nav-link active\" id=\"v-pills-Surface-tab\" data-toggle=\"pill\" href=\"#v-pills-Surface\" role=\"tab\" aria-controls=\"v-pills-Surface\" aria-selected=\"true\">CILA2S</a>\n                              <!--<a class=\"nav-link\" id=\"v-pills-Downhole-tab\" data-toggle=\"pill\" href=\"#v-pills-Downhole\" role=\"tab\" aria-controls=\"v-pills-Downhole\" aria-selected=\"false\">Sistema de inyección</a>-->\n                              <!--<a class=\"nav-link\" id=\"v-pills-Multivariable-tab\" data-toggle=\"pill\" href=\"#v-pills-Multivariable\" role=\"tab\" aria-controls=\"v-pills-Multivariable\" aria-selected=\"false\">Multivariable</a>-->\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-Surface\" role=\"tabpanel\" aria-labelledby=\"v-pills-Surface-tab\">\n                                    <!-- Superficie -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/26\" class=\"list-group-item list-group-item-action\">Datos Operativos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/27\" class=\"list-group-item list-group-item-action\">Eléctricos de entrada</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Downhole\" role=\"tabpanel\" aria-labelledby=\"v-pills-ElectricData-tab\">\n                                    <!-- Fondo -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/28\" class=\"list-group-item list-group-item-action\">Sensor de Fondo</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/29\" class=\"list-group-item list-group-item-action\">SensorLess®</a>\n                                    </div>\n                                    \n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Multivariable\" role=\"tabpanel\" aria-labelledby=\"v-pills-DownholeData-tab\">\n                                    <!-- Multivariable -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action\">...</a>\n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                     <!-- Monitoring -->\n                    <div class=\"tab-pane fade\" id=\"pills-Monitoring\" role=\"tabpanel\" aria-labelledby=\"pills-Monitoring-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                                <p></p>\n                                <a class=\"nav-link active\" id=\"v-pills-OperativeDataMonitor-tab\" data-toggle=\"pill\" href=\"#v-pills-OperativeDataMonitor\" role=\"tab\" aria-controls=\"v-pills-OperativeDataMonitor\" aria-selected=\"true\">Datos Operativos</a>\n                                <a class=\"nav-link\" id=\"v-pills-ES_Monitoring-tab\" data-toggle=\"pill\" href=\"#v-pills-ES_Monitoring\" role=\"tab\" aria-controls=\"v-pills-ES_Monitoring\" aria-selected=\"false\">E/S</a>\n                                <a class=\"nav-link disabled\" id=\"v-pills-AVASMonitor-tab\" data-toggle=\"pill\" href=\"#v-pills-AVASMonitor\" role=\"tab\" aria-controls=\"v-pills-AVASMonitor\" aria-selected=\"false\">AVA's</a>\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-OperativeDataMonitor\" role=\"tabpanel\" aria-labelledby=\"v-pills-OperativeDataMonitor-tab\">\n                                    <!-- OperativeData -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/31\" class=\"list-group-item list-group-item-action\">Armónicos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/41\" class=\"list-group-item list-group-item-action\">Datos eléctricos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/30\" class=\"list-group-item list-group-item-action\">Fondo</a>\n\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-ES_Monitoring\" role=\"tabpanel\" aria-labelledby=\"v-pills-ES_Monitoring-tab\">\n                                    <!-- E/S Monitoring -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/32\" class=\"list-group-item list-group-item-action\">SWC Pro®</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/33\" class=\"list-group-item list-group-item-action\">CILA2S</a>\n                                    </div>  \n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-AVASMonitor\" role=\"tabpanel\" aria-labelledby=\"v-pills-AVASMonitor-tab\">\n                                    <!-- AVA's monitoring-->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/34\" class=\"list-group-item list-group-item-action\">IWOC®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/35\" class=\"list-group-item list-group-item-action\">Sensor Less®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/36\" class=\"list-group-item list-group-item-action\">Power Sag®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/37\" class=\"list-group-item list-group-item-action\">IRL®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/38\" class=\"list-group-item list-group-item-action\">GasLock®</a>\n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>",
+        "template": " <!-- Navigation Bar -->\n    <div class=\"container align-self-center\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <ul class=\"nav nav-tabs nav-fill\" id=\"pills-tab\" role=\"tablist\">\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link active\" id=\"pills-Configurations-tab\" data-toggle=\"pill\" href=\"#pills-Configurations\" role=\"tab\" aria-controls=\"pills-Configurations\" aria-selected=\"true\">Configuración</a>\n                  </li>\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link\" id=\"pills-Trends-tab\" data-toggle=\"pill\" href=\"#pills-Trends\" role=\"tab\" aria-controls=\"pills-Trends\" aria-selected=\"false\">Tendencias</a>\n                  </li>\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link\" id=\"pills-Monitoring-tab\" data-toggle=\"pill\" href=\"#pills-Monitoring\" role=\"tab\" aria-controls=\"pills-Monitoring\" aria-selected=\"false\">Monitoreo</a>\n                  </li>\n                </ul>\n                <div class=\"tab-content\" id=\"pills-tabContent\">\n                    <!-- Configurations -->\n                    <div class=\"tab-pane fade show active\" id=\"pills-Configurations\" role=\"tabpanel\" aria-labelledby=\"pills-Configurations-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <p></p>\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                              <a class=\"nav-link active\" id=\"v-pills-Drive-tab\" data-toggle=\"pill\" href=\"#v-pills-Estandar\" role=\"tab\" aria-controls=\"v-pills-Estandar\" aria-selected=\"true\">Estándar</a>\n                              <a class=\"nav-link\" id=\"v-pills-IO-tab\" data-toggle=\"pill\" href=\"#v-pills-IO\" role=\"tab\" aria-controls=\"v-pills-IO\" aria-selected=\"false\">E/S</a>\n                              <a class=\"nav-link\" id=\"v-pills-Protection-tab\" data-toggle=\"pill\" href=\"#v-pills-Protection\" role=\"tab\" aria-controls=\"v-pills-Protection\" aria-selected=\"false\">Protecciones</a>\n                              <a class=\"nav-link\" id=\"v-pills-Communications-tab\" data-toggle=\"pill\" href=\"#v-pills-Communications\" role=\"tab\" aria-controls=\"v-pills-Communications\" aria-selected=\"false\">Comunicaciones</a>\n                              <!--<a class=\"nav-link\" id=\"v-pills-Control-tab\" data-toggle=\"pill\" href=\"#v-pills-Control\" role=\"tab\" aria-controls=\"v-pills-Control\" aria-selected=\"false\">Tipo de control</a>-->\n                              <a class=\"nav-link disabled\" id=\"v-pills-AVAS-tab\" data-toggle=\"pill\" href=\"#v-pills-AVAS\" role=\"tab\" aria-controls=\"v-pills-AVAS\" aria-selected=\"false\">AVAs</a>\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-Estandar\" role=\"tabpanel\" aria-labelledby=\"v-pills-Estandar-tab\">\n                                    <!-- Drive -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/4\" class=\"list-group-item list-group-item-action\">Variador C2S</a>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/5\" class=\"list-group-item list-group-item-action\">Relación de reducción</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/6\" class=\"list-group-item list-group-item-action\">Relación de transformación</a>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/7\" class=\"list-group-item list-group-item-action\">Hardware disponible</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/8\" class=\"list-group-item list-group-item-action\">Tipo de arranque</a>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/9\" class=\"list-group-item list-group-item-action\">Unidades de ingeniería</a>-->\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-IO\" role=\"tabpanel\" aria-labelledby=\"v-pills-IO-tab\">\n                                    <!-- IO -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/10\" class=\"list-group-item list-group-item-action\">Swc Pro®</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/10\" class=\"list-group-item list-group-item-action\">CILA2S</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Protection\" role=\"tabpanel\" aria-labelledby=\"v-pills-Protection-tab\">\n                                    <!-- Protection -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/12\" class=\"list-group-item list-group-item-action\">Fondo</a>\n                                        <a href=\"http://localhost:1880/ui/#!/13\" class=\"list-group-item list-group-item-action\">Superficie</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Communications\" role=\"tabpanel\" aria-labelledby=\"v-pills-Communications-tab\">\n                                    <!-- Communications -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/14\" class=\"list-group-item list-group-item-action\">SCADA</a>\n                                        <a href=\"http://localhost:1880/ui/#!/16\" class=\"list-group-item list-group-item-action\">PQA</a>\n                                        <a href=\"http://localhost:1880/ui/#!/17\" class=\"list-group-item list-group-item-action\">C2S</a>\n                                        <a href=\"http://localhost:1880/ui/#!/18\" class=\"list-group-item list-group-item-action\">SWC</a>\n                                        <a href=\"http://localhost:1880/ui/#!/15\" class=\"list-group-item list-group-item-action\">Sensor de fondo</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Control\" role=\"tabpanel\" aria-labelledby=\"v-pills-Control-tab\">\n                                    <!-- Control -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/19\" class=\"list-group-item list-group-item-action\">Control inteligente de torque</a>-->\n                                        <!--<a href=\"http://localhost:1880/ui/#!/20\" class=\"list-group-item list-group-item-action\">Control de backspin</a>-->\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-AVAS\" role=\"tabpanel\" aria-labelledby=\"v-pills-AVAS-tab\">\n                                    <!-- Control -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/21\" class=\"list-group-item list-group-item-action\">IWOC®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/22\" class=\"list-group-item list-group-item-action\">Sensor Less®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/23\" class=\"list-group-item list-group-item-action\">Power Sag®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/24\" class=\"list-group-item list-group-item-action\">IRL®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/25\" class=\"list-group-item list-group-item-action\">GasLock®</a>  \n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                  \n                    <!-- Trends -->\n                    <div class=\"tab-pane fade\" id=\"pills-Trends\" role=\"tabpanel\" aria-labelledby=\"pills-Trends-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                              <p></p>\n                              <a class=\"nav-link active\" id=\"v-pills-Surface-tab\" data-toggle=\"pill\" href=\"#v-pills-Surface\" role=\"tab\" aria-controls=\"v-pills-Surface\" aria-selected=\"true\">CILA2S</a>\n                              <!--<a class=\"nav-link\" id=\"v-pills-Downhole-tab\" data-toggle=\"pill\" href=\"#v-pills-Downhole\" role=\"tab\" aria-controls=\"v-pills-Downhole\" aria-selected=\"false\">Sistema de inyección</a>-->\n                              <!--<a class=\"nav-link\" id=\"v-pills-Multivariable-tab\" data-toggle=\"pill\" href=\"#v-pills-Multivariable\" role=\"tab\" aria-controls=\"v-pills-Multivariable\" aria-selected=\"false\">Multivariable</a>-->\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-Surface\" role=\"tabpanel\" aria-labelledby=\"v-pills-Surface-tab\">\n                                    <!-- Superficie -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/26\" class=\"list-group-item list-group-item-action\">Datos Operativos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/27\" class=\"list-group-item list-group-item-action\">Eléctricos de entrada</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Downhole\" role=\"tabpanel\" aria-labelledby=\"v-pills-ElectricData-tab\">\n                                    <!-- Fondo -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/28\" class=\"list-group-item list-group-item-action\">Sensor de Fondo</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/29\" class=\"list-group-item list-group-item-action\">SensorLess®</a>\n                                    </div>\n                                    \n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Multivariable\" role=\"tabpanel\" aria-labelledby=\"v-pills-DownholeData-tab\">\n                                    <!-- Multivariable -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action\">...</a>\n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                     <!-- Monitoring -->\n                    <div class=\"tab-pane fade\" id=\"pills-Monitoring\" role=\"tabpanel\" aria-labelledby=\"pills-Monitoring-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                                <p></p>\n                                <a class=\"nav-link active\" id=\"v-pills-OperativeDataMonitor-tab\" data-toggle=\"pill\" href=\"#v-pills-OperativeDataMonitor\" role=\"tab\" aria-controls=\"v-pills-OperativeDataMonitor\" aria-selected=\"true\">Datos Operativos</a>\n                                <a class=\"nav-link\" id=\"v-pills-ES_Monitoring-tab\" data-toggle=\"pill\" href=\"#v-pills-ES_Monitoring\" role=\"tab\" aria-controls=\"v-pills-ES_Monitoring\" aria-selected=\"false\">E/S</a>\n                                <a class=\"nav-link disabled\" id=\"v-pills-AVASMonitor-tab\" data-toggle=\"pill\" href=\"#v-pills-AVASMonitor\" role=\"tab\" aria-controls=\"v-pills-AVASMonitor\" aria-selected=\"false\">AVA's</a>\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-OperativeDataMonitor\" role=\"tabpanel\" aria-labelledby=\"v-pills-OperativeDataMonitor-tab\">\n                                    <!-- OperativeData -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/31\" class=\"list-group-item list-group-item-action\">Armónicos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/41\" class=\"list-group-item list-group-item-action\">Datos eléctricos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/30\" class=\"list-group-item list-group-item-action\">Fondo</a>\n\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-ES_Monitoring\" role=\"tabpanel\" aria-labelledby=\"v-pills-ES_Monitoring-tab\">\n                                    <!-- E/S Monitoring -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/32\" class=\"list-group-item list-group-item-action\">SWC Pro®</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/33\" class=\"list-group-item list-group-item-action\">CILA2S</a>\n                                    </div>  \n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-AVASMonitor\" role=\"tabpanel\" aria-labelledby=\"v-pills-AVASMonitor-tab\">\n                                    <!-- AVA's monitoring-->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/34\" class=\"list-group-item list-group-item-action\">IWOC®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/35\" class=\"list-group-item list-group-item-action\">Sensor Less®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/36\" class=\"list-group-item list-group-item-action\">Power Sag®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/37\" class=\"list-group-item list-group-item-action\">IRL®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/38\" class=\"list-group-item list-group-item-action\">GasLock®</a>\n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>",
         "output": "str",
         "x": 350,
         "y": 200,
@@ -32368,7 +32377,7 @@
         "fieldType": "msg",
         "format": "handlebars",
         "syntax": "mustache",
-        "template": " <!-- Navigation Bar -->\n    <div class=\"container align-self-center\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <ul class=\"nav nav-tabs nav-fill\" id=\"pills-tab\" role=\"tablist\">\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link active\" id=\"pills-Configurations-tab\" data-toggle=\"pill\" href=\"#pills-Configurations\" role=\"tab\" aria-controls=\"pills-Configurations\" aria-selected=\"true\">Configuración</a>\n                  </li>\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link\" id=\"pills-Trends-tab\" data-toggle=\"pill\" href=\"#pills-Trends\" role=\"tab\" aria-controls=\"pills-Trends\" aria-selected=\"false\">Tendencias</a>\n                  </li>\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link\" id=\"pills-Monitoring-tab\" data-toggle=\"pill\" href=\"#pills-Monitoring\" role=\"tab\" aria-controls=\"pills-Monitoring\" aria-selected=\"false\">Monitoreo</a>\n                  </li>\n                </ul>\n                <div class=\"tab-content\" id=\"pills-tabContent\">\n                    <!-- Configurations -->\n                    <div class=\"tab-pane fade show active\" id=\"pills-Configurations\" role=\"tabpanel\" aria-labelledby=\"pills-Configurations-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <p></p>\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                              <a class=\"nav-link active\" id=\"v-pills-Drive-tab\" data-toggle=\"pill\" href=\"#v-pills-Estandar\" role=\"tab\" aria-controls=\"v-pills-Estandar\" aria-selected=\"true\">Estándar</a>\n                              <a class=\"nav-link\" id=\"v-pills-IO-tab\" data-toggle=\"pill\" href=\"#v-pills-IO\" role=\"tab\" aria-controls=\"v-pills-IO\" aria-selected=\"false\">E/S</a>\n                              <a class=\"nav-link\" id=\"v-pills-Protection-tab\" data-toggle=\"pill\" href=\"#v-pills-Protection\" role=\"tab\" aria-controls=\"v-pills-Protection\" aria-selected=\"false\">Protecciones</a>\n                              <a class=\"nav-link\" id=\"v-pills-Communications-tab\" data-toggle=\"pill\" href=\"#v-pills-Communications\" role=\"tab\" aria-controls=\"v-pills-Communications\" aria-selected=\"false\">Comunicaciones</a>\n                              <!--<a class=\"nav-link\" id=\"v-pills-Control-tab\" data-toggle=\"pill\" href=\"#v-pills-Control\" role=\"tab\" aria-controls=\"v-pills-Control\" aria-selected=\"false\">Tipo de control</a>-->\n                              <a class=\"nav-link disabled\" id=\"v-pills-AVAS-tab\" data-toggle=\"pill\" href=\"#v-pills-AVAS\" role=\"tab\" aria-controls=\"v-pills-AVAS\" aria-selected=\"false\">AVAs</a>\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-Estandar\" role=\"tabpanel\" aria-labelledby=\"v-pills-Estandar-tab\">\n                                    <!-- Drive -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/4\" class=\"list-group-item list-group-item-action disabled\">Variador C2S</a>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/5\" class=\"list-group-item list-group-item-action disabled\">Relación de reducción</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/6\" class=\"list-group-item list-group-item-action disabled\">Relación de transformación</a>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/7\" class=\"list-group-item list-group-item-action disabled\">Hardware disponible</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/8\" class=\"list-group-item list-group-item-action disabled\">Tipo de arranque</a>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/9\" class=\"list-group-item list-group-item-action disabled\">Unidades de ingeniería</a>-->\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-IO\" role=\"tabpanel\" aria-labelledby=\"v-pills-IO-tab\">\n                                    <!-- IO -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/10\" class=\"list-group-item list-group-item-action  disabled\">Swc Pro®</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/10\" class=\"list-group-item list-group-item-action disabled\">CILA2S</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Protection\" role=\"tabpanel\" aria-labelledby=\"v-pills-Protection-tab\">\n                                    <!-- Protection -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/12\" class=\"list-group-item list-group-item-action disabled\">Fondo</a>\n                                        <a href=\"http://localhost:1880/ui/#!/13\" class=\"list-group-item list-group-item-action disabled\">Superficie</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Communications\" role=\"tabpanel\" aria-labelledby=\"v-pills-Communications-tab\">\n                                    <!-- Communications -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/14\" class=\"list-group-item list-group-item-action disabled\">SCADA</a>-->\n                                        <!--<a href=\"http://localhost:1880/ui/#!/15\" class=\"list-group-item list-group-item-action disabled\">Downhole sensor</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/16\" class=\"list-group-item list-group-item-action disabled\">PQA</a>\n                                        <a href=\"http://localhost:1880/ui/#!/17\" class=\"list-group-item list-group-item-action disabled\">C2S</a>\n                                        <a href=\"http://localhost:1880/ui/#!/18\" class=\"list-group-item list-group-item-action disabled\">SWC</a>\n                                        <a href=\"http://localhost:1880/ui/#!/15\" class=\"list-group-item list-group-item-action disabled\">Sensor de fondo</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Control\" role=\"tabpanel\" aria-labelledby=\"v-pills-Control-tab\">\n                                    <!-- Control -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/19\" class=\"list-group-item list-group-item-action disabled\">Control inteligente de torque</a>-->\n                                        <!--<a href=\"http://localhost:1880/ui/#!/20\" class=\"list-group-item list-group-item-action disabled\">Control de backspin</a>-->\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-AVAS\" role=\"tabpanel\" aria-labelledby=\"v-pills-AVAS-tab\">\n                                    <!-- Control -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/21\" class=\"list-group-item list-group-item-action disabled\">IWOC®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/22\" class=\"list-group-item list-group-item-action disabled\">Sensor Less®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/23\" class=\"list-group-item list-group-item-action disabled\">Power Sag®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/24\" class=\"list-group-item list-group-item-action disabled\">IRL®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/25\" class=\"list-group-item list-group-item-action disabled\">GasLock®</a>  \n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                  \n                    <!-- Trends -->\n                    <div class=\"tab-pane fade\" id=\"pills-Trends\" role=\"tabpanel\" aria-labelledby=\"pills-Trends-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                              <p></p>\n                              <a class=\"nav-link active\" id=\"v-pills-Surface-tab\" data-toggle=\"pill\" href=\"#v-pills-Surface\" role=\"tab\" aria-controls=\"v-pills-Surface\" aria-selected=\"true\">CILA2S</a>\n                              <!--<a class=\"nav-link\" id=\"v-pills-Downhole-tab\" data-toggle=\"pill\" href=\"#v-pills-Downhole\" role=\"tab\" aria-controls=\"v-pills-Downhole\" aria-selected=\"false\">Sistema de inyección</a>-->\n                              <!--<a class=\"nav-link\" id=\"v-pills-Multivariable-tab\" data-toggle=\"pill\" href=\"#v-pills-Multivariable\" role=\"tab\" aria-controls=\"v-pills-Multivariable\" aria-selected=\"false\">Multivariable</a>-->\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-Surface\" role=\"tabpanel\" aria-labelledby=\"v-pills-Surface-tab\">\n                                    <!-- Superficie -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/26\" class=\"list-group-item list-group-item-action disabled\">Datos Operativos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/27\" class=\"list-group-item list-group-item-action disabled\">Eléctricos de entrada</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Downhole\" role=\"tabpanel\" aria-labelledby=\"v-pills-ElectricData-tab\">\n                                    <!-- Fondo -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/28\" class=\"list-group-item list-group-item-action disabled\">Sensor de Fondo</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/29\" class=\"list-group-item list-group-item-action disabled\">SensorLess®</a>\n                                    </div>\n                                    \n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Multivariable\" role=\"tabpanel\" aria-labelledby=\"v-pills-DownholeData-tab\">\n                                    <!-- Multivariable -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action disabled\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action disabled\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action disabled\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action disabled\">...</a>\n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                     <!-- Monitoring -->\n                    <div class=\"tab-pane fade\" id=\"pills-Monitoring\" role=\"tabpanel\" aria-labelledby=\"pills-Monitoring-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                                <p></p>\n                                <a class=\"nav-link active\" id=\"v-pills-OperativeDataMonitor-tab\" data-toggle=\"pill\" href=\"#v-pills-OperativeDataMonitor\" role=\"tab\" aria-controls=\"v-pills-OperativeDataMonitor\" aria-selected=\"true\">Datos Operativos</a>\n                                <a class=\"nav-link\" id=\"v-pills-ES_Monitoring-tab\" data-toggle=\"pill\" href=\"#v-pills-ES_Monitoring\" role=\"tab\" aria-controls=\"v-pills-ES_Monitoring\" aria-selected=\"false\">E/S</a>\n                                <a class=\"nav-link disabled\" id=\"v-pills-AVASMonitor-tab\" data-toggle=\"pill\" href=\"#v-pills-AVASMonitor\" role=\"tab\" aria-controls=\"v-pills-AVASMonitor\" aria-selected=\"false\">AVA's</a>\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-OperativeDataMonitor\" role=\"tabpanel\" aria-labelledby=\"v-pills-OperativeDataMonitor-tab\">\n                                    <!-- OperativeData -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/31\" class=\"list-group-item list-group-item-action disabled\">Armónicos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/41\" class=\"list-group-item list-group-item-action disabled\">Datos eléctricos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/30\" class=\"list-group-item list-group-item-action disabled\">Fondo</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-ES_Monitoring\" role=\"tabpanel\" aria-labelledby=\"v-pills-ES_Monitoring-tab\">\n                                    <!-- E/S Monitoring -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/32\" class=\"list-group-item list-group-item-action disabled\">SWC Pro®</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/33\" class=\"list-group-item list-group-item-action disabled\">CILA2S</a>\n                                    </div>  \n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-AVASMonitor\" role=\"tabpanel\" aria-labelledby=\"v-pills-AVASMonitor-tab\">\n                                    <!-- AVA's monitoring-->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/34\" class=\"list-group-item list-group-item-action disabled\">IWOC®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/35\" class=\"list-group-item list-group-item-action disabled\">Sensor Less®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/36\" class=\"list-group-item list-group-item-action disabled\">Power Sag®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/37\" class=\"list-group-item list-group-item-action disabled\">IRL®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/38\" class=\"list-group-item list-group-item-action disabled\">GasLock®</a>\n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>",
+        "template": " <!-- Navigation Bar -->\n    <div class=\"container align-self-center\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <ul class=\"nav nav-tabs nav-fill\" id=\"pills-tab\" role=\"tablist\">\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link active\" id=\"pills-Configurations-tab\" data-toggle=\"pill\" href=\"#pills-Configurations\" role=\"tab\" aria-controls=\"pills-Configurations\" aria-selected=\"true\">Configuración</a>\n                  </li>\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link\" id=\"pills-Trends-tab\" data-toggle=\"pill\" href=\"#pills-Trends\" role=\"tab\" aria-controls=\"pills-Trends\" aria-selected=\"false\">Tendencias</a>\n                  </li>\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link\" id=\"pills-Monitoring-tab\" data-toggle=\"pill\" href=\"#pills-Monitoring\" role=\"tab\" aria-controls=\"pills-Monitoring\" aria-selected=\"false\">Monitoreo</a>\n                  </li>\n                </ul>\n                <div class=\"tab-content\" id=\"pills-tabContent\">\n                    <!-- Configurations -->\n                    <div class=\"tab-pane fade show active\" id=\"pills-Configurations\" role=\"tabpanel\" aria-labelledby=\"pills-Configurations-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <p></p>\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                              <a class=\"nav-link active\" id=\"v-pills-Drive-tab\" data-toggle=\"pill\" href=\"#v-pills-Estandar\" role=\"tab\" aria-controls=\"v-pills-Estandar\" aria-selected=\"true\">Estándar</a>\n                              <a class=\"nav-link\" id=\"v-pills-IO-tab\" data-toggle=\"pill\" href=\"#v-pills-IO\" role=\"tab\" aria-controls=\"v-pills-IO\" aria-selected=\"false\">E/S</a>\n                              <a class=\"nav-link\" id=\"v-pills-Protection-tab\" data-toggle=\"pill\" href=\"#v-pills-Protection\" role=\"tab\" aria-controls=\"v-pills-Protection\" aria-selected=\"false\">Protecciones</a>\n                              <a class=\"nav-link\" id=\"v-pills-Communications-tab\" data-toggle=\"pill\" href=\"#v-pills-Communications\" role=\"tab\" aria-controls=\"v-pills-Communications\" aria-selected=\"false\">Comunicaciones</a>\n                              <!--<a class=\"nav-link\" id=\"v-pills-Control-tab\" data-toggle=\"pill\" href=\"#v-pills-Control\" role=\"tab\" aria-controls=\"v-pills-Control\" aria-selected=\"false\">Tipo de control</a>-->\n                              <a class=\"nav-link disabled\" id=\"v-pills-AVAS-tab\" data-toggle=\"pill\" href=\"#v-pills-AVAS\" role=\"tab\" aria-controls=\"v-pills-AVAS\" aria-selected=\"false\">AVAs</a>\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-Estandar\" role=\"tabpanel\" aria-labelledby=\"v-pills-Estandar-tab\">\n                                    <!-- Drive -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/4\" class=\"list-group-item list-group-item-action disabled\">Variador C2S</a>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/5\" class=\"list-group-item list-group-item-action disabled\">Relación de reducción</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/6\" class=\"list-group-item list-group-item-action disabled\">Relación de transformación</a>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/7\" class=\"list-group-item list-group-item-action disabled\">Hardware disponible</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/8\" class=\"list-group-item list-group-item-action disabled\">Tipo de arranque</a>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/9\" class=\"list-group-item list-group-item-action disabled\">Unidades de ingeniería</a>-->\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-IO\" role=\"tabpanel\" aria-labelledby=\"v-pills-IO-tab\">\n                                    <!-- IO -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/10\" class=\"list-group-item list-group-item-action  disabled\">Swc Pro®</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/10\" class=\"list-group-item list-group-item-action disabled\">CILA2S</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Protection\" role=\"tabpanel\" aria-labelledby=\"v-pills-Protection-tab\">\n                                    <!-- Protection -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/12\" class=\"list-group-item list-group-item-action disabled\">Fondo</a>\n                                        <a href=\"http://localhost:1880/ui/#!/13\" class=\"list-group-item list-group-item-action disabled\">Superficie</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Communications\" role=\"tabpanel\" aria-labelledby=\"v-pills-Communications-tab\">\n                                    <!-- Communications -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/14\" class=\"list-group-item list-group-item-action disabled\">SCADA</a>\n                                        <a href=\"http://localhost:1880/ui/#!/16\" class=\"list-group-item list-group-item-action disabled\">PQA</a>\n                                        <a href=\"http://localhost:1880/ui/#!/17\" class=\"list-group-item list-group-item-action disabled\">C2S</a>\n                                        <a href=\"http://localhost:1880/ui/#!/18\" class=\"list-group-item list-group-item-action disabled\">SWC</a>\n                                        <a href=\"http://localhost:1880/ui/#!/15\" class=\"list-group-item list-group-item-action disabled\">Sensor de fondo</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Control\" role=\"tabpanel\" aria-labelledby=\"v-pills-Control-tab\">\n                                    <!-- Control -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/19\" class=\"list-group-item list-group-item-action disabled\">Control inteligente de torque</a>-->\n                                        <!--<a href=\"http://localhost:1880/ui/#!/20\" class=\"list-group-item list-group-item-action disabled\">Control de backspin</a>-->\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-AVAS\" role=\"tabpanel\" aria-labelledby=\"v-pills-AVAS-tab\">\n                                    <!-- Control -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/21\" class=\"list-group-item list-group-item-action disabled\">IWOC®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/22\" class=\"list-group-item list-group-item-action disabled\">Sensor Less®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/23\" class=\"list-group-item list-group-item-action disabled\">Power Sag®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/24\" class=\"list-group-item list-group-item-action disabled\">IRL®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/25\" class=\"list-group-item list-group-item-action disabled\">GasLock®</a>  \n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                  \n                    <!-- Trends -->\n                    <div class=\"tab-pane fade\" id=\"pills-Trends\" role=\"tabpanel\" aria-labelledby=\"pills-Trends-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                              <p></p>\n                              <a class=\"nav-link active\" id=\"v-pills-Surface-tab\" data-toggle=\"pill\" href=\"#v-pills-Surface\" role=\"tab\" aria-controls=\"v-pills-Surface\" aria-selected=\"true\">CILA2S</a>\n                              <!--<a class=\"nav-link\" id=\"v-pills-Downhole-tab\" data-toggle=\"pill\" href=\"#v-pills-Downhole\" role=\"tab\" aria-controls=\"v-pills-Downhole\" aria-selected=\"false\">Sistema de inyección</a>-->\n                              <!--<a class=\"nav-link\" id=\"v-pills-Multivariable-tab\" data-toggle=\"pill\" href=\"#v-pills-Multivariable\" role=\"tab\" aria-controls=\"v-pills-Multivariable\" aria-selected=\"false\">Multivariable</a>-->\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-Surface\" role=\"tabpanel\" aria-labelledby=\"v-pills-Surface-tab\">\n                                    <!-- Superficie -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/26\" class=\"list-group-item list-group-item-action disabled\">Datos Operativos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/27\" class=\"list-group-item list-group-item-action disabled\">Eléctricos de entrada</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Downhole\" role=\"tabpanel\" aria-labelledby=\"v-pills-ElectricData-tab\">\n                                    <!-- Fondo -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/28\" class=\"list-group-item list-group-item-action disabled\">Sensor de Fondo</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/29\" class=\"list-group-item list-group-item-action disabled\">SensorLess®</a>\n                                    </div>\n                                    \n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Multivariable\" role=\"tabpanel\" aria-labelledby=\"v-pills-DownholeData-tab\">\n                                    <!-- Multivariable -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action disabled\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action disabled\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action disabled\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action disabled\">...</a>\n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                     <!-- Monitoring -->\n                    <div class=\"tab-pane fade\" id=\"pills-Monitoring\" role=\"tabpanel\" aria-labelledby=\"pills-Monitoring-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                                <p></p>\n                                <a class=\"nav-link active\" id=\"v-pills-OperativeDataMonitor-tab\" data-toggle=\"pill\" href=\"#v-pills-OperativeDataMonitor\" role=\"tab\" aria-controls=\"v-pills-OperativeDataMonitor\" aria-selected=\"true\">Datos Operativos</a>\n                                <a class=\"nav-link\" id=\"v-pills-ES_Monitoring-tab\" data-toggle=\"pill\" href=\"#v-pills-ES_Monitoring\" role=\"tab\" aria-controls=\"v-pills-ES_Monitoring\" aria-selected=\"false\">E/S</a>\n                                <a class=\"nav-link disabled\" id=\"v-pills-AVASMonitor-tab\" data-toggle=\"pill\" href=\"#v-pills-AVASMonitor\" role=\"tab\" aria-controls=\"v-pills-AVASMonitor\" aria-selected=\"false\">AVA's</a>\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-OperativeDataMonitor\" role=\"tabpanel\" aria-labelledby=\"v-pills-OperativeDataMonitor-tab\">\n                                    <!-- OperativeData -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/31\" class=\"list-group-item list-group-item-action disabled\">Armónicos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/41\" class=\"list-group-item list-group-item-action disabled\">Datos eléctricos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/30\" class=\"list-group-item list-group-item-action disabled\">Fondo</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-ES_Monitoring\" role=\"tabpanel\" aria-labelledby=\"v-pills-ES_Monitoring-tab\">\n                                    <!-- E/S Monitoring -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/32\" class=\"list-group-item list-group-item-action disabled\">SWC Pro®</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/33\" class=\"list-group-item list-group-item-action disabled\">CILA2S</a>\n                                    </div>  \n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-AVASMonitor\" role=\"tabpanel\" aria-labelledby=\"v-pills-AVASMonitor-tab\">\n                                    <!-- AVA's monitoring-->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/34\" class=\"list-group-item list-group-item-action disabled\">IWOC®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/35\" class=\"list-group-item list-group-item-action disabled\">Sensor Less®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/36\" class=\"list-group-item list-group-item-action disabled\">Power Sag®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/37\" class=\"list-group-item list-group-item-action disabled\">IRL®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/38\" class=\"list-group-item list-group-item-action disabled\">GasLock®</a>\n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>",
         "output": "str",
         "x": 340,
         "y": 160,
@@ -32389,7 +32398,7 @@
         "fieldType": "msg",
         "format": "handlebars",
         "syntax": "mustache",
-        "template": " <!-- Navigation Bar -->\n    <div class=\"container align-self-center\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <ul class=\"nav nav-tabs nav-fill\" id=\"pills-tab\" role=\"tablist\">\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link active\" id=\"pills-Configurations-tab\" data-toggle=\"pill\" href=\"#pills-Configurations\" role=\"tab\" aria-controls=\"pills-Configurations\" aria-selected=\"true\">Configuración</a>\n                  </li>\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link\" id=\"pills-Trends-tab\" data-toggle=\"pill\" href=\"#pills-Trends\" role=\"tab\" aria-controls=\"pills-Trends\" aria-selected=\"false\">Tendencias</a>\n                  </li>\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link\" id=\"pills-Monitoring-tab\" data-toggle=\"pill\" href=\"#pills-Monitoring\" role=\"tab\" aria-controls=\"pills-Monitoring\" aria-selected=\"false\">Monitoreo</a>\n                  </li>\n                </ul>\n                <div class=\"tab-content\" id=\"pills-tabContent\">\n                    <!-- Configurations -->\n                    <div class=\"tab-pane fade show active\" id=\"pills-Configurations\" role=\"tabpanel\" aria-labelledby=\"pills-Configurations-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <p></p>\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                              <a class=\"nav-link active\" id=\"v-pills-Drive-tab\" data-toggle=\"pill\" href=\"#v-pills-Estandar\" role=\"tab\" aria-controls=\"v-pills-Estandar\" aria-selected=\"true\">Estándar</a>\n                              <a class=\"nav-link\" id=\"v-pills-IO-tab\" data-toggle=\"pill\" href=\"#v-pills-IO\" role=\"tab\" aria-controls=\"v-pills-IO\" aria-selected=\"false\">E/S</a>\n                              <a class=\"nav-link\" id=\"v-pills-Protection-tab\" data-toggle=\"pill\" href=\"#v-pills-Protection\" role=\"tab\" aria-controls=\"v-pills-Protection\" aria-selected=\"false\">Protecciones</a>\n                              <a class=\"nav-link\" id=\"v-pills-Communications-tab\" data-toggle=\"pill\" href=\"#v-pills-Communications\" role=\"tab\" aria-controls=\"v-pills-Communications\" aria-selected=\"false\">Comunicaciones</a>\n                              <!--<a class=\"nav-link\" id=\"v-pills-Control-tab\" data-toggle=\"pill\" href=\"#v-pills-Control\" role=\"tab\" aria-controls=\"v-pills-Control\" aria-selected=\"false\">Tipo de control</a>-->\n                              <a class=\"nav-link disabled\" id=\"v-pills-AVAS-tab\" data-toggle=\"pill\" href=\"#v-pills-AVAS\" role=\"tab\" aria-controls=\"v-pills-AVAS\" aria-selected=\"false\">AVAs</a>\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-Estandar\" role=\"tabpanel\" aria-labelledby=\"v-pills-Estandar-tab\">\n                                    <!-- Drive -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/4\" class=\"list-group-item list-group-item-action disabled\">Variador C2S</a>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/5\" class=\"list-group-item list-group-item-action disabled\">Relación de reducción</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/6\" class=\"list-group-item list-group-item-action disabled\">Relación de transformación</a>\n                                        <!--a href=\"http://localhost:1880/ui/#!/7\" class=\"list-group-item list-group-item-action disabled\">Hardware disponible</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/8\" class=\"list-group-item list-group-item-action disabled\">Tipo de arranque</a>    <!-- Actualizar pestañas desde aquí -->\n                                        <!--<a href=\"http://localhost:1880/ui/#!/9\" class=\"list-group-item list-group-item-action disabled\">Unidades de ingeniería</a>-->\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-IO\" role=\"tabpanel\" aria-labelledby=\"v-pills-IO-tab\">\n                                    <!-- IO -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/10\" class=\"list-group-item list-group-item-action  disabled\">Swc Pro®</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/10\" class=\"list-group-item list-group-item-action disabled\">CILA2S</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Protection\" role=\"tabpanel\" aria-labelledby=\"v-pills-Protection-tab\">\n                                    <!-- Protection -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/12\" class=\"list-group-item disabled list-group-item-action disabled\">Fondo</a>\n                                        <a href=\"http://localhost:1880/ui/#!/13\" class=\"list-group-item list-group-item-action disabled\">Superficie</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Communications\" role=\"tabpanel\" aria-labelledby=\"v-pills-Communications-tab\">\n                                    <!-- Communications -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/14\" class=\"list-group-item list-group-item-action disabled\">SCADA</a>-->\n                                        <!--<a href=\"http://localhost:1880/ui/#!/15\" class=\"list-group-item list-group-item-action disabled\">Downhole sensor</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/16\" class=\"list-group-item list-group-item-action disabled\">PQA</a>\n                                        <a href=\"http://localhost:1880/ui/#!/17\" class=\"list-group-item list-group-item-action disabled\">C2S</a>\n                                        <a href=\"http://localhost:1880/ui/#!/18\" class=\"list-group-item list-group-item-action disabled\">SWC</a>\n                                        <a href=\"http://localhost:1880/ui/#!/15\" class=\"list-group-item list-group-item-action disabled\">Sensor de fondo</a>\n                                        \n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Control\" role=\"tabpanel\" aria-labelledby=\"v-pills-Control-tab\">\n                                    <!-- Control -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/19\" class=\"list-group-item list-group-item-action disabled\">Control inteligente de torque</a>-->\n                                        <!--<a href=\"http://localhost:1880/ui/#!/20\" class=\"list-group-item list-group-item-action disabled\">Control de backspin</a>-->\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-AVAS\" role=\"tabpanel\" aria-labelledby=\"v-pills-AVAS-tab\">\n                                    <!-- Control -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/21\" class=\"list-group-item list-group-item-action disabled\">IWOC®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/22\" class=\"list-group-item list-group-item-action disabled\">Sensor Less®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/23\" class=\"list-group-item list-group-item-action disabled\">Power Sag®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/24\" class=\"list-group-item list-group-item-action disabled\">IRL®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/25\" class=\"list-group-item list-group-item-action disabled\">GasLock®</a>  \n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                  \n                    <!-- Trends -->\n                    <div class=\"tab-pane fade\" id=\"pills-Trends\" role=\"tabpanel\" aria-labelledby=\"pills-Trends-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                              <p></p>\n                              <a class=\"nav-link active\" id=\"v-pills-Surface-tab\" data-toggle=\"pill\" href=\"#v-pills-Surface\" role=\"tab\" aria-controls=\"v-pills-Surface\" aria-selected=\"true\">CILA2S</a>\n                              <!--<a class=\"nav-link\" id=\"v-pills-Downhole-tab\" data-toggle=\"pill\" href=\"#v-pills-Downhole\" role=\"tab\" aria-controls=\"v-pills-Downhole\" aria-selected=\"false\">Sistema de inyección</a>-->\n                              <!--<a class=\"nav-link\" id=\"v-pills-Multivariable-tab\" data-toggle=\"pill\" href=\"#v-pills-Multivariable\" role=\"tab\" aria-controls=\"v-pills-Multivariable\" aria-selected=\"false\">Multivariable</a>-->\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-Surface\" role=\"tabpanel\" aria-labelledby=\"v-pills-Surface-tab\">\n                                    <!-- Superficie -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/26\" class=\"list-group-item list-group-item-action\">Datos Operativos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/27\" class=\"list-group-item list-group-item-action\">Eléctricos de entrada</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Downhole\" role=\"tabpanel\" aria-labelledby=\"v-pills-ElectricData-tab\">\n                                    <!-- Fondo -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/28\" class=\"list-group-item list-group-item-action\">Sensor de Fondo</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/29\" class=\"list-group-item list-group-item-action\">SensorLess®</a>\n                                    </div>\n                                    \n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Multivariable\" role=\"tabpanel\" aria-labelledby=\"v-pills-DownholeData-tab\">\n                                    <!-- Multivariable -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action\">...</a>\n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                     <!-- Monitoring -->\n                    <div class=\"tab-pane fade\" id=\"pills-Monitoring\" role=\"tabpanel\" aria-labelledby=\"pills-Monitoring-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                                <p></p>\n                                <a class=\"nav-link active\" id=\"v-pills-OperativeDataMonitor-tab\" data-toggle=\"pill\" href=\"#v-pills-OperativeDataMonitor\" role=\"tab\" aria-controls=\"v-pills-OperativeDataMonitor\" aria-selected=\"true\">Datos Operativos</a>\n                                <a class=\"nav-link\" id=\"v-pills-ES_Monitoring-tab\" data-toggle=\"pill\" href=\"#v-pills-ES_Monitoring\" role=\"tab\" aria-controls=\"v-pills-ES_Monitoring\" aria-selected=\"false\">E/S</a>\n                                <a class=\"nav-link disabled\" id=\"v-pills-AVASMonitor-tab\" data-toggle=\"pill\" href=\"#v-pills-AVASMonitor\" role=\"tab\" aria-controls=\"v-pills-AVASMonitor\" aria-selected=\"false\">AVA's</a>\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-OperativeDataMonitor\" role=\"tabpanel\" aria-labelledby=\"v-pills-OperativeDataMonitor-tab\">\n                                    <!-- OperativeData -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/31\" class=\"list-group-item list-group-item-action\">Armónicos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/41\" class=\"list-group-item list-group-item-action\">Datos eléctricos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/30\" class=\"list-group-item list-group-item-action\">Fondo</a>\n\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-ES_Monitoring\" role=\"tabpanel\" aria-labelledby=\"v-pills-ES_Monitoring-tab\">\n                                    <!-- E/S Monitoring -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/32\" class=\"list-group-item list-group-item-action\">SWC Pro®</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/33\" class=\"list-group-item list-group-item-action\">CILA2S</a>\n                                    </div>  \n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-AVASMonitor\" role=\"tabpanel\" aria-labelledby=\"v-pills-AVASMonitor-tab\">\n                                    <!-- AVA's monitoring-->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/34\" class=\"list-group-item list-group-item-action\">IWOC®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/35\" class=\"list-group-item list-group-item-action\">Sensor Less®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/36\" class=\"list-group-item list-group-item-action\">Power Sag®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/37\" class=\"list-group-item list-group-item-action\">IRL®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/38\" class=\"list-group-item list-group-item-action\">GasLock®</a>\n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>",
+        "template": " <!-- Navigation Bar -->\n    <div class=\"container align-self-center\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <ul class=\"nav nav-tabs nav-fill\" id=\"pills-tab\" role=\"tablist\">\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link active\" id=\"pills-Configurations-tab\" data-toggle=\"pill\" href=\"#pills-Configurations\" role=\"tab\" aria-controls=\"pills-Configurations\" aria-selected=\"true\">Configuración</a>\n                  </li>\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link\" id=\"pills-Trends-tab\" data-toggle=\"pill\" href=\"#pills-Trends\" role=\"tab\" aria-controls=\"pills-Trends\" aria-selected=\"false\">Tendencias</a>\n                  </li>\n                  <li class=\"nav-item\" role=\"presentation\">\n                    <a class=\"nav-link\" id=\"pills-Monitoring-tab\" data-toggle=\"pill\" href=\"#pills-Monitoring\" role=\"tab\" aria-controls=\"pills-Monitoring\" aria-selected=\"false\">Monitoreo</a>\n                  </li>\n                </ul>\n                <div class=\"tab-content\" id=\"pills-tabContent\">\n                    <!-- Configurations -->\n                    <div class=\"tab-pane fade show active\" id=\"pills-Configurations\" role=\"tabpanel\" aria-labelledby=\"pills-Configurations-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <p></p>\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                              <a class=\"nav-link active\" id=\"v-pills-Drive-tab\" data-toggle=\"pill\" href=\"#v-pills-Estandar\" role=\"tab\" aria-controls=\"v-pills-Estandar\" aria-selected=\"true\">Estándar</a>\n                              <a class=\"nav-link\" id=\"v-pills-IO-tab\" data-toggle=\"pill\" href=\"#v-pills-IO\" role=\"tab\" aria-controls=\"v-pills-IO\" aria-selected=\"false\">E/S</a>\n                              <a class=\"nav-link\" id=\"v-pills-Protection-tab\" data-toggle=\"pill\" href=\"#v-pills-Protection\" role=\"tab\" aria-controls=\"v-pills-Protection\" aria-selected=\"false\">Protecciones</a>\n                              <a class=\"nav-link\" id=\"v-pills-Communications-tab\" data-toggle=\"pill\" href=\"#v-pills-Communications\" role=\"tab\" aria-controls=\"v-pills-Communications\" aria-selected=\"false\">Comunicaciones</a>\n                              <!--<a class=\"nav-link\" id=\"v-pills-Control-tab\" data-toggle=\"pill\" href=\"#v-pills-Control\" role=\"tab\" aria-controls=\"v-pills-Control\" aria-selected=\"false\">Tipo de control</a>-->\n                              <a class=\"nav-link disabled\" id=\"v-pills-AVAS-tab\" data-toggle=\"pill\" href=\"#v-pills-AVAS\" role=\"tab\" aria-controls=\"v-pills-AVAS\" aria-selected=\"false\">AVAs</a>\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-Estandar\" role=\"tabpanel\" aria-labelledby=\"v-pills-Estandar-tab\">\n                                    <!-- Drive -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/4\" class=\"list-group-item list-group-item-action disabled\">Variador C2S</a>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/5\" class=\"list-group-item list-group-item-action disabled\">Relación de reducción</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/6\" class=\"list-group-item list-group-item-action disabled\">Relación de transformación</a>\n                                        <!--a href=\"http://localhost:1880/ui/#!/7\" class=\"list-group-item list-group-item-action disabled\">Hardware disponible</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/8\" class=\"list-group-item list-group-item-action disabled\">Tipo de arranque</a>    <!-- Actualizar pestañas desde aquí -->\n                                        <!--<a href=\"http://localhost:1880/ui/#!/9\" class=\"list-group-item list-group-item-action disabled\">Unidades de ingeniería</a>-->\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-IO\" role=\"tabpanel\" aria-labelledby=\"v-pills-IO-tab\">\n                                    <!-- IO -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/10\" class=\"list-group-item list-group-item-action  disabled\">Swc Pro®</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/10\" class=\"list-group-item list-group-item-action disabled\">CILA2S</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Protection\" role=\"tabpanel\" aria-labelledby=\"v-pills-Protection-tab\">\n                                    <!-- Protection -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/12\" class=\"list-group-item disabled list-group-item-action disabled\">Fondo</a>\n                                        <a href=\"http://localhost:1880/ui/#!/13\" class=\"list-group-item list-group-item-action disabled\">Superficie</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Communications\" role=\"tabpanel\" aria-labelledby=\"v-pills-Communications-tab\">\n                                    <!-- Communications -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/14\" class=\"list-group-item list-group-item-action disabled\">SCADA</a>\n                                        <a href=\"http://localhost:1880/ui/#!/16\" class=\"list-group-item list-group-item-action disabled\">PQA</a>\n                                        <a href=\"http://localhost:1880/ui/#!/17\" class=\"list-group-item list-group-item-action disabled\">C2S</a>\n                                        <a href=\"http://localhost:1880/ui/#!/18\" class=\"list-group-item list-group-item-action disabled\">SWC</a>\n                                        <a href=\"http://localhost:1880/ui/#!/15\" class=\"list-group-item list-group-item-action disabled\">Sensor de fondo</a>\n                                        \n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Control\" role=\"tabpanel\" aria-labelledby=\"v-pills-Control-tab\">\n                                    <!-- Control -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/19\" class=\"list-group-item list-group-item-action disabled\">Control inteligente de torque</a>-->\n                                        <!--<a href=\"http://localhost:1880/ui/#!/20\" class=\"list-group-item list-group-item-action disabled\">Control de backspin</a>-->\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-AVAS\" role=\"tabpanel\" aria-labelledby=\"v-pills-AVAS-tab\">\n                                    <!-- Control -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/21\" class=\"list-group-item list-group-item-action disabled\">IWOC®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/22\" class=\"list-group-item list-group-item-action disabled\">Sensor Less®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/23\" class=\"list-group-item list-group-item-action disabled\">Power Sag®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/24\" class=\"list-group-item list-group-item-action disabled\">IRL®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/25\" class=\"list-group-item list-group-item-action disabled\">GasLock®</a>  \n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                  \n                    <!-- Trends -->\n                    <div class=\"tab-pane fade\" id=\"pills-Trends\" role=\"tabpanel\" aria-labelledby=\"pills-Trends-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                              <p></p>\n                              <a class=\"nav-link active\" id=\"v-pills-Surface-tab\" data-toggle=\"pill\" href=\"#v-pills-Surface\" role=\"tab\" aria-controls=\"v-pills-Surface\" aria-selected=\"true\">CILA2S</a>\n                              <!--<a class=\"nav-link\" id=\"v-pills-Downhole-tab\" data-toggle=\"pill\" href=\"#v-pills-Downhole\" role=\"tab\" aria-controls=\"v-pills-Downhole\" aria-selected=\"false\">Sistema de inyección</a>-->\n                              <!--<a class=\"nav-link\" id=\"v-pills-Multivariable-tab\" data-toggle=\"pill\" href=\"#v-pills-Multivariable\" role=\"tab\" aria-controls=\"v-pills-Multivariable\" aria-selected=\"false\">Multivariable</a>-->\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-Surface\" role=\"tabpanel\" aria-labelledby=\"v-pills-Surface-tab\">\n                                    <!-- Superficie -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/26\" class=\"list-group-item list-group-item-action\">Datos Operativos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/27\" class=\"list-group-item list-group-item-action\">Eléctricos de entrada</a>\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Downhole\" role=\"tabpanel\" aria-labelledby=\"v-pills-ElectricData-tab\">\n                                    <!-- Fondo -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/28\" class=\"list-group-item list-group-item-action\">Sensor de Fondo</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/29\" class=\"list-group-item list-group-item-action\">SensorLess®</a>\n                                    </div>\n                                    \n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-Multivariable\" role=\"tabpanel\" aria-labelledby=\"v-pills-DownholeData-tab\">\n                                    <!-- Multivariable -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action\">...</a>\n                                        <a href=\"#\" class=\"list-group-item list-group-item-action\">...</a>\n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                     <!-- Monitoring -->\n                    <div class=\"tab-pane fade\" id=\"pills-Monitoring\" role=\"tabpanel\" aria-labelledby=\"pills-Monitoring-tab\">\n                        <div class=\"row\">\n                          <div class=\"col-5\">\n                            <div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n                                <p></p>\n                                <a class=\"nav-link active\" id=\"v-pills-OperativeDataMonitor-tab\" data-toggle=\"pill\" href=\"#v-pills-OperativeDataMonitor\" role=\"tab\" aria-controls=\"v-pills-OperativeDataMonitor\" aria-selected=\"true\">Datos Operativos</a>\n                                <a class=\"nav-link\" id=\"v-pills-ES_Monitoring-tab\" data-toggle=\"pill\" href=\"#v-pills-ES_Monitoring\" role=\"tab\" aria-controls=\"v-pills-ES_Monitoring\" aria-selected=\"false\">E/S</a>\n                                <a class=\"nav-link disabled\" id=\"v-pills-AVASMonitor-tab\" data-toggle=\"pill\" href=\"#v-pills-AVASMonitor\" role=\"tab\" aria-controls=\"v-pills-AVASMonitor\" aria-selected=\"false\">AVA's</a>\n                            </div>\n                          </div>\n                          <div class=\"col-7\">\n                            <div class=\"tab-content\" id=\"v-pills-tabContent\">\n                                <div class=\"tab-pane fade show active\" id=\"v-pills-OperativeDataMonitor\" role=\"tabpanel\" aria-labelledby=\"v-pills-OperativeDataMonitor-tab\">\n                                    <!-- OperativeData -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/31\" class=\"list-group-item list-group-item-action\">Armónicos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/41\" class=\"list-group-item list-group-item-action\">Datos eléctricos</a>\n                                        <a href=\"http://localhost:1880/ui/#!/30\" class=\"list-group-item list-group-item-action\">Fondo</a>\n\n                                    </div>\n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-ES_Monitoring\" role=\"tabpanel\" aria-labelledby=\"v-pills-ES_Monitoring-tab\">\n                                    <!-- E/S Monitoring -->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <!--<a href=\"http://localhost:1880/ui/#!/32\" class=\"list-group-item list-group-item-action\">SWC Pro®</a>-->\n                                        <a href=\"http://localhost:1880/ui/#!/33\" class=\"list-group-item list-group-item-action\">CILA2S</a>\n                                    </div>  \n                                </div>\n                                <div class=\"tab-pane fade\" id=\"v-pills-AVASMonitor\" role=\"tabpanel\" aria-labelledby=\"v-pills-AVASMonitor-tab\">\n                                    <!-- AVA's monitoring-->\n                                    <div class=\"list-group list-group-flush\">\n                                        <p></p>\n                                        <a href=\"http://localhost:1880/ui/#!/34\" class=\"list-group-item list-group-item-action\">IWOC®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/35\" class=\"list-group-item list-group-item-action\">Sensor Less®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/36\" class=\"list-group-item list-group-item-action\">Power Sag®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/37\" class=\"list-group-item list-group-item-action\">IRL®</a>\n                                        <a href=\"http://localhost:1880/ui/#!/38\" class=\"list-group-item list-group-item-action\">GasLock®</a>\n                                    </div>\n                                </div>\n                            </div>\n                          </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>",
         "output": "str",
         "x": 350,
         "y": 240,
@@ -34796,166 +34805,6 @@
         ]
     },
     {
-        "id": "b4849b66.3cb828",
-        "type": "change",
-        "z": "5ef5b1ce.d3899",
-        "g": "5073e01d.10857",
-        "name": "Modbus RTU RS-485",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración-Protecciones-Fondo_Presión_de_entrada\",\t                \"Configuración-Protecciones-Fondo_Presión_de_descarga\",\t                \"Configuración-Protecciones-Fondo_Temperatura_de_descarga\"\t       ],\t       \"show\":[ \"Configuración-Protecciones-Fondo_Temperatura_de_entrada\"]\t   }\t}",
-                "tot": "jsonata"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1340,
-        "y": 1150,
-        "wires": [
-            [
-                "1981cd18.e62913"
-            ]
-        ]
-    },
-    {
-        "id": "53b720f4.9bf81",
-        "type": "change",
-        "z": "5ef5b1ce.d3899",
-        "g": "5073e01d.10857",
-        "name": "Modbus TCP",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración-Protecciones-Fondo_Temperatura_de_entrada\",\t                \"Configuración-Protecciones-Fondo_Presión_de_descarga\",\t                \"Configuración-Protecciones-Fondo_Temperatura_de_descarga\"\t       ],\t       \"show\":[ \"Configuración-Protecciones-Fondo_Presión_de_entrada\"]\t   }\t}",
-                "tot": "jsonata"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1310,
-        "y": 1110,
-        "wires": [
-            [
-                "1981cd18.e62913"
-            ]
-        ]
-    },
-    {
-        "id": "ffff58c2.e3d6f8",
-        "type": "change",
-        "z": "5ef5b1ce.d3899",
-        "g": "5073e01d.10857",
-        "name": "Modbus RTU RS-232",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración-Protecciones-Fondo_Presión_de_entrada\",\t                \"Configuración-Protecciones-Fondo_Temperatura_de_entrada\",\t                \"Configuración-Protecciones-Fondo_Temperatura_de_descarga\"\t       ],\t       \"show\":[ \"Configuración-Protecciones-Fondo_Presión_de_descarga\"]\t   }\t}",
-                "tot": "jsonata"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1340,
-        "y": 1190,
-        "wires": [
-            [
-                "1981cd18.e62913"
-            ]
-        ]
-    },
-    {
-        "id": "37c41387.a53fcc",
-        "type": "ui_template",
-        "z": "5ef5b1ce.d3899",
-        "g": "5073e01d.10857",
-        "group": "56b03a99.1007f4",
-        "name": "Menú Comunicaciones",
-        "order": 4,
-        "width": 0,
-        "height": 0,
-        "format": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    \n  </head>\n  <body>\n    <!-- Navigation bar -->\n    <nav>\n      <div class=\"nav nav-tabs nav-fill\" id=\"nav-tab\" role=\"tablist\">\n        <a class=\"nav-item nav-link active\" id=\"nav-TCP-tab\" data-toggle=\"tab\" href=\"#nav-TCP\" role=\"tab\" aria-controls=\"nav-TCP\" aria-selected=\"true\" ng-click=\"send({payload:TCP()})\">Modbus TCP</a>\n        <a class=\"nav-item nav-link\" id=\"nav-RS485-tab\" data-toggle=\"tab\" href=\"#nav-RS485\" role=\"tab\" aria-controls=\"nav-RS485\" aria-selected=\"false\" ng-click=\"send({payload:RS485()})\">Modbus RS-485</a>\n        <a class=\"nav-item nav-link\" id=\"nav-RS232-tab\" data-toggle=\"tab\" href=\"#nav-RS232\" role=\"tab\" aria-controls=\"nav-RS232\" aria-selected=\"false\" ng-click=\"send({payload:RS232()})\">Modbus RS-232</a>\n      </div>\n    </nav>\n\n    <script>\n        this.scope.TCP = function() { return \"TCP\"; };\n        this.scope.RS485 = function() { return \"RS485\"; };\n        this.scope.RS232 = function() { return \"RS232\"; };\n    </script>\n    \n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n  </body>\n</html>\n",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "x": 980,
-        "y": 1150,
-        "wires": [
-            [
-                "dcddb7c0.bb3808"
-            ]
-        ]
-    },
-    {
-        "id": "dcddb7c0.bb3808",
-        "type": "switch",
-        "z": "5ef5b1ce.d3899",
-        "g": "5073e01d.10857",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "TCP",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "RS485",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "RS232",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 3,
-        "x": 1160,
-        "y": 1150,
-        "wires": [
-            [
-                "53b720f4.9bf81"
-            ],
-            [
-                "b4849b66.3cb828"
-            ],
-            [
-                "ffff58c2.e3d6f8"
-            ]
-        ]
-    },
-    {
-        "id": "52e99374.8d9b7c",
-        "type": "comment",
-        "z": "5ef5b1ce.d3899",
-        "g": "5073e01d.10857",
-        "name": "Menu Comunicaciones SCADA",
-        "info": "",
-        "x": 1000,
-        "y": 1050,
-        "wires": []
-    },
-    {
         "id": "2499f70f.806ab8",
         "type": "switch",
         "z": "5ef5b1ce.d3899",
@@ -34988,8 +34837,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 4,
-        "x": 1130,
-        "y": 1730,
+        "x": 1120,
+        "y": 1260,
         "wires": [
             [
                 "c1f7c147.2e2dd"
@@ -35020,8 +34869,8 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "x": 970,
-        "y": 1730,
+        "x": 960,
+        "y": 1260,
         "wires": [
             [
                 "2499f70f.806ab8"
@@ -35048,8 +34897,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1300,
-        "y": 1670,
+        "x": 1290,
+        "y": 1200,
         "wires": [
             [
                 "b0a2cd1a.ab273"
@@ -35076,8 +34925,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1310,
-        "y": 1710,
+        "x": 1300,
+        "y": 1240,
         "wires": [
             [
                 "b0a2cd1a.ab273"
@@ -35104,8 +34953,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1290,
-        "y": 1750,
+        "x": 1280,
+        "y": 1280,
         "wires": [
             [
                 "b0a2cd1a.ab273"
@@ -35132,8 +34981,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1300,
-        "y": 1790,
+        "x": 1290,
+        "y": 1320,
         "wires": [
             [
                 "b0a2cd1a.ab273"
@@ -35158,8 +35007,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 1130,
-        "y": 1670,
+        "x": 1120,
+        "y": 1200,
         "wires": [
             [
                 "c1f7c147.2e2dd"
@@ -35187,7 +35036,7 @@
         "to": "",
         "reg": false,
         "x": 1330,
-        "y": 1560,
+        "y": 1110,
         "wires": [
             [
                 "f7333c0a.a70d3"
@@ -35215,7 +35064,7 @@
         "to": "",
         "reg": false,
         "x": 1330,
-        "y": 1520,
+        "y": 1070,
         "wires": [
             [
                 "f7333c0a.a70d3"
@@ -35238,7 +35087,7 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "x": 980,
-        "y": 1540,
+        "y": 1090,
         "wires": [
             [
                 "d1fe0838.218468"
@@ -35269,7 +35118,7 @@
         "repair": false,
         "outputs": 2,
         "x": 1190,
-        "y": 1540,
+        "y": 1090,
         "wires": [
             [
                 "c01095f3.dc9138"
@@ -35287,7 +35136,7 @@
         "name": "Menu Eventos/Alarmas",
         "info": "",
         "x": 970,
-        "y": 1500,
+        "y": 1050,
         "wires": []
     },
     {
@@ -35302,7 +35151,7 @@
             "ffbe710d.b4cce"
         ],
         "x": 1445,
-        "y": 1560,
+        "y": 1110,
         "wires": []
     },
     {
@@ -35649,167 +35498,6 @@
         ]
     },
     {
-        "id": "95cc11.a58333f",
-        "type": "change",
-        "z": "5ef5b1ce.d3899",
-        "g": "f8e8eeb2.3f011",
-        "name": "Modbus RTU RS-485",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración-Protecciones-Fondo_Presión_de_entrada\",\t                \"Configuración-Protecciones-Fondo_Presión_de_descarga\",\t                \"Configuración-Protecciones-Fondo_Temperatura_de_descarga\"\t       ],\t       \"show\":[ \"Configuración-Protecciones-Fondo_Temperatura_de_entrada\"]\t   }\t}",
-                "tot": "jsonata"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1410,
-        "y": 1340,
-        "wires": [
-            [
-                "d795f048.456e2"
-            ]
-        ]
-    },
-    {
-        "id": "cc3d5da0.39c0b",
-        "type": "change",
-        "z": "5ef5b1ce.d3899",
-        "g": "f8e8eeb2.3f011",
-        "name": "Modbus TCP",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración-Protecciones-Fondo_Temperatura_de_entrada\",\t                \"Configuración-Protecciones-Fondo_Presión_de_descarga\",\t                \"Configuración-Protecciones-Fondo_Temperatura_de_descarga\"\t       ],\t       \"show\":[ \"Configuración-Protecciones-Fondo_Presión_de_entrada\"]\t   }\t}",
-                "tot": "jsonata"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1380,
-        "y": 1300,
-        "wires": [
-            [
-                "d795f048.456e2"
-            ]
-        ]
-    },
-    {
-        "id": "c086da18.9bd4b8",
-        "type": "change",
-        "z": "5ef5b1ce.d3899",
-        "g": "f8e8eeb2.3f011",
-        "name": "Modbus RTU RS-232",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración-Protecciones-Fondo_Presión_de_entrada\",\t                \"Configuración-Protecciones-Fondo_Temperatura_de_entrada\",\t                \"Configuración-Protecciones-Fondo_Temperatura_de_descarga\"\t       ],\t       \"show\":[ \"Configuración-Protecciones-Fondo_Presión_de_descarga\"]\t   }\t}",
-                "tot": "jsonata"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1410,
-        "y": 1380,
-        "wires": [
-            [
-                "d795f048.456e2"
-            ]
-        ]
-    },
-    {
-        "id": "d3df8b00.b0ac08",
-        "type": "ui_template",
-        "z": "5ef5b1ce.d3899",
-        "d": true,
-        "g": "f8e8eeb2.3f011",
-        "group": "56b03a99.1007f4",
-        "name": "Menú Comunicaciones",
-        "order": 4,
-        "width": 0,
-        "height": 0,
-        "format": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    \n  </head>\n  <body>\n    <!-- Navigation bar -->\n    <nav>\n      <div class=\"nav nav-tabs nav-fill\" id=\"nav-tab\" role=\"tablist\">\n        <a class=\"nav-item nav-link active\" id=\"nav-TCP-tab\" data-toggle=\"tab\" href=\"#nav-TCP\" role=\"tab\" aria-controls=\"nav-TCP\" aria-selected=\"true\" ng-click=\"send({payload:TCP()})\">Modbus TCP</a>\n        <a class=\"nav-item nav-link\" id=\"nav-RS485-tab\" data-toggle=\"tab\" href=\"#nav-RS485\" role=\"tab\" aria-controls=\"nav-RS485\" aria-selected=\"false\" ng-click=\"send({payload:RS485()})\">Modbus RS-485</a>\n        <a class=\"nav-item nav-link\" id=\"nav-RS232-tab\" data-toggle=\"tab\" href=\"#nav-RS232\" role=\"tab\" aria-controls=\"nav-RS232\" aria-selected=\"false\" ng-click=\"send({payload:RS232()})\">Modbus RS-232</a>\n      </div>\n    </nav>\n\n    <script>\n        this.scope.TCP = function() { return \"TCP\"; };\n        this.scope.RS485 = function() { return \"RS485\"; };\n        this.scope.RS232 = function() { return \"RS232\"; };\n    </script>\n    \n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n  </body>\n</html>\n",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "x": 980,
-        "y": 1340,
-        "wires": [
-            [
-                "78f40470.e8302c"
-            ]
-        ]
-    },
-    {
-        "id": "78f40470.e8302c",
-        "type": "switch",
-        "z": "5ef5b1ce.d3899",
-        "g": "f8e8eeb2.3f011",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "TCP",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "RS485",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "RS232",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 3,
-        "x": 1230,
-        "y": 1340,
-        "wires": [
-            [
-                "cc3d5da0.39c0b"
-            ],
-            [
-                "95cc11.a58333f"
-            ],
-            [
-                "c086da18.9bd4b8"
-            ]
-        ]
-    },
-    {
-        "id": "1d5d736d.cff5ad",
-        "type": "comment",
-        "z": "5ef5b1ce.d3899",
-        "g": "f8e8eeb2.3f011",
-        "name": "Menu Comunicaciones PQA",
-        "info": "",
-        "x": 990,
-        "y": 1290,
-        "wires": []
-    },
-    {
         "id": "9c82a3f2.bb49d",
         "type": "change",
         "z": "5ef5b1ce.d3899",
@@ -35830,7 +35518,7 @@
         "to": "",
         "reg": false,
         "x": 1210,
-        "y": 1910,
+        "y": 1430,
         "wires": [
             [
                 "fc7e2763.e00d48"
@@ -35858,7 +35546,7 @@
         "to": "",
         "reg": false,
         "x": 1220,
-        "y": 1950,
+        "y": 1470,
         "wires": [
             [
                 "fc7e2763.e00d48"
@@ -35894,7 +35582,7 @@
         "repair": false,
         "outputs": 3,
         "x": 1040,
-        "y": 1940,
+        "y": 1460,
         "wires": [
             [
                 "9c82a3f2.bb49d"
@@ -35923,7 +35611,7 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "x": 920,
-        "y": 1940,
+        "y": 1460,
         "wires": [
             [
                 "fb47c1da.61a69"
@@ -35951,7 +35639,7 @@
         "to": "",
         "reg": false,
         "x": 1230,
-        "y": 1990,
+        "y": 1510,
         "wires": [
             [
                 "fc7e2763.e00d48"
@@ -35977,7 +35665,7 @@
         "repair": false,
         "outputs": 1,
         "x": 1040,
-        "y": 1890,
+        "y": 1410,
         "wires": [
             [
                 "9c82a3f2.bb49d"
@@ -35999,8 +35687,8 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "x": 930,
-        "y": 2130,
+        "x": 920,
+        "y": 1640,
         "wires": [
             [
                 "b5ae3cf9.8231b"
@@ -36025,8 +35713,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 1060,
-        "y": 2090,
+        "x": 1050,
+        "y": 1600,
         "wires": [
             [
                 "30d8ddc4.25e6f2"
@@ -36056,8 +35744,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 1060,
-        "y": 2130,
+        "x": 1050,
+        "y": 1640,
         "wires": [
             [
                 "30d8ddc4.25e6f2"
@@ -36087,8 +35775,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1250,
-        "y": 2110,
+        "x": 1240,
+        "y": 1620,
         "wires": [
             [
                 "63ae6ad3.b07874"
@@ -36115,8 +35803,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1230,
-        "y": 2150,
+        "x": 1220,
+        "y": 1660,
         "wires": [
             [
                 "63ae6ad3.b07874"
@@ -36147,8 +35835,8 @@
         "offvalueType": "bool",
         "officon": "",
         "offcolor": "",
-        "x": 1560,
-        "y": 1930,
+        "x": 1630,
+        "y": 1450,
         "wires": [
             []
         ]
@@ -36177,8 +35865,8 @@
         "offvalueType": "bool",
         "officon": "",
         "offcolor": "",
-        "x": 1560,
-        "y": 1970,
+        "x": 1630,
+        "y": 1490,
         "wires": [
             []
         ]
@@ -36207,8 +35895,8 @@
         "offvalueType": "bool",
         "officon": "",
         "offcolor": "",
-        "x": 1560,
-        "y": 2140,
+        "x": 1630,
+        "y": 1660,
         "wires": [
             []
         ]
@@ -36237,8 +35925,8 @@
         "offvalueType": "bool",
         "officon": "",
         "offcolor": "",
-        "x": 1560,
-        "y": 2100,
+        "x": 1630,
+        "y": 1620,
         "wires": [
             []
         ]
@@ -36267,8 +35955,8 @@
         "offvalueType": "bool",
         "officon": "",
         "offcolor": "",
-        "x": 1560,
-        "y": 2060,
+        "x": 1630,
+        "y": 1580,
         "wires": [
             []
         ]
@@ -36297,8 +35985,8 @@
         "offvalueType": "bool",
         "officon": "",
         "offcolor": "",
-        "x": 1560,
-        "y": 2020,
+        "x": 1630,
+        "y": 1540,
         "wires": [
             []
         ]
@@ -41125,7 +40813,9 @@
             "b3c62075.a7822",
             "9315f673.0e6318",
             "51d2e767.639a98",
-            "37528c32.e720c4"
+            "37528c32.e720c4",
+            "1f5ba763.537da9",
+            "78769808.230b18"
         ],
         "x": 405,
         "y": 1320,
@@ -41481,32 +41171,6 @@
         ]
     },
     {
-        "id": "1981cd18.e62913",
-        "type": "link out",
-        "z": "5ef5b1ce.d3899",
-        "g": "5073e01d.10857",
-        "name": "Menu Comunicaciones SCADA",
-        "links": [
-            "805762db.d27b7"
-        ],
-        "x": 1525,
-        "y": 1110,
-        "wires": []
-    },
-    {
-        "id": "d795f048.456e2",
-        "type": "link out",
-        "z": "5ef5b1ce.d3899",
-        "g": "f8e8eeb2.3f011",
-        "name": "Menú Comunicaciones PQA",
-        "links": [
-            "805762db.d27b7"
-        ],
-        "x": 1585,
-        "y": 1300,
-        "wires": []
-    },
-    {
         "id": "b0a2cd1a.ab273",
         "type": "link out",
         "z": "5ef5b1ce.d3899",
@@ -41515,8 +41179,8 @@
         "links": [
             "805762db.d27b7"
         ],
-        "x": 1475,
-        "y": 1750,
+        "x": 1465,
+        "y": 1280,
         "wires": []
     },
     {
@@ -41528,8 +41192,8 @@
         "links": [
             "97407954.a004c8"
         ],
-        "x": 1045,
-        "y": 1670,
+        "x": 1035,
+        "y": 1200,
         "wires": [
             [
                 "5a29608d.08d3"
@@ -41546,7 +41210,7 @@
             "805762db.d27b7"
         ],
         "x": 1375,
-        "y": 1950,
+        "y": 1470,
         "wires": []
     },
     {
@@ -41559,7 +41223,7 @@
             "97407954.a004c8"
         ],
         "x": 955,
-        "y": 1890,
+        "y": 1410,
         "wires": [
             [
                 "e95f6929.281ff8"
@@ -41575,8 +41239,8 @@
         "links": [
             "805762db.d27b7"
         ],
-        "x": 1415,
-        "y": 2150,
+        "x": 1405,
+        "y": 1660,
         "wires": []
     },
     {
@@ -41588,8 +41252,8 @@
         "links": [
             "97407954.a004c8"
         ],
-        "x": 975,
-        "y": 2090,
+        "x": 965,
+        "y": 1600,
         "wires": [
             [
                 "64ddd641.711bd8"
@@ -55005,40 +54669,6 @@
         ]
     },
     {
-        "id": "cd729508.733ad8",
-        "type": "link in",
-        "z": "5ef5b1ce.d3899",
-        "g": "5073e01d.10857",
-        "name": "Inicio Menu Comunicaciones SCADA",
-        "links": [
-            "ad87cee4.7dbb5"
-        ],
-        "x": 1125,
-        "y": 1110,
-        "wires": [
-            [
-                "53b720f4.9bf81"
-            ]
-        ]
-    },
-    {
-        "id": "39dc61d6.38245e",
-        "type": "link in",
-        "z": "5ef5b1ce.d3899",
-        "g": "f8e8eeb2.3f011",
-        "name": "Inicio Menu Comunicaciones PQA",
-        "links": [
-            "ad87cee4.7dbb5"
-        ],
-        "x": 1195,
-        "y": 1300,
-        "wires": [
-            [
-                "cc3d5da0.39c0b"
-            ]
-        ]
-    },
-    {
         "id": "7ced728d.a743bc",
         "type": "link in",
         "z": "5ef5b1ce.d3899",
@@ -55048,7 +54678,7 @@
             "ad87cee4.7dbb5"
         ],
         "x": 1155,
-        "y": 1500,
+        "y": 1050,
         "wires": [
             [
                 "c01095f3.dc9138"
@@ -55825,7 +55455,7 @@
             "1e5314e3.cd3f7b"
         ],
         "uncaught": false,
-        "x": 3460,
+        "x": 3370,
         "y": 820,
         "wires": [
             [
@@ -55847,7 +55477,7 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3630,
+        "x": 3540,
         "y": 820,
         "wires": []
     },
@@ -59281,7 +58911,7 @@
             "132cee6.94f6e12"
         ],
         "uncaught": false,
-        "x": 3370,
+        "x": 3340,
         "y": 780,
         "wires": [
             [
@@ -59303,7 +58933,7 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3580,
+        "x": 3490,
         "y": 780,
         "wires": []
     },
@@ -61502,7 +61132,7 @@
         "repair": false,
         "outputs": 1,
         "x": 1390,
-        "y": 1480,
+        "y": 1030,
         "wires": [
             [
                 "c01095f3.dc9138"
@@ -61519,7 +61149,7 @@
             "97407954.a004c8"
         ],
         "x": 1255,
-        "y": 1480,
+        "y": 1030,
         "wires": [
             [
                 "478e8f3.fa4af7"
@@ -65467,7 +65097,7 @@
         "links": [
             "d428246e.250f38"
         ],
-        "x": 4345,
+        "x": 4465,
         "y": 780,
         "wires": []
     },
@@ -65519,8 +65149,8 @@
         "y": 780,
         "wires": [
             [
-                "2b0080ad.3ac38",
-                "5252f291.d6bb0c"
+                "5252f291.d6bb0c",
+                "69f6e4eb.80e62c"
             ]
         ]
     },
@@ -65593,6 +65223,339 @@
         "wires": [
             [
                 "da8e2bed.062538"
+            ]
+        ]
+    },
+    {
+        "id": "590465b6.4ae93c",
+        "type": "complete",
+        "z": "e86f0ca4.7feb5",
+        "g": "f766f95b.4e6278",
+        "name": "",
+        "scope": [
+            "70af4a89.bf1b84",
+            "1e165b65.d6c425",
+            "ea102947.4ba5a8"
+        ],
+        "uncaught": false,
+        "x": 3760,
+        "y": 310,
+        "wires": [
+            [
+                "daab098.dcf81f8"
+            ]
+        ]
+    },
+    {
+        "id": "1f5ba763.537da9",
+        "type": "link in",
+        "z": "e86f0ca4.7feb5",
+        "g": "f766f95b.4e6278",
+        "name": "Bypass filtro armónicos",
+        "links": [
+            "ad87cee4.7dbb5"
+        ],
+        "x": 3815,
+        "y": 350,
+        "wires": [
+            [
+                "daab098.dcf81f8"
+            ]
+        ]
+    },
+    {
+        "id": "daab098.dcf81f8",
+        "type": "switch",
+        "z": "e86f0ca4.7feb5",
+        "g": "f766f95b.4e6278",
+        "name": "",
+        "property": "SCADA.Type",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "RTU",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "TCP",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 3,
+        "x": 3910,
+        "y": 350,
+        "wires": [
+            [
+                "285b480c.d0f7a8",
+                "c4c078bf.1f98e8"
+            ],
+            [
+                "72d596c0.d63af8",
+                "e9678f2c.47c62"
+            ],
+            [
+                "e9678f2c.47c62",
+                "72d596c0.d63af8",
+                "1e165b65.d6c425"
+            ]
+        ]
+    },
+    {
+        "id": "72d596c0.d63af8",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "f766f95b.4e6278",
+        "name": "False",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 4090,
+        "y": 340,
+        "wires": [
+            [
+                "43a584bc.6d66ec"
+            ]
+        ]
+    },
+    {
+        "id": "e9678f2c.47c62",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "f766f95b.4e6278",
+        "name": "true",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 4090,
+        "y": 300,
+        "wires": [
+            [
+                "779d3154.c1b8e"
+            ]
+        ]
+    },
+    {
+        "id": "c4c078bf.1f98e8",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "f766f95b.4e6278",
+        "name": "true",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 4090,
+        "y": 260,
+        "wires": [
+            [
+                "43a584bc.6d66ec"
+            ]
+        ]
+    },
+    {
+        "id": "285b480c.d0f7a8",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "f766f95b.4e6278",
+        "name": "False",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 4090,
+        "y": 220,
+        "wires": [
+            [
+                "779d3154.c1b8e"
+            ]
+        ]
+    },
+    {
+        "id": "779d3154.c1b8e",
+        "type": "ui_button",
+        "z": "e86f0ca4.7feb5",
+        "g": "f766f95b.4e6278",
+        "name": "",
+        "group": "56b03a99.1007f4",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "passthru": false,
+        "label": "RTU",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "",
+        "x": 4230,
+        "y": 260,
+        "wires": [
+            [
+                "70af4a89.bf1b84"
+            ]
+        ]
+    },
+    {
+        "id": "43a584bc.6d66ec",
+        "type": "ui_button",
+        "z": "e86f0ca4.7feb5",
+        "g": "f766f95b.4e6278",
+        "name": "",
+        "group": "56b03a99.1007f4",
+        "order": 4,
+        "width": "2",
+        "height": "1",
+        "passthru": false,
+        "label": "TCP",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "",
+        "x": 4230,
+        "y": 300,
+        "wires": [
+            [
+                "1e165b65.d6c425"
+            ]
+        ]
+    },
+    {
+        "id": "70af4a89.bf1b84",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "f766f95b.4e6278",
+        "name": "RTU",
+        "rules": [
+            {
+                "t": "set",
+                "p": "SCADA.Type",
+                "pt": "global",
+                "to": "RTU",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 4450,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1e165b65.d6c425",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "f766f95b.4e6278",
+        "name": "TCP",
+        "rules": [
+            {
+                "t": "set",
+                "p": "SCADA.Type",
+                "pt": "global",
+                "to": "TCP",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 4450,
+        "y": 360,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "78769808.230b18",
+        "type": "link in",
+        "z": "e86f0ca4.7feb5",
+        "g": "f766f95b.4e6278",
+        "name": "Indicador Arranque Escalonado",
+        "links": [
+            "ad87cee4.7dbb5"
+        ],
+        "x": 3815,
+        "y": 270,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "69f6e4eb.80e62c",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "f6e30287.8d13d",
+        "name": "/10",
+        "func": "msg.payload = msg.payload/10;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 4380,
+        "y": 780,
+        "wires": [
+            [
+                "2b0080ad.3ac38"
             ]
         ]
     }

@@ -1827,11 +1827,13 @@
             "3a6bee4b.22d342",
             "ebb7241e.548d68",
             "f059af07.db923",
-            "beae8e2f.5f80b"
+            "beae8e2f.5f80b",
+            "2c9e0a71.c34ce6",
+            "341c89fa.21c126"
         ],
         "x": 2748,
         "y": 2183,
-        "w": 1094,
+        "w": 1228,
         "h": 864
     },
     {
@@ -55698,7 +55700,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "e2e299a6.d3c5c8",
         "name": "Mapa Modbus",
-        "func": "var C2S     = global.get('C2S','memoryOnly')            || null;\nvar Np      = global.get('Motor_Control.Nameplate')     || null;\nvar LR      = global.get('Local/Remoto')                || null;     \nvar SC      = global.get('Speed_Control')               || null;\nvar Status  = global.get('Drive_Status','memoryOnly')   || null;\nvar PQA     = global.get('PQA','memoryOnly')            || null;\n\n// Vector mapa Modbus\nvar Mapa = [];\n\nif(typeof C2S != 'undefined' && C2S != null){\n\n    Mapa[0]   = C2S.Output_Frecuency*10;\n    Mapa[1]   = C2S.Output_Voltage*10;\n    Mapa[2]   = C2S.Output_Current*10;\n    Mapa[8]   = C2S.Output_Power*10;\n    Mapa[10]  = C2S.Output_Voltage*10;\n    Mapa[12]  = C2S.Drive_Temp_C*10;\n    Mapa[14]  = C2S.Commanded_SpdRef;\n    Mapa[15]  = 1;                                        // No se ha definido. Estados Re-Arranque\n    Mapa[16]  = C2S.Bus_DC_Volts;\n    Mapa[17]  = 1;                                        // No se ha definido. Potencia aparente.\n    Mapa[18]  = C2S.Drive_Temp_C*10;\n    Mapa[19]  = Math.abs(C2S.Power_Factor*100);\n    Mapa[20]  = 1;                                        // No se ha definido. Relación TX Elevador.\n    Mapa[21]  = 1;                                        // No se ha definido. Delta Voltaje de caida actual.\n    Mapa[22]  = 1;                                        // No se ha definido. Presión Actual.\n    Mapa[23]  = 1;                                        // No se ha definido. Temperatura de entrada actual.\n    Mapa[24]  = 1;                                        // No se ha definido. Vibración bomba lado acople.\n    Mapa[47]  = 1;                                        // No se ha definido. Referencia prolongada.\n}\n\n// Datos placa de motor.\nif(typeof Np != 'undefined' && Np != null){\n    Mapa[3]   = Np.Amps*10;\n}\n// Datos comando Local/Remoto.\nif(typeof LR != 'undefined' && LR != null){\n    Mapa[4]   = LR == 'Local' ? 0:1;\n}\n\n// Datos control de velocidad.\nif(typeof SC != 'undefined' && SC != null){\n    Mapa[5]   = SC.Accel;\n    Mapa[6]   = SC.Decel;\n    Mapa[9]   = SC.MinLimit*10;\n    Mapa[11]  = SC.MaxLimit*10;\n}\n// Datos estado C2S\nif(typeof Status != 'undefined' && Status != null){\n    Mapa[7]   = Status.Active;\n    Mapa[13]  = Status.Actual_dir == 1 ? 0:1;\n}\n\n// Datos PQA\nif(typeof PQA != 'undefined' && PQA != null){\n    Mapa[25]  = PQA.Real_Time_Parameters.Average_Line_Voltage*10;\n    Mapa[26]  = PQA.Real_Time_Parameters.Average_Phase_Voltage*10;\n    Mapa[27]  = PQA.Real_Time_Parameters.Average_Phase_Current*10;\n    Mapa[28]  = PQA.Real_Time_Parameters.Frequency*10;\n    Mapa[29]  = PQA.Real_Time_Parameters.Total_System_Power*10;\n    Mapa[30]  = PQA.Real_Time_Parameters.Total_Apparent_Power*10;\n    Mapa[31]  = PQA.Real_Time_Parameters.Total_Reactive_Power*10;\n    Mapa[32]  = PQA.Real_Time_Parameters.Total_Power_Factor*100;\n    Mapa[33]  = PQA.Real_Time_Parameters.Line_Voltage_1_2*10;\n    Mapa[34]  = PQA.Real_Time_Parameters.Line_Voltage_2_3*10;\n    Mapa[35]  = PQA.Real_Time_Parameters.Line_Voltage_3_1*10;\n    Mapa[36]  = PQA.Real_Time_Parameters.Phase_1_Voltage*10;\n    Mapa[37]  = PQA.Real_Time_Parameters.Phase_2_Voltage*10;\n    Mapa[38]  = PQA.Real_Time_Parameters.Phase_3_Voltage*10;\n    Mapa[39]  = PQA.Real_Time_Parameters.Total_Phase_A_Current*10;\n    Mapa[40]  = PQA.Real_Time_Parameters.Total_Phase_B_Current*10;\n    Mapa[41]  = PQA.Real_Time_Parameters.Total_Phase_C_Current*10;\n    Mapa[42]  = PQA.Real_Time_Parameters.Phase_A_Power*10;\n    Mapa[43]  = PQA.Real_Time_Parameters.Phase_B_Power*10;\n    Mapa[44]  = PQA.Real_Time_Parameters.Phase_C_Power*10;\n    Mapa[45]  = PQA.Harmonics.Power_Quality.THD_Iavg*10;\n    Mapa[46]  = PQA.Harmonics.Power_Quality.THD_avg*10;\n}\n\nmsg.payload = { \n    value: Mapa, \n    'fc': 16,\n    'unitid': 1, \n    'address': 0 , \n    'quantity': Mapa.length \n} \nreturn msg;",
+        "func": "var C2S         = global.get('C2S','memoryOnly')            || null;\nvar Np          = global.get('Motor_Control.Nameplate')     || null;\nvar LR          = global.get('Local/Remoto')                || null;     \nvar SC          = global.get('Speed_Control')               || null;\nvar Status      = global.get('Drive_Status','memoryOnly')   || null;\nvar PQA         = global.get('PQA','memoryOnly')            || null;\nvar MtrCurrent  = global.get('Motor.Current','memoryOnly')  || null;\nvar DHSelect    = flow.get('DownholeSensor.Number')         || 0;\nvar DHSData     = global.get('DownHoleData','memoryOnly')   || null;\n\n// Vector mapa Modbus\nvar Mapa = [];\n\nif(typeof C2S != 'undefined' && C2S != null){\n    Mapa[0]   = C2S.Output_Frecuency*10;\n    Mapa[1]   = C2S.Output_Voltage*10;\n    Mapa[2]   = C2S.Output_Current*10;\n    Mapa[8]   = C2S.Output_Power*10;\n    Mapa[10]  = C2S.Output_Voltage*10;\n    Mapa[12]  = C2S.Drive_Temp_C*10;\n    Mapa[14]  = C2S.Commanded_SpdRef;\n    Mapa[15]  = 1;                                        // No se ha definido. Estados Re-Arranque\n    Mapa[16]  = C2S.Bus_DC_Volts;\n    Mapa[17]  = 1;                                        // No se ha definido. Potencia aparente.\n    Mapa[18]  = C2S.Drive_Temp_C*10;\n    Mapa[19]  = Math.abs(C2S.Power_Factor*100);\n    Mapa[20]  = 1;                                        // No se ha definido. Relación TX Elevador.\n    Mapa[21]  = 1;                                        // No se ha definido. Delta Voltaje de caida actual.\n    Mapa[22]  = 1;                                        // No se ha definido. Presión Actual.\n    Mapa[23]  = 1;                                        // No se ha definido. Temperatura de entrada actual.\n    Mapa[24]  = 1;                                        // No se ha definido. Vibración bomba lado acople.\n    Mapa[47]  = 1;                                        // No se ha definido. Referencia prolongada.\n}\n\n// Datos placa de motor.\nif(typeof MtrCurrent != 'undefined' && MtrCurrent != null){\n    Mapa[3]   = MtrCurrent*10;\n}\n\n// Datos comando Local/Remoto.\nif(typeof DHSelect != 'undefined' && DHSelect != null){\n    Mapa[4]   = DHSelect;\n}\n\n// Datos comando Local/Remoto.\n//if(typeof LR != 'undefined' && LR != null){\n//    Mapa[4]   = LR == 'Local' ? 0:1;\n//}\n\n// Datos control de velocidad.\nif(typeof SC != 'undefined' && SC != null){\n    Mapa[5]   = SC.Accel;\n    Mapa[6]   = SC.Decel;\n    Mapa[9]   = SC.MinLimit*10;\n    Mapa[11]  = SC.MaxLimit*10;\n}\n// Datos estado C2S\nif(typeof Status != 'undefined' && Status != null){\n    Mapa[7]   = Status.Active;\n    Mapa[13]  = Status.Actual_dir == 1 ? 0:1;\n}\n\n// Datos PQA\nif(typeof PQA != 'undefined' && PQA != null){\n    Mapa[25]  = PQA.Real_Time_Parameters.Average_Line_Voltage*10;\n    Mapa[26]  = PQA.Real_Time_Parameters.Average_Phase_Voltage*10;\n    Mapa[27]  = PQA.Real_Time_Parameters.Average_Phase_Current*10;\n    Mapa[28]  = PQA.Real_Time_Parameters.Frequency*10;\n    Mapa[29]  = PQA.Real_Time_Parameters.Total_System_Power*10;\n    Mapa[30]  = PQA.Real_Time_Parameters.Total_Apparent_Power*10;\n    Mapa[31]  = PQA.Real_Time_Parameters.Total_Reactive_Power*10;\n    Mapa[32]  = PQA.Real_Time_Parameters.Total_Power_Factor*100;\n    Mapa[33]  = PQA.Real_Time_Parameters.Line_Voltage_1_2*10;\n    Mapa[34]  = PQA.Real_Time_Parameters.Line_Voltage_2_3*10;\n    Mapa[35]  = PQA.Real_Time_Parameters.Line_Voltage_3_1*10;\n    Mapa[36]  = PQA.Real_Time_Parameters.Phase_1_Voltage*10;\n    Mapa[37]  = PQA.Real_Time_Parameters.Phase_2_Voltage*10;\n    Mapa[38]  = PQA.Real_Time_Parameters.Phase_3_Voltage*10;\n    Mapa[39]  = PQA.Real_Time_Parameters.Total_Phase_A_Current*10;\n    Mapa[40]  = PQA.Real_Time_Parameters.Total_Phase_B_Current*10;\n    Mapa[41]  = PQA.Real_Time_Parameters.Total_Phase_C_Current*10;\n    Mapa[42]  = PQA.Real_Time_Parameters.Phase_A_Power*10;\n    Mapa[43]  = PQA.Real_Time_Parameters.Phase_B_Power*10;\n    Mapa[44]  = PQA.Real_Time_Parameters.Phase_C_Power*10;\n    Mapa[45]  = PQA.Harmonics.Power_Quality.THD_Iavg*10;\n    Mapa[46]  = PQA.Harmonics.Power_Quality.THD_avg*10;\n}\n\n// Datos Sensor de fondo\nif(typeof DHSData != 'undefined' && DHSData != null){\n    Mapa[47]  = DHSData.DHS[\"Presión de entrada\"];\n    Mapa[48]  = DHSData.DHS[\"Presión de descarga\"];\n    Mapa[49]  = DHSData.DHS[\"Temperatura de entrada\"];\n    Mapa[50]  = DHSData.DHS[\"Temperatura de descarga\"];\n    Mapa[51]  = DHSData.DHS[\"Temperatura de motor\"];\n    Mapa[52]  = DHSData.DHS[\"Presión de casing\"];\n    Mapa[53]  = DHSData.DHS[\"Presión de cabeza THP\"];\n    Mapa[54]  = DHSData.DHS[\"Temperatura de cabeza THT\"];\n}\n\nmsg.payload = { \n    value: Mapa, \n    'fc': 16,\n    'unitid': 1, \n    'address': 0 , \n    'quantity': Mapa.length \n} \nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -59634,7 +59636,7 @@
         "type": "change",
         "z": "e86f0ca4.7feb5",
         "g": "ebc9a134.b2cde",
-        "name": "Rel Tx Caída tensión",
+        "name": "Configuración primario",
         "rules": [
             {
                 "t": "set",
@@ -59660,7 +59662,7 @@
         "type": "change",
         "z": "e86f0ca4.7feb5",
         "g": "ebc9a134.b2cde",
-        "name": "Rel Tx Caída tensión",
+        "name": "Configuración secundario",
         "rules": [
             {
                 "t": "set",
@@ -59675,7 +59677,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3610,
+        "x": 3620,
         "y": 950,
         "wires": [
             []
@@ -65348,5 +65350,38 @@
                 "1286dd4c.802a73"
             ]
         ]
+    },
+    {
+        "id": "2c9e0a71.c34ce6",
+        "type": "complete",
+        "z": "e86f0ca4.7feb5",
+        "g": "aa2fba7e.146688",
+        "name": "",
+        "scope": [
+            "ec994a08.2df8b8"
+        ],
+        "uncaught": false,
+        "x": 3640,
+        "y": 2300,
+        "wires": [
+            [
+                "341c89fa.21c126"
+            ]
+        ]
+    },
+    {
+        "id": "341c89fa.21c126",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "aa2fba7e.146688",
+        "name": "Modbus sensor Number",
+        "func": "\nif      (msg.payload == 'Zenith')                   {msg.payload = 1;}\nelse if (msg.payload == 'Schlumberger')             {msg.payload = 2;}\nelse if (msg.payload == \"GRC Scout\")                {msg.payload = 3;}\nelse if (msg.payload == 'Novomet')                  {msg.payload = 4;}\nelse if (msg.payload == 'Borets')                   {msg.payload = 5;}\nelse if (msg.payload == \"Borets Spy-Pro-SPS-1500\")  {msg.payload = 6;}\nelse                                                {msg.payload = 0;}\n\nflow.set(\"DownholeSensor.Number\",msg.payload);\n\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;",
+        "outputs": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 3840,
+        "y": 2300,
+        "wires": []
     }
 ]

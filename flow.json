@@ -1959,6 +1959,118 @@
         "h": 222
     },
     {
+        "id": "8f02baa.cd86a48",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "name": "Control RTU",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "139c1f0e.abade1",
+            "7f604934.3e3958",
+            "9205d7e0.ff53d8",
+            "87774c25.375c4",
+            "ed6013f0.33cee",
+            "a47abf3e.b59be",
+            "afc5c849.968498"
+        ],
+        "x": 4194,
+        "y": 1009,
+        "w": 752,
+        "h": 202
+    },
+    {
+        "id": "4454562c.314c58",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "name": "Referencia Remota RTU",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "e5c519d9.c426b8",
+            "46fe28ea.5c0be8",
+            "829c7a43.cb9978",
+            "ad634ed2.55998",
+            "9ba73f69.14911"
+        ],
+        "x": 4194,
+        "y": 1219,
+        "w": 412,
+        "h": 202
+    },
+    {
+        "id": "e41c42c4.24372",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "ff7e622b.cbe3",
+            "6c2761b2.1cac7",
+            "10f739e5.6ce8d6",
+            "7940a891.ccd658"
+        ],
+        "x": 4194,
+        "y": 919,
+        "w": 792,
+        "h": 82
+    },
+    {
+        "id": "b690d102.38713",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "name": "Referencia remota TCP",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "5d592c3d.0392f4",
+            "7a669d9.d81bb64",
+            "57cad41b.13ae2c",
+            "bf66ab8.2a08358",
+            "798ab24b.f2bb3c"
+        ],
+        "x": 4194,
+        "y": 1649,
+        "w": 412,
+        "h": 202
+    },
+    {
+        "id": "7dbc5902.4206c8",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "name": "Control TCP",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "acb88797.a53388",
+            "8ad5beb8.173b5",
+            "d26ae57.89e2118",
+            "e0e98cce.54d61",
+            "3f39afa6.aebe1",
+            "fe05fe43.ad5f9",
+            "eba2d655.522b48"
+        ],
+        "x": 4194,
+        "y": 1439,
+        "w": 752,
+        "h": 202
+    },
+    {
         "id": "70d8d562.df63ac",
         "type": "group",
         "z": "e86f0ca4.7feb5",
@@ -5430,120 +5542,6 @@
         "y": 2009,
         "w": 722,
         "h": 442
-    },
-    {
-        "id": "8f02baa.cd86a48",
-        "type": "group",
-        "z": "e86f0ca4.7feb5",
-        "name": "Control RTU",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "139c1f0e.abade1",
-            "7f604934.3e3958",
-            "9205d7e0.ff53d8",
-            "87774c25.375c4",
-            "ed6013f0.33cee",
-            "a47abf3e.b59be",
-            "afc5c849.968498"
-        ],
-        "x": 4194,
-        "y": 1009,
-        "w": 752,
-        "h": 202
-    },
-    {
-        "id": "4454562c.314c58",
-        "type": "group",
-        "z": "e86f0ca4.7feb5",
-        "name": "Referencia Remota RTU",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "e5c519d9.c426b8",
-            "46fe28ea.5c0be8",
-            "829c7a43.cb9978",
-            "ad634ed2.55998",
-            "9ba73f69.14911",
-            "ea45ee42.e382d"
-        ],
-        "x": 4194,
-        "y": 1219,
-        "w": 792,
-        "h": 202
-    },
-    {
-        "id": "e41c42c4.24372",
-        "type": "group",
-        "z": "e86f0ca4.7feb5",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "ff7e622b.cbe3",
-            "6c2761b2.1cac7",
-            "10f739e5.6ce8d6",
-            "7940a891.ccd658"
-        ],
-        "x": 4194,
-        "y": 919,
-        "w": 792,
-        "h": 82
-    },
-    {
-        "id": "b690d102.38713",
-        "type": "group",
-        "z": "e86f0ca4.7feb5",
-        "name": "Referencia remota TCP",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "5d592c3d.0392f4",
-            "7a669d9.d81bb64",
-            "57cad41b.13ae2c",
-            "bf66ab8.2a08358",
-            "798ab24b.f2bb3c",
-            "1aac1b0a.b7cac5"
-        ],
-        "x": 4194,
-        "y": 1649,
-        "w": 792,
-        "h": 202
-    },
-    {
-        "id": "7dbc5902.4206c8",
-        "type": "group",
-        "z": "e86f0ca4.7feb5",
-        "name": "Control TCP",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "acb88797.a53388",
-            "8ad5beb8.173b5",
-            "d26ae57.89e2118",
-            "e0e98cce.54d61",
-            "3f39afa6.aebe1",
-            "fe05fe43.ad5f9",
-            "eba2d655.522b48"
-        ],
-        "x": 4194,
-        "y": 1439,
-        "w": 752,
-        "h": 202
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -66249,23 +66247,6 @@
         ]
     },
     {
-        "id": "ea45ee42.e382d",
-        "type": "debug",
-        "z": "e86f0ca4.7feb5",
-        "g": "4454562c.314c58",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 4870,
-        "y": 1320,
-        "wires": []
-    },
-    {
         "id": "6c2761b2.1cac7",
         "type": "modbus-flex-getter",
         "z": "e86f0ca4.7feb5",
@@ -66473,23 +66454,6 @@
                 "8ad5beb8.173b5"
             ]
         ]
-    },
-    {
-        "id": "1aac1b0a.b7cac5",
-        "type": "debug",
-        "z": "e86f0ca4.7feb5",
-        "g": "b690d102.38713",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 4870,
-        "y": 1750,
-        "wires": []
     },
     {
         "id": "acb88797.a53388",

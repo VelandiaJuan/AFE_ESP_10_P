@@ -985,7 +985,8 @@
         "nodes": [
             "23bbdddc.b8c5c2",
             "1027a10.a1e515f",
-            "15ca143a.56aa5c"
+            "15ca143a.56aa5c",
+            "9c35c44f.bafb68"
         ],
         "x": 12,
         "y": 7,
@@ -1580,8 +1581,8 @@
         "nodes": [
             "ebc9a134.b2cde"
         ],
-        "x": 2718,
-        "y": 903,
+        "x": 18,
+        "y": 2983,
         "w": 1054,
         "h": 344
     },
@@ -1750,7 +1751,7 @@
             "7f0ad68d.a88dc8"
         ],
         "x": 2718,
-        "y": 1253,
+        "y": 913,
         "w": 1464,
         "h": 714
     },
@@ -1776,7 +1777,7 @@
             "341c89fa.21c126"
         ],
         "x": 2718,
-        "y": 2023,
+        "y": 1643,
         "w": 1228,
         "h": 864
     },
@@ -1904,8 +1905,8 @@
             "d766579d.514298",
             "8188a395.bb719"
         ],
-        "x": 3784,
-        "y": 959,
+        "x": 2714,
+        "y": 2559,
         "w": 522,
         "h": 282
     },
@@ -1925,7 +1926,7 @@
         ],
         "x": 2718,
         "y": 473,
-        "w": 1814,
+        "w": 2084,
         "h": 424
     },
     {
@@ -1983,11 +1984,17 @@
             "17ca02e7.855ccd",
             "9515e42e.7cd818",
             "24520f16.b2073",
-            "66f58a7.5c16574"
+            "66f58a7.5c16574",
+            "75c0e161.43a1c",
+            "ead1502b.eb49",
+            "cd193416.856358",
+            "46cdb592.10060c",
+            "5c77bc75.2ac4e4",
+            "eaf3c61f.78e7d8"
         ],
         "x": 2744,
         "y": 499,
-        "w": 1362,
+        "w": 1872,
         "h": 232
     },
     {
@@ -2029,7 +2036,7 @@
             "2249a8a.5b30458"
         ],
         "x": 2744,
-        "y": 1279,
+        "y": 939,
         "w": 1412,
         "h": 492
     },
@@ -2388,13 +2395,12 @@
             "color": "#ffffff"
         },
         "nodes": [
-            "b974d4b3.9e3f78",
             "1b19a252.cfe16e"
         ],
         "x": 38,
         "y": 1663,
         "w": 1284,
-        "h": 754
+        "h": 574
     },
     {
         "id": "ac1f5c0.f7b06a",
@@ -4104,17 +4110,17 @@
             "fill": "#bfc7d7"
         },
         "nodes": [
-            "41b78365.d9c2dc",
             "b2d57d3c.2471d",
             "a95021da.6a8c1",
             "e733e0b4.8726a",
             "2813ded5.10a312",
             "eb6058e.d5d31a8",
             "86b92a12.8d03a8",
-            "a14ed9ad.89be18"
+            "a14ed9ad.89be18",
+            "41b78365.d9c2dc"
         ],
-        "x": 1334,
-        "y": 1439,
+        "x": 1344,
+        "y": 1249,
         "w": 962,
         "h": 162
     },
@@ -4287,8 +4293,8 @@
             "6ffccbee.459604",
             "8b8bfe12.48faa"
         ],
-        "x": 2744,
-        "y": 929,
+        "x": 44,
+        "y": 3009,
         "w": 1002,
         "h": 292
     },
@@ -4343,11 +4349,12 @@
             "e9fd7861.d2db88",
             "238050bf.0374f",
             "573c6f3e.737db",
-            "132cee6.94f6e12"
+            "2c57a2f1.46b13e",
+            "c1702022.91ab1"
         ],
         "x": 2744,
         "y": 739,
-        "w": 942,
+        "w": 982,
         "h": 132
     },
     {
@@ -4488,7 +4495,8 @@
             "1286dd4c.802a73",
             "98154bef.f1c1c8",
             "4008f635.52a288",
-            "5fd3049a.ba921c"
+            "5fd3049a.ba921c",
+            "74bc05ce.cdaebc"
         ],
         "x": 2514,
         "y": 49,
@@ -4556,7 +4564,7 @@
             "8b6bbe7b.4904"
         ],
         "x": 2744,
-        "y": 1779,
+        "y": 1439,
         "w": 552,
         "h": 162
     },
@@ -4584,7 +4592,7 @@
             "16b64fab.dbb22"
         ],
         "x": 2744,
-        "y": 2049,
+        "y": 1669,
         "w": 772,
         "h": 182
     },
@@ -4613,7 +4621,7 @@
             "1a2660d3.c50b5f"
         ],
         "x": 2744,
-        "y": 2239,
+        "y": 1859,
         "w": 932,
         "h": 322
     },
@@ -4634,7 +4642,7 @@
             "b3c62075.a7822"
         ],
         "x": 2744,
-        "y": 2569,
+        "y": 2189,
         "w": 602,
         "h": 122
     },
@@ -4659,7 +4667,7 @@
             "57cd5933.3df778"
         ],
         "x": 2744,
-        "y": 2699,
+        "y": 2319,
         "w": 1042,
         "h": 162
     },
@@ -4680,12 +4688,40 @@
             "5252f291.d6bb0c",
             "da8e2bed.062538",
             "6790da83.2d4c54",
-            "69f6e4eb.80e62c"
+            "69f6e4eb.80e62c",
+            "7066175f.071ce8",
+            "a9157021.56aa2",
+            "f7d52c85.918f3",
+            "c6eda5d6.4dc858"
         ],
-        "x": 3784,
+        "x": 3734,
         "y": 739,
-        "w": 722,
-        "h": 122
+        "w": 1042,
+        "h": 132
+    },
+    {
+        "id": "9c35c44f.bafb68",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "g": "f2c899e7.e9eac8",
+        "name": "",
+        "style": {
+            "label": true,
+            "color": "#000000",
+            "fill": "#bfc7d7"
+        },
+        "nodes": [
+            "77985c2b.8a2e74",
+            "73c41dda.f792a4",
+            "11dc938e.1057fc",
+            "5860880e.39b3a8",
+            "a74660ea.b55d5",
+            "8549dcde.c5de1"
+        ],
+        "x": 1344,
+        "y": 1059,
+        "w": 582,
+        "h": 182
     },
     {
         "id": "5613a5b2.95577c",
@@ -5244,30 +5280,6 @@
         "h": 182
     },
     {
-        "id": "b974d4b3.9e3f78",
-        "type": "group",
-        "z": "e86f0ca4.7feb5",
-        "g": "d22a2793.24a988",
-        "name": "Asignación salidas digitales CUBLOC",
-        "style": {
-            "fill": "#bfc7d7",
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "144c878a.5a55c8",
-            "f5cf8d1a.deec8",
-            "d2ef2515.318b48",
-            "255ae971.c1fa66",
-            "bb2985cb.dc9528",
-            "d2dd56dc.b7a0e8"
-        ],
-        "x": 64,
-        "y": 2219,
-        "w": 722,
-        "h": 172
-    },
-    {
         "id": "1b19a252.cfe16e",
         "type": "group",
         "z": "e86f0ca4.7feb5",
@@ -5418,6 +5430,120 @@
         "y": 2009,
         "w": 722,
         "h": 442
+    },
+    {
+        "id": "8f02baa.cd86a48",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "name": "Control RTU",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "139c1f0e.abade1",
+            "7f604934.3e3958",
+            "9205d7e0.ff53d8",
+            "87774c25.375c4",
+            "ed6013f0.33cee",
+            "a47abf3e.b59be",
+            "afc5c849.968498"
+        ],
+        "x": 4194,
+        "y": 1009,
+        "w": 752,
+        "h": 202
+    },
+    {
+        "id": "4454562c.314c58",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "name": "Referencia Remota RTU",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "e5c519d9.c426b8",
+            "46fe28ea.5c0be8",
+            "829c7a43.cb9978",
+            "ad634ed2.55998",
+            "9ba73f69.14911",
+            "ea45ee42.e382d"
+        ],
+        "x": 4194,
+        "y": 1219,
+        "w": 792,
+        "h": 202
+    },
+    {
+        "id": "e41c42c4.24372",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "ff7e622b.cbe3",
+            "6c2761b2.1cac7",
+            "10f739e5.6ce8d6",
+            "7940a891.ccd658"
+        ],
+        "x": 4194,
+        "y": 919,
+        "w": 792,
+        "h": 82
+    },
+    {
+        "id": "b690d102.38713",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "name": "Referencia remota TCP",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "5d592c3d.0392f4",
+            "7a669d9.d81bb64",
+            "57cad41b.13ae2c",
+            "bf66ab8.2a08358",
+            "798ab24b.f2bb3c",
+            "1aac1b0a.b7cac5"
+        ],
+        "x": 4194,
+        "y": 1649,
+        "w": 792,
+        "h": 202
+    },
+    {
+        "id": "7dbc5902.4206c8",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "name": "Control TCP",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "acb88797.a53388",
+            "8ad5beb8.173b5",
+            "d26ae57.89e2118",
+            "e0e98cce.54d61",
+            "3f39afa6.aebe1",
+            "fe05fe43.ad5f9",
+            "eba2d655.522b48"
+        ],
+        "x": 4194,
+        "y": 1439,
+        "w": 752,
+        "h": 202
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -9392,11 +9518,11 @@
         "serialStopbits": "1",
         "serialParity": "none",
         "serialConnectionDelay": "100",
-        "unit_id": "1",
-        "commandDelay": "1",
-        "clientTimeout": "1000",
+        "unit_id": 1,
+        "commandDelay": 1,
+        "clientTimeout": 1000,
         "reconnectOnTimeout": true,
-        "reconnectTimeout": "2000",
+        "reconnectTimeout": 2000,
         "parallelUnitIdsAllowed": true
     },
     {
@@ -32182,32 +32308,6 @@
         "wires": []
     },
     {
-        "id": "f5cf8d1a.deec8",
-        "type": "function",
-        "z": "e86f0ca4.7feb5",
-        "g": "b974d4b3.9e3f78",
-        "name": "Salidas Digitales",
-        "func": "var ES = flow.get('ES')||null;\nvar Drive_Status = global.get('Drive_Status','memoryOnly') || null;\nvar ActFunctions = flow.get('ActFunctions','memoryOnly') || null;\nvar Prot = global.get('Protections.RFlag','memoryOnly') || 0;\nvar FA = global.get('Filtro_armonicos.Estado','memoryOnly')||false;\n\n// Arreglo de Canales\nvar Data    = { \n    32:false, 33:false, 34:false, 35:false, \n    36:false, 37:false, 38:false, 39:false, \n    40:false, 41:false, 42:false, 43:false\n};\n\n// Obtener llaves del objeto Data\nvar Canal = Object.keys(Data);\n// Declaración del string con \nvar canalmsg;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"CILA2S_EN_MARCHA\"          : Drive_Status != null ? (Drive_Status.Active == 1 ? true:false): false ,\n    \"FALLA_GENERAL\"             : Drive_Status != null ? (Drive_Status.Fault  == 1 ? true:false || Prot):false, \n    \"DISPARO_BREAKER_MODULO_ESD\": InFunction(ActFunctions,'Stop_ESD') || InFunction(ActFunctions,'Disparo_bajo_bajo_aceite_SUT') || InFunction(ActFunctions,'Disparo_valvula_sobrepresion') ||InFunction(ActFunctions,'Disparo_alta_temperatura_SUT') || InFunction(ActFunctions,'Disparo_alta_temperatura_filtros'|| InFunction(ActFunctions,'Disparo_Alta_presión_THP'),InFunction(ActFunctions,'Disparo_sobre_tensión_SUT'),InFunction(ActFunctions,'ESD_Remoto'),InFunction(ActFunctions,'Proteccion_termica_de_motor')),\n    \"BYPASS_FILTRO_ARMONICOS\"   : FA,\n    \"SIMULACION\"                : InFunction(ActFunctions,'Simulación')\n}\n\n// Funciones que se activan desde una entrada digital\nfunction InFunction(Var,Str){\n    for(var j = 0; j < Var.length; j++){\n        if(Var[j].Funcion == Str){\n            return Var[j].Estado;\n        }\n    }\n}\n\n// Llaves del vector FuncionesC2S\nvar Keys = Object.keys(FuncionC2S);\n\n// Para cada canal de salida\nfor(var i=0; i <Canal.length; i++){\n    canalmsg ='Canal'+ Canal[i];\n    // Si la configuración del canal está declarada\n    if(typeof ES.SD[canalmsg] != 'undefined'){\n        // Para cada llave del vector FuncionesC2S que coincida con la configuración del canal\n        for(var j=0; j<Keys.length; j++){\n            if(ES.SD[canalmsg].Funcion == Keys[j]){\n                // Asignar el valor contenido en el vector de funciones al canal de salida\n                Data[Canal[i]] = ES.SD[canalmsg].Tipo == \"NO\" ? FuncionC2S[Keys[j]]:!FuncionC2S[Keys[j]];\n            } \n        }\n    }\n}\n\n// Asignar variable con los valores a escribir  (Se puede eliminar al asignar directamente).\nvar values = Object.values(Data);\n\n// Escribir datos en el Cubloc\nmsg.payload = { \n    value: values, \n    'fc': 15, \n    'unitid': 1, \n    'address': 4096, \n    'quantity': 12 \n}\n\n// Retorno del mensaje\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 310,
-        "y": 2300,
-        "wires": [
-            [
-                "d2ef2515.318b48",
-                "255ae971.c1fa66"
-            ]
-        ],
-        "inputLabels": [
-            "Activar función"
-        ],
-        "outputLabels": [
-            "Canal32"
-        ]
-    },
-    {
         "id": "1ebf6b2.52e8695",
         "type": "change",
         "z": "e86f0ca4.7feb5",
@@ -48900,8 +49000,8 @@
         "z": "e86f0ca4.7feb5",
         "g": "15ca143a.56aa5c",
         "name": "Leer Cubloc RS-232",
-        "showStatusActivities": false,
-        "showErrors": true,
+        "showStatusActivities": true,
+        "showErrors": false,
         "logIOActivities": false,
         "server": "f630cb55.8d18e8",
         "useIOFile": false,
@@ -48909,8 +49009,8 @@
         "useIOForPayload": false,
         "emptyMsgOnFail": false,
         "keepMsgProperties": false,
-        "x": 1910,
-        "y": 1480,
+        "x": 1920,
+        "y": 1290,
         "wires": [
             [],
             [
@@ -48929,8 +49029,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1640,
-        "y": 1520,
+        "x": 1650,
+        "y": 1330,
         "wires": [
             [
                 "2813ded5.10a312"
@@ -48948,39 +49048,11 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1630,
-        "y": 1560,
+        "x": 1640,
+        "y": 1370,
         "wires": [
             [
                 "2813ded5.10a312"
-            ]
-        ]
-    },
-    {
-        "id": "41b78365.d9c2dc",
-        "type": "inject",
-        "z": "e86f0ca4.7feb5",
-        "g": "15ca143a.56aa5c",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "0.2",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 1430,
-        "y": 1480,
-        "wires": [
-            [
-                "a95021da.6a8c1",
-                "e733e0b4.8726a",
-                "b2d57d3c.2471d"
             ]
         ]
     },
@@ -48995,10 +49067,12 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 2150,
-        "y": 1480,
+        "x": 2160,
+        "y": 1290,
         "wires": [
-            []
+            [
+                "5860880e.39b3a8"
+            ]
         ]
     },
     {
@@ -49868,8 +49942,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1650,
-        "y": 1480,
+        "x": 1660,
+        "y": 1290,
         "wires": [
             [
                 "2813ded5.10a312"
@@ -50745,68 +50819,6 @@
         "x": 1210,
         "y": 2170,
         "wires": [
-            []
-        ]
-    },
-    {
-        "id": "144c878a.5a55c8",
-        "type": "inject",
-        "z": "e86f0ca4.7feb5",
-        "g": "b974d4b3.9e3f78",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "0.5",
-        "crontab": "",
-        "once": true,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 160,
-        "y": 2300,
-        "wires": [
-            [
-                "f5cf8d1a.deec8"
-            ]
-        ]
-    },
-    {
-        "id": "255ae971.c1fa66",
-        "type": "debug",
-        "z": "e86f0ca4.7feb5",
-        "g": "b974d4b3.9e3f78",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 460,
-        "y": 2260,
-        "wires": []
-    },
-    {
-        "id": "d2ef2515.318b48",
-        "type": "modbus-flex-write",
-        "z": "e86f0ca4.7feb5",
-        "g": "b974d4b3.9e3f78",
-        "name": "Escribir Cubloc RS-232",
-        "showStatusActivities": false,
-        "showErrors": false,
-        "server": "f630cb55.8d18e8",
-        "emptyMsgOnFail": false,
-        "keepMsgProperties": false,
-        "x": 530,
-        "y": 2300,
-        "wires": [
-            [],
             []
         ]
     },
@@ -51957,8 +51969,8 @@
         "dataType": "HoldingRegister",
         "adr": "55",
         "quantity": "1",
-        "rate": "500",
-        "rateUnit": "ms",
+        "rate": "1",
+        "rateUnit": "s",
         "delayOnStart": false,
         "startDelayTime": "",
         "server": "3548b3b4.c8d65c",
@@ -51966,12 +51978,11 @@
         "ioFile": "",
         "useIOForPayload": false,
         "emptyMsgOnFail": false,
-        "x": 2870,
+        "x": 3230,
         "y": 640,
         "wires": [
             [
-                "21fd4ac4.46c936",
-                "20c7cde4.586f82"
+                "75c0e161.43a1c"
             ],
             []
         ]
@@ -52004,7 +52015,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 3,
-        "x": 3150,
+        "x": 3660,
         "y": 640,
         "wires": [
             [
@@ -52027,7 +52038,7 @@
         "links": [
             "c581c8dc.d013e8"
         ],
-        "x": 3605,
+        "x": 4115,
         "y": 540,
         "wires": []
     },
@@ -52040,7 +52051,7 @@
         "links": [
             "e0c911fe.aaa9"
         ],
-        "x": 3605,
+        "x": 4115,
         "y": 620,
         "wires": []
     },
@@ -52053,7 +52064,7 @@
         "links": [
             "1fdf355.5b5f8cb"
         ],
-        "x": 3255,
+        "x": 3765,
         "y": 680,
         "wires": []
     },
@@ -52068,7 +52079,7 @@
         "start": "",
         "inout": "out",
         "property": "payload[0]",
-        "x": 3030,
+        "x": 3540,
         "y": 640,
         "wires": [
             [
@@ -52096,7 +52107,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3330,
+        "x": 3840,
         "y": 560,
         "wires": [
             [
@@ -52124,7 +52135,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3320,
+        "x": 3830,
         "y": 640,
         "wires": [
             [
@@ -52847,7 +52858,7 @@
         "emptyMsgOnFail": false,
         "keepMsgProperties": false,
         "x": 3160,
-        "y": 1550,
+        "y": 1210,
         "wires": [
             [
                 "7c9484af.5ac80c"
@@ -52867,7 +52878,7 @@
         "initialize": "",
         "finalize": "",
         "x": 2980,
-        "y": 1550,
+        "y": 1210,
         "wires": [
             [
                 "9dfbc830.a03298"
@@ -52893,7 +52904,7 @@
         "payload": "true",
         "payloadType": "bool",
         "x": 2840,
-        "y": 1550,
+        "y": 1210,
         "wires": [
             [
                 "fe356255.fc99"
@@ -52912,7 +52923,7 @@
         "initialize": "",
         "finalize": "",
         "x": 3620,
-        "y": 1370,
+        "y": 1030,
         "wires": [
             [
                 "f28712cf.12333",
@@ -52984,7 +52995,7 @@
         "repair": false,
         "outputs": 10,
         "x": 3320,
-        "y": 1550,
+        "y": 1210,
         "wires": [
             [
                 "10a8d7ac.83d708"
@@ -53028,7 +53039,7 @@
         "outputs": 1,
         "noerr": 0,
         "x": 3590,
-        "y": 1450,
+        "y": 1110,
         "wires": [
             [
                 "f28712cf.12333",
@@ -53048,7 +53059,7 @@
         "initialize": "",
         "finalize": "",
         "x": 3550,
-        "y": 1490,
+        "y": 1150,
         "wires": [
             [
                 "f28712cf.12333",
@@ -53068,7 +53079,7 @@
         "initialize": "",
         "finalize": "",
         "x": 3610,
-        "y": 1410,
+        "y": 1070,
         "wires": [
             [
                 "f28712cf.12333",
@@ -53089,7 +53100,7 @@
             "9a4415f9.400998"
         ],
         "x": 3825,
-        "y": 1320,
+        "y": 980,
         "wires": []
     },
     {
@@ -53113,7 +53124,7 @@
         "to": "",
         "reg": false,
         "x": 3960,
-        "y": 1370,
+        "y": 1030,
         "wires": [
             []
         ]
@@ -53139,7 +53150,7 @@
         "to": "",
         "reg": false,
         "x": 3950,
-        "y": 1410,
+        "y": 1070,
         "wires": [
             []
         ]
@@ -53165,7 +53176,7 @@
         "to": "",
         "reg": false,
         "x": 3970,
-        "y": 1450,
+        "y": 1110,
         "wires": [
             []
         ]
@@ -53191,7 +53202,7 @@
         "to": "",
         "reg": false,
         "x": 3940,
-        "y": 1490,
+        "y": 1150,
         "wires": [
             []
         ]
@@ -53208,7 +53219,7 @@
         "initialize": "",
         "finalize": "",
         "x": 3570,
-        "y": 1530,
+        "y": 1190,
         "wires": [
             [
                 "c404fb6a.ab0d48"
@@ -53236,7 +53247,7 @@
         "to": "",
         "reg": false,
         "x": 3950,
-        "y": 1530,
+        "y": 1190,
         "wires": [
             []
         ]
@@ -53253,7 +53264,7 @@
         "initialize": "",
         "finalize": "",
         "x": 3560,
-        "y": 1610,
+        "y": 1270,
         "wires": [
             [
                 "908d15a.2c73de8"
@@ -53281,7 +53292,7 @@
         "to": "",
         "reg": false,
         "x": 3950,
-        "y": 1610,
+        "y": 1270,
         "wires": [
             []
         ]
@@ -53307,7 +53318,7 @@
         "to": "",
         "reg": false,
         "x": 3950,
-        "y": 1570,
+        "y": 1230,
         "wires": [
             []
         ]
@@ -53324,7 +53335,7 @@
         "initialize": "",
         "finalize": "",
         "x": 3550,
-        "y": 1650,
+        "y": 1310,
         "wires": [
             [
                 "2249a8a.5b30458"
@@ -53343,7 +53354,7 @@
         "initialize": "",
         "finalize": "",
         "x": 3550,
-        "y": 1690,
+        "y": 1350,
         "wires": [
             [
                 "ff32f894.ee0898"
@@ -53362,7 +53373,7 @@
         "initialize": "",
         "finalize": "",
         "x": 3550,
-        "y": 1730,
+        "y": 1390,
         "wires": [
             [
                 "b9b8eb03.7d72f8"
@@ -53381,7 +53392,7 @@
         "initialize": "",
         "finalize": "",
         "x": 3560,
-        "y": 1570,
+        "y": 1230,
         "wires": [
             [
                 "d2ffdd1e.e26f5"
@@ -53409,7 +53420,7 @@
         "to": "",
         "reg": false,
         "x": 3930,
-        "y": 1730,
+        "y": 1390,
         "wires": [
             []
         ]
@@ -53435,7 +53446,7 @@
         "to": "",
         "reg": false,
         "x": 3930,
-        "y": 1690,
+        "y": 1350,
         "wires": [
             []
         ]
@@ -53461,7 +53472,7 @@
         "to": "",
         "reg": false,
         "x": 3930,
-        "y": 1650,
+        "y": 1310,
         "wires": [
             []
         ]
@@ -54542,7 +54553,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 3500,
+        "x": 4010,
         "y": 560,
         "wires": [
             [
@@ -54574,7 +54585,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 3500,
+        "x": 4010,
         "y": 640,
         "wires": [
             [
@@ -54701,8 +54712,8 @@
         "mode": "number",
         "delay": "0",
         "topic": "",
-        "x": 3340,
-        "y": 970,
+        "x": 640,
+        "y": 3050,
         "wires": [
             [
                 "414a0b6.f8782f4"
@@ -54725,8 +54736,8 @@
         "mode": "number",
         "delay": "0",
         "topic": "",
-        "x": 3310,
-        "y": 1010,
+        "x": 610,
+        "y": 3090,
         "wires": [
             [
                 "536151c4.3b59a"
@@ -54749,8 +54760,8 @@
         "mode": "number",
         "delay": "0",
         "topic": "",
-        "x": 3310,
-        "y": 1050,
+        "x": 610,
+        "y": 3130,
         "wires": [
             [
                 "2c3634ae.81d84c"
@@ -54777,8 +54788,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3590,
-        "y": 970,
+        "x": 890,
+        "y": 3050,
         "wires": [
             []
         ]
@@ -54803,8 +54814,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3600,
-        "y": 1010,
+        "x": 900,
+        "y": 3090,
         "wires": [
             []
         ]
@@ -54829,8 +54840,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3580,
-        "y": 1050,
+        "x": 880,
+        "y": 3130,
         "wires": [
             []
         ]
@@ -54844,8 +54855,8 @@
         "links": [
             "ad87cee4.7dbb5"
         ],
-        "x": 2875,
-        "y": 1010,
+        "x": 175,
+        "y": 3090,
         "wires": [
             [
                 "81c1af91.10aac",
@@ -54875,8 +54886,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3070,
-        "y": 970,
+        "x": 370,
+        "y": 3050,
         "wires": [
             [
                 "92b70746.754d88"
@@ -54903,8 +54914,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3080,
-        "y": 1010,
+        "x": 380,
+        "y": 3090,
         "wires": [
             [
                 "9663d146.d4c9e"
@@ -54931,8 +54942,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3070,
-        "y": 1050,
+        "x": 370,
+        "y": 3130,
         "wires": [
             [
                 "24e5985d.c31158"
@@ -54957,8 +54968,8 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 2840,
-        "y": 1050,
+        "x": 140,
+        "y": 3130,
         "wires": [
             [
                 "81c1af91.10aac",
@@ -55334,12 +55345,12 @@
         "z": "e86f0ca4.7feb5",
         "g": "e2e299a6.d3c5c8",
         "name": "PyModbus",
-        "showStatusActivities": false,
+        "showStatusActivities": true,
         "showErrors": true,
         "server": "3548b3b4.c8d65c",
         "emptyMsgOnFail": false,
         "keepMsgProperties": false,
-        "x": 3160,
+        "x": 3180,
         "y": 780,
         "wires": [
             [],
@@ -55352,7 +55363,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "e2e299a6.d3c5c8",
         "name": "Mapa Modbus",
-        "func": "var C2S         = global.get('C2S','memoryOnly')            || null;\nvar Np          = global.get('Motor_Control.Nameplate')     || null;\nvar LR          = global.get('Local/Remoto')                || null;     \nvar SC          = global.get('Speed_Control')               || null;\nvar Status      = global.get('Drive_Status','memoryOnly')   || null;\nvar PQA         = global.get('PQA','memoryOnly')            || null;\nvar MtrCurrent  = global.get('Motor.Current','memoryOnly')  || null;\nvar DHSelect    = flow.get('DownholeSensor.Number')         || 0;\nvar DHSData     = global.get('DownHoleData','memoryOnly')   || null;\n\n// Vector mapa Modbus\nvar Mapa = [];\n\nif(typeof C2S != 'undefined' && C2S != null){\n    Mapa[0]   = C2S.Output_Frecuency*10;\n    Mapa[1]   = C2S.Output_Voltage*10;\n    Mapa[2]   = C2S.Output_Current*10;\n    Mapa[8]   = C2S.Output_Power*10;\n    Mapa[10]  = C2S.Output_Voltage*10;\n    Mapa[12]  = C2S.Drive_Temp_C*10;\n    Mapa[14]  = C2S.Commanded_SpdRef;\n    Mapa[15]  = 1;                                        // No se ha definido. Estados Re-Arranque\n    Mapa[16]  = C2S.Bus_DC_Volts;\n    Mapa[17]  = 1;                                        // No se ha definido. Potencia aparente.\n    Mapa[18]  = C2S.Drive_Temp_C*10;\n    Mapa[19]  = Math.abs(C2S.Power_Factor*100);\n    Mapa[20]  = 1;                                        // No se ha definido. Relación TX Elevador.\n    Mapa[21]  = 1;                                        // No se ha definido. Delta Voltaje de caida actual.\n    Mapa[22]  = 1;                                        // No se ha definido. Presión Actual.\n    Mapa[23]  = 1;                                        // No se ha definido. Temperatura de entrada actual.\n    Mapa[24]  = 1;                                        // No se ha definido. Vibración bomba lado acople.\n    Mapa[47]  = 1;                                        // No se ha definido. Referencia prolongada.\n}\n\n// Datos placa de motor.\nif(typeof MtrCurrent != 'undefined' && MtrCurrent != null){\n    Mapa[3]   = MtrCurrent*10;\n}\n\n// Datos comando Local/Remoto.\nif(typeof DHSelect != 'undefined' && DHSelect != null){\n    Mapa[4]   = DHSelect;\n}\n\n// Datos comando Local/Remoto.\n//if(typeof LR != 'undefined' && LR != null){\n//    Mapa[4]   = LR == 'Local' ? 0:1;\n//}\n\n// Datos control de velocidad.\nif(typeof SC != 'undefined' && SC != null){\n    Mapa[5]   = SC.Accel;\n    Mapa[6]   = SC.Decel;\n    Mapa[9]   = SC.MinLimit*10;\n    Mapa[11]  = SC.MaxLimit*10;\n}\n// Datos estado C2S\nif(typeof Status != 'undefined' && Status != null){\n    Mapa[7]   = Status.Active;\n    Mapa[13]  = Status.Actual_dir == 1 ? 0:1;\n}\n\n// Datos PQA\nif(typeof PQA != 'undefined' && PQA != null){\n    Mapa[25]  = PQA.Real_Time_Parameters.Average_Line_Voltage*10;\n    Mapa[26]  = PQA.Real_Time_Parameters.Average_Phase_Voltage*10;\n    Mapa[27]  = PQA.Real_Time_Parameters.Average_Phase_Current*10;\n    Mapa[28]  = PQA.Real_Time_Parameters.Frequency*10;\n    Mapa[29]  = PQA.Real_Time_Parameters.Total_System_Power*10;\n    Mapa[30]  = PQA.Real_Time_Parameters.Total_Apparent_Power*10;\n    Mapa[31]  = PQA.Real_Time_Parameters.Total_Reactive_Power*10;\n    Mapa[32]  = PQA.Real_Time_Parameters.Total_Power_Factor*100;\n    Mapa[33]  = PQA.Real_Time_Parameters.Line_Voltage_1_2*10;\n    Mapa[34]  = PQA.Real_Time_Parameters.Line_Voltage_2_3*10;\n    Mapa[35]  = PQA.Real_Time_Parameters.Line_Voltage_3_1*10;\n    Mapa[36]  = PQA.Real_Time_Parameters.Phase_1_Voltage*10;\n    Mapa[37]  = PQA.Real_Time_Parameters.Phase_2_Voltage*10;\n    Mapa[38]  = PQA.Real_Time_Parameters.Phase_3_Voltage*10;\n    Mapa[39]  = PQA.Real_Time_Parameters.Total_Phase_A_Current*10;\n    Mapa[40]  = PQA.Real_Time_Parameters.Total_Phase_B_Current*10;\n    Mapa[41]  = PQA.Real_Time_Parameters.Total_Phase_C_Current*10;\n    Mapa[42]  = PQA.Real_Time_Parameters.Phase_A_Power*10;\n    Mapa[43]  = PQA.Real_Time_Parameters.Phase_B_Power*10;\n    Mapa[44]  = PQA.Real_Time_Parameters.Phase_C_Power*10;\n    Mapa[45]  = PQA.Harmonics.Power_Quality.THD_Iavg*10;\n    Mapa[46]  = PQA.Harmonics.Power_Quality.THD_avg*10;\n}\n\n// Datos Sensor de fondo\nif(typeof DHSData != 'undefined' && DHSData != null){\n    Mapa[47]  = DHSData.DHS[\"Presión de entrada\"];\n    Mapa[48]  = DHSData.DHS[\"Presión de descarga\"];\n    Mapa[49]  = DHSData.DHS[\"Temperatura de entrada\"];\n    Mapa[50]  = DHSData.DHS[\"Temperatura de descarga\"];\n    Mapa[51]  = DHSData.DHS[\"Temperatura de motor\"];\n    Mapa[52]  = DHSData.DHS[\"Presión de casing\"];\n    Mapa[53]  = DHSData.DHS[\"Presión de cabeza THP\"];\n    Mapa[54]  = DHSData.DHS[\"Temperatura de cabeza THT\"];\n}\n\nmsg.payload = { \n    value: Mapa, \n    'fc': 16,\n    'unitid': 1, \n    'address': 0 , \n    'quantity': Mapa.length \n} \nreturn msg;",
+        "func": "var C2S         = global.get('C2S','memoryOnly')                || null;\nvar Np          = global.get('Motor_Control.Nameplate')         || null;\nvar LR          = global.get('Local/Remoto')                    || null;     \nvar SC          = global.get('Speed_Control')                   || null;\nvar Status      = global.get('Drive_Status','memoryOnly')       || null;\nvar PQA         = global.get('PQA','memoryOnly')                || null;\nvar MtrCurrent  = global.get('Motor.Current','memoryOnly')      || null;\nvar DHSelect    = flow.get('DownholeSensor.Number')             || 0;\nvar DHSData     = global.get('DownHoleData.DHS','memoryOnly')   || null;\n\n// Vector mapa Modbus\nvar Mapa = [];\n\nif(typeof C2S != 'undefined' && C2S != null){\n    Mapa[0]   = parseInt(C2S.Output_Frecuency*10);\n    Mapa[1]   = parseInt(C2S.Output_Voltage*10);\n    Mapa[2]   = parseInt(C2S.Output_Current*10);\n    Mapa[8]   = parseInt(C2S.Output_Power*10);\n    Mapa[10]  = parseInt(C2S.Output_Voltage*10);\n    Mapa[12]  = parseInt(C2S.Drive_Temp_C*10);\n    Mapa[14]  = parseInt(C2S.Commanded_SpdRef);\n    Mapa[15]  = 1;                                        // No se ha definido. Estados Re-Arranque\n    Mapa[16]  = parseInt(C2S.Bus_DC_Volts);\n    Mapa[17]  = 1;                                        // No se ha definido. Potencia aparente.\n    Mapa[18]  = parseInt(C2S.Drive_Temp_C*10);\n    Mapa[19]  = parseInt(Math.abs(C2S.Power_Factor*100));\n    Mapa[20]  = 1;                                        // No se ha definido. Relación TX Elevador.\n    Mapa[21]  = 1;                                        // No se ha definido. Delta Voltaje de caida actual.\n    Mapa[22]  = 1;                                        // No se ha definido. Presión Actual.\n    Mapa[23]  = 1;                                        // No se ha definido. Temperatura de entrada actual.\n    Mapa[24]  = 1;                                        // No se ha definido. Vibración bomba lado acople.\n    Mapa[47]  = 1;                                        // No se ha definido. Referencia prolongada.\n}\n\n// Datos placa de motor.\nif(typeof MtrCurrent != 'undefined' && MtrCurrent != null){\n    Mapa[3]   = parseInt(MtrCurrent*10);\n}\n\n// Datos comando Local/Remoto.\nif(typeof DHSelect != 'undefined' && DHSelect != null){\n    Mapa[4]   = parseInt(DHSelect);\n}\n\n// Datos comando Local/Remoto.\n//if(typeof LR != 'undefined' && LR != null){\n//    Mapa[4]   = LR == 'Local' ? 0:1;\n//}\n\n// Datos control de velocidad.\nif(typeof SC != 'undefined' && SC != null){\n    Mapa[5]   = parseInt(SC.Accel);\n    Mapa[6]   = parseInt(SC.Decel);\n    Mapa[9]   = parseInt(SC.MinLimit*10);\n    Mapa[11]  = parseInt(SC.MaxLimit*10);\n}\n// Datos estado C2S\nif(typeof Status != 'undefined' && Status != null){\n    Mapa[7]   = Status.Active;\n    Mapa[13]  = Status.Actual_dir == 1 ? 0:1;\n}\n\n// Datos PQA\nif(typeof PQA != 'undefined' && PQA != null){\n    Mapa[25]  = parseInt(PQA.Real_Time_Parameters.Average_Line_Voltage*10);\n    Mapa[26]  = parseInt(PQA.Real_Time_Parameters.Average_Phase_Voltage*10);\n    Mapa[27]  = parseInt(PQA.Real_Time_Parameters.Average_Phase_Current*10);\n    Mapa[28]  = parseInt(PQA.Real_Time_Parameters.Frequency*10);\n    Mapa[29]  = parseInt(PQA.Real_Time_Parameters.Total_System_Power*10);\n    Mapa[30]  = parseInt(PQA.Real_Time_Parameters.Total_Apparent_Power*10);\n    Mapa[31]  = parseInt(Math.abs(PQA.Real_Time_Parameters.Total_Reactive_Power*10));\n    Mapa[32]  = parseInt(PQA.Real_Time_Parameters.Total_Power_Factor*100);\n    Mapa[33]  = parseInt(PQA.Real_Time_Parameters.Line_Voltage_1_2*10);\n    Mapa[34]  = parseInt(PQA.Real_Time_Parameters.Line_Voltage_2_3*10);\n    Mapa[35]  = parseInt(PQA.Real_Time_Parameters.Line_Voltage_3_1*10);\n    Mapa[36]  = parseInt(PQA.Real_Time_Parameters.Phase_1_Voltage*10);\n    Mapa[37]  = parseInt(PQA.Real_Time_Parameters.Phase_2_Voltage*10);\n    Mapa[38]  = parseInt(PQA.Real_Time_Parameters.Phase_3_Voltage*10);\n    Mapa[39]  = parseInt(PQA.Real_Time_Parameters.Total_Phase_A_Current*10);\n    Mapa[40]  = parseInt(PQA.Real_Time_Parameters.Total_Phase_B_Current*10);\n    Mapa[41]  = parseInt(PQA.Real_Time_Parameters.Total_Phase_C_Current*10);\n    Mapa[42]  = parseInt(PQA.Real_Time_Parameters.Phase_A_Power*10);\n    Mapa[43]  = parseInt(PQA.Real_Time_Parameters.Phase_B_Power*10);\n    Mapa[44]  = parseInt(PQA.Real_Time_Parameters.Phase_C_Power*10);\n    Mapa[45]  = parseInt(PQA.Harmonics.Power_Quality.THD_Iavg*10);\n    Mapa[46]  = parseInt(PQA.Harmonics.Power_Quality.THD_avg*10);\n}\n\n// Datos Sensor de fondo\nif(typeof DHSData != 'undefined' && DHSData != null && Object.keys(DHSData).length != 0){\n    Mapa[47]  = parseInt(typeof DHSData[\"Presión de entrada\"]           != 'undefined' ? DHSData[\"Presión de entrada\"]:0 );\n    Mapa[48]  = parseInt(typeof DHSData[\"Presión de descarga\"]          != 'undefined' ? DHSData[\"Presión de descarga\"]:0);\n    Mapa[49]  = parseInt(typeof DHSData[\"Temperatura de entrada\"]       != 'undefined' ? DHSData[\"Temperatura de entrada\"]:0);\n    Mapa[50]  = parseInt(typeof DHSData[\"Temperatura de descarga\"]      != 'undefined' ? DHSData[\"Temperatura de descarga\"]:0);\n    Mapa[51]  = parseInt(typeof DHSData[\"Temperatura de motor\"]         != 'undefined' ? DHSData[\"Temperatura de motor\"]:0);\n    Mapa[52]  = parseInt(typeof DHSData[\"Presión de casing\"]            != 'undefined' ? DHSData[\"Presión de casing\"]:0);\n    Mapa[53]  = parseInt(typeof DHSData[\"Presión de cabeza THP\"]        != 'undefined' ? DHSData[\"Presión de cabeza THP\"]:0);\n    Mapa[54]  = parseInt(typeof DHSData[\"Temperatura de cabeza THT\"]    != 'undefined' ? DHSData[\"Temperatura de cabeza THT\"]:0);\n}\n\n\nmsg.payload = { \n    value: Mapa, \n    'fc': 16,\n    'unitid': 1, \n    'address': 0 , \n    'quantity': Mapa.length \n} \nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -55377,7 +55388,7 @@
                 "p": "payload"
             }
         ],
-        "repeat": "1",
+        "repeat": "1.5",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
@@ -58908,7 +58919,7 @@
         "name": "Catch Modbus",
         "scope": [
             "a114a289.8a1e4",
-            "132cee6.94f6e12"
+            "e090fa5b.c9b178"
         ],
         "uncaught": false,
         "x": 3340,
@@ -58951,8 +58962,8 @@
         "targetType": "msg",
         "statusVal": "payload[50]",
         "statusType": "auto",
-        "x": 3060,
-        "y": 690,
+        "x": 3570,
+        "y": 590,
         "wires": []
     },
     {
@@ -59070,7 +59081,7 @@
         "raw": false,
         "topic": "",
         "name": "",
-        "x": 3990,
+        "x": 4500,
         "y": 580,
         "wires": []
     },
@@ -59099,7 +59110,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3710,
+        "x": 4220,
         "y": 580,
         "wires": [
             [
@@ -59133,7 +59144,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3700,
+        "x": 4210,
         "y": 660,
         "wires": [
             [
@@ -59151,7 +59162,7 @@
         "links": [
             "59e817c2.295b38"
         ],
-        "x": 3815,
+        "x": 4325,
         "y": 620,
         "wires": []
     },
@@ -59184,8 +59195,8 @@
         ],
         "payload": "",
         "topic": "",
-        "x": 3300,
-        "y": 1090,
+        "x": 600,
+        "y": 3170,
         "wires": [
             [
                 "bd75f70f.817618"
@@ -59221,8 +59232,8 @@
         ],
         "payload": "",
         "topic": "",
-        "x": 3310,
-        "y": 1140,
+        "x": 610,
+        "y": 3220,
         "wires": [
             [
                 "6ffccbee.459604"
@@ -59249,8 +59260,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3060,
-        "y": 1090,
+        "x": 360,
+        "y": 3170,
         "wires": [
             [
                 "f5961222.b159d"
@@ -59277,8 +59288,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3070,
-        "y": 1140,
+        "x": 370,
+        "y": 3220,
         "wires": [
             [
                 "cae743a.41ddcc"
@@ -59305,8 +59316,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3580,
-        "y": 1090,
+        "x": 880,
+        "y": 3170,
         "wires": [
             []
         ]
@@ -59331,8 +59342,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3590,
-        "y": 1140,
+        "x": 890,
+        "y": 3220,
         "wires": [
             []
         ]
@@ -59350,8 +59361,8 @@
         "label": "Rtx: ",
         "format": "{{msg.payload}}",
         "layout": "row-left",
-        "x": 4110,
-        "y": 1000,
+        "x": 3040,
+        "y": 2600,
         "wires": []
     },
     {
@@ -59367,8 +59378,8 @@
         "label": "Rtx: ",
         "format": "{{msg.payload}}",
         "layout": "row-left",
-        "x": 4110,
-        "y": 1040,
+        "x": 3040,
+        "y": 2640,
         "wires": []
     },
     {
@@ -59384,8 +59395,8 @@
         "label": "Tensión Motor",
         "format": "<font size = 8px> {{msg.payload}}V",
         "layout": "col-center",
-        "x": 4140,
-        "y": 1080,
+        "x": 3070,
+        "y": 2680,
         "wires": []
     },
     {
@@ -59401,8 +59412,8 @@
         "label": "Corriente Motor",
         "format": "<font size = 8px> {{msg.payload}}A",
         "layout": "col-center",
-        "x": 4140,
-        "y": 1160,
+        "x": 3070,
+        "y": 2760,
         "wires": []
     },
     {
@@ -59416,8 +59427,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 3970,
-        "y": 1000,
+        "x": 2900,
+        "y": 2600,
         "wires": [
             [
                 "612cc7cf.567ad8",
@@ -59436,8 +59447,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 3970,
-        "y": 1080,
+        "x": 2900,
+        "y": 2680,
         "wires": [
             [
                 "c12718f2.0931d8",
@@ -59456,8 +59467,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 3970,
-        "y": 1160,
+        "x": 2900,
+        "y": 2760,
         "wires": [
             [
                 "c4d711ba.787d",
@@ -59516,8 +59527,8 @@
             "ad87cee4.7dbb5",
             "e6dcbeb6.ceddc"
         ],
-        "x": 3825,
-        "y": 1000,
+        "x": 2755,
+        "y": 2600,
         "wires": [
             [
                 "f30ebf17.3bacb",
@@ -59545,8 +59556,8 @@
         "payload": "",
         "payloadType": "str",
         "topic": "",
-        "x": 3280,
-        "y": 1180,
+        "x": 580,
+        "y": 3260,
         "wires": [
             []
         ]
@@ -59629,8 +59640,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 2080,
-        "y": 1540,
+        "x": 2090,
+        "y": 1350,
         "wires": []
     },
     {
@@ -59643,49 +59654,13 @@
             "2813ded5.10a312"
         ],
         "uncaught": false,
-        "x": 1910,
-        "y": 1540,
+        "x": 1920,
+        "y": 1350,
         "wires": [
             [
                 "86b92a12.8d03a8"
             ]
         ]
-    },
-    {
-        "id": "bb2985cb.dc9528",
-        "type": "catch",
-        "z": "e86f0ca4.7feb5",
-        "g": "b974d4b3.9e3f78",
-        "name": "Erroes escritura Cubloc",
-        "scope": [
-            "d2ef2515.318b48"
-        ],
-        "uncaught": false,
-        "x": 520,
-        "y": 2350,
-        "wires": [
-            [
-                "d2dd56dc.b7a0e8"
-            ]
-        ]
-    },
-    {
-        "id": "d2dd56dc.b7a0e8",
-        "type": "debug",
-        "z": "e86f0ca4.7feb5",
-        "g": "b974d4b3.9e3f78",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 690,
-        "y": 2350,
-        "wires": []
     },
     {
         "id": "5f2867aa.83ab38",
@@ -60794,7 +60769,7 @@
         "to": "",
         "reg": false,
         "x": 3170,
-        "y": 1820,
+        "y": 1480,
         "wires": [
             []
         ]
@@ -60820,7 +60795,7 @@
         "to": "",
         "reg": false,
         "x": 3170,
-        "y": 1860,
+        "y": 1520,
         "wires": [
             []
         ]
@@ -60846,7 +60821,7 @@
         "to": "",
         "reg": false,
         "x": 2880,
-        "y": 1820,
+        "y": 1480,
         "wires": [
             [
                 "c21fcbd2.2769b8"
@@ -60874,7 +60849,7 @@
         "to": "",
         "reg": false,
         "x": 2880,
-        "y": 1860,
+        "y": 1520,
         "wires": [
             [
                 "8b6bbe7b.4904"
@@ -60891,7 +60866,7 @@
             "ad87cee4.7dbb5"
         ],
         "x": 2785,
-        "y": 1840,
+        "y": 1500,
         "wires": [
             [
                 "9878975f.93b028",
@@ -60919,7 +60894,7 @@
         "payloadType": "flow",
         "topic": "",
         "x": 2890,
-        "y": 1900,
+        "y": 1560,
         "wires": [
             [
                 "b1c3a494.293518"
@@ -60947,7 +60922,7 @@
         "to": "",
         "reg": false,
         "x": 3170,
-        "y": 1900,
+        "y": 1560,
         "wires": [
             []
         ]
@@ -60969,7 +60944,7 @@
         "delay": "10",
         "topic": "",
         "x": 3000,
-        "y": 1820,
+        "y": 1480,
         "wires": [
             [
                 "17c14989.ef5f76"
@@ -60993,7 +60968,7 @@
         "delay": "10",
         "topic": "",
         "x": 3000,
-        "y": 1860,
+        "y": 1520,
         "wires": [
             [
                 "22056c13.f9b174"
@@ -61312,7 +61287,7 @@
         "payload": "",
         "topic": "DownholeSensor_Brand",
         "x": 3230,
-        "y": 2090,
+        "y": 1710,
         "wires": [
             [
                 "ec994a08.2df8b8"
@@ -61336,7 +61311,7 @@
         "delay": 300,
         "topic": "ID_Downhole",
         "x": 3200,
-        "y": 2140,
+        "y": 1760,
         "wires": [
             [
                 "12b0045f.8d610c"
@@ -61353,7 +61328,7 @@
             "ad87cee4.7dbb5"
         ],
         "x": 2785,
-        "y": 2140,
+        "y": 1760,
         "wires": [
             [
                 "2c7f0a4a.5cdbe6"
@@ -61391,7 +61366,7 @@
         "payload": "",
         "topic": "DownholeSensor_Protocol",
         "x": 3210,
-        "y": 2190,
+        "y": 1810,
         "wires": [
             [
                 "16b64fab.dbb22"
@@ -61434,7 +61409,7 @@
         "initialize": "if(flow.get(\"DownholeSensor\") == undefined){\n    flow.set(\"DownholeSensor.Brand_DHS\",\"Ninguno\");\n    flow.set(\"DownholeSensor.ID\",253);\n    flow.set(\"DownholeSensor.Protocol\",\"RS485\");\n}",
         "finalize": "",
         "x": 2870,
-        "y": 2140,
+        "y": 1760,
         "wires": [
             [
                 "e755d972.51be38",
@@ -61464,7 +61439,7 @@
         "to": "",
         "reg": false,
         "x": 3020,
-        "y": 2090,
+        "y": 1710,
         "wires": [
             [
                 "2e9fdc57.907424"
@@ -61492,7 +61467,7 @@
         "to": "",
         "reg": false,
         "x": 3020,
-        "y": 2140,
+        "y": 1760,
         "wires": [
             [
                 "bcbc4f06.97315"
@@ -61520,7 +61495,7 @@
         "to": "",
         "reg": false,
         "x": 3030,
-        "y": 2190,
+        "y": 1810,
         "wires": [
             [
                 "5827de1e.b3965"
@@ -61548,7 +61523,7 @@
         "to": "",
         "reg": false,
         "x": 3420,
-        "y": 2090,
+        "y": 1710,
         "wires": [
             []
         ]
@@ -61574,7 +61549,7 @@
         "to": "",
         "reg": false,
         "x": 3420,
-        "y": 2140,
+        "y": 1760,
         "wires": [
             []
         ]
@@ -61600,7 +61575,7 @@
         "to": "",
         "reg": false,
         "x": 3430,
-        "y": 2190,
+        "y": 1810,
         "wires": [
             []
         ]
@@ -61706,7 +61681,7 @@
         "outputs": 0,
         "cts": false,
         "x": 3440,
-        "y": 2360,
+        "y": 1980,
         "wires": []
     },
     {
@@ -61730,7 +61705,7 @@
         "to": "",
         "reg": false,
         "x": 3170,
-        "y": 2280,
+        "y": 1900,
         "wires": [
             [
                 "a382052a.d8aa18",
@@ -61749,7 +61724,7 @@
         ],
         "uncaught": false,
         "x": 2840,
-        "y": 2400,
+        "y": 2020,
         "wires": [
             [
                 "d5131ced.0892d"
@@ -61805,7 +61780,7 @@
         "repair": false,
         "outputs": 7,
         "x": 2980,
-        "y": 2400,
+        "y": 2020,
         "wires": [
             [
                 "ab0727da.a53ac8"
@@ -61851,7 +61826,7 @@
         "to": "",
         "reg": false,
         "x": 3160,
-        "y": 2320,
+        "y": 1940,
         "wires": [
             [
                 "a382052a.d8aa18",
@@ -61880,7 +61855,7 @@
         "to": "",
         "reg": false,
         "x": 3190,
-        "y": 2360,
+        "y": 1980,
         "wires": [
             [
                 "a382052a.d8aa18",
@@ -61909,7 +61884,7 @@
         "to": "",
         "reg": false,
         "x": 3180,
-        "y": 2400,
+        "y": 2020,
         "wires": [
             [
                 "a382052a.d8aa18",
@@ -61938,7 +61913,7 @@
         "to": "",
         "reg": false,
         "x": 3170,
-        "y": 2440,
+        "y": 2060,
         "wires": [
             [
                 "a382052a.d8aa18",
@@ -61967,7 +61942,7 @@
         "to": "",
         "reg": false,
         "x": 3160,
-        "y": 2480,
+        "y": 2100,
         "wires": [
             [
                 "a382052a.d8aa18",
@@ -61996,7 +61971,7 @@
         "to": "",
         "reg": false,
         "x": 3190,
-        "y": 2520,
+        "y": 2140,
         "wires": [
             [
                 "a382052a.d8aa18",
@@ -62014,7 +61989,7 @@
         "action": "obj",
         "pretty": false,
         "x": 3440,
-        "y": 2400,
+        "y": 2020,
         "wires": [
             [
                 "1a2660d3.c50b5f"
@@ -62042,7 +62017,7 @@
         "to": "",
         "reg": false,
         "x": 3580,
-        "y": 2400,
+        "y": 2020,
         "wires": [
             []
         ]
@@ -62067,7 +62042,7 @@
         "topic": "",
         "payloadType": "str",
         "x": 2840,
-        "y": 2740,
+        "y": 2360,
         "wires": [
             [
                 "9a8806c3.c971a8"
@@ -62125,7 +62100,7 @@
         "initialize": "",
         "finalize": "",
         "x": 3040,
-        "y": 2740,
+        "y": 2360,
         "wires": [
             [
                 "7b7a47b.51bdfb8"
@@ -62148,7 +62123,7 @@
         "emptyMsgOnFail": true,
         "keepMsgProperties": true,
         "x": 3260,
-        "y": 2740,
+        "y": 2360,
         "wires": [
             [
                 "3d698efd.3e4e82",
@@ -62169,7 +62144,7 @@
         "initialize": "",
         "finalize": "",
         "x": 3440,
-        "y": 2740,
+        "y": 2360,
         "wires": []
     },
     {
@@ -62183,7 +62158,7 @@
         ],
         "uncaught": false,
         "x": 2840,
-        "y": 2610,
+        "y": 2230,
         "wires": [
             [
                 "85a003b1.e1e26"
@@ -62211,7 +62186,7 @@
         "to": "",
         "reg": false,
         "x": 3040,
-        "y": 2610,
+        "y": 2230,
         "wires": [
             [
                 "a9df7a9b.8847d8"
@@ -62230,7 +62205,7 @@
         "initialize": "",
         "finalize": "",
         "x": 3230,
-        "y": 2610,
+        "y": 2230,
         "wires": []
     },
     {
@@ -62243,7 +62218,7 @@
             "ad87cee4.7dbb5"
         ],
         "x": 2895,
-        "y": 2650,
+        "y": 2270,
         "wires": [
             [
                 "85a003b1.e1e26"
@@ -63019,7 +62994,7 @@
         "repair": false,
         "outputs": 2,
         "x": 3410,
-        "y": 2800,
+        "y": 2420,
         "wires": [
             [
                 "ad027547.9a9c48"
@@ -63056,7 +63031,7 @@
         "allowColorForValueInMessage": false,
         "name": "",
         "x": 3710,
-        "y": 2780,
+        "y": 2400,
         "wires": []
     },
     {
@@ -63080,7 +63055,7 @@
         "to": "",
         "reg": false,
         "x": 3560,
-        "y": 2780,
+        "y": 2400,
         "wires": [
             [
                 "7b67956.808d16c"
@@ -63108,7 +63083,7 @@
         "to": "",
         "reg": false,
         "x": 3560,
-        "y": 2820,
+        "y": 2440,
         "wires": [
             [
                 "7b67956.808d16c"
@@ -63913,8 +63888,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 4170,
-        "y": 1120,
+        "x": 3100,
+        "y": 2720,
         "wires": [
             []
         ]
@@ -63939,8 +63914,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 4170,
-        "y": 1200,
+        "x": 3100,
+        "y": 2800,
         "wires": [
             []
         ]
@@ -64988,7 +64963,7 @@
         "g": "dde9e22c.88ef2",
         "name": "",
         "pauseType": "delay",
-        "timeout": "3",
+        "timeout": "5",
         "timeoutUnits": "seconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -65016,7 +64991,7 @@
         ],
         "uncaught": false,
         "x": 3610,
-        "y": 2140,
+        "y": 1760,
         "wires": [
             [
                 "341c89fa.21c126"
@@ -65035,7 +65010,7 @@
         "initialize": "",
         "finalize": "",
         "x": 3810,
-        "y": 2140,
+        "y": 1760,
         "wires": []
     },
     {
@@ -65045,14 +65020,14 @@
         "g": "f6e30287.8d13d",
         "name": "PyModbusServer",
         "topic": "",
-        "showStatusActivities": false,
+        "showStatusActivities": true,
         "logIOActivities": false,
         "showErrors": false,
         "unitid": "1",
         "dataType": "HoldingRegister",
         "adr": "56",
         "quantity": "1",
-        "rate": "2",
+        "rate": "1",
         "rateUnit": "s",
         "delayOnStart": false,
         "startDelayTime": "",
@@ -65061,11 +65036,11 @@
         "ioFile": "",
         "useIOForPayload": false,
         "emptyMsgOnFail": false,
-        "x": 3910,
+        "x": 3980,
         "y": 780,
         "wires": [
             [
-                "6790da83.2d4c54"
+                "a9157021.56aa2"
             ],
             []
         ]
@@ -65084,7 +65059,7 @@
         "targetType": "msg",
         "statusVal": "payload[50]",
         "statusType": "auto",
-        "x": 4080,
+        "x": 4660,
         "y": 820,
         "wires": []
     },
@@ -65097,7 +65072,7 @@
         "links": [
             "d428246e.250f38"
         ],
-        "x": 4465,
+        "x": 4725,
         "y": 780,
         "wires": []
     },
@@ -65145,7 +65120,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 4210,
+        "x": 4470,
         "y": 780,
         "wires": [
             [
@@ -65178,26 +65153,8 @@
         "y": 830,
         "wires": [
             [
-                "132cee6.94f6e12"
+                "c1702022.91ab1"
             ]
-        ]
-    },
-    {
-        "id": "132cee6.94f6e12",
-        "type": "modbus-flex-write",
-        "z": "e86f0ca4.7feb5",
-        "g": "e2e299a6.d3c5c8",
-        "name": "Cubloc RS-232",
-        "showStatusActivities": false,
-        "showErrors": true,
-        "server": "f630cb55.8d18e8",
-        "emptyMsgOnFail": false,
-        "keepMsgProperties": false,
-        "x": 3170,
-        "y": 830,
-        "wires": [
-            [],
-            []
         ]
     },
     {
@@ -65218,7 +65175,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 4060,
+        "x": 4320,
         "y": 780,
         "wires": [
             [
@@ -65551,11 +65508,1146 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 4380,
+        "x": 4640,
         "y": 780,
         "wires": [
             [
                 "2b0080ad.3ac38"
+            ]
+        ]
+    },
+    {
+        "id": "2c57a2f1.46b13e",
+        "type": "debug",
+        "z": "e86f0ca4.7feb5",
+        "g": "e2e299a6.d3c5c8",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 3630,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "41b78365.d9c2dc",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "15ca143a.56aa5c",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1.5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 1440,
+        "y": 1290,
+        "wires": [
+            [
+                "a95021da.6a8c1",
+                "e733e0b4.8726a",
+                "b2d57d3c.2471d"
+            ]
+        ]
+    },
+    {
+        "id": "7066175f.071ce8",
+        "type": "switch",
+        "z": "e86f0ca4.7feb5",
+        "g": "f6e30287.8d13d",
+        "name": "SCADA RTU",
+        "property": "SCADA.Type",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "RTU",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 4150,
+        "y": 830,
+        "wires": [
+            [
+                "6790da83.2d4c54"
+            ]
+        ]
+    },
+    {
+        "id": "a9157021.56aa2",
+        "type": "switch",
+        "z": "e86f0ca4.7feb5",
+        "g": "f6e30287.8d13d",
+        "name": "SCADA TCP",
+        "property": "SCADA.Type",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "TCP",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 4150,
+        "y": 780,
+        "wires": [
+            [
+                "6790da83.2d4c54"
+            ]
+        ]
+    },
+    {
+        "id": "75c0e161.43a1c",
+        "type": "switch",
+        "z": "e86f0ca4.7feb5",
+        "g": "70d8d562.df63ac",
+        "name": "SCADA TCP",
+        "property": "SCADA.Type",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "TCP",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3400,
+        "y": 640,
+        "wires": [
+            [
+                "21fd4ac4.46c936",
+                "20c7cde4.586f82"
+            ]
+        ]
+    },
+    {
+        "id": "ead1502b.eb49",
+        "type": "switch",
+        "z": "e86f0ca4.7feb5",
+        "g": "70d8d562.df63ac",
+        "name": "SCADA RTU",
+        "property": "SCADA.Type",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "RTU",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3400,
+        "y": 690,
+        "wires": [
+            [
+                "21fd4ac4.46c936",
+                "46cdb592.10060c"
+            ]
+        ]
+    },
+    {
+        "id": "74bc05ce.cdaebc",
+        "type": "inject",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 2650,
+        "y": 360,
+        "wires": [
+            [
+                "1286dd4c.802a73"
+            ]
+        ]
+    },
+    {
+        "id": "c1702022.91ab1",
+        "type": "link out",
+        "z": "e86f0ca4.7feb5",
+        "g": "e2e299a6.d3c5c8",
+        "name": "Escribir Cubloc Link Out",
+        "links": [
+            "6c3ffbf8.b31304",
+            "df1db23d.b2458",
+            "8549dcde.c5de1"
+        ],
+        "x": 3105,
+        "y": 830,
+        "wires": []
+    },
+    {
+        "id": "f7d52c85.918f3",
+        "type": "modbus-getter",
+        "z": "e86f0ca4.7feb5",
+        "g": "f6e30287.8d13d",
+        "name": "",
+        "showStatusActivities": true,
+        "showErrors": false,
+        "logIOActivities": false,
+        "unitid": "",
+        "dataType": "InputRegister",
+        "adr": "28748",
+        "quantity": "1",
+        "server": "f630cb55.8d18e8",
+        "useIOFile": false,
+        "ioFile": "",
+        "useIOForPayload": false,
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 3980,
+        "y": 830,
+        "wires": [
+            [
+                "7066175f.071ce8"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "5860880e.39b3a8",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "9c35c44f.bafb68",
+        "name": "Salidas Digitales",
+        "func": "var ES = flow.get('ES')||null;\nvar Drive_Status = global.get('Drive_Status','memoryOnly') || null;\nvar ActFunctions = flow.get('ActFunctions','memoryOnly') || null;\nvar Prot = global.get('Protections.RFlag','memoryOnly') || false;\nvar FA = global.get('Filtro_armonicos.Estado','memoryOnly')||false;\n\n// Arreglo de Canales\nvar Data    = { \n    32:false, 33:false, 34:false, 35:false, \n    36:false, 37:false, 38:false, 39:false, \n    40:false, 41:false, 42:false, 43:false\n};\n\n// Obtener llaves del objeto Data\nvar Canal = Object.keys(Data);\n// Declaración del string con \nvar canalmsg;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"CILA2S_EN_MARCHA\"          : Drive_Status != null ? (Drive_Status.Active == 1 ? true:false): false ,\n    \"FALLA_GENERAL\"             : Drive_Status != null ? (Drive_Status.Fault  == 1 ? true:false || Prot):false, \n    \"DISPARO_BREAKER_MODULO_ESD\": InFunction(ActFunctions,'Stop_ESD') || InFunction(ActFunctions,'Disparo_bajo_bajo_aceite_SUT') || InFunction(ActFunctions,'Disparo_valvula_sobrepresion') ||InFunction(ActFunctions,'Disparo_alta_temperatura_SUT') || InFunction(ActFunctions,'Disparo_alta_temperatura_filtros'|| InFunction(ActFunctions,'Disparo_Alta_presión_THP'),InFunction(ActFunctions,'Disparo_sobre_tensión_SUT'),InFunction(ActFunctions,'ESD_Remoto'),InFunction(ActFunctions,'Proteccion_termica_de_motor')),\n    \"BYPASS_FILTRO_ARMONICOS\"   : FA,\n    \"SIMULACION\"                : InFunction(ActFunctions,'Simulación')\n}\n\n// Funciones que se activan desde una entrada digital\nfunction InFunction(Var,Str){\n    for(var j = 0; j < Var.length; j++){\n        if(Var[j].Funcion == Str){\n            return Var[j].Estado;\n        }\n    }\n}\n\n// Llaves del vector FuncionesC2S\nvar Keys = Object.keys(FuncionC2S);\n\n// Para cada canal de salida\nfor(var i=0; i <Canal.length; i++){\n    canalmsg ='Canal'+ Canal[i];\n    // Si la configuración del canal está declarada\n    if(typeof ES.SD[canalmsg] != 'undefined'){\n        // Para cada llave del vector FuncionesC2S que coincida con la configuración del canal\n        for(var j=0; j<Keys.length; j++){\n            if(ES.SD[canalmsg].Funcion == Keys[j]){\n                // Asignar el valor contenido en el vector de funciones al canal de salida\n                Data[Canal[i]] = ES.SD[canalmsg].Tipo == \"NO\" ? FuncionC2S[Keys[j]]:!FuncionC2S[Keys[j]];\n            } \n        }\n    }\n}\n\n// Asignar variable con los valores a escribir  (Se puede eliminar al asignar directamente).\nvar values = Object.values(Data);\n\n// Escribir datos en el Cubloc\nmsg.payload = { \n    value: values, \n    'fc': 15, \n    'unitid': 1, \n    'address': 4096, \n    'quantity': 12 \n}\n\n// Retorno del mensaje\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1450,
+        "y": 1150,
+        "wires": [
+            [
+                "11dc938e.1057fc",
+                "a74660ea.b55d5"
+            ]
+        ],
+        "inputLabels": [
+            "Activar función"
+        ],
+        "outputLabels": [
+            "Canal32"
+        ]
+    },
+    {
+        "id": "11dc938e.1057fc",
+        "type": "debug",
+        "z": "e86f0ca4.7feb5",
+        "g": "9c35c44f.bafb68",
+        "name": "",
+        "active": false,
+        "tosidebar": false,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload.value[1]",
+        "targetType": "msg",
+        "statusVal": "payload.value[1]",
+        "statusType": "auto",
+        "x": 1680,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "73c41dda.f792a4",
+        "type": "catch",
+        "z": "e86f0ca4.7feb5",
+        "g": "9c35c44f.bafb68",
+        "name": "Erroes escritura Cubloc",
+        "scope": [
+            "a74660ea.b55d5"
+        ],
+        "uncaught": false,
+        "x": 1660,
+        "y": 1200,
+        "wires": [
+            [
+                "77985c2b.8a2e74"
+            ]
+        ]
+    },
+    {
+        "id": "77985c2b.8a2e74",
+        "type": "debug",
+        "z": "e86f0ca4.7feb5",
+        "g": "9c35c44f.bafb68",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1830,
+        "y": 1200,
+        "wires": []
+    },
+    {
+        "id": "a74660ea.b55d5",
+        "type": "modbus-flex-write",
+        "z": "e86f0ca4.7feb5",
+        "g": "9c35c44f.bafb68",
+        "name": "",
+        "showStatusActivities": true,
+        "showErrors": false,
+        "server": "f630cb55.8d18e8",
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 1670,
+        "y": 1150,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "c6eda5d6.4dc858",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "f6e30287.8d13d",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1.5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 3830,
+        "y": 830,
+        "wires": [
+            [
+                "f7d52c85.918f3"
+            ]
+        ]
+    },
+    {
+        "id": "cd193416.856358",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "70d8d562.df63ac",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1.5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 2840,
+        "y": 690,
+        "wires": [
+            [
+                "eaf3c61f.78e7d8"
+            ]
+        ]
+    },
+    {
+        "id": "7940a891.ccd658",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "e41c42c4.24372",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 4290,
+        "y": 960,
+        "wires": [
+            [
+                "10f739e5.6ce8d6"
+            ]
+        ]
+    },
+    {
+        "id": "ff7e622b.cbe3",
+        "type": "debug",
+        "z": "e86f0ca4.7feb5",
+        "g": "e41c42c4.24372",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 4870,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "8549dcde.c5de1",
+        "type": "link in",
+        "z": "e86f0ca4.7feb5",
+        "g": "9c35c44f.bafb68",
+        "name": "Escribir Cubloc Link In",
+        "links": [
+            "c1702022.91ab1"
+        ],
+        "x": 1515,
+        "y": 1110,
+        "wires": [
+            [
+                "a74660ea.b55d5"
+            ]
+        ]
+    },
+    {
+        "id": "87774c25.375c4",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "8f02baa.cd86a48",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "0",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1050,
+        "wires": [
+            [
+                "9205d7e0.ff53d8"
+            ]
+        ]
+    },
+    {
+        "id": "ed6013f0.33cee",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "8f02baa.cd86a48",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "1",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1090,
+        "wires": [
+            [
+                "9205d7e0.ff53d8"
+            ]
+        ]
+    },
+    {
+        "id": "a47abf3e.b59be",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "8f02baa.cd86a48",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "2",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1130,
+        "wires": [
+            [
+                "9205d7e0.ff53d8"
+            ]
+        ]
+    },
+    {
+        "id": "afc5c849.968498",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "8f02baa.cd86a48",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "4",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1170,
+        "wires": [
+            [
+                "9205d7e0.ff53d8"
+            ]
+        ]
+    },
+    {
+        "id": "46cdb592.10060c",
+        "type": "debug",
+        "z": "e86f0ca4.7feb5",
+        "g": "70d8d562.df63ac",
+        "name": "",
+        "active": true,
+        "tosidebar": false,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload[0]",
+        "targetType": "msg",
+        "statusVal": "payload[50]",
+        "statusType": "auto",
+        "x": 3570,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "9205d7e0.ff53d8",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "8f02baa.cd86a48",
+        "name": "Control RTU",
+        "func": "msg.payload = { \n    value: msg.payload, \n    'fc': 6, \n    'unitid': 1, \n    'address': 28672+20+55, \n    'quantity':1   \n}\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload.address});\nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 4470,
+        "y": 1110,
+        "wires": [
+            [
+                "7f604934.3e3958"
+            ]
+        ]
+    },
+    {
+        "id": "7f604934.3e3958",
+        "type": "modbus-flex-write",
+        "z": "e86f0ca4.7feb5",
+        "g": "8f02baa.cd86a48",
+        "name": "Escribir Cubloc",
+        "showStatusActivities": true,
+        "showErrors": false,
+        "server": "f630cb55.8d18e8",
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 4640,
+        "y": 1110,
+        "wires": [
+            [
+                "139c1f0e.abade1"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "139c1f0e.abade1",
+        "type": "debug",
+        "z": "e86f0ca4.7feb5",
+        "g": "8f02baa.cd86a48",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 4830,
+        "y": 1110,
+        "wires": []
+    },
+    {
+        "id": "e5c519d9.c426b8",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "4454562c.314c58",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "100",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1260,
+        "wires": [
+            [
+                "9ba73f69.14911"
+            ]
+        ]
+    },
+    {
+        "id": "46fe28ea.5c0be8",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "4454562c.314c58",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "150",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1300,
+        "wires": [
+            [
+                "9ba73f69.14911"
+            ]
+        ]
+    },
+    {
+        "id": "829c7a43.cb9978",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "4454562c.314c58",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "200",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1340,
+        "wires": [
+            [
+                "9ba73f69.14911"
+            ]
+        ]
+    },
+    {
+        "id": "ad634ed2.55998",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "4454562c.314c58",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "250",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1380,
+        "wires": [
+            [
+                "9ba73f69.14911"
+            ]
+        ]
+    },
+    {
+        "id": "9ba73f69.14911",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "4454562c.314c58",
+        "name": "Referencia remota",
+        "func": "\nmsg.payload = { \n    value: msg.payload, \n    'fc': 6, \n    'unitid': 1, \n    'address': 28672+20+56, \n    'quantity':1   \n}\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload.address});\nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 4490,
+        "y": 1320,
+        "wires": [
+            [
+                "7f604934.3e3958"
+            ]
+        ]
+    },
+    {
+        "id": "ea45ee42.e382d",
+        "type": "debug",
+        "z": "e86f0ca4.7feb5",
+        "g": "4454562c.314c58",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 4870,
+        "y": 1320,
+        "wires": []
+    },
+    {
+        "id": "6c2761b2.1cac7",
+        "type": "modbus-flex-getter",
+        "z": "e86f0ca4.7feb5",
+        "g": "e41c42c4.24372",
+        "name": "Leer Cubloc RS-232",
+        "showStatusActivities": true,
+        "showErrors": false,
+        "logIOActivities": false,
+        "server": "f630cb55.8d18e8",
+        "useIOFile": false,
+        "ioFile": "",
+        "useIOForPayload": false,
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 4680,
+        "y": 960,
+        "wires": [
+            [
+                "ff7e622b.cbe3"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "10f739e5.6ce8d6",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "e41c42c4.24372",
+        "name": "Entradas Analógicas",
+        "func": "\nmsg.payload = { \n    value: msg.payload, \n    'fc': 4, \n    'unitid': 1, \n    'address': 28672+20, \n    'quantity':100   \n} \nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload.address});\nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 4460,
+        "y": 960,
+        "wires": [
+            [
+                "6c2761b2.1cac7"
+            ]
+        ]
+    },
+    {
+        "id": "5c77bc75.2ac4e4",
+        "type": "modbus-flex-getter",
+        "z": "e86f0ca4.7feb5",
+        "g": "70d8d562.df63ac",
+        "name": "Leer Cubloc RS-232",
+        "showStatusActivities": true,
+        "showErrors": false,
+        "logIOActivities": false,
+        "server": "f630cb55.8d18e8",
+        "useIOFile": false,
+        "ioFile": "",
+        "useIOForPayload": false,
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 3210,
+        "y": 690,
+        "wires": [
+            [
+                "ead1502b.eb49"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "eaf3c61f.78e7d8",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "70d8d562.df63ac",
+        "name": "Registro Modbus",
+        "func": "msg.payload = { \n    'fc': 4, \n    'unitid': 1, \n    'address': 28672+20+55, \n    'quantity':1   \n} \nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 3000,
+        "y": 690,
+        "wires": [
+            [
+                "5c77bc75.2ac4e4"
+            ]
+        ]
+    },
+    {
+        "id": "5d592c3d.0392f4",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "b690d102.38713",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "100",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1690,
+        "wires": [
+            [
+                "798ab24b.f2bb3c"
+            ]
+        ]
+    },
+    {
+        "id": "7a669d9.d81bb64",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "b690d102.38713",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "150",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1730,
+        "wires": [
+            [
+                "798ab24b.f2bb3c"
+            ]
+        ]
+    },
+    {
+        "id": "57cad41b.13ae2c",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "b690d102.38713",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "200",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1770,
+        "wires": [
+            [
+                "798ab24b.f2bb3c"
+            ]
+        ]
+    },
+    {
+        "id": "bf66ab8.2a08358",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "b690d102.38713",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "250",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1810,
+        "wires": [
+            [
+                "798ab24b.f2bb3c"
+            ]
+        ]
+    },
+    {
+        "id": "798ab24b.f2bb3c",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "b690d102.38713",
+        "name": "Referencia remota",
+        "func": "\nmsg.payload = { \n    value: msg.payload, \n    'fc': 6, \n    'unitid': 1, \n    'address': 56, \n    'quantity':1   \n}\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload.address});\nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 4490,
+        "y": 1750,
+        "wires": [
+            [
+                "8ad5beb8.173b5"
+            ]
+        ]
+    },
+    {
+        "id": "1aac1b0a.b7cac5",
+        "type": "debug",
+        "z": "e86f0ca4.7feb5",
+        "g": "b690d102.38713",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 4870,
+        "y": 1750,
+        "wires": []
+    },
+    {
+        "id": "acb88797.a53388",
+        "type": "debug",
+        "z": "e86f0ca4.7feb5",
+        "g": "7dbc5902.4206c8",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 4830,
+        "y": 1540,
+        "wires": []
+    },
+    {
+        "id": "8ad5beb8.173b5",
+        "type": "modbus-flex-write",
+        "z": "e86f0ca4.7feb5",
+        "g": "7dbc5902.4206c8",
+        "name": "Escribir PyModbus",
+        "showStatusActivities": true,
+        "showErrors": false,
+        "server": "3548b3b4.c8d65c",
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 4650,
+        "y": 1540,
+        "wires": [
+            [
+                "acb88797.a53388"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "d26ae57.89e2118",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "7dbc5902.4206c8",
+        "name": "Control TCP",
+        "func": "msg.payload = { \n    value: msg.payload, \n    'fc': 6, \n    'unitid': 1, \n    'address': 55, \n    'quantity':1   \n}\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload.address});\nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 4470,
+        "y": 1540,
+        "wires": [
+            [
+                "8ad5beb8.173b5"
+            ]
+        ]
+    },
+    {
+        "id": "e0e98cce.54d61",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "7dbc5902.4206c8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "0",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1480,
+        "wires": [
+            [
+                "d26ae57.89e2118"
+            ]
+        ]
+    },
+    {
+        "id": "3f39afa6.aebe1",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "7dbc5902.4206c8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "1",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1520,
+        "wires": [
+            [
+                "d26ae57.89e2118"
+            ]
+        ]
+    },
+    {
+        "id": "fe05fe43.ad5f9",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "7dbc5902.4206c8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "2",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1560,
+        "wires": [
+            [
+                "d26ae57.89e2118"
+            ]
+        ]
+    },
+    {
+        "id": "eba2d655.522b48",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "7dbc5902.4206c8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "4",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1600,
+        "wires": [
+            [
+                "d26ae57.89e2118"
             ]
         ]
     }

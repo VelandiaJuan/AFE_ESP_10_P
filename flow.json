@@ -36446,7 +36446,7 @@
         "order": 1,
         "width": 12,
         "height": 1,
-        "format": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    \n  </head>\n  <body>\n    <!-- Navigation bar -->\n    <nav>\n      <div class=\"nav nav-tabs nav-fill\" id=\"nav-tab\" role=\"tablist\">\n        <a class=\"nav-item nav-link active\" id=\"nav-ArranqueEscalonado-tab\" data-toggle=\"tab\" href=\"#nav-ArranqueEscalonado\" role=\"tab\" aria-controls=\"nav-ArranqueEscalonado\" aria-selected=\"true\" ng-click=\"send({payload:ArranqueEscalonado()})\">Arranque escalonado</a>\n        <a class=\"nav-item nav-link\" id=\"nav-ReArranque-tab\" data-toggle=\"tab\" href=\"#nav-ReArranque\" role=\"tab\" aria-controls=\"nav-ReArranque\" aria-selected=\"false\" ng-click=\"send({payload:ReArranque()})\">Re Arranque</a>\n        <a class=\"nav-item nav-link\" id=\"nav-RokingStart-tab\" data-toggle=\"tab\" href=\"#nav-RokingStart\" role=\"tab\" aria-controls=\"nav-RokingStart\" aria-selected=\"false\" ng-click=\"send({payload:RokingStart()})\">Roking Start</a>\n      </div>\n    </nav>\n\n    <script>\n        this.scope.ArranqueEscalonado = function() { return \"ArranqueEscalonado\"; };\n        this.scope.ReArranque = function() { return \"ReArranque\"; };\n        this.scope.RokingStart = function() { return \"RokingStart\"; };\n    </script>\n    \n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n  </body>\n</html>\n",
+        "format": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    \n  </head>\n  <body>\n    <!-- Navigation bar -->\n    <nav>\n      <div class=\"nav nav-tabs nav-fill\" id=\"nav-tab\" role=\"tablist\">\n        <a class=\"nav-item nav-link active\" id=\"nav-ArranqueEscalonado-tab\" data-toggle=\"tab\" href=\"#nav-ArranqueEscalonado\" role=\"tab\" aria-controls=\"nav-ArranqueEscalonado\" aria-selected=\"true\" ng-click=\"send({payload:ArranqueEscalonado()})\">Arranque escalonado</a>\n        <a class=\"nav-item nav-link\" id=\"nav-ReArranque-tab\" data-toggle=\"tab\" href=\"#nav-ReArranque\" role=\"tab\" aria-controls=\"nav-ReArranque\" aria-selected=\"false\" ng-click=\"send({payload:ReArranque()})\">Re Arranque</a>\n        <a class=\"nav-item nav-link\" id=\"nav-RockingStart-tab\" data-toggle=\"tab\" href=\"#nav-RockingStart\" role=\"tab\" aria-controls=\"nav-RockingStart\" aria-selected=\"false\" ng-click=\"send({payload:RockingStart()})\">Rocking Start</a>\n      </div>\n    </nav>\n\n    <script>\n        this.scope.ArranqueEscalonado = function() { return \"ArranqueEscalonado\"; };\n        this.scope.ReArranque = function() { return \"ReArranque\"; };\n        this.scope.RockingStart = function() { return \"RockingStart\"; };\n    </script>\n    \n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n  </body>\n</html>\n",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -36506,7 +36506,7 @@
             },
             {
                 "t": "eq",
-                "v": "RokingStart",
+                "v": "RockingStart",
                 "vt": "str"
             }
         ],
@@ -69877,7 +69877,7 @@
         "type": "change",
         "z": "5ef5b1ce.d3899",
         "g": "8c3082f9.73975",
-        "name": "Roking Start",
+        "name": "Rocking Start",
         "rules": [
             {
                 "t": "set",
@@ -69892,7 +69892,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1210,
+        "x": 1220,
         "y": 1780,
         "wires": [
             [
@@ -70085,12 +70085,12 @@
         "type": "finite-state-machine",
         "z": "3df4c8d9.0bdc38",
         "g": "b4d97ea9.9a1f1",
-        "name": "Roking Start",
+        "name": "Rocking Start",
         "fsmDefinition": "{\"state\":{\"status\":\"E0\"},\"transitions\":{\"E0\":{\"Start\":\"E1\"},\"E1\":{\"E1_Done\":\"E2\"},\"E2\":{\"Ref_Done\":\"E3\"},\"E3\":{\"Start_Done\":\"E4\",\"Error\":\"E3\"},\"E4\":{\"Forward\":\"E5\",\"Reverse\":\"E4\"},\"E5\":{\"Forward_Time_Done\":\"E6\"},\"E6\":{\"Reverse\":\"E7\",\"Forward\":\"E6\"},\"E7\":{\"Reverse_Time_Done\":\"E8\"},\"E8\":{\"Attempt_in_Range\":\"E4\",\"Attempt_Done\":\"E9\"},\"E9\":{\"Speed_restored\":\"E0\",\"Error\":\"E9\"}}}",
         "sendInitialState": true,
         "sendStateWithoutChange": false,
         "showTransitionErrors": true,
-        "x": 2940,
+        "x": 2930,
         "y": 530,
         "wires": [
             [
@@ -71667,7 +71667,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2720,
+        "x": 2710,
         "y": 490,
         "wires": [
             [
@@ -71684,7 +71684,7 @@
         "links": [
             "168b6577.3e722b"
         ],
-        "x": 2605,
+        "x": 2595,
         "y": 490,
         "wires": [
             [

@@ -897,9 +897,7 @@
             "2409fb72.507894"
         ],
         "x": 1754,
-        "y": 19,
-        "w": 512,
-        "h": 142
+        "y": 19
     },
     {
         "id": "31baddff.ea0922",
@@ -954,9 +952,7 @@
             "ac1f5c0.f7b06a"
         ],
         "x": 18,
-        "y": 13,
-        "w": 794,
-        "h": 2034
+        "y": 13
     },
     {
         "id": "7b6f4b41.106164",
@@ -1115,9 +1111,7 @@
             "215bed4c.7858c2"
         ],
         "x": 818,
-        "y": 13,
-        "w": 924,
-        "h": 1834
+        "y": 13
     },
     {
         "id": "aa1ba550.cbd9d8",
@@ -1377,9 +1371,7 @@
             "9b29345d.646748"
         ],
         "x": 824,
-        "y": 1859,
-        "w": 852,
-        "h": 242
+        "y": 1859
     },
     {
         "id": "4888c9a8.82cb88",
@@ -2672,6 +2664,23 @@
         "h": 834
     },
     {
+        "id": "c2c48d08.f1c96",
+        "type": "group",
+        "z": "3df4c8d9.0bdc38",
+        "name": "Reverse Start",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "819c936a.9e70d",
+            "7a6388b7.eddf38"
+        ],
+        "x": 2134,
+        "y": 859,
+        "w": 332,
+        "h": 142
+    },
+    {
         "id": "675af0d1.a9fc4",
         "type": "group",
         "z": "3df4c8d9.0bdc38",
@@ -3081,9 +3090,7 @@
             "273454d7.4d089c"
         ],
         "x": 44,
-        "y": 39,
-        "w": 682,
-        "h": 242
+        "y": 39
     },
     {
         "id": "cf57802e.7d258",
@@ -3225,9 +3232,7 @@
             "9709f15b.d49e5"
         ],
         "x": 44,
-        "y": 289,
-        "w": 742,
-        "h": 1732
+        "y": 289
     },
     {
         "id": "f3c2e7cf.5ed158",
@@ -3705,9 +3710,7 @@
             "da8d71fd.6a33c"
         ],
         "x": 844,
-        "y": 319,
-        "w": 862,
-        "h": 452
+        "y": 319
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -3732,9 +3735,7 @@
             "fd328934.0ddd18"
         ],
         "x": 854,
-        "y": 1239,
-        "w": 662,
-        "h": 202
+        "y": 1239
     },
     {
         "id": "f78dcb63.bde038",
@@ -3758,9 +3759,7 @@
             "d458c292.e2009"
         ],
         "x": 844,
-        "y": 1069,
-        "w": 672,
-        "h": 162
+        "y": 1069
     },
     {
         "id": "90ebdbed.1907a8",
@@ -3786,9 +3785,7 @@
             "75954ddb.3b0f04"
         ],
         "x": 844,
-        "y": 39,
-        "w": 812,
-        "h": 272
+        "y": 39
     },
     {
         "id": "311890ad.cc4ed",
@@ -3815,9 +3812,7 @@
             "920374c9.134898"
         ],
         "x": 844,
-        "y": 779,
-        "w": 652,
-        "h": 282
+        "y": 779
     },
     {
         "id": "8a7f783.a732b88",
@@ -3840,9 +3835,7 @@
             "f65a5bee.378fe8"
         ],
         "x": 854,
-        "y": 1449,
-        "w": 572,
-        "h": 182
+        "y": 1449
     },
     {
         "id": "8c3082f9.73975",
@@ -3869,9 +3862,7 @@
             "836be50a.5287e8"
         ],
         "x": 854,
-        "y": 1639,
-        "w": 862,
-        "h": 182
+        "y": 1639
     },
     {
         "id": "215bed4c.7858c2",
@@ -3893,9 +3884,7 @@
             "2a671cfc.7a9654"
         ],
         "x": 1524,
-        "y": 1149,
-        "w": 152,
-        "h": 292
+        "y": 1149
     },
     {
         "id": "5ff12c29.d4cc64",
@@ -5101,7 +5090,8 @@
             "ea102947.4ba5a8",
             "36c8477f.f95a48",
             "ce62d221.7b3b3",
-            "223f7107.39115e"
+            "223f7107.39115e",
+            "f144e183.7ff68"
         ],
         "x": 104,
         "y": 289,
@@ -5805,23 +5795,6 @@
         ],
         "x": 1354,
         "y": 2009
-    },
-    {
-        "id": "c2c48d08.f1c96",
-        "type": "group",
-        "z": "3df4c8d9.0bdc38",
-        "name": "Reverse Start",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "819c936a.9e70d",
-            "7a6388b7.eddf38"
-        ],
-        "x": 2134,
-        "y": 859,
-        "w": 332,
-        "h": 142
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -44361,7 +44334,7 @@
         "z": "3df4c8d9.0bdc38",
         "g": "1d477816.993308",
         "name": "Delta Hz",
-        "func": "// Definitions\nvar PRef    = global.get(\"Prolonged_Reference\");\nvar Hz      = PRef.Hz;\nvar Time    = PRef.Time;\n\n// Horas a Segundos\nTime        = Time*3600;\nPRef.dHz    = Hz/Time;\n\nnode.status({fill:\"green\",shape:\"dot\",text:\"Delta Hz : \"+ Hz/Time});\nglobal.set(\"Prolonged_Reference\",PRef);\n\nmsg.payload = PRef.dHz;\nreturn msg;",
+        "func": "// Definitions\nvar PRef    = global.get(\"Prolonged_Reference\");\nvar Hz      = PRef.Hz;\nvar Time    = PRef.Time;\n\n// Horas a Segundos\nTime        = Time*60;\nPRef.dHz    = 10*(Hz/Time);\n\nnode.status({fill:\"green\",shape:\"dot\",text:\"Delta Hz : \"+ PRef.dHz});\nglobal.set(\"Prolonged_Reference\",PRef);\n\nmsg.payload = PRef.dHz;\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -44403,7 +44376,7 @@
         "z": "3df4c8d9.0bdc38",
         "g": "1d477816.993308",
         "name": "",
-        "label": "Tiempo (H)",
+        "label": "Tiempo (min)",
         "tooltip": "",
         "group": "1c1f6ab9.b77ba5",
         "order": 3,
@@ -44688,7 +44661,7 @@
         "g": "9bdf522.eba6db",
         "name": "",
         "pauseType": "delay",
-        "timeout": "1",
+        "timeout": "10",
         "timeoutUnits": "seconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -72003,6 +71976,31 @@
             [],
             [],
             []
+        ]
+    },
+    {
+        "id": "f144e183.7ff68",
+        "type": "inject",
+        "z": "3df4c8d9.0bdc38",
+        "g": "9bdf522.eba6db",
+        "name": "",
+        "props": [
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "reset",
+        "x": 200,
+        "y": 490,
+        "wires": [
+            [
+                "406ea535.518d9c"
+            ]
         ]
     }
 ]

@@ -834,7 +834,9 @@
             "ccd73af1.690d48"
         ],
         "x": 14,
-        "y": 2769
+        "y": 2769,
+        "w": 1202,
+        "h": 202
     },
     {
         "id": "25cd4464.cad59c",
@@ -987,7 +989,9 @@
             "9c35c44f.bafb68"
         ],
         "x": 12,
-        "y": 7
+        "y": 7,
+        "w": 2696,
+        "h": 1626
     },
     {
         "id": "c17de691.f363c8",
@@ -1005,7 +1009,9 @@
             "de6d41a4.0f4d2"
         ],
         "x": 12,
-        "y": 1637
+        "y": 1637,
+        "w": 2626,
+        "h": 866
     },
     {
         "id": "68e6bb30.d1fce4",
@@ -1245,7 +1251,9 @@
             "225b9d03.874c32"
         ],
         "x": 2724,
-        "y": 9
+        "y": 9,
+        "w": 912,
+        "h": 492
     },
     {
         "id": "8341562d.ffacc8",
@@ -1410,7 +1418,9 @@
             "5039e78a.ed1d88"
         ],
         "x": 14,
-        "y": 2679
+        "y": 2679,
+        "w": 462,
+        "h": 82
     },
     {
         "id": "96c06653.552da8",
@@ -1559,7 +1569,9 @@
             "ebc9a134.b2cde"
         ],
         "x": 18,
-        "y": 2983
+        "y": 2983,
+        "w": 1054,
+        "h": 344
     },
     {
         "id": "63291ccb.08e434",
@@ -1578,7 +1590,9 @@
             "f981eb1b.025a78"
         ],
         "x": -32,
-        "y": 33
+        "y": 33,
+        "w": 1464,
+        "h": 1524
     },
     {
         "id": "6889f2bb.892f0c",
@@ -1682,7 +1696,9 @@
             "c099945b.08bf98"
         ],
         "x": 14,
-        "y": 2509
+        "y": 2509,
+        "w": 872,
+        "h": 162
     },
     {
         "id": "40cf1345.13cc7c",
@@ -1698,7 +1714,9 @@
             "7f0ad68d.a88dc8"
         ],
         "x": 2718,
-        "y": 953
+        "y": 953,
+        "w": 1464,
+        "h": 714
     },
     {
         "id": "aa2fba7e.146688",
@@ -1722,7 +1740,9 @@
             "341c89fa.21c126"
         ],
         "x": 2718,
-        "y": 1683
+        "y": 1683,
+        "w": 1228,
+        "h": 864
     },
     {
         "id": "aaa733ec.38139",
@@ -1819,7 +1839,9 @@
             "8188a395.bb719"
         ],
         "x": 2714,
-        "y": 2559
+        "y": 2559,
+        "w": 522,
+        "h": 282
     },
     {
         "id": "93269d6d.f01df",
@@ -1836,7 +1858,9 @@
             "f6e30287.8d13d"
         ],
         "x": 2718,
-        "y": 513
+        "y": 513,
+        "w": 2084,
+        "h": 424
     },
     {
         "id": "f766f95b.4e6278",
@@ -1862,7 +1886,9 @@
             "1e165b65.d6c425"
         ],
         "x": 3254,
-        "y": 2559
+        "y": 2559,
+        "w": 862,
+        "h": 222
     },
     {
         "id": "8f02baa.cd86a48",
@@ -1883,7 +1909,9 @@
             "afc5c849.968498"
         ],
         "x": 4194,
-        "y": 1049
+        "y": 1049,
+        "w": 752,
+        "h": 202
     },
     {
         "id": "4454562c.314c58",
@@ -1902,7 +1930,9 @@
             "9ba73f69.14911"
         ],
         "x": 4194,
-        "y": 1259
+        "y": 1259,
+        "w": 412,
+        "h": 202
     },
     {
         "id": "e41c42c4.24372",
@@ -1924,7 +1954,9 @@
             "7940a891.ccd658"
         ],
         "x": 4194,
-        "y": 959
+        "y": 959,
+        "w": 792,
+        "h": 82
     },
     {
         "id": "b690d102.38713",
@@ -1943,7 +1975,9 @@
             "798ab24b.f2bb3c"
         ],
         "x": 4194,
-        "y": 1689
+        "y": 1689,
+        "w": 412,
+        "h": 202
     },
     {
         "id": "7dbc5902.4206c8",
@@ -1964,7 +1998,9 @@
             "eba2d655.522b48"
         ],
         "x": 4194,
-        "y": 1479
+        "y": 1479,
+        "w": 752,
+        "h": 202
     },
     {
         "id": "51885913.764608",
@@ -2017,7 +2053,9 @@
             "cb0d324.9efa3d"
         ],
         "x": 1634,
-        "y": 149
+        "y": 149,
+        "w": 972,
+        "h": 592
     },
     {
         "id": "35440cdc.e5d764",
@@ -2070,7 +2108,9 @@
             "5bf3fb88.25b264"
         ],
         "x": 2614,
-        "y": 149
+        "y": 149,
+        "w": 932,
+        "h": 592
     },
     {
         "id": "888265d9.138288",
@@ -2123,7 +2163,9 @@
             "ea97a2e4.6a67d"
         ],
         "x": 3554,
-        "y": 149
+        "y": 149,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "54b245d3.9431dc",
@@ -2176,7 +2218,9 @@
             "b636759a.1af358"
         ],
         "x": 1634,
-        "y": 749
+        "y": 749,
+        "w": 1052,
+        "h": 592
     },
     {
         "id": "58747709.2ffd98",
@@ -2229,7 +2273,9 @@
             "86aeff9f.23163"
         ],
         "x": 2694,
-        "y": 749
+        "y": 749,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "4b571a8f.d70524",
@@ -2282,7 +2328,9 @@
             "3368017a.de213e"
         ],
         "x": 3794,
-        "y": 749
+        "y": 749,
+        "w": 1172,
+        "h": 592
     },
     {
         "id": "b7d3914a.2a17",
@@ -2335,7 +2383,9 @@
             "ada97752.874638"
         ],
         "x": 1634,
-        "y": 1349
+        "y": 1349,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "a3b836be.d5cde8",
@@ -2388,7 +2438,9 @@
             "739b4fcf.1c18"
         ],
         "x": 2734,
-        "y": 1349
+        "y": 1349,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "53806295.7831ac",
@@ -2441,7 +2493,9 @@
             "4fe0e535.f16e5c"
         ],
         "x": 3834,
-        "y": 1349
+        "y": 1349,
+        "w": 1072,
+        "h": 592
     },
     {
         "id": "dabbb1f4.9b65e",
@@ -2457,7 +2511,9 @@
             "a72a1eba.19d99"
         ],
         "x": 1634,
-        "y": 59
+        "y": 59,
+        "w": 132,
+        "h": 82
     },
     {
         "id": "96de1dd.d202ce",
@@ -2510,7 +2566,9 @@
             "5f1b7de2.8dd7c4"
         ],
         "x": 1634,
-        "y": 1949
+        "y": 1949,
+        "w": 972,
+        "h": 592
     },
     {
         "id": "d0981fa6.05ffc",
@@ -2563,7 +2621,9 @@
             "9481caa7.5d67e8"
         ],
         "x": 2615,
-        "y": 1959
+        "y": 1959,
+        "w": 941,
+        "h": 592
     },
     {
         "id": "4b9b7d58.136ec4",
@@ -2616,7 +2676,9 @@
             "c2a4f4bb.6e2aa8"
         ],
         "x": 3565,
-        "y": 1959
+        "y": 1959,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "d84615.919209e8",
@@ -2751,7 +2813,9 @@
             "eaf3c61f.78e7d8"
         ],
         "x": 2744,
-        "y": 539
+        "y": 539,
+        "w": 1872,
+        "h": 232
     },
     {
         "id": "7f0ad68d.a88dc8",
@@ -2792,7 +2856,9 @@
             "2249a8a.5b30458"
         ],
         "x": 2744,
-        "y": 979
+        "y": 979,
+        "w": 1412,
+        "h": 492
     },
     {
         "id": "e2589faa.5b6d2",
@@ -2877,7 +2943,9 @@
             "9b21d21b.7ae4d"
         ],
         "x": 884,
-        "y": 59
+        "y": 59,
+        "w": 522,
+        "h": 632
     },
     {
         "id": "aa324282.4f554",
@@ -2903,7 +2971,9 @@
             "27a2d5e6.eea14a"
         ],
         "x": 164,
-        "y": 239
+        "y": 239,
+        "w": 572,
+        "h": 182
     },
     {
         "id": "bf91bfd8.84eda",
@@ -2928,7 +2998,9 @@
             "3fe04302.c538cc"
         ],
         "x": 164,
-        "y": 59
+        "y": 59,
+        "w": 712,
+        "h": 172
     },
     {
         "id": "f58295c0.4d4228",
@@ -2945,7 +3017,9 @@
             "3cf0ba38.d2e4f6"
         ],
         "x": 788,
-        "y": 923
+        "y": 923,
+        "w": 614,
+        "h": 424
     },
     {
         "id": "f7a3cb7b.69e4d8",
@@ -3018,7 +3092,9 @@
             "3f2cfd63.788712"
         ],
         "x": -6,
-        "y": 429
+        "y": 429,
+        "w": 742,
+        "h": 1102
     },
     {
         "id": "11f55817.139c18",
@@ -3120,7 +3196,9 @@
             "5c3a9c15.3a4554"
         ],
         "x": 1338,
-        "y": 33
+        "y": 33,
+        "w": 1344,
+        "h": 1011.5
     },
     {
         "id": "23bbdddc.b8c5c2",
@@ -3139,7 +3217,9 @@
             "5d1065e2.7b952c"
         ],
         "x": 38,
-        "y": 33
+        "y": 33,
+        "w": 1284,
+        "h": 1574
     },
     {
         "id": "d22a2793.24a988",
@@ -3156,7 +3236,9 @@
             "1b19a252.cfe16e"
         ],
         "x": 38,
-        "y": 1663
+        "y": 1663,
+        "w": 1284,
+        "h": 574
     },
     {
         "id": "ac1f5c0.f7b06a",
@@ -4320,7 +4402,9 @@
             "41b78365.d9c2dc"
         ],
         "x": 1344,
-        "y": 1249
+        "y": 1249,
+        "w": 962,
+        "h": 162
     },
     {
         "id": "17c31216.1aa6ce",
@@ -4456,7 +4540,9 @@
             "2fb80d12.b93df2"
         ],
         "x": 1328,
-        "y": 1663
+        "y": 1663,
+        "w": 1284,
+        "h": 814
     },
     {
         "id": "ebc9a134.b2cde",
@@ -4490,7 +4576,9 @@
             "8b8bfe12.48faa"
         ],
         "x": 44,
-        "y": 3009
+        "y": 3009,
+        "w": 1002,
+        "h": 292
     },
     {
         "id": "ab7a4a2c.17d8a8",
@@ -4548,7 +4636,9 @@
             "97dbb46e.15a998"
         ],
         "x": 2744,
-        "y": 779
+        "y": 779,
+        "w": 982,
+        "h": 132
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -4709,7 +4799,9 @@
             "8b6bbe7b.4904"
         ],
         "x": 2744,
-        "y": 1479
+        "y": 1479,
+        "w": 552,
+        "h": 162
     },
     {
         "id": "3a6bee4b.22d342",
@@ -4735,7 +4827,9 @@
             "16b64fab.dbb22"
         ],
         "x": 2744,
-        "y": 1709
+        "y": 1709,
+        "w": 772,
+        "h": 182
     },
     {
         "id": "ebb7241e.548d68",
@@ -4762,7 +4856,9 @@
             "1a2660d3.c50b5f"
         ],
         "x": 2744,
-        "y": 1899
+        "y": 1899,
+        "w": 932,
+        "h": 322
     },
     {
         "id": "f059af07.db923",
@@ -4782,7 +4878,9 @@
             "3caf0b56.43a3b4"
         ],
         "x": 2744,
-        "y": 2229
+        "y": 2229,
+        "w": 602,
+        "h": 122
     },
     {
         "id": "beae8e2f.5f80b",
@@ -4805,7 +4903,9 @@
             "57cd5933.3df778"
         ],
         "x": 2744,
-        "y": 2359
+        "y": 2359,
+        "w": 1042,
+        "h": 162
     },
     {
         "id": "f6e30287.8d13d",
@@ -4831,7 +4931,9 @@
             "c6eda5d6.4dc858"
         ],
         "x": 3734,
-        "y": 779
+        "y": 779,
+        "w": 1042,
+        "h": 132
     },
     {
         "id": "9c35c44f.bafb68",
@@ -4853,7 +4955,9 @@
             "8549dcde.c5de1"
         ],
         "x": 1344,
-        "y": 1059
+        "y": 1059,
+        "w": 582,
+        "h": 182
     },
     {
         "id": "f3b2b1b2.a0af2",
@@ -5233,7 +5337,9 @@
             "5805c268.31f02c"
         ],
         "x": 814,
-        "y": 949
+        "y": 949,
+        "w": 562,
+        "h": 242
     },
     {
         "id": "3cf0ba38.d2e4f6",
@@ -5251,7 +5357,9 @@
             "2f5679af.c10006"
         ],
         "x": 814,
-        "y": 1199
+        "y": 1199,
+        "w": 172,
+        "h": 122
     },
     {
         "id": "38ea9e35.6d66c2",
@@ -5288,7 +5396,9 @@
             "85f12e7a.2e726"
         ],
         "x": 1354,
-        "y": 1689
+        "y": 1689,
+        "w": 1232,
+        "h": 312
     },
     {
         "id": "c05026cc.2a6048",
@@ -5353,7 +5463,9 @@
             "2b33cbc0.5a4c64"
         ],
         "x": 64,
-        "y": 909
+        "y": 909,
+        "w": 1232,
+        "h": 482
     },
     {
         "id": "5c3a9c15.3a4554",
@@ -5412,7 +5524,9 @@
             "f280a028.0f854"
         ],
         "x": 1364,
-        "y": 479
+        "y": 479,
+        "w": 1292,
+        "h": 539.5
     },
     {
         "id": "62757ffc.dca08",
@@ -5465,7 +5579,9 @@
             "ba03cbde.df6f78"
         ],
         "x": 64,
-        "y": 59
+        "y": 59,
+        "w": 1232,
+        "h": 842
     },
     {
         "id": "2d061227.66d7ce",
@@ -5510,7 +5626,9 @@
             "ffda9256.dc79c"
         ],
         "x": 1364,
-        "y": 59
+        "y": 59,
+        "w": 1282,
+        "h": 412
     },
     {
         "id": "a80677cf.4274c8",
@@ -5603,7 +5721,9 @@
             "55d7f98f.7ca518"
         ],
         "x": 64,
-        "y": 1399
+        "y": 1399,
+        "w": 632,
+        "h": 182
     },
     {
         "id": "1b19a252.cfe16e",
@@ -5645,7 +5765,9 @@
             "16a30db2.f4a332"
         ],
         "x": 64,
-        "y": 1689
+        "y": 1689,
+        "w": 1232,
+        "h": 522
     },
     {
         "id": "be55ea76.ed4478",
@@ -5751,7 +5873,9 @@
             "9d6b8eeb.cad3c"
         ],
         "x": 1354,
-        "y": 2009
+        "y": 2009,
+        "w": 722,
+        "h": 442
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -38028,7 +38152,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f7a3cb7b.69e4d8",
         "name": "Limites",
-        "func": "var Vibration = global.get(\"Protections.Vibration\");\nmsg.control = {'min':Vibration.General.LL.Setpoint, 'max':Vibration.General.HH.Setpoint};\nreturn msg;",
+        "func": "var Vibration = global.get(\"Protections.Vibration\");\nmsg.control = {'min':Vibration.General.LL.Setpoint||0, 'max':Vibration.General.HH.Setpoint||0};\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -38089,7 +38213,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f7a3cb7b.69e4d8",
         "name": "Limites",
-        "func": "var Current = global.get(\"Protections.Current\");\nmsg.control = {'min':Current.Leakage.LL.Setpoint, 'max':Current.Leakage.HH.Setpoint};\nreturn msg;",
+        "func": "//var Current = global.get(\"Protections.Current\");\n\nvar min = global.get(\"Protections.Current.LL.Setpoint\")||0;\nvar max = global.get(\"Protections.Current.HH.Setpoint\")||0;\n\nmsg.control = {'min':min, 'max':max};\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -38150,7 +38274,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f7a3cb7b.69e4d8",
         "name": "Limites",
-        "func": "var InPressure = global.get(\"Protections.Intake.Pressure\");\nmsg.control = {'min':InPressure.LL.Setpoint, 'max':InPressure.HH.Setpoint};\nreturn msg;",
+        "func": "//var InPressure = global.get(\"Protections.Intake.Pressure\");\n\nvar min = global.get(\"Protections.Intake.Pressure.LL.Setpoint\")||0;\nvar max = global.get(\"Protections.Intake.Pressure.HH.Setpoint\")||0;\n\nmsg.control = {'min':min, 'max':max};\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -38211,7 +38335,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f7a3cb7b.69e4d8",
         "name": "Limites",
-        "func": "var OutPressure = global.get(\"Protections.Discharge.Pressure\");\nmsg.control = {'min':OutPressure.LL.Setpoint, 'max':OutPressure.HH.Setpoint};\nreturn msg;",
+        "func": "//var OutPressure = global.get(\"Protections.Discharge.Pressure\");\n\nvar min = global.get(\"Protections.Discharge.Pressure.LL.Setpoint\")||0;\nvar max = global.get(\"Protections.Discharge.Pressure.HH.Setpoint\")||0;\n\nmsg.control = {'min':min, 'max':max};\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -38272,7 +38396,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f7a3cb7b.69e4d8",
         "name": "Limites",
-        "func": "var InTemp = global.get(\"Protections.Intake.Temperature\");\nmsg.control = {'min':InTemp.LL.Setpoint, 'max':InTemp.HH.Setpoint};\nreturn msg;",
+        "func": "//var InTemp = global.get(\"Protections.Intake.Temperature\");\n\nvar min = global.get(\"Protections.Intake.Temperature.LL.Setpoint\")||0;\nvar max = global.get(\"Protections.Intake.Temperature.HH.Setpoint\")||0;\n\nmsg.control = {'min':min, 'max':max};\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -38333,7 +38457,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f7a3cb7b.69e4d8",
         "name": "Limites",
-        "func": "var MotorTemp = global.get(\"Protections.Motor.Temperature\");\nmsg.control = {'min':MotorTemp.LL.Setpoint, 'max':MotorTemp.HH.Setpoint};\nreturn msg;",
+        "func": "//var MotorTemp = global.get(\"Protections.Motor.Temperature\");\n\nvar min = global.get(\"Protections.Motor.Temperature.LL.Setpoint\")||0;\nvar max = global.get(\"Protections.Motor.Temperature.HH.Setpoint\")||0;\n\nmsg.control = {'min':min, 'max':max};\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -38394,7 +38518,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f7a3cb7b.69e4d8",
         "name": "Limites",
-        "func": "var OutTemp = global.get(\"Protections.Discharge.Temperature\");\nmsg.control = {'min':OutTemp.LL.Setpoint, 'max':OutTemp.HH.Setpoint};\nreturn msg;",
+        "func": "// var OutTemp = global.get(\"Protections.Discharge.Temperature\");\n\nvar min = global.get(\"Protections.Discharge.Temperature.LL.Setpoint\")||0;\nvar max = global.get(\"Protections.Discharge.Temperature.HH.Setpoint\")||0;\n\nmsg.control = {'min':min, 'max':max};\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -58411,7 +58535,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f7a3cb7b.69e4d8",
         "name": "Limites",
-        "func": "var BusDC = global.get(\"Protections.BusDC\");\nmsg.control = {'min':BusDC.LL.Setpoint, 'max':BusDC.HH.Setpoint};\nreturn msg;",
+        "func": "var BusDC = global.get(\"Protections.BusDC\");\n\nvar min = global.get(\"Protections.BusDC.LL.Setpoint\")||0;\nvar max = global.get(\"Protections.BusDC.HH.Setpoint\")||0;\n\nmsg.control = {'min':min, 'max':max};\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -64550,7 +64674,7 @@
         "type": "inject",
         "z": "6c7d2db7.37ef34",
         "g": "f7a3cb7b.69e4d8",
-        "name": "MTemp",
+        "name": "DisTemp",
         "props": [
             {
                 "p": "payload"
@@ -69300,7 +69424,7 @@
         "type": "function",
         "z": "6c7d2db7.37ef34",
         "name": "Limites",
-        "func": "var OutTemp = global.get(\"Protections.Tubing\");\nmsg.control = {'min':OutTemp.LL.Setpoint, 'max':OutTemp.HH.Setpoint};\nif(isNaN(msg.payload)){\n    msg.payload = 0;\n}\nreturn msg;",
+        "func": "//var OutTemp = global.get(\"Protections.Tubing\")||null;\nvar min = global.get(\"Protections.Tubing.LL.Setpoint\")||0;\nvar max = global.get(\"Protections.Tubing.HH.Setpoint\")||0;\n\nmsg.control = {'min':min, 'max':max};\n\nif(isNaN(msg.payload)){\n    msg.payload = 0;\n}\nreturn msg;\n\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -69429,7 +69553,7 @@
         "type": "function",
         "z": "6c7d2db7.37ef34",
         "name": "Limites",
-        "func": "var OutTemp = global.get(\"Protections.Casing\");\nmsg.control = {'min':OutTemp.LL.Setpoint, 'max':OutTemp.HH.Setpoint};\nif(isNaN(msg.payload)){\n    msg.payload = 0;\n}\nreturn msg;",
+        "func": "//var OutTemp = global.get(\"Protections.Casing\");\n\nvar min = global.get(\"Protections.Casing.LL.Setpoint\")||0;\nvar max = global.get(\"Protections.Casing.HH.Setpoint\")||0;\n\nmsg.control = {'min':min, 'max':max};\nif(isNaN(msg.payload)){\n    msg.payload = 0;\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",

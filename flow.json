@@ -1138,7 +1138,7 @@
         ],
         "x": 604,
         "y": 1279,
-        "w": 852,
+        "w": 872,
         "h": 122
     },
     {
@@ -1204,10 +1204,13 @@
             "4c30ceb7.d240a",
             "4e129740.b3ea78",
             "a28ff141.b8c37",
-            "b9ed60ab.26f43"
+            "b9ed60ab.26f43",
+            "882afa67.5605e8"
         ],
         "x": 24,
-        "y": 19
+        "y": 19,
+        "w": 2012,
+        "h": 442
     },
     {
         "id": "74789700.1df498",
@@ -1276,7 +1279,9 @@
             "b509ce91.c5418"
         ],
         "x": 28,
-        "y": 473
+        "y": 473,
+        "w": 1584,
+        "h": 1224
     },
     {
         "id": "58f712f1.3e5eec",
@@ -1449,7 +1454,9 @@
             "55be084e.2ad3b8"
         ],
         "x": 24,
-        "y": 1709
+        "y": 1709,
+        "w": 1312,
+        "h": 222
     },
     {
         "id": "440775ff.2a92fc",
@@ -1496,7 +1503,9 @@
             "3ccbaa0b.2db096"
         ],
         "x": 24,
-        "y": 1939
+        "y": 1939,
+        "w": 1072,
+        "h": 232
     },
     {
         "id": "c57d2588.a42f68",
@@ -1590,9 +1599,7 @@
             "f981eb1b.025a78"
         ],
         "x": -32,
-        "y": 33,
-        "w": 1464,
-        "h": 1524
+        "y": 33
     },
     {
         "id": "6889f2bb.892f0c",
@@ -2051,9 +2058,7 @@
             "cb0d324.9efa3d"
         ],
         "x": 1634,
-        "y": 149,
-        "w": 972,
-        "h": 592
+        "y": 149
     },
     {
         "id": "35440cdc.e5d764",
@@ -2106,9 +2111,7 @@
             "5bf3fb88.25b264"
         ],
         "x": 2614,
-        "y": 149,
-        "w": 932,
-        "h": 592
+        "y": 149
     },
     {
         "id": "888265d9.138288",
@@ -2161,9 +2164,7 @@
             "ea97a2e4.6a67d"
         ],
         "x": 3554,
-        "y": 149,
-        "w": 1092,
-        "h": 592
+        "y": 149
     },
     {
         "id": "54b245d3.9431dc",
@@ -2216,9 +2217,7 @@
             "b636759a.1af358"
         ],
         "x": 1634,
-        "y": 749,
-        "w": 1052,
-        "h": 592
+        "y": 749
     },
     {
         "id": "58747709.2ffd98",
@@ -2271,9 +2270,7 @@
             "86aeff9f.23163"
         ],
         "x": 2694,
-        "y": 749,
-        "w": 1092,
-        "h": 592
+        "y": 749
     },
     {
         "id": "4b571a8f.d70524",
@@ -2326,9 +2323,7 @@
             "3368017a.de213e"
         ],
         "x": 3794,
-        "y": 749,
-        "w": 1172,
-        "h": 592
+        "y": 749
     },
     {
         "id": "b7d3914a.2a17",
@@ -2381,9 +2376,7 @@
             "ada97752.874638"
         ],
         "x": 1634,
-        "y": 1349,
-        "w": 1092,
-        "h": 592
+        "y": 1349
     },
     {
         "id": "a3b836be.d5cde8",
@@ -2436,9 +2429,7 @@
             "739b4fcf.1c18"
         ],
         "x": 2734,
-        "y": 1349,
-        "w": 1092,
-        "h": 592
+        "y": 1349
     },
     {
         "id": "53806295.7831ac",
@@ -2491,9 +2482,7 @@
             "4fe0e535.f16e5c"
         ],
         "x": 3834,
-        "y": 1349,
-        "w": 1072,
-        "h": 592
+        "y": 1349
     },
     {
         "id": "dabbb1f4.9b65e",
@@ -2509,9 +2498,7 @@
             "a72a1eba.19d99"
         ],
         "x": 1634,
-        "y": 59,
-        "w": 132,
-        "h": 82
+        "y": 59
     },
     {
         "id": "96de1dd.d202ce",
@@ -2564,9 +2551,7 @@
             "5f1b7de2.8dd7c4"
         ],
         "x": 1634,
-        "y": 1949,
-        "w": 972,
-        "h": 592
+        "y": 1949
     },
     {
         "id": "d0981fa6.05ffc",
@@ -2619,9 +2604,7 @@
             "9481caa7.5d67e8"
         ],
         "x": 2615,
-        "y": 1959,
-        "w": 941,
-        "h": 592
+        "y": 1959
     },
     {
         "id": "4b9b7d58.136ec4",
@@ -2674,9 +2657,7 @@
             "c2a4f4bb.6e2aa8"
         ],
         "x": 3565,
-        "y": 1959,
-        "w": 1092,
-        "h": 592
+        "y": 1959
     },
     {
         "id": "d84615.919209e8",
@@ -2941,9 +2922,7 @@
             "9b21d21b.7ae4d"
         ],
         "x": 884,
-        "y": 59,
-        "w": 522,
-        "h": 632
+        "y": 59
     },
     {
         "id": "aa324282.4f554",
@@ -2969,9 +2948,7 @@
             "27a2d5e6.eea14a"
         ],
         "x": 164,
-        "y": 239,
-        "w": 572,
-        "h": 182
+        "y": 239
     },
     {
         "id": "bf91bfd8.84eda",
@@ -2996,9 +2973,7 @@
             "3fe04302.c538cc"
         ],
         "x": 164,
-        "y": 59,
-        "w": 712,
-        "h": 172
+        "y": 59
     },
     {
         "id": "f58295c0.4d4228",
@@ -3015,9 +2990,7 @@
             "3cf0ba38.d2e4f6"
         ],
         "x": 788,
-        "y": 923,
-        "w": 614,
-        "h": 424
+        "y": 923
     },
     {
         "id": "f7a3cb7b.69e4d8",
@@ -3090,9 +3063,7 @@
             "3f2cfd63.788712"
         ],
         "x": -6,
-        "y": 429,
-        "w": 742,
-        "h": 1102
+        "y": 429
     },
     {
         "id": "11f55817.139c18",
@@ -3973,7 +3944,9 @@
             "3a6fab3.c7e5154"
         ],
         "x": 54,
-        "y": 1389
+        "y": 1389,
+        "w": 532,
+        "h": 282
     },
     {
         "id": "fbbdc4b7.95b5c8",
@@ -4237,7 +4210,9 @@
             "e2792bcf.8bea78"
         ],
         "x": 54,
-        "y": 499
+        "y": 499,
+        "w": 1142,
+        "h": 162
     },
     {
         "id": "da3ae781.998328",
@@ -4257,7 +4232,9 @@
             "d49cbbef.71a878"
         ],
         "x": 54,
-        "y": 669
+        "y": 669,
+        "w": 712,
+        "h": 122
     },
     {
         "id": "e60e8bfd.7a3248",
@@ -4281,7 +4258,9 @@
             "9d2ef708.6a7618"
         ],
         "x": 54,
-        "y": 799
+        "y": 799,
+        "w": 802,
+        "h": 162
     },
     {
         "id": "b19ef7d3.42ea68",
@@ -4305,7 +4284,9 @@
             "30a20927.0852c6"
         ],
         "x": 54,
-        "y": 969
+        "y": 969,
+        "w": 882,
+        "h": 162
     },
     {
         "id": "9dbc79d1.85ede8",
@@ -4333,7 +4314,9 @@
             "6a9bae72.3bb93"
         ],
         "x": 54,
-        "y": 1139
+        "y": 1139,
+        "w": 1242,
+        "h": 242
     },
     {
         "id": "9e9a162d.d4b0a8",
@@ -4356,7 +4339,9 @@
             "d1ec13b9.2d54a"
         ],
         "x": 964,
-        "y": 819
+        "y": 819,
+        "w": 622,
+        "h": 162
     },
     {
         "id": "b509ce91.c5418",
@@ -4376,7 +4361,9 @@
             "af5bc0f2.0bc23"
         ],
         "x": 594,
-        "y": 1389
+        "y": 1389,
+        "w": 702,
+        "h": 142
     },
     {
         "id": "15ca143a.56aa5c",
@@ -5335,9 +5322,7 @@
             "5805c268.31f02c"
         ],
         "x": 814,
-        "y": 949,
-        "w": 562,
-        "h": 242
+        "y": 949
     },
     {
         "id": "3cf0ba38.d2e4f6",
@@ -5355,9 +5340,7 @@
             "2f5679af.c10006"
         ],
         "x": 814,
-        "y": 1199,
-        "w": 172,
-        "h": 122
+        "y": 1199
     },
     {
         "id": "38ea9e35.6d66c2",
@@ -39206,7 +39189,7 @@
             {
                 "t": "set",
                 "p": "Nombre_Pozo",
-                "pt": "flow",
+                "pt": "global",
                 "to": "payload",
                 "tot": "msg"
             }
@@ -39216,7 +39199,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1330,
+        "x": 1340,
         "y": 1320,
         "wires": [
             []
@@ -39234,7 +39217,7 @@
                 "p": "payload",
                 "pt": "msg",
                 "to": "Nombre_Pozo",
-                "tot": "flow"
+                "tot": "global"
             }
         ],
         "action": "",
@@ -42095,7 +42078,7 @@
         "z": "d35c32b9.6419b",
         "g": "1dd5b051.a95e6",
         "name": "Diario, semanal, mensual",
-        "func": "var date    = new Date();\n// Date\nvar year    = date.getFullYear();\nvar month   = date.getMonth()+1;\nvar day     = date.getDate();\n\n//Time\nvar hours   = date.getHours();\nvar minutes = date.getMinutes();\nvar seconds = date.getSeconds();\n\n// Asignar nombre de archivo\nif(msg.payload == 'Diario'){\n    msg.filename = day+'-'+month+'-'+year;\n}\nelse if(msg.payload == 'Semanal'){\n    var week;\n    if(day<=8){week=1;}\n    else if(day<=16){week=2;}\n    else if(day<=24){week=3;}\n    else {week=4;}\n    msg.filename = 'Semana_'+week+'-'+month+'-'+year;\n}\nelse if(msg.payload == 'Mensual'){\n    msg.filename = month+'-'+year;\n}\nflow.set(\"Nombre_Archivo_Datalogger\",msg.filename);\ndelete msg.payload;\nreturn msg;",
+        "func": "var Well = global.get(\"Nombre_Pozo\")||\"--\";\nvar date    = new Date();\n// Date\nvar year    = date.getFullYear();\nvar month   = date.getMonth()+1;\nvar day     = date.getDate();\n\n//Time\nvar hours   = date.getHours();\nvar minutes = date.getMinutes();\nvar seconds = date.getSeconds();\n\n// Asignar nombre de archivo\nif(msg.payload == 'Diario'){\n    msg.filename = Well+' '+day+'-'+month+'-'+year;\n}\nelse if(msg.payload == 'Semanal'){\n    var week;\n    if(day<=8){week=1;}\n    else if(day<=16){week=2;}\n    else if(day<=24){week=3;}\n    else {week=4;}\n    msg.filename = Well+' Semana_'+week+'-'+month+'-'+year;\n}\nelse if(msg.payload == 'Mensual'){\n    msg.filename = Well+' '+month+'-'+year;\n}\nflow.set(\"Nombre_Archivo_Datalogger\",msg.filename);\ndelete msg.payload;\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -42103,7 +42086,9 @@
         "x": 1280,
         "y": 100,
         "wires": [
-            []
+            [
+                "882afa67.5605e8"
+            ]
         ]
     },
     {
@@ -72145,6 +72130,34 @@
         "wires": [
             [
                 "33e6cf98.a413f"
+            ]
+        ]
+    },
+    {
+        "id": "882afa67.5605e8",
+        "type": "change",
+        "z": "d35c32b9.6419b",
+        "g": "1dd5b051.a95e6",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "reset",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1490,
+        "y": 100,
+        "wires": [
+            [
+                "4ea7eb06.9f2174"
             ]
         ]
     }

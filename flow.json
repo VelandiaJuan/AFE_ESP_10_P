@@ -938,7 +938,9 @@
             "23a4de49.b420d2"
         ],
         "x": 14,
-        "y": 239
+        "y": 239,
+        "w": 2602,
+        "h": 279.5
     },
     {
         "id": "7a498b99.415234",
@@ -970,7 +972,9 @@
             "cf57802e.7d258"
         ],
         "x": 14,
-        "y": 13
+        "y": 13,
+        "w": 1844,
+        "h": 214
     },
     {
         "id": "f2c899e7.e9eac8",
@@ -3083,7 +3087,9 @@
             "1660e38d.24cefc"
         ],
         "x": 40,
-        "y": 39
+        "y": 39,
+        "w": 892,
+        "h": 162
     },
     {
         "id": "c9848ab6.981718",
@@ -3139,7 +3145,9 @@
             "f4dc844c.b0f888"
         ],
         "x": 940,
-        "y": 39
+        "y": 39,
+        "w": 892,
+        "h": 162
     },
     {
         "id": "1027a10.a1e515f",
@@ -5266,7 +5274,11 @@
             "cfb42c45.e78cc",
             "a7a23c86.af952",
             "dc0e9251.31ef4",
-            "5da903f0.67311c"
+            "5da903f0.67311c",
+            "c9cf11a6.25674",
+            "83e4b55f.06df38",
+            "a6e1a57e.4b58a8",
+            "573be8e5.2698e8"
         ],
         "x": 144,
         "y": 639,
@@ -72024,7 +72036,7 @@
         "type": "change",
         "z": "5f404c88.fa75a4",
         "g": "dde9e22c.88ef2",
-        "name": "Último código de error",
+        "name": "Potencia total acumulada",
         "rules": [
             {
                 "t": "set",
@@ -72039,7 +72051,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3400,
+        "x": 3410,
         "y": 650,
         "wires": [
             [
@@ -72134,6 +72146,115 @@
         "wires": [
             [
                 "4ea7eb06.9f2174"
+            ]
+        ]
+    },
+    {
+        "id": "83e4b55f.06df38",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "e503ca5.7ac8738",
+        "name": "Faulted",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1920,
+        "y": 700,
+        "wires": [
+            [
+                "c9cf11a6.25674"
+            ]
+        ]
+    },
+    {
+        "id": "a6e1a57e.4b58a8",
+        "type": "rbe",
+        "z": "5f404c88.fa75a4",
+        "g": "e503ca5.7ac8738",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1790,
+        "y": 700,
+        "wires": [
+            [
+                "83e4b55f.06df38"
+            ]
+        ]
+    },
+    {
+        "id": "573be8e5.2698e8",
+        "type": "inject",
+        "z": "5f404c88.fa75a4",
+        "g": "e503ca5.7ac8738",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "#:(memoryOnly)::Drive_Status.Fault",
+        "payloadType": "global",
+        "x": 1610,
+        "y": 700,
+        "wires": [
+            [
+                "a6e1a57e.4b58a8"
+            ]
+        ]
+    },
+    {
+        "id": "c9cf11a6.25674",
+        "type": "change",
+        "z": "5f404c88.fa75a4",
+        "g": "e503ca5.7ac8738",
+        "name": "Evento Falla de C2S",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Falla de C2S: +++",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "+++",
+                "fromt": "str",
+                "to": "#:(memoryOnly)::C2S.Last_Fault_Code",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2100,
+        "y": 700,
+        "wires": [
+            [
+                "f99e70c8.70126",
+                "aa36a4b3.18fea8"
             ]
         ]
     }

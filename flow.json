@@ -4700,7 +4700,9 @@
             "e031d60e.89abe8",
             "8010d75a.debb98",
             "195b633.0e1ac9d",
-            "72c8db3.6f6c324"
+            "72c8db3.6f6c324",
+            "3fc5e840.e9a478",
+            "8c6f2064.7cbdc"
         ],
         "x": 2514,
         "y": 49,
@@ -5196,7 +5198,8 @@
             "d667ef8b.c9dd8",
             "79fb7790.809a08",
             "bd420231.1a153",
-            "d428246e.250f38"
+            "d428246e.250f38",
+            "ce51fc05.bdcac"
         ],
         "x": 144,
         "y": 319,
@@ -65523,7 +65526,7 @@
         "initialize": "",
         "finalize": "",
         "x": 2670,
-        "y": 290,
+        "y": 330,
         "wires": [
             [
                 "98154bef.f1c1c8"
@@ -65539,7 +65542,7 @@
         "variable": "CommandWord",
         "name": "",
         "x": 2980,
-        "y": 290,
+        "y": 330,
         "wires": []
     },
     {
@@ -65561,7 +65564,7 @@
         "repair": false,
         "outputs": 1,
         "x": 2820,
-        "y": 290,
+        "y": 330,
         "wires": [
             [
                 "4008f635.52a288"
@@ -65584,11 +65587,12 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "x": 2680,
+        "x": 2660,
         "y": 250,
         "wires": [
             [
-                "1286dd4c.802a73"
+                "1286dd4c.802a73",
+                "3fc5e840.e9a478"
             ]
         ]
     },
@@ -66284,7 +66288,7 @@
         "payload": "true",
         "payloadType": "bool",
         "x": 2650,
-        "y": 360,
+        "y": 370,
         "wires": [
             [
                 "1286dd4c.802a73"
@@ -72255,6 +72259,64 @@
             [
                 "f99e70c8.70126",
                 "aa36a4b3.18fea8"
+            ]
+        ]
+    },
+    {
+        "id": "3fc5e840.e9a478",
+        "type": "change",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "Referencia C2S",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "#:(memoryOnly)::C2S.Commanded_SpdRef",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2920,
+        "y": 290,
+        "wires": [
+            [
+                "8c6f2064.7cbdc"
+            ]
+        ]
+    },
+    {
+        "id": "8c6f2064.7cbdc",
+        "type": "link out",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "Referencia C2S Link Out",
+        "links": [
+            "ce51fc05.bdcac"
+        ],
+        "x": 3045,
+        "y": 290,
+        "wires": []
+    },
+    {
+        "id": "ce51fc05.bdcac",
+        "type": "link in",
+        "z": "5f404c88.fa75a4",
+        "g": "7b165c8f.b14834",
+        "name": "Referencia C2S Link In",
+        "links": [
+            "8c6f2064.7cbdc"
+        ],
+        "x": 295,
+        "y": 440,
+        "wires": [
+            [
+                "3cc764fd.7e58cc"
             ]
         ]
     }

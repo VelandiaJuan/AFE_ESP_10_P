@@ -5016,6 +5016,36 @@
         "y": 339
     },
     {
+        "id": "90ebdbed.1907a8",
+        "type": "group",
+        "z": "5ef5b1ce.d3899",
+        "g": "f7d4f68f.ac6a38",
+        "name": "",
+        "style": {
+            "fill": "#7f8faf",
+            "label": true
+        },
+        "nodes": [
+            "2c748bf2.5eecc4",
+            "7beb0f41.ddbf1",
+            "f21ab34b.181da",
+            "7b211215.487a7c",
+            "18c9f1c2.4ccdce",
+            "876da3c9.83763",
+            "2f1c2d62.414502",
+            "e3c8b897.8efb58",
+            "99ae3bc8.746f48",
+            "441e9860.ad6ed8",
+            "75954ddb.3b0f04",
+            "17b7aec6.e696b1",
+            "4ddffb40.6e1254"
+        ],
+        "x": 844,
+        "y": 39,
+        "w": 812,
+        "h": 272
+    },
+    {
         "id": "1d477816.993308",
         "type": "group",
         "z": "3df4c8d9.0bdc38",
@@ -5771,37 +5801,6 @@
         ],
         "x": 1354,
         "y": 2009
-    },
-    {
-        "id": "90ebdbed.1907a8",
-        "type": "group",
-        "z": "5ef5b1ce.d3899",
-        "g": "f7d4f68f.ac6a38",
-        "name": "",
-        "style": {
-            "fill": "#7f8faf",
-            "label": true
-        },
-        "nodes": [
-            "2c748bf2.5eecc4",
-            "7beb0f41.ddbf1",
-            "f21ab34b.181da",
-            "7b211215.487a7c",
-            "18c9f1c2.4ccdce",
-            "876da3c9.83763",
-            "2f1c2d62.414502",
-            "e3c8b897.8efb58",
-            "99ae3bc8.746f48",
-            "441e9860.ad6ed8",
-            "75954ddb.3b0f04",
-            "17b7aec6.e696b1",
-            "4ddffb40.6e1254",
-            "fa0d79e3.f35aa8"
-        ],
-        "x": 844,
-        "y": 39,
-        "w": 822,
-        "h": 272
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -59183,7 +59182,7 @@
         "z": "5f404c88.fa75a4",
         "g": "dde9e22c.88ef2",
         "name": "Interpretar comunicación",
-        "func": "\nmsg.payload =   {\n    'Status_Word'       : Float2Int(msg.payload.Status_Word),\n    'Output_Frecuency'  : parseFloat(msg.payload.Output_Frecuency).toFixed(3),\n    'Commanded_SpdRef'  : parseFloat(msg.payload.Commanded_SpdRef).toFixed(1),\n    'Output_Current'    : parseFloat(msg.payload.Output_Current).toFixed(1),\n    'Output_Voltage'    : parseFloat(msg.payload.Output_Voltage).toFixed(1),\n    'Output_Power'      : parseFloat(msg.payload.Output_Power).toFixed(1),\n    'Power_Factor'      : parseFloat(msg.payload.Power_Factor).toFixed(3),\n    'Bus_DC_Volts'      : parseFloat(msg.payload.Bus_DC_Volts).toFixed(1),\n    'Elapsed_Run_Time'  : parseFloat(msg.payload.Elapsed_Run_Time).toFixed(1),\n    'Drive_Temp_C'      : parseFloat(msg.payload.Drive_Temp_C).toFixed(1),\n    'Last_Fault_Code'   : Float2Int(msg.payload.Last_Fault_Code),\n    'Elapsed_kWH'       : parseFloat(msg.payload.Elapsed_kWH*1000).toFixed(3)\n}\nreturn msg;\n\nfunction Float2Int(payload){    \n    const getHex = i => ('00' + i.toString(16)).slice(-2);\n    var view = new DataView(new ArrayBuffer(4)),\n        result;\n    view.setFloat32(0, payload);\n    result = Array\n        .apply(null, { length: 4 })\n        .map((_, i) => getHex(view.getUint8(i)))\n        .join('');\n    return parseInt(result,16);\n}\n//Fuente: https://stackoverflow.com/questions/47164675/convert-float-to-32bit-hex-string-in-javascript",
+        "func": "\nmsg.payload =   {\n    'Status_Word'       : Float2Int(msg.payload.Status_Word),\n    'Output_Frecuency'  : parseFloat(msg.payload.Output_Frecuency).toFixed(3),\n    'Commanded_SpdRef'  : parseFloat((msg.payload.Commanded_SpdRef).toFixed(1)),\n    'Output_Current'    : parseFloat(msg.payload.Output_Current).toFixed(1),\n    'Output_Voltage'    : parseFloat(msg.payload.Output_Voltage).toFixed(1),\n    'Output_Power'      : parseFloat(msg.payload.Output_Power).toFixed(1),\n    'Power_Factor'      : parseFloat(msg.payload.Power_Factor).toFixed(3),\n    'Bus_DC_Volts'      : parseFloat(msg.payload.Bus_DC_Volts).toFixed(1),\n    'Elapsed_Run_Time'  : parseFloat(msg.payload.Elapsed_Run_Time).toFixed(1),\n    'Drive_Temp_C'      : parseFloat(msg.payload.Drive_Temp_C).toFixed(1),\n    'Last_Fault_Code'   : Float2Int(msg.payload.Last_Fault_Code),\n    'Elapsed_kWH'       : parseFloat(msg.payload.Elapsed_kWH*1000).toFixed(3)\n}\nreturn msg;\n\nfunction Float2Int(payload){    \n    const getHex = i => ('00' + i.toString(16)).slice(-2);\n    var view = new DataView(new ArrayBuffer(4)),\n        result;\n    view.setFloat32(0, payload);\n    result = Array\n        .apply(null, { length: 4 })\n        .map((_, i) => getHex(view.getUint8(i)))\n        .join('');\n    return parseInt(result,16);\n}\n//Fuente: https://stackoverflow.com/questions/47164675/convert-float-to-32bit-hex-string-in-javascript",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -72340,7 +72339,7 @@
         "y": 270,
         "wires": [
             [
-                "fa0d79e3.f35aa8"
+                "4ddffb40.6e1254"
             ]
         ]
     },
@@ -72353,27 +72352,8 @@
         "links": [
             "ce51fc05.bdcac"
         ],
-        "x": 1625,
+        "x": 1485,
         "y": 270,
         "wires": []
-    },
-    {
-        "id": "fa0d79e3.f35aa8",
-        "type": "function",
-        "z": "5ef5b1ce.d3899",
-        "g": "90ebdbed.1907a8",
-        "name": "to Float",
-        "func": "msg.payload = parseFloat(msg.payload);\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1530,
-        "y": 270,
-        "wires": [
-            [
-                "4ddffb40.6e1254"
-            ]
-        ]
     }
 ]

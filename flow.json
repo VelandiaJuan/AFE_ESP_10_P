@@ -1312,7 +1312,9 @@
             "ab7a4a2c.17d8a8"
         ],
         "x": 48,
-        "y": 603
+        "y": 603,
+        "w": 2014,
+        "h": 1104
     },
     {
         "id": "e3aa057d.09fb18",
@@ -1330,7 +1332,9 @@
             "b9df7528.923398"
         ],
         "x": 48,
-        "y": 1713
+        "y": 1713,
+        "w": 2900,
+        "h": 1080
     },
     {
         "id": "a163450f.bc4438",
@@ -1466,7 +1470,9 @@
             "ba5f4e4b.e55a2"
         ],
         "x": 1204,
-        "y": 1169
+        "y": 1169,
+        "w": 412,
+        "h": 82
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -2663,7 +2669,9 @@
             "675af0d1.a9fc4"
         ],
         "x": 52,
-        "y": 17
+        "y": 17,
+        "w": 2060,
+        "h": 576
     },
     {
         "id": "854dec5e.9e51d",
@@ -2682,7 +2690,9 @@
             "b4d97ea9.9a1f1"
         ],
         "x": 2128,
-        "y": 13
+        "y": 13,
+        "w": 2314,
+        "h": 834
     },
     {
         "id": "c2c48d08.f1c96",
@@ -2697,7 +2707,9 @@
             "7a6388b7.eddf38"
         ],
         "x": 2134,
-        "y": 859
+        "y": 859,
+        "w": 332,
+        "h": 142
     },
     {
         "id": "6b6e253f.c8615c",
@@ -2770,7 +2782,9 @@
             "9bdf522.eba6db"
         ],
         "x": 78,
-        "y": 43
+        "y": 43,
+        "w": 1014,
+        "h": 524
     },
     {
         "id": "6150cb44.a8b4c4",
@@ -2801,7 +2815,9 @@
             "51d2e767.639a98"
         ],
         "x": 1104,
-        "y": 49
+        "y": 49,
+        "w": 982,
+        "h": 262
     },
     {
         "id": "70d8d562.df63ac",
@@ -4072,7 +4088,9 @@
             "272ed76d.7cce68"
         ],
         "x": 74,
-        "y": 929
+        "y": 929,
+        "w": 1568,
+        "h": 752
     },
     {
         "id": "84c9494b.d4dbe8",
@@ -4106,7 +4124,9 @@
             "e2832ff4.8c486"
         ],
         "x": 74,
-        "y": 629
+        "y": 629,
+        "w": 912,
+        "h": 292
     },
     {
         "id": "dad84feb.d4773",
@@ -4181,7 +4201,9 @@
             "eb7c6393.8c838"
         ],
         "x": 74,
-        "y": 2049
+        "y": 2049,
+        "w": 1542,
+        "h": 700
     },
     {
         "id": "7aad629d.de652c",
@@ -4243,7 +4265,9 @@
             "b8c12e8b.715b2"
         ],
         "x": 74,
-        "y": 1739
+        "y": 1739,
+        "w": 2632,
+        "h": 302
     },
     {
         "id": "4eb2e67c.e57628",
@@ -4611,7 +4635,9 @@
             "577047bb.6519b8"
         ],
         "x": 994,
-        "y": 629
+        "y": 629,
+        "w": 1042,
+        "h": 272
     },
     {
         "id": "e2e299a6.d3c5c8",
@@ -4673,7 +4699,9 @@
             "4e19cfd4.3982f"
         ],
         "x": 1624,
-        "y": 2049
+        "y": 2049,
+        "w": 1062,
+        "h": 312
     },
     {
         "id": "dde9e22c.88ef2",
@@ -4779,7 +4807,9 @@
             "c25b39de.c92f08"
         ],
         "x": 1628,
-        "y": 2393
+        "y": 2393,
+        "w": 1294,
+        "h": 374
     },
     {
         "id": "46208c12.9b8aa4",
@@ -4967,7 +4997,9 @@
             "168b6577.3e722b"
         ],
         "x": 2804,
-        "y": 39
+        "y": 39,
+        "w": 892,
+        "h": 292
     },
     {
         "id": "c30870cb.fa25a",
@@ -4996,7 +5028,9 @@
             "3df3dfb.cab992"
         ],
         "x": 2154,
-        "y": 39
+        "y": 39,
+        "w": 642,
+        "h": 202
     },
     {
         "id": "4384031.9ff1afc",
@@ -5017,7 +5051,9 @@
             "446190d2.61b54"
         ],
         "x": 3704,
-        "y": 39
+        "y": 39,
+        "w": 712,
+        "h": 122
     },
     {
         "id": "b4d97ea9.9a1f1",
@@ -5083,7 +5119,9 @@
             "ece75963.8a7658"
         ],
         "x": 2154,
-        "y": 339
+        "y": 339,
+        "w": 1922,
+        "h": 482
     },
     {
         "id": "1d477816.993308",
@@ -5108,7 +5146,9 @@
             "d0a19b38.893ab8"
         ],
         "x": 104,
-        "y": 69
+        "y": 69,
+        "w": 962,
+        "h": 212
     },
     {
         "id": "9bdf522.eba6db",
@@ -5143,7 +5183,9 @@
             "f144e183.7ff68"
         ],
         "x": 104,
-        "y": 289
+        "y": 289,
+        "w": 912,
+        "h": 252
     },
     {
         "id": "5613a5b2.95577c",
@@ -5673,7 +5715,9 @@
             "97085297.91fc4"
         ],
         "x": 944,
-        "y": 959
+        "y": 959,
+        "w": 672,
+        "h": 202
     },
     {
         "id": "5d1065e2.7b952c",
@@ -5788,7 +5832,9 @@
             "f4363e16.f1813"
         ],
         "x": 1654,
-        "y": 2419
+        "y": 2419,
+        "w": 1022,
+        "h": 82
     },
     {
         "id": "c25b39de.c92f08",
@@ -5818,7 +5864,9 @@
             "38bdd4ac.3dc20c"
         ],
         "x": 1654,
-        "y": 2509
+        "y": 2509,
+        "w": 1242,
+        "h": 232
     },
     {
         "id": "2fb80d12.b93df2",
@@ -44754,7 +44802,7 @@
         "z": "3df4c8d9.0bdc38",
         "g": "9bdf522.eba6db",
         "name": "VSD_Ref",
-        "func": "// Definitions\nvar PR          = global.get(\"Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Output_Frecuency','memoryOnly');\n\nif(PR.Reference == Mtr_Speed){\n    msg.topic = \"Ref Reached\";\n    node.status({fill:\"green\",shape:\"dot\",text:Mtr_Speed});\n}\nelse{\n    msg.topic = \"Ref Not Reached yet\";\n}\n\nreturn msg;",
+        "func": "// Definitions\nvar PR          = global.get(\"Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Output_Frecuency','memoryOnly');\nMtr_Speed       = Math.abs(Mtr_Speed);\n\nif(PR.Reference == Mtr_Speed){\n    msg.topic = \"Ref Reached\";\n    node.status({fill:\"green\",shape:\"dot\",text:Mtr_Speed});\n}\nelse{\n    msg.topic = \"Ref Not Reached yet\";\n}\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -44774,7 +44822,7 @@
         "z": "3df4c8d9.0bdc38",
         "g": "9bdf522.eba6db",
         "name": "VSD_Ref",
-        "func": "// Definitions\nvar PR          = global.get(\"Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Output_Frecuency','memoryOnly')||null;\n\nif(PR.Reference < Mtr_Speed){\n    msg.payload = parseFloat(Mtr_Speed) - PR.dHz;\n    msg.payload = msg.payload - PR.dHz < PR.Reference ? PR.Reference : msg.payload;\n    msg.code = 1;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" - \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse if(PR.Reference > Mtr_Speed){\n    msg.payload = parseFloat(Mtr_Speed) + PR.dHz;\n    msg.payload = msg.payload + PR.dHz > PR.Reference ? PR.Reference : msg.payload;\n    msg.payload.code = 1;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" + \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse{\n    msg.payload = Mtr_Speed;\n    msg.code = 0;\n}\nreturn msg;",
+        "func": "// Definitions\nvar PR          = global.get(\"Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Output_Frecuency','memoryOnly')||0;\nMtr_Speed       = Math.abs(Mtr_Speed);\n\nif(PR.Reference < Mtr_Speed){\n    msg.payload = parseFloat(Mtr_Speed) - PR.dHz;\n    msg.payload = msg.payload - PR.dHz < PR.Reference ? PR.Reference : msg.payload;\n    msg.code = 1;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" - \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse if(PR.Reference > Mtr_Speed){\n    msg.payload = parseFloat(Mtr_Speed) + PR.dHz;\n    msg.payload = msg.payload + PR.dHz > PR.Reference ? PR.Reference : msg.payload;\n    msg.payload.code = 1;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" + \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse{\n    msg.payload = Mtr_Speed;\n    msg.code = 0;\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",

@@ -899,9 +899,7 @@
             "2409fb72.507894"
         ],
         "x": 1754,
-        "y": 19,
-        "w": 512,
-        "h": 142
+        "y": 19
     },
     {
         "id": "31baddff.ea0922",
@@ -940,9 +938,7 @@
             "23a4de49.b420d2"
         ],
         "x": 14,
-        "y": 239,
-        "w": 2602,
-        "h": 279.5
+        "y": 239
     },
     {
         "id": "7a498b99.415234",
@@ -958,9 +954,7 @@
             "ac1f5c0.f7b06a"
         ],
         "x": 18,
-        "y": 13,
-        "w": 794,
-        "h": 2034
+        "y": 13
     },
     {
         "id": "7b6f4b41.106164",
@@ -976,9 +970,7 @@
             "cf57802e.7d258"
         ],
         "x": 14,
-        "y": 13,
-        "w": 1844,
-        "h": 214
+        "y": 13
     },
     {
         "id": "f2c899e7.e9eac8",
@@ -992,9 +984,7 @@
         },
         "nodes": [
             "23bbdddc.b8c5c2",
-            "1027a10.a1e515f",
-            "15ca143a.56aa5c",
-            "9c35c44f.bafb68"
+            "1027a10.a1e515f"
         ],
         "x": 12,
         "y": 7,
@@ -1125,9 +1115,7 @@
             "215bed4c.7858c2"
         ],
         "x": 818,
-        "y": 13,
-        "w": 924,
-        "h": 1834
+        "y": 13
     },
     {
         "id": "aa1ba550.cbd9d8",
@@ -1324,9 +1312,7 @@
             "ab7a4a2c.17d8a8"
         ],
         "x": 48,
-        "y": 603,
-        "w": 2014,
-        "h": 1104
+        "y": 603
     },
     {
         "id": "e3aa057d.09fb18",
@@ -1344,9 +1330,7 @@
             "b9df7528.923398"
         ],
         "x": 48,
-        "y": 1713,
-        "w": 2900,
-        "h": 1080
+        "y": 1713
     },
     {
         "id": "a163450f.bc4438",
@@ -1390,9 +1374,7 @@
             "9b29345d.646748"
         ],
         "x": 824,
-        "y": 1859,
-        "w": 852,
-        "h": 242
+        "y": 1859
     },
     {
         "id": "4888c9a8.82cb88",
@@ -1484,9 +1466,7 @@
             "ba5f4e4b.e55a2"
         ],
         "x": 1204,
-        "y": 1169,
-        "w": 412,
-        "h": 82
+        "y": 1169
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -1609,9 +1589,7 @@
             "f981eb1b.025a78"
         ],
         "x": 58,
-        "y": 63,
-        "w": 1464,
-        "h": 1524
+        "y": 63
     },
     {
         "id": "6889f2bb.892f0c",
@@ -1812,8 +1790,6 @@
         ],
         "x": 14,
         "y": 21.5,
-        "w": 552,
-        "h": 217,
         "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
     },
     {
@@ -1832,9 +1808,7 @@
             "5e35a538.cad0cc"
         ],
         "x": 14,
-        "y": 251.5,
-        "w": 432,
-        "h": 157
+        "y": 251.5
     },
     {
         "id": "6f673d7.00debc4",
@@ -1985,7 +1959,7 @@
         "id": "b690d102.38713",
         "type": "group",
         "z": "e86f0ca4.7feb5",
-        "name": "Tracking Referencia remota TCP",
+        "name": "Tracking Referencia remota",
         "style": {
             "label": true,
             "color": "#000000"
@@ -1996,8 +1970,8 @@
             "a7923a8c.7c39d8"
         ],
         "x": 4194,
-        "y": 1689,
-        "w": 402,
+        "y": 1469,
+        "w": 412,
         "h": 82
     },
     {
@@ -2019,7 +1993,7 @@
             "eba2d655.522b48"
         ],
         "x": 4194,
-        "y": 1479,
+        "y": 1559,
         "w": 752,
         "h": 202
     },
@@ -2074,9 +2048,7 @@
             "cb0d324.9efa3d"
         ],
         "x": 1634,
-        "y": 149,
-        "w": 972,
-        "h": 592
+        "y": 149
     },
     {
         "id": "35440cdc.e5d764",
@@ -2129,9 +2101,7 @@
             "5bf3fb88.25b264"
         ],
         "x": 2614,
-        "y": 149,
-        "w": 932,
-        "h": 592
+        "y": 149
     },
     {
         "id": "888265d9.138288",
@@ -2184,9 +2154,7 @@
             "ea97a2e4.6a67d"
         ],
         "x": 3554,
-        "y": 149,
-        "w": 1092,
-        "h": 592
+        "y": 149
     },
     {
         "id": "54b245d3.9431dc",
@@ -2239,9 +2207,7 @@
             "b636759a.1af358"
         ],
         "x": 1634,
-        "y": 749,
-        "w": 1052,
-        "h": 592
+        "y": 749
     },
     {
         "id": "58747709.2ffd98",
@@ -2294,9 +2260,7 @@
             "86aeff9f.23163"
         ],
         "x": 2694,
-        "y": 749,
-        "w": 1092,
-        "h": 592
+        "y": 749
     },
     {
         "id": "4b571a8f.d70524",
@@ -2349,9 +2313,7 @@
             "3368017a.de213e"
         ],
         "x": 3794,
-        "y": 749,
-        "w": 1172,
-        "h": 592
+        "y": 749
     },
     {
         "id": "b7d3914a.2a17",
@@ -2404,9 +2366,7 @@
             "ada97752.874638"
         ],
         "x": 1634,
-        "y": 1349,
-        "w": 1092,
-        "h": 592
+        "y": 1349
     },
     {
         "id": "a3b836be.d5cde8",
@@ -2459,9 +2419,7 @@
             "739b4fcf.1c18"
         ],
         "x": 2734,
-        "y": 1349,
-        "w": 1092,
-        "h": 592
+        "y": 1349
     },
     {
         "id": "53806295.7831ac",
@@ -2514,9 +2472,7 @@
             "4fe0e535.f16e5c"
         ],
         "x": 3834,
-        "y": 1349,
-        "w": 1072,
-        "h": 592
+        "y": 1349
     },
     {
         "id": "dabbb1f4.9b65e",
@@ -2532,9 +2488,7 @@
             "a72a1eba.19d99"
         ],
         "x": 1634,
-        "y": 59,
-        "w": 132,
-        "h": 82
+        "y": 59
     },
     {
         "id": "96de1dd.d202ce",
@@ -2587,9 +2541,7 @@
             "5f1b7de2.8dd7c4"
         ],
         "x": 1634,
-        "y": 1949,
-        "w": 972,
-        "h": 592
+        "y": 1949
     },
     {
         "id": "d0981fa6.05ffc",
@@ -2642,9 +2594,7 @@
             "9481caa7.5d67e8"
         ],
         "x": 2615,
-        "y": 1959,
-        "w": 941,
-        "h": 592
+        "y": 1959
     },
     {
         "id": "4b9b7d58.136ec4",
@@ -2697,9 +2647,7 @@
             "c2a4f4bb.6e2aa8"
         ],
         "x": 3565,
-        "y": 1959,
-        "w": 1092,
-        "h": 592
+        "y": 1959
     },
     {
         "id": "d84615.919209e8",
@@ -2715,9 +2663,7 @@
             "675af0d1.a9fc4"
         ],
         "x": 52,
-        "y": 17,
-        "w": 2060,
-        "h": 576
+        "y": 17
     },
     {
         "id": "854dec5e.9e51d",
@@ -2736,9 +2682,7 @@
             "b4d97ea9.9a1f1"
         ],
         "x": 2128,
-        "y": 13,
-        "w": 2314,
-        "h": 834
+        "y": 13
     },
     {
         "id": "c2c48d08.f1c96",
@@ -2753,9 +2697,63 @@
             "7a6388b7.eddf38"
         ],
         "x": 2134,
-        "y": 859,
-        "w": 332,
-        "h": 142
+        "y": 859
+    },
+    {
+        "id": "6b6e253f.c8615c",
+        "type": "group",
+        "z": "5ef5b1ce.d3899",
+        "name": "Cargar Referencia del Drive en Cajetín Principal ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "b9e52013.67d19",
+            "798117c9.7c1428",
+            "abd57ed0.925e2",
+            "1fde6201.3e531e",
+            "23b326be.07f33a"
+        ],
+        "x": 1754,
+        "y": 169
+    },
+    {
+        "id": "3d68b202.2bc67e",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "name": "Modbus",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "5ee94db4.b60d74",
+            "682721fc.1e458",
+            "7ca51295.5a262c",
+            "70e044c9.541bac",
+            "e21d805.baeee8",
+            "c5b06e6.28ef89",
+            "e550a5ce.6fa378",
+            "28127983.0b49a6",
+            "64a5df1f.da707",
+            "56bab1e3.180fc",
+            "3e34f619.18cefa",
+            "e1426513.b6ead8",
+            "7902854d.6ff0fc",
+            "627acbf5.125454",
+            "244f7039.904c2",
+            "c6ca8fcd.c9acb",
+            "e8c9fd54.734fc",
+            "1d64366a.a3cfea",
+            "52fe075b.487798",
+            "8ae178b2.678558",
+            "d6696a76.a52418",
+            "f4e3682b.f045c8"
+        ],
+        "x": 1304,
+        "y": 2509,
+        "w": 1132,
+        "h": 332
     },
     {
         "id": "675af0d1.a9fc4",
@@ -2772,9 +2770,7 @@
             "9bdf522.eba6db"
         ],
         "x": 78,
-        "y": 43,
-        "w": 1014,
-        "h": 524
+        "y": 43
     },
     {
         "id": "6150cb44.a8b4c4",
@@ -2805,9 +2801,7 @@
             "51d2e767.639a98"
         ],
         "x": 1104,
-        "y": 49,
-        "w": 982,
-        "h": 262
+        "y": 49
     },
     {
         "id": "70d8d562.df63ac",
@@ -2838,14 +2832,14 @@
             "66f58a7.5c16574",
             "75c0e161.43a1c",
             "ead1502b.eb49",
-            "cd193416.856358",
             "46cdb592.10060c",
             "5c77bc75.2ac4e4",
-            "eaf3c61f.78e7d8"
+            "eaf3c61f.78e7d8",
+            "5b1cac10.b42af4"
         ],
-        "x": 2744,
+        "x": 2834,
         "y": 539,
-        "w": 1872,
+        "w": 1782,
         "h": 232
     },
     {
@@ -2974,9 +2968,7 @@
             "9b21d21b.7ae4d"
         ],
         "x": 974,
-        "y": 89,
-        "w": 522,
-        "h": 632
+        "y": 89
     },
     {
         "id": "aa324282.4f554",
@@ -3003,9 +2995,7 @@
             "bf7979d0.9fd018"
         ],
         "x": 84,
-        "y": 269,
-        "w": 742,
-        "h": 182
+        "y": 269
     },
     {
         "id": "bf91bfd8.84eda",
@@ -3030,9 +3020,7 @@
             "3fe04302.c538cc"
         ],
         "x": 254,
-        "y": 89,
-        "w": 712,
-        "h": 172
+        "y": 89
     },
     {
         "id": "f58295c0.4d4228",
@@ -3049,9 +3037,7 @@
             "3cf0ba38.d2e4f6"
         ],
         "x": 878,
-        "y": 953,
-        "w": 614,
-        "h": 424
+        "y": 953
     },
     {
         "id": "f7a3cb7b.69e4d8",
@@ -3136,9 +3122,7 @@
             "9529d99e.485f28"
         ],
         "x": 84,
-        "y": 459,
-        "w": 742,
-        "h": 1102
+        "y": 459
     },
     {
         "id": "11f55817.139c18",
@@ -3166,9 +3150,7 @@
             "1660e38d.24cefc"
         ],
         "x": 40,
-        "y": 39,
-        "w": 892,
-        "h": 162
+        "y": 39
     },
     {
         "id": "c9848ab6.981718",
@@ -3196,9 +3178,7 @@
             "273454d7.4d089c"
         ],
         "x": 44,
-        "y": 39,
-        "w": 682,
-        "h": 242
+        "y": 39
     },
     {
         "id": "cf57802e.7d258",
@@ -3226,9 +3206,7 @@
             "f4dc844c.b0f888"
         ],
         "x": 940,
-        "y": 39,
-        "w": 892,
-        "h": 162
+        "y": 39
     },
     {
         "id": "1027a10.a1e515f",
@@ -3348,9 +3326,7 @@
             "9709f15b.d49e5"
         ],
         "x": 44,
-        "y": 289,
-        "w": 742,
-        "h": 1732
+        "y": 289
     },
     {
         "id": "f3c2e7cf.5ed158",
@@ -3828,9 +3804,7 @@
             "da8d71fd.6a33c"
         ],
         "x": 844,
-        "y": 319,
-        "w": 862,
-        "h": 452
+        "y": 319
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -3855,9 +3829,7 @@
             "fd328934.0ddd18"
         ],
         "x": 854,
-        "y": 1239,
-        "w": 662,
-        "h": 202
+        "y": 1239
     },
     {
         "id": "f78dcb63.bde038",
@@ -3881,9 +3853,7 @@
             "d458c292.e2009"
         ],
         "x": 844,
-        "y": 1069,
-        "w": 672,
-        "h": 162
+        "y": 1069
     },
     {
         "id": "90ebdbed.1907a8",
@@ -3906,14 +3876,10 @@
             "e3c8b897.8efb58",
             "99ae3bc8.746f48",
             "441e9860.ad6ed8",
-            "75954ddb.3b0f04",
-            "17b7aec6.e696b1",
-            "4ddffb40.6e1254"
+            "75954ddb.3b0f04"
         ],
         "x": 844,
-        "y": 39,
-        "w": 812,
-        "h": 272
+        "y": 39
     },
     {
         "id": "311890ad.cc4ed",
@@ -3940,9 +3906,7 @@
             "920374c9.134898"
         ],
         "x": 844,
-        "y": 779,
-        "w": 652,
-        "h": 282
+        "y": 779
     },
     {
         "id": "8a7f783.a732b88",
@@ -3965,9 +3929,7 @@
             "f65a5bee.378fe8"
         ],
         "x": 854,
-        "y": 1449,
-        "w": 572,
-        "h": 182
+        "y": 1449
     },
     {
         "id": "8c3082f9.73975",
@@ -3994,9 +3956,7 @@
             "836be50a.5287e8"
         ],
         "x": 854,
-        "y": 1639,
-        "w": 862,
-        "h": 182
+        "y": 1639
     },
     {
         "id": "215bed4c.7858c2",
@@ -4018,9 +3978,7 @@
             "2a671cfc.7a9654"
         ],
         "x": 1524,
-        "y": 1149,
-        "w": 152,
-        "h": 292
+        "y": 1149
     },
     {
         "id": "5ff12c29.d4cc64",
@@ -4114,9 +4072,7 @@
             "272ed76d.7cce68"
         ],
         "x": 74,
-        "y": 929,
-        "w": 1568,
-        "h": 752
+        "y": 929
     },
     {
         "id": "84c9494b.d4dbe8",
@@ -4150,9 +4106,7 @@
             "e2832ff4.8c486"
         ],
         "x": 74,
-        "y": 629,
-        "w": 912,
-        "h": 292
+        "y": 629
     },
     {
         "id": "dad84feb.d4773",
@@ -4227,9 +4181,7 @@
             "eb7c6393.8c838"
         ],
         "x": 74,
-        "y": 2049,
-        "w": 1542,
-        "h": 700
+        "y": 2049
     },
     {
         "id": "7aad629d.de652c",
@@ -4291,9 +4243,7 @@
             "b8c12e8b.715b2"
         ],
         "x": 74,
-        "y": 1739,
-        "w": 2632,
-        "h": 302
+        "y": 1739
     },
     {
         "id": "4eb2e67c.e57628",
@@ -4457,32 +4407,6 @@
         ],
         "x": 594,
         "y": 1389
-    },
-    {
-        "id": "15ca143a.56aa5c",
-        "type": "group",
-        "z": "e86f0ca4.7feb5",
-        "g": "f2c899e7.e9eac8",
-        "name": "Lectura de IO Mediante Modbus",
-        "style": {
-            "label": true,
-            "color": "#000000",
-            "fill": "#bfc7d7"
-        },
-        "nodes": [
-            "b2d57d3c.2471d",
-            "a95021da.6a8c1",
-            "e733e0b4.8726a",
-            "2813ded5.10a312",
-            "eb6058e.d5d31a8",
-            "86b92a12.8d03a8",
-            "a14ed9ad.89be18",
-            "41b78365.d9c2dc"
-        ],
-        "x": 1344,
-        "y": 1249,
-        "w": 962,
-        "h": 162
     },
     {
         "id": "17c31216.1aa6ce",
@@ -4687,9 +4611,7 @@
             "577047bb.6519b8"
         ],
         "x": 994,
-        "y": 629,
-        "w": 1042,
-        "h": 272
+        "y": 629
     },
     {
         "id": "e2e299a6.d3c5c8",
@@ -4751,9 +4673,7 @@
             "4e19cfd4.3982f"
         ],
         "x": 1624,
-        "y": 2049,
-        "w": 1062,
-        "h": 312
+        "y": 2049
     },
     {
         "id": "dde9e22c.88ef2",
@@ -4859,9 +4779,7 @@
             "c25b39de.c92f08"
         ],
         "x": 1628,
-        "y": 2393,
-        "w": 1294,
-        "h": 374
+        "y": 2393
     },
     {
         "id": "46208c12.9b8aa4",
@@ -5014,36 +4932,12 @@
             "7066175f.071ce8",
             "a9157021.56aa2",
             "f7d52c85.918f3",
-            "c6eda5d6.4dc858"
+            "ac4a48c1.4681c8"
         ],
-        "x": 3734,
+        "x": 3844,
         "y": 779,
-        "w": 1042,
+        "w": 932,
         "h": 132
-    },
-    {
-        "id": "9c35c44f.bafb68",
-        "type": "group",
-        "z": "e86f0ca4.7feb5",
-        "g": "f2c899e7.e9eac8",
-        "name": "",
-        "style": {
-            "label": true,
-            "color": "#000000",
-            "fill": "#bfc7d7"
-        },
-        "nodes": [
-            "77985c2b.8a2e74",
-            "73c41dda.f792a4",
-            "11dc938e.1057fc",
-            "5860880e.39b3a8",
-            "a74660ea.b55d5",
-            "8549dcde.c5de1"
-        ],
-        "x": 1344,
-        "y": 1059,
-        "w": 582,
-        "h": 182
     },
     {
         "id": "f3b2b1b2.a0af2",
@@ -5073,9 +4967,7 @@
             "168b6577.3e722b"
         ],
         "x": 2804,
-        "y": 39,
-        "w": 892,
-        "h": 292
+        "y": 39
     },
     {
         "id": "c30870cb.fa25a",
@@ -5104,9 +4996,7 @@
             "3df3dfb.cab992"
         ],
         "x": 2154,
-        "y": 39,
-        "w": 642,
-        "h": 202
+        "y": 39
     },
     {
         "id": "4384031.9ff1afc",
@@ -5127,9 +5017,7 @@
             "446190d2.61b54"
         ],
         "x": 3704,
-        "y": 39,
-        "w": 712,
-        "h": 122
+        "y": 39
     },
     {
         "id": "b4d97ea9.9a1f1",
@@ -5195,9 +5083,7 @@
             "ece75963.8a7658"
         ],
         "x": 2154,
-        "y": 339,
-        "w": 1922,
-        "h": 482
+        "y": 339
     },
     {
         "id": "1d477816.993308",
@@ -5222,9 +5108,7 @@
             "d0a19b38.893ab8"
         ],
         "x": 104,
-        "y": 69,
-        "w": 962,
-        "h": 212
+        "y": 69
     },
     {
         "id": "9bdf522.eba6db",
@@ -5259,9 +5143,7 @@
             "f144e183.7ff68"
         ],
         "x": 104,
-        "y": 289,
-        "w": 912,
-        "h": 252
+        "y": 289
     },
     {
         "id": "5613a5b2.95577c",
@@ -5440,9 +5322,7 @@
             "5805c268.31f02c"
         ],
         "x": 904,
-        "y": 979,
-        "w": 562,
-        "h": 242
+        "y": 979
     },
     {
         "id": "3cf0ba38.d2e4f6",
@@ -5460,9 +5340,7 @@
             "2f5679af.c10006"
         ],
         "x": 904,
-        "y": 1229,
-        "w": 172,
-        "h": 122
+        "y": 1229
     },
     {
         "id": "38ea9e35.6d66c2",
@@ -5795,9 +5673,7 @@
             "97085297.91fc4"
         ],
         "x": 944,
-        "y": 959,
-        "w": 672,
-        "h": 202
+        "y": 959
     },
     {
         "id": "5d1065e2.7b952c",
@@ -5912,9 +5788,7 @@
             "f4363e16.f1813"
         ],
         "x": 1654,
-        "y": 2419,
-        "w": 1022,
-        "h": 82
+        "y": 2419
     },
     {
         "id": "c25b39de.c92f08",
@@ -5944,9 +5818,7 @@
             "38bdd4ac.3dc20c"
         ],
         "x": 1654,
-        "y": 2509,
-        "w": 1242,
-        "h": 232
+        "y": 2509
     },
     {
         "id": "2fb80d12.b93df2",
@@ -9945,16 +9817,16 @@
         "tcpType": "DEFAULT",
         "serialPort": "/dev/serial0",
         "serialType": "RTU-BUFFERD",
-        "serialBaudrate": "9600",
+        "serialBaudrate": "115200",
         "serialDatabits": "8",
         "serialStopbits": "1",
         "serialParity": "none",
         "serialConnectionDelay": "100",
-        "unit_id": 1,
-        "commandDelay": 1,
-        "clientTimeout": 1000,
+        "unit_id": "1",
+        "commandDelay": "1",
+        "clientTimeout": "1000",
         "reconnectOnTimeout": true,
-        "reconnectTimeout": 2000,
+        "reconnectTimeout": "2000",
         "parallelUnitIdsAllowed": true
     },
     {
@@ -36070,8 +35942,7 @@
         "y": 230,
         "wires": [
             [
-                "99ae3bc8.746f48",
-                "17b7aec6.e696b1"
+                "99ae3bc8.746f48"
             ]
         ]
     },
@@ -41838,7 +41709,8 @@
             "4482dc9f.5ee144",
             "2b47642.2404d9c",
             "51d66341.8ee0fc",
-            "d458c292.e2009"
+            "d458c292.e2009",
+            "abd57ed0.925e2"
         ],
         "x": 405,
         "y": 1410,
@@ -49742,87 +49614,6 @@
         "wires": []
     },
     {
-        "id": "2813ded5.10a312",
-        "type": "modbus-flex-getter",
-        "z": "e86f0ca4.7feb5",
-        "g": "15ca143a.56aa5c",
-        "name": "Leer Cubloc RS-232",
-        "showStatusActivities": true,
-        "showErrors": false,
-        "logIOActivities": false,
-        "server": "f630cb55.8d18e8",
-        "useIOFile": false,
-        "ioFile": "",
-        "useIOForPayload": false,
-        "emptyMsgOnFail": false,
-        "keepMsgProperties": false,
-        "x": 1920,
-        "y": 1290,
-        "wires": [
-            [],
-            [
-                "eb6058e.d5d31a8"
-            ]
-        ]
-    },
-    {
-        "id": "a95021da.6a8c1",
-        "type": "function",
-        "z": "e86f0ca4.7feb5",
-        "g": "15ca143a.56aa5c",
-        "name": "Entradas Digitales",
-        "func": "msg.topic = 'Entradas Digitales';\nmsg.payload = { \n    value: msg.payload, \n    'fc': 2, \n    'unitid': 1, \n    'address': 8, \n    'quantity':20   \n} \nreturn msg",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1650,
-        "y": 1330,
-        "wires": [
-            [
-                "2813ded5.10a312"
-            ]
-        ]
-    },
-    {
-        "id": "e733e0b4.8726a",
-        "type": "function",
-        "z": "e86f0ca4.7feb5",
-        "g": "15ca143a.56aa5c",
-        "name": "Salidas Digitales",
-        "func": "msg.topic = 'Salidas Digitales';\nmsg.payload = { \n    value: msg.payload, \n    'fc': 2, \n    'unitid': 1, \n    'address': 32, \n    'quantity':12   \n} \nreturn msg",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1640,
-        "y": 1370,
-        "wires": [
-            [
-                "2813ded5.10a312"
-            ]
-        ]
-    },
-    {
-        "id": "eb6058e.d5d31a8",
-        "type": "function",
-        "z": "e86f0ca4.7feb5",
-        "g": "15ca143a.56aa5c",
-        "name": "Interpretar lectura CUBLOC",
-        "func": "if(msg.topic == 'Salidas Digitales'){\n    msg.payload ={\n        \"32\" : msg.payload.data[0],\n        \"33\" : msg.payload.data[1],\n        \"34\" : msg.payload.data[2],\n        \"35\" : msg.payload.data[3],\n        \"36\" : msg.payload.data[4],\n        \"37\" : msg.payload.data[5],\n        \"38\" : msg.payload.data[6],\n        \"39\" : msg.payload.data[7],\n        \"40\" : msg.payload.data[8],\n        \"41\" : msg.payload.data[9],\n        \"42\" : msg.payload.data[10],\n        \"43\" : msg.payload.data[11]\n    }\n    global.set('IO.DO', msg.payload, 'memoryOnly');\n}\nelse if(msg.topic == 'Entradas Digitales'){\n    msg.payload = {\n        \"8\"  : msg.payload.data[0],\n        \"9\"  : msg.payload.data[1],\n        \"10\" : msg.payload.data[2],\n        \"11\" : msg.payload.data[3],\n        \"12\" : msg.payload.data[4],\n        \"13\" : msg.payload.data[5],\n        \"14\" : msg.payload.data[6],\n        \"15\" : msg.payload.data[7],\n        \"16\" : msg.payload.data[8],\n        \"17\" : msg.payload.data[9],\n        \"18\" : msg.payload.data[10],\n        \"19\" : msg.payload.data[11],\n        \"20\" : msg.payload.data[12],\n        \"21\" : msg.payload.data[13],\n        \"22\" : msg.payload.data[14],\n        \"23\" : msg.payload.data[15],\n        \"24\" : msg.payload.data[16],\n        \"25\" : msg.payload.data[17],\n        \"26\" : msg.payload.data[18],\n        \"27\" : msg.payload.data[19]\n    }\n    global.set('IO.DI', msg.payload, 'memoryOnly');\n}\nelse if(msg.topic == \"Entradas Analogicas\"){\n    msg.payload ={\n        \"0\" : msg.payload.data[0],\n        \"1\" : msg.payload.data[1],\n        \"2\" : msg.payload.data[2],\n        \"3\" : msg.payload.data[3],\n        \"4\" : msg.payload.data[4],\n        \"5\" : msg.payload.data[5],\n        \"6\" : msg.payload.data[6],\n        \"7\" : msg.payload.data[7]\n    }\n    global.set('IO.AI', msg.payload, 'memoryOnly');\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 2160,
-        "y": 1290,
-        "wires": [
-            [
-                "5860880e.39b3a8"
-            ]
-        ]
-    },
-    {
         "id": "c9b9512f.10fa",
         "type": "function",
         "z": "51296ca5.0c0cb4",
@@ -50675,25 +50466,6 @@
         "wires": [
             [
                 "4feb0a11.ed3ed4"
-            ]
-        ]
-    },
-    {
-        "id": "b2d57d3c.2471d",
-        "type": "function",
-        "z": "e86f0ca4.7feb5",
-        "g": "15ca143a.56aa5c",
-        "name": "Entradas Analógicas",
-        "func": "msg.topic = 'Entradas Analogicas';\nmsg.payload = { \n    value: msg.payload, \n    'fc': 4, \n    'unitid': 1, \n    'address': 10, \n    'quantity':8   \n} \nreturn msg",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1660,
-        "y": 1290,
-        "wires": [
-            [
-                "2813ded5.10a312"
             ]
         ]
     },
@@ -60380,42 +60152,6 @@
         "wires": []
     },
     {
-        "id": "86b92a12.8d03a8",
-        "type": "debug",
-        "z": "e86f0ca4.7feb5",
-        "g": "15ca143a.56aa5c",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 2090,
-        "y": 1350,
-        "wires": []
-    },
-    {
-        "id": "a14ed9ad.89be18",
-        "type": "catch",
-        "z": "e86f0ca4.7feb5",
-        "g": "15ca143a.56aa5c",
-        "name": "Errores lectura Cubloc",
-        "scope": [
-            "2813ded5.10a312"
-        ],
-        "uncaught": false,
-        "x": 1920,
-        "y": 1350,
-        "wires": [
-            [
-                "86b92a12.8d03a8"
-            ]
-        ]
-    },
-    {
         "id": "5f2867aa.83ab38",
         "type": "change",
         "z": "e86f0ca4.7feb5",
@@ -66276,34 +66012,6 @@
         "wires": []
     },
     {
-        "id": "41b78365.d9c2dc",
-        "type": "inject",
-        "z": "e86f0ca4.7feb5",
-        "g": "15ca143a.56aa5c",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "1.5",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 1440,
-        "y": 1290,
-        "wires": [
-            [
-                "a95021da.6a8c1",
-                "e733e0b4.8726a",
-                "b2d57d3c.2471d"
-            ]
-        ]
-    },
-    {
         "id": "7066175f.071ce8",
         "type": "switch",
         "z": "e86f0ca4.7feb5",
@@ -66440,11 +66148,9 @@
         "type": "link out",
         "z": "e86f0ca4.7feb5",
         "g": "e2e299a6.d3c5c8",
-        "name": "Escribir Cubloc Link Out",
+        "name": "Escribir Mapa Modbus Cubloc Link Out",
         "links": [
-            "6c3ffbf8.b31304",
-            "df1db23d.b2458",
-            "8549dcde.c5de1"
+            "627acbf5.125454"
         ],
         "x": 3105,
         "y": 870,
@@ -66455,7 +66161,7 @@
         "type": "modbus-getter",
         "z": "e86f0ca4.7feb5",
         "g": "f6e30287.8d13d",
-        "name": "",
+        "name": "Leer Cubloc",
         "showStatusActivities": true,
         "showErrors": false,
         "logIOActivities": false,
@@ -66469,163 +66175,13 @@
         "useIOForPayload": false,
         "emptyMsgOnFail": false,
         "keepMsgProperties": false,
-        "x": 3980,
+        "x": 3990,
         "y": 870,
         "wires": [
             [
                 "7066175f.071ce8"
             ],
             []
-        ]
-    },
-    {
-        "id": "5860880e.39b3a8",
-        "type": "function",
-        "z": "e86f0ca4.7feb5",
-        "g": "9c35c44f.bafb68",
-        "name": "Salidas Digitales",
-        "func": "var ES = flow.get('ES')||null;\nvar Drive_Status = global.get('Drive_Status','memoryOnly') || null;\nvar ActFunctions = flow.get('ActFunctions','memoryOnly') || null;\nvar Prot = global.get('Protections.RFlag','memoryOnly') || false;\nvar FA = global.get('Filtro_armonicos.Estado','memoryOnly')||false;\n\n// Arreglo de Canales\nvar Data    = { \n    32:false, 33:false, 34:false, 35:false, \n    36:false, 37:false, 38:false, 39:false, \n    40:false, 41:false, 42:false, 43:false\n};\n\n// Obtener llaves del objeto Data\nvar Canal = Object.keys(Data);\n// Declaración del string con \nvar canalmsg;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"CILA2S_EN_MARCHA\"          : Drive_Status != null ? (Drive_Status.Active == 1 ? true:false): false ,\n    \"FALLA_GENERAL\"             : Drive_Status != null ? (Drive_Status.Fault  == 1 ? true:false || Prot):false, \n    \"DISPARO_BREAKER_MODULO_ESD\": InFunction(ActFunctions,'Stop_ESD') || InFunction(ActFunctions,'Disparo_bajo_bajo_aceite_SUT') || InFunction(ActFunctions,'Disparo_valvula_sobrepresion') ||InFunction(ActFunctions,'Disparo_alta_temperatura_SUT') || InFunction(ActFunctions,'Disparo_alta_temperatura_filtros') || InFunction(ActFunctions,'Disparo_Alta_presión_THP')|| InFunction(ActFunctions,'Disparo_sobre_tensión_SUT') || InFunction(ActFunctions,'ESD_Remoto')|| InFunction(ActFunctions,'Proteccion_termica_de_motor') ,\n    \"BYPASS_FILTRO_ARMONICOS\"   : FA,\n    \"SIMULACION\"                : InFunction(ActFunctions,'Simulación')\n}\n\n// Funciones que se activan desde una entrada digital\nfunction InFunction(Var,Str){\n    for(var j = 0; j < Var.length; j++){\n        if(Var[j].Funcion == Str){\n            return Var[j].Estado;\n        }\n    }\n}\n\n// Llaves del vector FuncionesC2S\nvar Keys = Object.keys(FuncionC2S);\n\n// Para cada canal de salida\nfor(var i=0; i <Canal.length; i++){\n    canalmsg ='Canal'+ Canal[i];\n    // Si la configuración del canal está declarada\n    if(typeof ES.SD[canalmsg] != 'undefined'){\n        // Para cada llave del vector FuncionesC2S que coincida con la configuración del canal\n        for(var j=0; j<Keys.length; j++){\n            if(ES.SD[canalmsg].Funcion == Keys[j]){\n                // Asignar el valor contenido en el vector de funciones al canal de salida\n                Data[Canal[i]] = ES.SD[canalmsg].Tipo == \"NO\" ? FuncionC2S[Keys[j]]:!FuncionC2S[Keys[j]];\n            } \n        }\n    }\n}\n\n// Asignar variable con los valores a escribir  (Se puede eliminar al asignar directamente).\nvar values = Object.values(Data);\n\n// Escribir datos en el Cubloc\nmsg.payload = { \n    value: values, \n    'fc': 15, \n    'unitid': 1, \n    'address': 4096, \n    'quantity': 12 \n}\n\n// Retorno del mensaje\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1450,
-        "y": 1150,
-        "wires": [
-            [
-                "11dc938e.1057fc",
-                "a74660ea.b55d5"
-            ]
-        ],
-        "inputLabels": [
-            "Activar función"
-        ],
-        "outputLabels": [
-            "Canal32"
-        ]
-    },
-    {
-        "id": "11dc938e.1057fc",
-        "type": "debug",
-        "z": "e86f0ca4.7feb5",
-        "g": "9c35c44f.bafb68",
-        "name": "",
-        "active": false,
-        "tosidebar": false,
-        "console": false,
-        "tostatus": true,
-        "complete": "payload.value[1]",
-        "targetType": "msg",
-        "statusVal": "payload.value[1]",
-        "statusType": "auto",
-        "x": 1680,
-        "y": 1100,
-        "wires": []
-    },
-    {
-        "id": "73c41dda.f792a4",
-        "type": "catch",
-        "z": "e86f0ca4.7feb5",
-        "g": "9c35c44f.bafb68",
-        "name": "Erroes escritura Cubloc",
-        "scope": [
-            "a74660ea.b55d5"
-        ],
-        "uncaught": false,
-        "x": 1660,
-        "y": 1200,
-        "wires": [
-            [
-                "77985c2b.8a2e74"
-            ]
-        ]
-    },
-    {
-        "id": "77985c2b.8a2e74",
-        "type": "debug",
-        "z": "e86f0ca4.7feb5",
-        "g": "9c35c44f.bafb68",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1830,
-        "y": 1200,
-        "wires": []
-    },
-    {
-        "id": "a74660ea.b55d5",
-        "type": "modbus-flex-write",
-        "z": "e86f0ca4.7feb5",
-        "g": "9c35c44f.bafb68",
-        "name": "",
-        "showStatusActivities": true,
-        "showErrors": false,
-        "server": "f630cb55.8d18e8",
-        "emptyMsgOnFail": false,
-        "keepMsgProperties": false,
-        "x": 1670,
-        "y": 1150,
-        "wires": [
-            [],
-            []
-        ]
-    },
-    {
-        "id": "c6eda5d6.4dc858",
-        "type": "inject",
-        "z": "e86f0ca4.7feb5",
-        "g": "f6e30287.8d13d",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "1.5",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 3830,
-        "y": 870,
-        "wires": [
-            [
-                "f7d52c85.918f3"
-            ]
-        ]
-    },
-    {
-        "id": "cd193416.856358",
-        "type": "inject",
-        "z": "e86f0ca4.7feb5",
-        "g": "70d8d562.df63ac",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "1.5",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 2840,
-        "y": 730,
-        "wires": [
-            [
-                "eaf3c61f.78e7d8"
-            ]
         ]
     },
     {
@@ -66670,23 +66226,6 @@
         "x": 4870,
         "y": 1000,
         "wires": []
-    },
-    {
-        "id": "8549dcde.c5de1",
-        "type": "link in",
-        "z": "e86f0ca4.7feb5",
-        "g": "9c35c44f.bafb68",
-        "name": "Escribir Cubloc Link In",
-        "links": [
-            "c1702022.91ab1"
-        ],
-        "x": 1515,
-        "y": 1110,
-        "wires": [
-            [
-                "a74660ea.b55d5"
-            ]
-        ]
     },
     {
         "id": "87774c25.375c4",
@@ -67086,12 +66625,11 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 4480,
-        "y": 1730,
+        "x": 4490,
+        "y": 1510,
         "wires": [
             [
-                "8ad5beb8.173b5",
-                "7f604934.3e3958"
+                "8ad5beb8.173b5"
             ]
         ]
     },
@@ -67109,7 +66647,7 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 4830,
-        "y": 1580,
+        "y": 1660,
         "wires": []
     },
     {
@@ -67124,7 +66662,7 @@
         "emptyMsgOnFail": false,
         "keepMsgProperties": false,
         "x": 4650,
-        "y": 1580,
+        "y": 1660,
         "wires": [
             [
                 "acb88797.a53388"
@@ -67144,7 +66682,7 @@
         "initialize": "",
         "finalize": "",
         "x": 4470,
-        "y": 1580,
+        "y": 1660,
         "wires": [
             [
                 "8ad5beb8.173b5"
@@ -67170,7 +66708,7 @@
         "payload": "0",
         "payloadType": "num",
         "x": 4290,
-        "y": 1520,
+        "y": 1600,
         "wires": [
             [
                 "d26ae57.89e2118"
@@ -67196,7 +66734,7 @@
         "payload": "1",
         "payloadType": "num",
         "x": 4290,
-        "y": 1560,
+        "y": 1640,
         "wires": [
             [
                 "d26ae57.89e2118"
@@ -67222,7 +66760,7 @@
         "payload": "2",
         "payloadType": "num",
         "x": 4290,
-        "y": 1600,
+        "y": 1680,
         "wires": [
             [
                 "d26ae57.89e2118"
@@ -67248,7 +66786,7 @@
         "payload": "4",
         "payloadType": "num",
         "x": 4290,
-        "y": 1640,
+        "y": 1720,
         "wires": [
             [
                 "d26ae57.89e2118"
@@ -72252,10 +71790,11 @@
         "to": "",
         "reg": false,
         "x": 4320,
-        "y": 1730,
+        "y": 1510,
         "wires": [
             [
-                "798ab24b.f2bb3c"
+                "798ab24b.f2bb3c",
+                "9ba73f69.14911"
             ]
         ]
     },
@@ -72269,7 +71808,7 @@
             "935ca480.525e98"
         ],
         "x": 4235,
-        "y": 1730,
+        "y": 1510,
         "wires": [
             [
                 "33e6cf98.a413f"
@@ -72463,7 +72002,8 @@
         "links": [
             "8c6f2064.7cbdc",
             "b51c9943.537c98",
-            "4ddffb40.6e1254"
+            "4ddffb40.6e1254",
+            "798117c9.7c1428"
         ],
         "x": 295,
         "y": 440,
@@ -72472,47 +72012,6 @@
                 "3cc764fd.7e58cc"
             ]
         ]
-    },
-    {
-        "id": "17b7aec6.e696b1",
-        "type": "change",
-        "z": "5ef5b1ce.d3899",
-        "g": "90ebdbed.1907a8",
-        "name": "Referencia C2S",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "#:(memoryOnly)::C2S.Commanded_SpdRef",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1370,
-        "y": 270,
-        "wires": [
-            [
-                "4ddffb40.6e1254"
-            ]
-        ]
-    },
-    {
-        "id": "4ddffb40.6e1254",
-        "type": "link out",
-        "z": "5ef5b1ce.d3899",
-        "g": "90ebdbed.1907a8",
-        "name": "Referencia C2S Link Out",
-        "links": [
-            "ce51fc05.bdcac"
-        ],
-        "x": 1485,
-        "y": 270,
-        "wires": []
     },
     {
         "id": "bf7979d0.9fd018",
@@ -72537,6 +72036,593 @@
         "wires": [
             [
                 "adffe9df.c5bb18"
+            ]
+        ]
+    },
+    {
+        "id": "b9e52013.67d19",
+        "type": "change",
+        "z": "5ef5b1ce.d3899",
+        "g": "6b6e253f.c8615c",
+        "name": "Referencia C2S",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "#:(memoryOnly)::C2S.Commanded_SpdRef",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2030,
+        "y": 210,
+        "wires": [
+            [
+                "23b326be.07f33a"
+            ]
+        ]
+    },
+    {
+        "id": "798117c9.7c1428",
+        "type": "link out",
+        "z": "5ef5b1ce.d3899",
+        "g": "6b6e253f.c8615c",
+        "name": "Referencia C2S Link Out",
+        "links": [
+            "ce51fc05.bdcac"
+        ],
+        "x": 2265,
+        "y": 210,
+        "wires": []
+    },
+    {
+        "id": "abd57ed0.925e2",
+        "type": "link in",
+        "z": "5ef5b1ce.d3899",
+        "g": "6b6e253f.c8615c",
+        "name": "",
+        "links": [
+            "97407954.a004c8"
+        ],
+        "x": 1795,
+        "y": 210,
+        "wires": [
+            [
+                "1fde6201.3e531e"
+            ]
+        ]
+    },
+    {
+        "id": "1fde6201.3e531e",
+        "type": "switch",
+        "z": "5ef5b1ce.d3899",
+        "g": "6b6e253f.c8615c",
+        "name": "",
+        "property": "name",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1880,
+        "y": 210,
+        "wires": [
+            [
+                "b9e52013.67d19"
+            ]
+        ]
+    },
+    {
+        "id": "23b326be.07f33a",
+        "type": "function",
+        "z": "5ef5b1ce.d3899",
+        "g": "6b6e253f.c8615c",
+        "name": "ABS",
+        "func": "msg.payload = Math.abs(msg.playload);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 2180,
+        "y": 210,
+        "wires": [
+            [
+                "798117c9.7c1428"
+            ]
+        ]
+    },
+    {
+        "id": "5ee94db4.b60d74",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "Entradas Analógicas",
+        "func": "msg.topic = 'Entradas Analogicas';\nmsg.payload = { \n    value: msg.payload, \n    'fc': 4, \n    'unitid': 1, \n    'address': 10, \n    'quantity':8   \n} \nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1790,
+        "y": 2550,
+        "wires": [
+            [
+                "70e044c9.541bac"
+            ]
+        ]
+    },
+    {
+        "id": "682721fc.1e458",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "Entradas Digitales",
+        "func": "msg.topic = 'Entradas Digitales';\nmsg.payload = { \n    value: msg.payload, \n    'fc': 2, \n    'unitid': 1, \n    'address': 8, \n    'quantity':20   \n} \nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1780,
+        "y": 2590,
+        "wires": [
+            [
+                "70e044c9.541bac"
+            ]
+        ]
+    },
+    {
+        "id": "7ca51295.5a262c",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "Salidas Digitales",
+        "func": "msg.topic = 'Salidas Digitales';\nmsg.payload = { \n    value: msg.payload, \n    'fc': 2, \n    'unitid': 1, \n    'address': 32, \n    'quantity':12   \n} \nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1770,
+        "y": 2630,
+        "wires": [
+            [
+                "70e044c9.541bac"
+            ]
+        ]
+    },
+    {
+        "id": "70e044c9.541bac",
+        "type": "modbus-flex-getter",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "Leer Cubloc RS-232",
+        "showStatusActivities": true,
+        "showErrors": false,
+        "logIOActivities": false,
+        "server": "f630cb55.8d18e8",
+        "useIOFile": false,
+        "ioFile": "",
+        "useIOForPayload": false,
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 2050,
+        "y": 2550,
+        "wires": [
+            [],
+            [
+                "e21d805.baeee8"
+            ]
+        ]
+    },
+    {
+        "id": "e21d805.baeee8",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "Interpretar lectura CUBLOC",
+        "func": "if(msg.topic == 'Salidas Digitales'){\n    msg.payload ={\n        \"32\" : msg.payload.data[0],\n        \"33\" : msg.payload.data[1],\n        \"34\" : msg.payload.data[2],\n        \"35\" : msg.payload.data[3],\n        \"36\" : msg.payload.data[4],\n        \"37\" : msg.payload.data[5],\n        \"38\" : msg.payload.data[6],\n        \"39\" : msg.payload.data[7],\n        \"40\" : msg.payload.data[8],\n        \"41\" : msg.payload.data[9],\n        \"42\" : msg.payload.data[10],\n        \"43\" : msg.payload.data[11]\n    }\n    global.set('IO.DO', msg.payload, 'memoryOnly');\n}\nelse if(msg.topic == 'Entradas Digitales'){\n    msg.payload = {\n        \"8\"  : msg.payload.data[0],\n        \"9\"  : msg.payload.data[1],\n        \"10\" : msg.payload.data[2],\n        \"11\" : msg.payload.data[3],\n        \"12\" : msg.payload.data[4],\n        \"13\" : msg.payload.data[5],\n        \"14\" : msg.payload.data[6],\n        \"15\" : msg.payload.data[7],\n        \"16\" : msg.payload.data[8],\n        \"17\" : msg.payload.data[9],\n        \"18\" : msg.payload.data[10],\n        \"19\" : msg.payload.data[11],\n        \"20\" : msg.payload.data[12],\n        \"21\" : msg.payload.data[13],\n        \"22\" : msg.payload.data[14],\n        \"23\" : msg.payload.data[15],\n        \"24\" : msg.payload.data[16],\n        \"25\" : msg.payload.data[17],\n        \"26\" : msg.payload.data[18],\n        \"27\" : msg.payload.data[19]\n    }\n    global.set('IO.DI', msg.payload, 'memoryOnly');\n}\nelse if(msg.topic == \"Entradas Analogicas\"){\n    msg.payload ={\n        \"0\" : msg.payload.data[0],\n        \"1\" : msg.payload.data[1],\n        \"2\" : msg.payload.data[2],\n        \"3\" : msg.payload.data[3],\n        \"4\" : msg.payload.data[4],\n        \"5\" : msg.payload.data[5],\n        \"6\" : msg.payload.data[6],\n        \"7\" : msg.payload.data[7]\n    }\n    global.set('IO.AI', msg.payload, 'memoryOnly');\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 2290,
+        "y": 2550,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c5b06e6.28ef89",
+        "type": "debug",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2220,
+        "y": 2610,
+        "wires": []
+    },
+    {
+        "id": "e550a5ce.6fa378",
+        "type": "catch",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "Errores lectura Cubloc",
+        "scope": [
+            "70e044c9.541bac"
+        ],
+        "uncaught": false,
+        "x": 2050,
+        "y": 2610,
+        "wires": [
+            [
+                "c5b06e6.28ef89"
+            ]
+        ]
+    },
+    {
+        "id": "28127983.0b49a6",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 1400,
+        "y": 2550,
+        "wires": [
+            [
+                "244f7039.904c2"
+            ]
+        ]
+    },
+    {
+        "id": "64a5df1f.da707",
+        "type": "debug",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2150,
+        "y": 2800,
+        "wires": []
+    },
+    {
+        "id": "56bab1e3.180fc",
+        "type": "catch",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "Erroes escritura Cubloc",
+        "scope": [
+            "7902854d.6ff0fc"
+        ],
+        "uncaught": false,
+        "x": 1980,
+        "y": 2800,
+        "wires": [
+            [
+                "64a5df1f.da707"
+            ]
+        ]
+    },
+    {
+        "id": "3e34f619.18cefa",
+        "type": "debug",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "",
+        "active": false,
+        "tosidebar": false,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload.value[1]",
+        "targetType": "msg",
+        "statusVal": "payload.value[1]",
+        "statusType": "auto",
+        "x": 2000,
+        "y": 2700,
+        "wires": []
+    },
+    {
+        "id": "e1426513.b6ead8",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "Salidas Digitales",
+        "func": "var ES = flow.get('ES')||null;\nvar Drive_Status = global.get('Drive_Status','memoryOnly') || null;\nvar ActFunctions = flow.get('ActFunctions','memoryOnly') || null;\nvar Prot = global.get('Protections.RFlag','memoryOnly') || false;\nvar FA = global.get('Filtro_armonicos.Estado','memoryOnly')||false;\n\n// Arreglo de Canales\nvar Data    = { \n    32:false, 33:false, 34:false, 35:false, \n    36:false, 37:false, 38:false, 39:false, \n    40:false, 41:false, 42:false, 43:false\n};\n\n// Obtener llaves del objeto Data\nvar Canal = Object.keys(Data);\n// Declaración del string con \nvar canalmsg;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"CILA2S_EN_MARCHA\"          : Drive_Status != null ? (Drive_Status.Active == 1 ? true:false): false ,\n    \"FALLA_GENERAL\"             : Drive_Status != null ? (Drive_Status.Fault  == 1 ? true:false || Prot):false, \n    \"DISPARO_BREAKER_MODULO_ESD\": InFunction(ActFunctions,'Stop_ESD') || InFunction(ActFunctions,'Disparo_bajo_bajo_aceite_SUT') || InFunction(ActFunctions,'Disparo_valvula_sobrepresion') ||InFunction(ActFunctions,'Disparo_alta_temperatura_SUT') || InFunction(ActFunctions,'Disparo_alta_temperatura_filtros') || InFunction(ActFunctions,'Disparo_Alta_presión_THP')|| InFunction(ActFunctions,'Disparo_sobre_tensión_SUT') || InFunction(ActFunctions,'ESD_Remoto')|| InFunction(ActFunctions,'Proteccion_termica_de_motor') ,\n    \"BYPASS_FILTRO_ARMONICOS\"   : FA,\n    \"SIMULACION\"                : InFunction(ActFunctions,'Simulación')\n}\n\n// Funciones que se activan desde una entrada digital\nfunction InFunction(Var,Str){\n    for(var j = 0; j < Var.length; j++){\n        if(Var[j].Funcion == Str){\n            return Var[j].Estado;\n        }\n    }\n}\n\n// Llaves del vector FuncionesC2S\nvar Keys = Object.keys(FuncionC2S);\n\n// Para cada canal de salida\nfor(var i=0; i <Canal.length; i++){\n    canalmsg ='Canal'+ Canal[i];\n    // Si la configuración del canal está declarada\n    if(typeof ES.SD[canalmsg] != 'undefined'){\n        // Para cada llave del vector FuncionesC2S que coincida con la configuración del canal\n        for(var j=0; j<Keys.length; j++){\n            if(ES.SD[canalmsg].Funcion == Keys[j]){\n                // Asignar el valor contenido en el vector de funciones al canal de salida\n                Data[Canal[i]] = ES.SD[canalmsg].Tipo == \"NO\" ? FuncionC2S[Keys[j]]:!FuncionC2S[Keys[j]];\n            } \n        }\n    }\n}\n\n// Asignar variable con los valores a escribir  (Se puede eliminar al asignar directamente).\nvar values = Object.values(Data);\n\n// Escribir datos en el Cubloc\nmsg.payload = { \n    value: values, \n    'fc': 15, \n    'unitid': 1, \n    'address': 4096, \n    'quantity': 12 \n}\n\n// Retorno del mensaje\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1770,
+        "y": 2750,
+        "wires": [
+            [
+                "3e34f619.18cefa",
+                "7902854d.6ff0fc"
+            ]
+        ],
+        "inputLabels": [
+            "Activar función"
+        ],
+        "outputLabels": [
+            "Canal32"
+        ]
+    },
+    {
+        "id": "7902854d.6ff0fc",
+        "type": "modbus-flex-write",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "Escribir Cubloc-RS-232",
+        "showStatusActivities": true,
+        "showErrors": false,
+        "server": "f630cb55.8d18e8",
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 2010,
+        "y": 2750,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "627acbf5.125454",
+        "type": "link in",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "Escribir Mapa Modbus Cubloc Link In",
+        "links": [
+            "c1702022.91ab1"
+        ],
+        "x": 1835,
+        "y": 2700,
+        "wires": [
+            [
+                "7902854d.6ff0fc"
+            ]
+        ]
+    },
+    {
+        "id": "244f7039.904c2",
+        "type": "delay",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "160",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1540,
+        "y": 2550,
+        "wires": [
+            [
+                "5ee94db4.b60d74",
+                "c6ca8fcd.c9acb"
+            ]
+        ]
+    },
+    {
+        "id": "c6ca8fcd.c9acb",
+        "type": "delay",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "160",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1540,
+        "y": 2590,
+        "wires": [
+            [
+                "682721fc.1e458",
+                "e8c9fd54.734fc"
+            ]
+        ]
+    },
+    {
+        "id": "e8c9fd54.734fc",
+        "type": "delay",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "160",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1540,
+        "y": 2630,
+        "wires": [
+            [
+                "7ca51295.5a262c",
+                "8ae178b2.678558"
+            ]
+        ]
+    },
+    {
+        "id": "1d64366a.a3cfea",
+        "type": "delay",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "160",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1540,
+        "y": 2710,
+        "wires": [
+            [
+                "52fe075b.487798",
+                "d6696a76.a52418"
+            ]
+        ]
+    },
+    {
+        "id": "52fe075b.487798",
+        "type": "delay",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "160",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1540,
+        "y": 2750,
+        "wires": [
+            [
+                "e1426513.b6ead8"
+            ]
+        ]
+    },
+    {
+        "id": "8ae178b2.678558",
+        "type": "delay",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "160",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1540,
+        "y": 2670,
+        "wires": [
+            [
+                "1d64366a.a3cfea",
+                "f4e3682b.f045c8"
+            ]
+        ]
+    },
+    {
+        "id": "5b1cac10.b42af4",
+        "type": "link in",
+        "z": "e86f0ca4.7feb5",
+        "g": "70d8d562.df63ac",
+        "name": "Arranque/Parada/Reset RTU-Link In",
+        "links": [
+            "d6696a76.a52418"
+        ],
+        "x": 2875,
+        "y": 730,
+        "wires": [
+            [
+                "eaf3c61f.78e7d8"
+            ]
+        ]
+    },
+    {
+        "id": "d6696a76.a52418",
+        "type": "link out",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "Arranque/Parada/Reset RTU-Link Out",
+        "links": [
+            "5b1cac10.b42af4"
+        ],
+        "x": 1665,
+        "y": 2710,
+        "wires": []
+    },
+    {
+        "id": "f4e3682b.f045c8",
+        "type": "link out",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "Referencia Remota - RTU Link Out",
+        "links": [
+            "ac4a48c1.4681c8"
+        ],
+        "x": 1665,
+        "y": 2670,
+        "wires": []
+    },
+    {
+        "id": "ac4a48c1.4681c8",
+        "type": "link in",
+        "z": "e86f0ca4.7feb5",
+        "g": "f6e30287.8d13d",
+        "name": "Referencia Remota - RTU Link In",
+        "links": [
+            "f4e3682b.f045c8"
+        ],
+        "x": 3885,
+        "y": 870,
+        "wires": [
+            [
+                "f7d52c85.918f3"
             ]
         ]
     }

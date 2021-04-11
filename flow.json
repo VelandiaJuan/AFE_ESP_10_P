@@ -899,7 +899,9 @@
             "2409fb72.507894"
         ],
         "x": 1754,
-        "y": 19
+        "y": 19,
+        "w": 512,
+        "h": 142
     },
     {
         "id": "31baddff.ea0922",
@@ -954,7 +956,9 @@
             "ac1f5c0.f7b06a"
         ],
         "x": 18,
-        "y": 13
+        "y": 13,
+        "w": 794,
+        "h": 2034
     },
     {
         "id": "7b6f4b41.106164",
@@ -1115,7 +1119,9 @@
             "215bed4c.7858c2"
         ],
         "x": 818,
-        "y": 13
+        "y": 13,
+        "w": 924,
+        "h": 1834
     },
     {
         "id": "aa1ba550.cbd9d8",
@@ -1312,7 +1318,9 @@
             "ab7a4a2c.17d8a8"
         ],
         "x": 48,
-        "y": 603
+        "y": 603,
+        "w": 2014,
+        "h": 1104
     },
     {
         "id": "e3aa057d.09fb18",
@@ -1330,7 +1338,9 @@
             "b9df7528.923398"
         ],
         "x": 48,
-        "y": 1713
+        "y": 1713,
+        "w": 2900,
+        "h": 1080
     },
     {
         "id": "a163450f.bc4438",
@@ -1374,7 +1384,9 @@
             "9b29345d.646748"
         ],
         "x": 824,
-        "y": 1859
+        "y": 1859,
+        "w": 852,
+        "h": 242
     },
     {
         "id": "4888c9a8.82cb88",
@@ -1466,7 +1478,9 @@
             "ba5f4e4b.e55a2"
         ],
         "x": 1204,
-        "y": 1169
+        "y": 1169,
+        "w": 412,
+        "h": 82
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -1856,7 +1870,7 @@
         ],
         "x": 2718,
         "y": 513,
-        "w": 2084,
+        "w": 1974,
         "h": 424
     },
     {
@@ -1990,12 +2004,14 @@
             "e0e98cce.54d61",
             "3f39afa6.aebe1",
             "fe05fe43.ad5f9",
-            "eba2d655.522b48"
+            "eba2d655.522b48",
+            "923454af.73d8c8",
+            "ec35814f.e4c98"
         ],
         "x": 4194,
         "y": 1559,
         "w": 752,
-        "h": 202
+        "h": 242
     },
     {
         "id": "51885913.764608",
@@ -2663,7 +2679,9 @@
             "675af0d1.a9fc4"
         ],
         "x": 52,
-        "y": 17
+        "y": 17,
+        "w": 2060,
+        "h": 576
     },
     {
         "id": "854dec5e.9e51d",
@@ -2682,7 +2700,9 @@
             "b4d97ea9.9a1f1"
         ],
         "x": 2128,
-        "y": 13
+        "y": 13,
+        "w": 2314,
+        "h": 834
     },
     {
         "id": "c2c48d08.f1c96",
@@ -2697,7 +2717,9 @@
             "7a6388b7.eddf38"
         ],
         "x": 2134,
-        "y": 859
+        "y": 859,
+        "w": 332,
+        "h": 142
     },
     {
         "id": "6b6e253f.c8615c",
@@ -2708,14 +2730,16 @@
             "label": true
         },
         "nodes": [
-            "b9e52013.67d19",
             "798117c9.7c1428",
             "abd57ed0.925e2",
             "1fde6201.3e531e",
-            "23b326be.07f33a"
+            "23b326be.07f33a",
+            "d568869f.bd9ce8"
         ],
         "x": 1754,
-        "y": 169
+        "y": 169,
+        "w": 682,
+        "h": 122
     },
     {
         "id": "3d68b202.2bc67e",
@@ -2770,7 +2794,9 @@
             "9bdf522.eba6db"
         ],
         "x": 78,
-        "y": 43
+        "y": 43,
+        "w": 1014,
+        "h": 524
     },
     {
         "id": "6150cb44.a8b4c4",
@@ -2801,7 +2827,9 @@
             "51d2e767.639a98"
         ],
         "x": 1104,
-        "y": 49
+        "y": 49,
+        "w": 982,
+        "h": 262
     },
     {
         "id": "70d8d562.df63ac",
@@ -2837,7 +2865,7 @@
             "eaf3c61f.78e7d8",
             "5b1cac10.b42af4"
         ],
-        "x": 2834,
+        "x": 2744,
         "y": 539,
         "w": 1782,
         "h": 232
@@ -3178,7 +3206,9 @@
             "273454d7.4d089c"
         ],
         "x": 44,
-        "y": 39
+        "y": 39,
+        "w": 682,
+        "h": 242
     },
     {
         "id": "cf57802e.7d258",
@@ -3326,7 +3356,9 @@
             "9709f15b.d49e5"
         ],
         "x": 44,
-        "y": 289
+        "y": 289,
+        "w": 742,
+        "h": 1732
     },
     {
         "id": "f3c2e7cf.5ed158",
@@ -3804,7 +3836,9 @@
             "da8d71fd.6a33c"
         ],
         "x": 844,
-        "y": 319
+        "y": 319,
+        "w": 862,
+        "h": 452
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -3829,7 +3863,9 @@
             "fd328934.0ddd18"
         ],
         "x": 854,
-        "y": 1239
+        "y": 1239,
+        "w": 662,
+        "h": 202
     },
     {
         "id": "f78dcb63.bde038",
@@ -3853,7 +3889,9 @@
             "d458c292.e2009"
         ],
         "x": 844,
-        "y": 1069
+        "y": 1069,
+        "w": 672,
+        "h": 162
     },
     {
         "id": "90ebdbed.1907a8",
@@ -3879,7 +3917,9 @@
             "75954ddb.3b0f04"
         ],
         "x": 844,
-        "y": 39
+        "y": 39,
+        "w": 812,
+        "h": 272
     },
     {
         "id": "311890ad.cc4ed",
@@ -3906,7 +3946,9 @@
             "920374c9.134898"
         ],
         "x": 844,
-        "y": 779
+        "y": 779,
+        "w": 652,
+        "h": 282
     },
     {
         "id": "8a7f783.a732b88",
@@ -3929,7 +3971,9 @@
             "f65a5bee.378fe8"
         ],
         "x": 854,
-        "y": 1449
+        "y": 1449,
+        "w": 572,
+        "h": 182
     },
     {
         "id": "8c3082f9.73975",
@@ -3956,7 +4000,9 @@
             "836be50a.5287e8"
         ],
         "x": 854,
-        "y": 1639
+        "y": 1639,
+        "w": 862,
+        "h": 182
     },
     {
         "id": "215bed4c.7858c2",
@@ -3978,7 +4024,9 @@
             "2a671cfc.7a9654"
         ],
         "x": 1524,
-        "y": 1149
+        "y": 1149,
+        "w": 152,
+        "h": 292
     },
     {
         "id": "5ff12c29.d4cc64",
@@ -4072,7 +4120,9 @@
             "272ed76d.7cce68"
         ],
         "x": 74,
-        "y": 929
+        "y": 929,
+        "w": 1568,
+        "h": 752
     },
     {
         "id": "84c9494b.d4dbe8",
@@ -4106,7 +4156,9 @@
             "e2832ff4.8c486"
         ],
         "x": 74,
-        "y": 629
+        "y": 629,
+        "w": 912,
+        "h": 292
     },
     {
         "id": "dad84feb.d4773",
@@ -4181,7 +4233,9 @@
             "eb7c6393.8c838"
         ],
         "x": 74,
-        "y": 2049
+        "y": 2049,
+        "w": 1542,
+        "h": 700
     },
     {
         "id": "7aad629d.de652c",
@@ -4243,7 +4297,9 @@
             "b8c12e8b.715b2"
         ],
         "x": 74,
-        "y": 1739
+        "y": 1739,
+        "w": 2632,
+        "h": 302
     },
     {
         "id": "4eb2e67c.e57628",
@@ -4611,7 +4667,9 @@
             "577047bb.6519b8"
         ],
         "x": 994,
-        "y": 629
+        "y": 629,
+        "w": 1042,
+        "h": 272
     },
     {
         "id": "e2e299a6.d3c5c8",
@@ -4673,7 +4731,9 @@
             "4e19cfd4.3982f"
         ],
         "x": 1624,
-        "y": 2049
+        "y": 2049,
+        "w": 1062,
+        "h": 312
     },
     {
         "id": "dde9e22c.88ef2",
@@ -4779,7 +4839,9 @@
             "c25b39de.c92f08"
         ],
         "x": 1628,
-        "y": 2393
+        "y": 2393,
+        "w": 1294,
+        "h": 374
     },
     {
         "id": "46208c12.9b8aa4",
@@ -4934,7 +4996,7 @@
             "f7d52c85.918f3",
             "ac4a48c1.4681c8"
         ],
-        "x": 3844,
+        "x": 3734,
         "y": 779,
         "w": 932,
         "h": 132
@@ -4967,7 +5029,9 @@
             "168b6577.3e722b"
         ],
         "x": 2804,
-        "y": 39
+        "y": 39,
+        "w": 892,
+        "h": 292
     },
     {
         "id": "c30870cb.fa25a",
@@ -4996,7 +5060,9 @@
             "3df3dfb.cab992"
         ],
         "x": 2154,
-        "y": 39
+        "y": 39,
+        "w": 642,
+        "h": 202
     },
     {
         "id": "4384031.9ff1afc",
@@ -5017,7 +5083,9 @@
             "446190d2.61b54"
         ],
         "x": 3704,
-        "y": 39
+        "y": 39,
+        "w": 712,
+        "h": 122
     },
     {
         "id": "b4d97ea9.9a1f1",
@@ -5083,7 +5151,9 @@
             "ece75963.8a7658"
         ],
         "x": 2154,
-        "y": 339
+        "y": 339,
+        "w": 1922,
+        "h": 482
     },
     {
         "id": "1d477816.993308",
@@ -5108,7 +5178,9 @@
             "d0a19b38.893ab8"
         ],
         "x": 104,
-        "y": 69
+        "y": 69,
+        "w": 962,
+        "h": 212
     },
     {
         "id": "9bdf522.eba6db",
@@ -5143,7 +5215,9 @@
             "f144e183.7ff68"
         ],
         "x": 104,
-        "y": 289
+        "y": 289,
+        "w": 912,
+        "h": 252
     },
     {
         "id": "5613a5b2.95577c",
@@ -5673,7 +5747,9 @@
             "97085297.91fc4"
         ],
         "x": 944,
-        "y": 959
+        "y": 959,
+        "w": 672,
+        "h": 202
     },
     {
         "id": "5d1065e2.7b952c",
@@ -5788,7 +5864,9 @@
             "f4363e16.f1813"
         ],
         "x": 1654,
-        "y": 2419
+        "y": 2419,
+        "w": 1022,
+        "h": 82
     },
     {
         "id": "c25b39de.c92f08",
@@ -5818,7 +5896,9 @@
             "38bdd4ac.3dc20c"
         ],
         "x": 1654,
-        "y": 2509
+        "y": 2509,
+        "w": 1242,
+        "h": 232
     },
     {
         "id": "2fb80d12.b93df2",
@@ -35013,7 +35093,7 @@
         "z": "5f404c88.fa75a4",
         "g": "7b165c8f.b14834",
         "name": "LimitesVelocidad",
-        "func": "var Velocidad = global.get(\"Speed_Control\");\n\nvar Min = Velocidad.MinLimit;\nvar Max = Velocidad.MaxLimit;\n\nif(msg.payload > Max){\n    msg.payload = Max;\n}\nelse if(msg.payload < Min){\n    msg.payload = Min;\n}\n\nreturn msg;",
+        "func": "var Velocidad = global.get(\"Speed_Control\");\n\nvar Min = Velocidad.MinLimit;\nvar Max = Velocidad.MaxLimit;\n\nif(msg.payload > Max){\n    msg.payload = Max;\n}\nelse if(msg.payload <= Min){\n    msg.payload = Min;\n}\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -52498,7 +52578,7 @@
         "ioFile": "",
         "useIOForPayload": false,
         "emptyMsgOnFail": false,
-        "x": 3230,
+        "x": 3140,
         "y": 680,
         "wires": [
             [
@@ -52535,7 +52615,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 3,
-        "x": 3660,
+        "x": 3570,
         "y": 680,
         "wires": [
             [
@@ -52556,9 +52636,10 @@
         "g": "70d8d562.df63ac",
         "name": "Remote Start",
         "links": [
-            "c581c8dc.d013e8"
+            "c581c8dc.d013e8",
+            "923454af.73d8c8"
         ],
-        "x": 4115,
+        "x": 4025,
         "y": 580,
         "wires": []
     },
@@ -52569,9 +52650,10 @@
         "g": "70d8d562.df63ac",
         "name": "Remote Stop",
         "links": [
-            "e0c911fe.aaa9"
+            "e0c911fe.aaa9",
+            "923454af.73d8c8"
         ],
-        "x": 4115,
+        "x": 4025,
         "y": 660,
         "wires": []
     },
@@ -52582,9 +52664,10 @@
         "g": "70d8d562.df63ac",
         "name": "Remote Reset",
         "links": [
-            "1fdf355.5b5f8cb"
+            "1fdf355.5b5f8cb",
+            "923454af.73d8c8"
         ],
-        "x": 3765,
+        "x": 3675,
         "y": 720,
         "wires": []
     },
@@ -52599,7 +52682,7 @@
         "start": "",
         "inout": "out",
         "property": "payload[0]",
-        "x": 3540,
+        "x": 3450,
         "y": 680,
         "wires": [
             [
@@ -52627,7 +52710,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3840,
+        "x": 3750,
         "y": 600,
         "wires": [
             [
@@ -52655,7 +52738,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3830,
+        "x": 3740,
         "y": 680,
         "wires": [
             [
@@ -55074,7 +55157,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 4010,
+        "x": 3920,
         "y": 600,
         "wires": [
             [
@@ -55106,7 +55189,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 4010,
+        "x": 3920,
         "y": 680,
         "wires": [
             [
@@ -59487,7 +59570,7 @@
         "targetType": "msg",
         "statusVal": "payload[50]",
         "statusType": "auto",
-        "x": 3570,
+        "x": 3480,
         "y": 630,
         "wires": []
     },
@@ -59606,7 +59689,7 @@
         "raw": false,
         "topic": "",
         "name": "",
-        "x": 4500,
+        "x": 4410,
         "y": 620,
         "wires": []
     },
@@ -59635,7 +59718,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 4220,
+        "x": 4130,
         "y": 620,
         "wires": [
             [
@@ -59669,7 +59752,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 4210,
+        "x": 4120,
         "y": 700,
         "wires": [
             [
@@ -59683,11 +59766,12 @@
         "type": "link out",
         "z": "e86f0ca4.7feb5",
         "g": "70d8d562.df63ac",
-        "name": "",
+        "name": "Evento Arranque/Parada Bloqueado Link Out",
         "links": [
-            "59e817c2.295b38"
+            "59e817c2.295b38",
+            "923454af.73d8c8"
         ],
-        "x": 4325,
+        "x": 4235,
         "y": 660,
         "wires": []
     },
@@ -65528,7 +65612,7 @@
         "ioFile": "",
         "useIOForPayload": false,
         "emptyMsgOnFail": false,
-        "x": 3980,
+        "x": 3870,
         "y": 820,
         "wires": [
             [
@@ -65551,7 +65635,7 @@
         "targetType": "msg",
         "statusVal": "payload[50]",
         "statusType": "auto",
-        "x": 4660,
+        "x": 4550,
         "y": 860,
         "wires": []
     },
@@ -65564,7 +65648,7 @@
         "links": [
             "d428246e.250f38"
         ],
-        "x": 4725,
+        "x": 4615,
         "y": 820,
         "wires": []
     },
@@ -65612,7 +65696,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 4470,
+        "x": 4360,
         "y": 820,
         "wires": [
             [
@@ -65667,7 +65751,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 4320,
+        "x": 4210,
         "y": 820,
         "wires": [
             [
@@ -65985,7 +66069,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 4640,
+        "x": 4530,
         "y": 820,
         "wires": [
             [
@@ -66029,7 +66113,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 4150,
+        "x": 4040,
         "y": 870,
         "wires": [
             [
@@ -66055,7 +66139,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 4150,
+        "x": 4040,
         "y": 820,
         "wires": [
             [
@@ -66081,7 +66165,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 3400,
+        "x": 3310,
         "y": 680,
         "wires": [
             [
@@ -66108,7 +66192,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 3400,
+        "x": 3310,
         "y": 730,
         "wires": [
             [
@@ -66175,7 +66259,7 @@
         "useIOForPayload": false,
         "emptyMsgOnFail": false,
         "keepMsgProperties": false,
-        "x": 3990,
+        "x": 3880,
         "y": 870,
         "wires": [
             [
@@ -66345,7 +66429,7 @@
         "targetType": "msg",
         "statusVal": "payload[50]",
         "statusType": "auto",
-        "x": 3570,
+        "x": 3480,
         "y": 730,
         "wires": []
     },
@@ -66586,7 +66670,7 @@
         "useIOForPayload": false,
         "emptyMsgOnFail": false,
         "keepMsgProperties": false,
-        "x": 3210,
+        "x": 3120,
         "y": 730,
         "wires": [
             [
@@ -66606,7 +66690,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 3000,
+        "x": 2910,
         "y": 730,
         "wires": [
             [
@@ -72040,34 +72124,6 @@
         ]
     },
     {
-        "id": "b9e52013.67d19",
-        "type": "change",
-        "z": "5ef5b1ce.d3899",
-        "g": "6b6e253f.c8615c",
-        "name": "Referencia C2S",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "#:(memoryOnly)::C2S.Commanded_SpdRef",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 2030,
-        "y": 210,
-        "wires": [
-            [
-                "23b326be.07f33a"
-            ]
-        ]
-    },
-    {
         "id": "798117c9.7c1428",
         "type": "link out",
         "z": "5ef5b1ce.d3899",
@@ -72119,7 +72175,7 @@
         "y": 210,
         "wires": [
             [
-                "b9e52013.67d19"
+                "23b326be.07f33a"
             ]
         ]
     },
@@ -72129,7 +72185,7 @@
         "z": "5ef5b1ce.d3899",
         "g": "6b6e253f.c8615c",
         "name": "ABS",
-        "func": "msg.payload = Math.abs(msg.playload);\nreturn msg;",
+        "func": "var Speed   = global.get(\"Speed_Control.MinLimit\")||0;\nvar Ref     = global.get(\"C2S.Commanded_SpdRef\")||Speed;\nmsg.payload = Math.abs(Ref);\n\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -72138,7 +72194,8 @@
         "y": 210,
         "wires": [
             [
-                "798117c9.7c1428"
+                "798117c9.7c1428",
+                "d568869f.bd9ce8"
             ]
         ]
     },
@@ -72424,7 +72481,7 @@
         "g": "3d68b202.2bc67e",
         "name": "",
         "pauseType": "delay",
-        "timeout": "160",
+        "timeout": "100",
         "timeoutUnits": "milliseconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -72449,7 +72506,7 @@
         "g": "3d68b202.2bc67e",
         "name": "",
         "pauseType": "delay",
-        "timeout": "160",
+        "timeout": "100",
         "timeoutUnits": "milliseconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -72474,7 +72531,7 @@
         "g": "3d68b202.2bc67e",
         "name": "",
         "pauseType": "delay",
-        "timeout": "160",
+        "timeout": "100",
         "timeoutUnits": "milliseconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -72499,7 +72556,7 @@
         "g": "3d68b202.2bc67e",
         "name": "",
         "pauseType": "delay",
-        "timeout": "160",
+        "timeout": "100",
         "timeoutUnits": "milliseconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -72524,7 +72581,7 @@
         "g": "3d68b202.2bc67e",
         "name": "",
         "pauseType": "delay",
-        "timeout": "160",
+        "timeout": "100",
         "timeoutUnits": "milliseconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -72548,7 +72605,7 @@
         "g": "3d68b202.2bc67e",
         "name": "",
         "pauseType": "delay",
-        "timeout": "160",
+        "timeout": "100",
         "timeoutUnits": "milliseconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -72575,7 +72632,7 @@
         "links": [
             "d6696a76.a52418"
         ],
-        "x": 2875,
+        "x": 2785,
         "y": 730,
         "wires": [
             [
@@ -72618,12 +72675,79 @@
         "links": [
             "f4e3682b.f045c8"
         ],
-        "x": 3885,
+        "x": 3775,
         "y": 870,
         "wires": [
             [
                 "f7d52c85.918f3"
             ]
         ]
+    },
+    {
+        "id": "923454af.73d8c8",
+        "type": "link in",
+        "z": "e86f0ca4.7feb5",
+        "g": "7dbc5902.4206c8",
+        "name": "Remote Start/Stop",
+        "links": [
+            "24025e15.4ddaf2",
+            "66f58a7.5c16574",
+            "a1197dc9.92f25",
+            "a6adbd4d.9a3c4"
+        ],
+        "x": 4235,
+        "y": 1760,
+        "wires": [
+            [
+                "ec35814f.e4c98"
+            ]
+        ]
+    },
+    {
+        "id": "ec35814f.e4c98",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "7dbc5902.4206c8",
+        "name": "Restablecer registro Modbus",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 4390,
+        "y": 1760,
+        "wires": [
+            [
+                "d26ae57.89e2118",
+                "9205d7e0.ff53d8"
+            ]
+        ]
+    },
+    {
+        "id": "d568869f.bd9ce8",
+        "type": "debug",
+        "z": "5ef5b1ce.d3899",
+        "g": "6b6e253f.c8615c",
+        "name": "",
+        "active": true,
+        "tosidebar": false,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 2320,
+        "y": 250,
+        "wires": []
     }
 ]

@@ -1135,7 +1135,9 @@
             "47e5c17d.f308"
         ],
         "x": 604,
-        "y": 1279
+        "y": 1279,
+        "w": 872,
+        "h": 122
     },
     {
         "id": "1dd5b051.a95e6",
@@ -1245,11 +1247,18 @@
             "ad35e08b.93dd",
             "4671117b.65e3c",
             "385d9987.52a636",
-            "225b9d03.874c32"
+            "225b9d03.874c32",
+            "d42fcc39.f4823",
+            "18bd4053.0ce7f",
+            "2faeafb3.f06ad",
+            "b25a670a.e0cc68",
+            "6204d467.e3a61c",
+            "8d22ea2a.213e08",
+            "82f203e8.c02ef"
         ],
         "x": 2724,
         "y": 9,
-        "w": 912,
+        "w": 1032,
         "h": 492
     },
     {
@@ -1526,7 +1535,9 @@
             "a0ac95a3.e40228"
         ],
         "x": 1074,
-        "y": 69
+        "y": 69,
+        "w": 1302,
+        "h": 242
     },
     {
         "id": "3b54d390.52686c",
@@ -1642,7 +1653,9 @@
             "dde9e22c.88ef2"
         ],
         "x": 92,
-        "y": 17
+        "y": 17,
+        "w": 4040,
+        "h": 1166
     },
     {
         "id": "57eba231.4d56dc",
@@ -1662,7 +1675,9 @@
             "e9e93a2c.deeb18"
         ],
         "x": 98,
-        "y": 1253
+        "y": 1253,
+        "w": 374,
+        "h": 264
     },
     {
         "id": "75ca0b0c.5ff524",
@@ -1782,8 +1797,6 @@
         ],
         "x": 14,
         "y": 21.5,
-        "w": 552,
-        "h": 217,
         "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
     },
     {
@@ -1802,9 +1815,7 @@
             "5e35a538.cad0cc"
         ],
         "x": 14,
-        "y": 251.5,
-        "w": 432,
-        "h": 157
+        "y": 251.5
     },
     {
         "id": "6f673d7.00debc4",
@@ -2900,7 +2911,9 @@
             "ad87cee4.7dbb5"
         ],
         "x": 124,
-        "y": 1279
+        "y": 1279,
+        "w": 322,
+        "h": 82
     },
     {
         "id": "e9e93a2c.deeb18",
@@ -2916,10 +2929,13 @@
         "nodes": [
             "7abe043b.fb14fc",
             "97407954.a004c8",
-            "805762db.d27b7"
+            "805762db.d27b7",
+            "37f2db57.b831c4"
         ],
         "x": 174,
-        "y": 1369
+        "y": 1369,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "f981eb1b.025a78",
@@ -4730,10 +4746,23 @@
             "195b633.0e1ac9d",
             "72c8db3.6f6c324",
             "3fc5e840.e9a478",
-            "8c6f2064.7cbdc"
+            "8c6f2064.7cbdc",
+            "51330d5b.f89a44",
+            "67e23b88.120814",
+            "5ea826dd.7f1668",
+            "af9e1482.f781e8",
+            "f92cb206.e5ea2",
+            "1fb536f5.2c7bf9",
+            "1b87d138.647c1f",
+            "30acc1e4.ab123e",
+            "ec162b81.0c2ea8",
+            "c35b8f49.241be",
+            "d2d1f05b.20687"
         ],
         "x": 2514,
-        "y": 49
+        "y": 49,
+        "w": 1592,
+        "h": 642
     },
     {
         "id": "dc098d16.abc16",
@@ -4752,7 +4781,9 @@
             "e503ca5.7ac8738"
         ],
         "x": 118,
-        "y": 43
+        "y": 43,
+        "w": 2384,
+        "h": 1114
     },
     {
         "id": "b9df7528.923398",
@@ -5162,7 +5193,9 @@
             "fd9df9f7.0350c8"
         ],
         "x": 144,
-        "y": 69
+        "y": 69,
+        "w": 922,
+        "h": 242
     },
     {
         "id": "7b165c8f.b14834",
@@ -5201,7 +5234,9 @@
             "2d017655.64384a"
         ],
         "x": 144,
-        "y": 319
+        "y": 319,
+        "w": 1452,
+        "h": 312
     },
     {
         "id": "e503ca5.7ac8738",
@@ -5278,10 +5313,13 @@
             "c9cf11a6.25674",
             "83e4b55f.06df38",
             "a6e1a57e.4b58a8",
-            "573be8e5.2698e8"
+            "573be8e5.2698e8",
+            "e45b510.d40b5b"
         ],
         "x": 144,
-        "y": 639
+        "y": 639,
+        "w": 2332,
+        "h": 492
     },
     {
         "id": "779bed65.1819b4",
@@ -5729,7 +5767,9 @@
             "4968d3dd.74a03c",
             "e3df39b.47c05c8",
             "890ece98.923b9",
-            "16a30db2.f4a332"
+            "16a30db2.f4a332",
+            "c4df0919.a31038",
+            "7be459fd.6dc178"
         ],
         "x": 64,
         "y": 1689,
@@ -23650,7 +23690,7 @@
         "fieldType": "msg",
         "format": "handlebars",
         "syntax": "mustache",
-        "template": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <!--<link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">-->\n    \n  </head>\n  <body>\n    <div style=\"background-color:#ffffff;\">\n        {{{payload}}}\n    </div>\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS \n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script> -->\n  </body>\n</html>",
+        "template": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <!--<link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">-->\n    \n  </head>\n  <body>\n    <div class=\"disable-select\">\n        {{{payload}}}\n    </div>\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS \n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script> -->\n  </body>\n  \n  <style>\n    .disable-select {\n        user-select: none; /* supported by Chrome and Opera */\n        -webkit-user-select: none; /* Safari */\n       -khtml-user-select: none; /* Konqueror HTML */\n       -moz-user-select: none; /* Firefox */\n       -ms-user-select: none; /* Internet Explorer/Edge */\n    }\n  </style>\n</html>",
         "output": "str",
         "x": 520,
         "y": 200,
@@ -30199,13 +30239,13 @@
         "type": "function",
         "z": "e86f0ca4.7feb5",
         "g": "62757ffc.dca08",
-        "name": "Vector de Funciones 2",
+        "name": "Vector de Funciones ED",
         "func": "var ES = flow.get(\"ES\");\nvar Funcion = [];\nvar Lista_Funciones = {};\n\nvar Canal = [4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27];\n\nfor(var i=0; i<Canal.length; i++){\n    \n    // Concatenar el texto del canal\n    Canalmsg = 'Canal' + Canal[i];\n    \n    // Generar el vector con todas las posibles opciones de configuración\n    if( typeof ES.ED[Canalmsg] !== 'undefined'){\n        \n        // Lista Completa\n        Lista_Funciones[Canal[i]] = ES.ED[Canalmsg].Funcion;\n        \n        // Lista Simple\n        if(Funcion.find(element => element == ES.ED[Canalmsg].Funcion) !== ES.ED[Canalmsg].Funcion ){\n            Funcion.push(ES.ED[Canalmsg].Funcion);\n        }\n    }\n    else{\n        delete Lista_Funciones[Canal[i]];\n    }\n    \n}\n\nmsg.payload = {\n    'Lista_Simple':Funcion,\n    'Lista_Completa':Lista_Funciones\n}\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 190,
+        "x": 200,
         "y": 150,
         "wires": [
             [
@@ -32116,7 +32156,7 @@
         "initialize": "",
         "finalize": "",
         "x": 480,
-        "y": 1880,
+        "y": 1960,
         "wires": []
     },
     {
@@ -32147,7 +32187,8 @@
         "y": 1830,
         "wires": [
             [
-                "d34861d8.cf767"
+                "d34861d8.cf767",
+                "c4df0919.a31038"
             ]
         ]
     },
@@ -32205,7 +32246,7 @@
         "payloadType": "flow",
         "topic": "",
         "x": 230,
-        "y": 1880,
+        "y": 1960,
         "wires": [
             [
                 "8e749bbe.f74f28"
@@ -39705,7 +39746,7 @@
         "y": 940,
         "wires": [
             [
-                "edd86b06.db3c18"
+                "e45b510.d40b5b"
             ]
         ]
     },
@@ -39733,7 +39774,7 @@
         "y": 980,
         "wires": [
             [
-                "edd86b06.db3c18"
+                "e45b510.d40b5b"
             ]
         ]
     },
@@ -39750,7 +39791,7 @@
         "label": "Sentido de giro: ",
         "format": "{{msg.payload}}",
         "layout": "row-spread",
-        "x": 1320,
+        "x": 1440,
         "y": 960,
         "wires": []
     },
@@ -40393,7 +40434,7 @@
         "label": "Frecuencia",
         "format": "<font size = 8px> {{msg.payload}}Hz",
         "layout": "col-center",
-        "x": 3480,
+        "x": 3600,
         "y": 220,
         "wires": []
     },
@@ -40410,7 +40451,7 @@
         "label": "Tensión de fase prom",
         "format": "<font size = 8px> {{msg.payload}}V",
         "layout": "col-center",
-        "x": 3510,
+        "x": 3630,
         "y": 260,
         "wires": []
     },
@@ -40427,7 +40468,7 @@
         "label": "Tensión de línea prom",
         "format": "<font size = 8px> {{msg.payload}}V",
         "layout": "col-center",
-        "x": 3510,
+        "x": 3630,
         "y": 300,
         "wires": []
     },
@@ -40444,7 +40485,7 @@
         "label": "THD (V) Prom",
         "format": "<font size = 8px> {{msg.payload}}%",
         "layout": "col-center",
-        "x": 3490,
+        "x": 3610,
         "y": 340,
         "wires": []
     },
@@ -40461,7 +40502,7 @@
         "label": "THD (I) Prom",
         "format": "<font size = 8px> {{msg.payload}}%",
         "layout": "col-center",
-        "x": 3480,
+        "x": 3600,
         "y": 380,
         "wires": []
     },
@@ -41642,7 +41683,7 @@
         "y": 220,
         "wires": [
             [
-                "8197176b.7639a8"
+                "d42fcc39.f4823"
             ]
         ]
     },
@@ -41674,7 +41715,8 @@
         "y": 1410,
         "wires": [
             [
-                "97407954.a004c8"
+                "97407954.a004c8",
+                "37f2db57.b831c4"
             ]
         ]
     },
@@ -41993,7 +42035,7 @@
         "fieldType": "msg",
         "format": "handlebars",
         "syntax": "mustache",
-        "template": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    \n  </head>\n  <body>\n    <div>\n        {{{payload}}}\n    </div>\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS \n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script> -->\n  </body>\n</html>",
+        "template": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    \n  </head>\n  <body>\n    <div class=\"disable-select\">\n        {{{payload}}}\n    </div>\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS \n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script> -->\n  </body>\n  \n<style>\n    .disable-select {\n        user-select: none; /* supported by Chrome and Opera */\n        -webkit-user-select: none; /* Safari */\n        -khtml-user-select: none; /* Konqueror HTML */\n        -moz-user-select: none; /* Firefox */\n        -ms-user-select: none; /* Internet Explorer/Edge */\n    }\n</style>\n  \n</html>",
         "output": "str",
         "x": 174,
         "y": 464,
@@ -43913,7 +43955,7 @@
         "y": 260,
         "wires": [
             [
-                "8406554a.894a38"
+                "18bd4053.0ce7f"
             ]
         ]
     },
@@ -43932,7 +43974,7 @@
         "y": 300,
         "wires": [
             [
-                "9e2b819.de0ee8"
+                "2faeafb3.f06ad"
             ]
         ]
     },
@@ -43951,7 +43993,7 @@
         "y": 340,
         "wires": [
             [
-                "cbe5848c.3678c8"
+                "b25a670a.e0cc68"
             ]
         ]
     },
@@ -43970,7 +44012,7 @@
         "y": 380,
         "wires": [
             [
-                "11e153a8.ba3aac"
+                "6204d467.e3a61c"
             ]
         ]
     },
@@ -52017,7 +52059,7 @@
                 "p": "payload"
             }
         ],
-        "repeat": "0.5",
+        "repeat": "1",
         "crontab": "",
         "once": true,
         "onceDelay": "0.5",
@@ -58701,7 +58743,7 @@
         ],
         "allowColorForValueInMessage": false,
         "name": "Main",
-        "x": 3790,
+        "x": 3910,
         "y": 90,
         "wires": []
     },
@@ -58756,7 +58798,7 @@
         ],
         "allowColorForValueInMessage": false,
         "name": "Menú",
-        "x": 3790,
+        "x": 3910,
         "y": 130,
         "wires": []
     },
@@ -58830,8 +58872,8 @@
         "y": 130,
         "wires": [
             [
-                "5a69692c.84d3d8",
-                "126f7267.c38efe"
+                "51330d5b.f89a44",
+                "d2d1f05b.20687"
             ]
         ]
     },
@@ -59043,8 +59085,8 @@
         "y": 170,
         "wires": [
             [
-                "43f0005f.07f82",
-                "510bf900.1fbea8"
+                "510bf900.1fbea8",
+                "67e23b88.120814"
             ]
         ]
     },
@@ -59072,7 +59114,7 @@
         "y": 210,
         "wires": [
             [
-                "c061c85d.a9ede8"
+                "5ea826dd.7f1668"
             ]
         ]
     },
@@ -59100,7 +59142,7 @@
         "y": 250,
         "wires": [
             [
-                "6789ef5a.e271c"
+                "af9e1482.f781e8"
             ]
         ]
     },
@@ -59128,8 +59170,8 @@
         "y": 290,
         "wires": [
             [
-                "895d77a8.ef3188",
-                "e6dcbeb6.ceddc"
+                "e6dcbeb6.ceddc",
+                "f92cb206.e5ea2"
             ]
         ]
     },
@@ -59157,7 +59199,7 @@
         "y": 330,
         "wires": [
             [
-                "abe2e5c8.1dd248"
+                "1fb536f5.2c7bf9"
             ]
         ]
     },
@@ -59185,10 +59227,10 @@
         "y": 370,
         "wires": [
             [
-                "ac7d9b40.a3fa48",
-                "ba8f9132.a0406",
                 "aa7c5a54.076d28",
-                "f8f60ae4.452518"
+                "f8f60ae4.452518",
+                "ec162b81.0c2ea8",
+                "c35b8f49.241be"
             ]
         ]
     },
@@ -59285,7 +59327,7 @@
         "label": "Porcentaje de Velocidad",
         "format": "<font size = 8px> {{msg.payload}}%",
         "layout": "col-center",
-        "x": 3850,
+        "x": 3970,
         "y": 490,
         "wires": []
     },
@@ -59304,7 +59346,7 @@
         "y": 490,
         "wires": [
             [
-                "c48ec4a6.a9ee28"
+                "30acc1e4.ab123e"
             ]
         ]
     },
@@ -59349,7 +59391,7 @@
         "y": 530,
         "wires": [
             [
-                "856a81d7.aae66"
+                "1b87d138.647c1f"
             ]
         ]
     },
@@ -60125,7 +60167,7 @@
         "y": 420,
         "wires": [
             [
-                "87f9add.d16445"
+                "8d22ea2a.213e08"
             ]
         ]
     },
@@ -60142,7 +60184,7 @@
         "label": "Corriente de Entrada",
         "format": "<font size = 8px> {{msg.payload}}A",
         "layout": "col-center",
-        "x": 3510,
+        "x": 3630,
         "y": 420,
         "wires": []
     },
@@ -60442,7 +60484,7 @@
                 "p": "payload"
             }
         ],
-        "repeat": "0.5",
+        "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
@@ -71483,7 +71525,7 @@
         "label": "Factor de potencia",
         "format": "<font size = 8px> {{msg.payload}}",
         "layout": "col-center",
-        "x": 3500,
+        "x": 3620,
         "y": 460,
         "wires": []
     },
@@ -71502,7 +71544,7 @@
         "y": 460,
         "wires": [
             [
-                "4671117b.65e3c"
+                "82f203e8.c02ef"
             ]
         ]
     },
@@ -72725,6 +72767,571 @@
             [
                 "e1426513.b6ead8"
             ]
+        ]
+    },
+    {
+        "id": "37f2db57.b831c4",
+        "type": "change",
+        "z": "5f404c88.fa75a4",
+        "g": "e9e93a2c.deeb18",
+        "name": "Pantalla",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Pantalla",
+                "pt": "global",
+                "to": "name",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 310,
+        "y": 1450,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "51330d5b.f89a44",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "Main",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3790,
+        "y": 90,
+        "wires": [
+            [
+                "126f7267.c38efe"
+            ]
+        ]
+    },
+    {
+        "id": "67e23b88.120814",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "Main",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3670,
+        "y": 170,
+        "wires": [
+            [
+                "43f0005f.07f82"
+            ]
+        ]
+    },
+    {
+        "id": "5ea826dd.7f1668",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "Main",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3670,
+        "y": 210,
+        "wires": [
+            [
+                "c061c85d.a9ede8"
+            ]
+        ]
+    },
+    {
+        "id": "af9e1482.f781e8",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "Main",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3670,
+        "y": 250,
+        "wires": [
+            [
+                "6789ef5a.e271c"
+            ]
+        ]
+    },
+    {
+        "id": "f92cb206.e5ea2",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "Main",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3670,
+        "y": 290,
+        "wires": [
+            [
+                "895d77a8.ef3188"
+            ]
+        ]
+    },
+    {
+        "id": "1fb536f5.2c7bf9",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "Main",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3670,
+        "y": 330,
+        "wires": [
+            [
+                "abe2e5c8.1dd248"
+            ]
+        ]
+    },
+    {
+        "id": "1b87d138.647c1f",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "Main",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3670,
+        "y": 530,
+        "wires": [
+            [
+                "856a81d7.aae66"
+            ]
+        ]
+    },
+    {
+        "id": "30acc1e4.ab123e",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "Main",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3790,
+        "y": 490,
+        "wires": [
+            [
+                "c48ec4a6.a9ee28"
+            ]
+        ]
+    },
+    {
+        "id": "ec162b81.0c2ea8",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "Main",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3670,
+        "y": 410,
+        "wires": [
+            [
+                "ac7d9b40.a3fa48"
+            ]
+        ]
+    },
+    {
+        "id": "c35b8f49.241be",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "Menu",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Menu",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3670,
+        "y": 450,
+        "wires": [
+            [
+                "ba8f9132.a0406"
+            ]
+        ]
+    },
+    {
+        "id": "d2d1f05b.20687",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "Menu",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Menu",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3790,
+        "y": 130,
+        "wires": [
+            [
+                "5a69692c.84d3d8"
+            ]
+        ]
+    },
+    {
+        "id": "e45b510.d40b5b",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "e503ca5.7ac8738",
+        "name": "Main",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1290,
+        "y": 960,
+        "wires": [
+            [
+                "edd86b06.db3c18"
+            ]
+        ]
+    },
+    {
+        "id": "d42fcc39.f4823",
+        "type": "switch",
+        "z": "e86f0ca4.7feb5",
+        "g": "74789700.1df498",
+        "name": "Main",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3460,
+        "y": 220,
+        "wires": [
+            [
+                "8197176b.7639a8"
+            ]
+        ]
+    },
+    {
+        "id": "18bd4053.0ce7f",
+        "type": "switch",
+        "z": "e86f0ca4.7feb5",
+        "g": "74789700.1df498",
+        "name": "Main",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3460,
+        "y": 260,
+        "wires": [
+            [
+                "8406554a.894a38"
+            ]
+        ]
+    },
+    {
+        "id": "2faeafb3.f06ad",
+        "type": "switch",
+        "z": "e86f0ca4.7feb5",
+        "g": "74789700.1df498",
+        "name": "Main",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3460,
+        "y": 300,
+        "wires": [
+            [
+                "9e2b819.de0ee8"
+            ]
+        ]
+    },
+    {
+        "id": "b25a670a.e0cc68",
+        "type": "switch",
+        "z": "e86f0ca4.7feb5",
+        "g": "74789700.1df498",
+        "name": "Main",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3460,
+        "y": 340,
+        "wires": [
+            [
+                "cbe5848c.3678c8"
+            ]
+        ]
+    },
+    {
+        "id": "6204d467.e3a61c",
+        "type": "switch",
+        "z": "e86f0ca4.7feb5",
+        "g": "74789700.1df498",
+        "name": "Main",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3460,
+        "y": 380,
+        "wires": [
+            [
+                "11e153a8.ba3aac"
+            ]
+        ]
+    },
+    {
+        "id": "8d22ea2a.213e08",
+        "type": "switch",
+        "z": "e86f0ca4.7feb5",
+        "g": "74789700.1df498",
+        "name": "Main",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3460,
+        "y": 420,
+        "wires": [
+            [
+                "87f9add.d16445"
+            ]
+        ]
+    },
+    {
+        "id": "82f203e8.c02ef",
+        "type": "switch",
+        "z": "e86f0ca4.7feb5",
+        "g": "74789700.1df498",
+        "name": "Main",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3460,
+        "y": 460,
+        "wires": [
+            [
+                "4671117b.65e3c"
+            ]
+        ]
+    },
+    {
+        "id": "c4df0919.a31038",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "1b19a252.cfe16e",
+        "name": "Vector de Funciones SD",
+        "func": "var ES = flow.get(\"ES\");\nvar Funcion = [];\nvar Lista_Funciones = {};\n\nvar Canal = [32,33,34,35,36,36,38,39,40,41,42,43];\n\nfor(var i=0; i<Canal.length; i++){\n    \n    // Concatenar el texto del canal\n    Canalmsg = 'Canal' + Canal[i];\n    \n    // Generar el vector con todas las posibles opciones de configuración\n    if( typeof ES.SD[Canalmsg] !== 'undefined'){\n        \n        // Lista Completa\n        Lista_Funciones[Canal[i]] = ES.SD[Canalmsg].Funcion;\n        \n        // Lista Simple\n        if(Funcion.find(element => element == ES.SD[Canalmsg].Funcion) !== ES.SD[Canalmsg].Funcion ){\n            Funcion.push(ES.SD[Canalmsg].Funcion);\n        }\n    }\n    else{\n        delete Lista_Funciones[Canal[i]];\n    }\n    \n}\n\nmsg.payload = {\n    'Lista_Simple':Funcion,\n    'Lista_Completa':Lista_Funciones\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 460,
+        "y": 1880,
+        "wires": [
+            [
+                "7be459fd.6dc178"
+            ]
+        ]
+    },
+    {
+        "id": "7be459fd.6dc178",
+        "type": "change",
+        "z": "e86f0ca4.7feb5",
+        "g": "1b19a252.cfe16e",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "ES.SD.Funciones",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 460,
+        "y": 1920,
+        "wires": [
+            []
         ]
     }
 ]

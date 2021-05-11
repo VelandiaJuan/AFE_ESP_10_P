@@ -84,6 +84,13 @@
         "info": ""
     },
     {
+        "id": "d2972edf.3d6c1",
+        "type": "tab",
+        "label": "AVAS",
+        "disabled": false,
+        "info": ""
+    },
+    {
         "id": "ed83123a.a1745",
         "type": "subflow",
         "name": "VSDBasic",
@@ -790,9 +797,7 @@
             "195d3093.36368f"
         ],
         "x": 84,
-        "y": 13,
-        "w": 928,
-        "h": 1044
+        "y": 13
     },
     {
         "id": "f7ed166d.1aa528",
@@ -901,7 +906,9 @@
             "2409fb72.507894"
         ],
         "x": 1754,
-        "y": 19
+        "y": 19,
+        "w": 512,
+        "h": 142
     },
     {
         "id": "31baddff.ea0922",
@@ -956,7 +963,9 @@
             "ac1f5c0.f7b06a"
         ],
         "x": 18,
-        "y": 13
+        "y": 13,
+        "w": 794,
+        "h": 2074
     },
     {
         "id": "7b6f4b41.106164",
@@ -1117,7 +1126,9 @@
             "215bed4c.7858c2"
         ],
         "x": 818,
-        "y": 13
+        "y": 13,
+        "w": 924,
+        "h": 1834
     },
     {
         "id": "aa1ba550.cbd9d8",
@@ -1137,7 +1148,9 @@
             "47e5c17d.f308"
         ],
         "x": 604,
-        "y": 1279
+        "y": 1279,
+        "w": 872,
+        "h": 122
     },
     {
         "id": "1dd5b051.a95e6",
@@ -1381,7 +1394,9 @@
             "9b29345d.646748"
         ],
         "x": 824,
-        "y": 1859
+        "y": 1859,
+        "w": 852,
+        "h": 242
     },
     {
         "id": "4888c9a8.82cb88",
@@ -1407,9 +1422,7 @@
             "847c409b.80c02"
         ],
         "x": 88,
-        "y": 1063,
-        "w": 1264,
-        "h": 368
+        "y": 1063
     },
     {
         "id": "2fc65bf7.d30fb4",
@@ -1537,7 +1550,9 @@
             "a0ac95a3.e40228"
         ],
         "x": 1074,
-        "y": 69
+        "y": 69,
+        "w": 1302,
+        "h": 242
     },
     {
         "id": "3b54d390.52686c",
@@ -1559,9 +1574,7 @@
             "9ac5fb1d.327ff8"
         ],
         "x": 114,
-        "y": 1269,
-        "w": 602,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "f738d604.f009b8",
@@ -1639,9 +1652,7 @@
             "36d73f7a.42644"
         ],
         "x": 1024,
-        "y": 19,
-        "w": 702,
-        "h": 642
+        "y": 19
     },
     {
         "id": "b586885.2404778",
@@ -1657,7 +1668,9 @@
             "dde9e22c.88ef2"
         ],
         "x": 92,
-        "y": 17
+        "y": 17,
+        "w": 4040,
+        "h": 1166
     },
     {
         "id": "57eba231.4d56dc",
@@ -1677,7 +1690,9 @@
             "e9e93a2c.deeb18"
         ],
         "x": 98,
-        "y": 1253
+        "y": 1253,
+        "w": 374,
+        "h": 264
     },
     {
         "id": "75ca0b0c.5ff524",
@@ -1774,9 +1789,7 @@
             "9bfc4b14.b3c7a8"
         ],
         "x": 94,
-        "y": 1439,
-        "w": 742,
-        "h": 362
+        "y": 1439
     },
     {
         "id": "8a437085.d2b8",
@@ -1976,11 +1989,13 @@
         "nodes": [
             "798ab24b.f2bb3c",
             "33e6cf98.a413f",
-            "a7923a8c.7c39d8"
+            "a7923a8c.7c39d8",
+            "b3483c29.e4ff4",
+            "52df689b.264478"
         ],
         "x": 4194,
         "y": 1469,
-        "w": 412,
+        "w": 712,
         "h": 82
     },
     {
@@ -2718,15 +2733,11 @@
         "style": {
             "label": true
         },
-        "nodes": [
-            "798117c9.7c1428",
-            "abd57ed0.925e2",
-            "1fde6201.3e531e",
-            "23b326be.07f33a",
-            "d568869f.bd9ce8"
-        ],
+        "nodes": [],
         "x": 1754,
-        "y": 169
+        "y": 169,
+        "w": 304,
+        "h": 40
     },
     {
         "id": "3d68b202.2bc67e",
@@ -2766,6 +2777,48 @@
         "y": 2509,
         "w": 1132,
         "h": 332
+    },
+    {
+        "id": "1a2c71e0.bd05fe",
+        "type": "group",
+        "z": "d2972edf.3d6c1",
+        "name": "Gráfica IPR",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "cf8af234.7080f",
+            "eeb74e26.02437",
+            "cb802800.5ab818",
+            "d2362d4.b7c40d",
+            "debf988f.cbfee8",
+            "f9233058.fe67f",
+            "e47ce41e.65d978",
+            "1d262758.d91059"
+        ],
+        "x": 44,
+        "y": 839
+    },
+    {
+        "id": "91665de9.7194",
+        "type": "group",
+        "z": "d2972edf.3d6c1",
+        "name": "Configuración - IWOC",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "594bfb02.2b8894",
+            "5f8972b7.b986dc",
+            "6de7b375.6750cc",
+            "b15394d1.1fa588",
+            "a5acd955.76ebc8",
+            "a8eca441.f9a4b8",
+            "a2acb5a2.e85b98"
+        ],
+        "x": 44,
+        "y": 23
     },
     {
         "id": "675af0d1.a9fc4",
@@ -2913,7 +2966,9 @@
             "ad87cee4.7dbb5"
         ],
         "x": 124,
-        "y": 1279
+        "y": 1279,
+        "w": 322,
+        "h": 82
     },
     {
         "id": "e9e93a2c.deeb18",
@@ -2933,7 +2988,9 @@
             "37f2db57.b831c4"
         ],
         "x": 174,
-        "y": 1369
+        "y": 1369,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "f981eb1b.025a78",
@@ -3187,7 +3244,9 @@
             "273454d7.4d089c"
         ],
         "x": 44,
-        "y": 39
+        "y": 39,
+        "w": 682,
+        "h": 242
     },
     {
         "id": "cf57802e.7d258",
@@ -3336,7 +3395,9 @@
             "b2d06cf6.fb5af"
         ],
         "x": 44,
-        "y": 289
+        "y": 289,
+        "w": 742,
+        "h": 1772
     },
     {
         "id": "f3c2e7cf.5ed158",
@@ -3391,9 +3452,7 @@
             "968d5347.1b134"
         ],
         "x": 234,
-        "y": 39,
-        "w": 752,
-        "h": 242
+        "y": 39
     },
     {
         "id": "991382e7.7f2e6",
@@ -3425,9 +3484,7 @@
             "24dd678c.7f1308"
         ],
         "x": 234,
-        "y": 289,
-        "w": 752,
-        "h": 242
+        "y": 289
     },
     {
         "id": "91feb623.ce89e8",
@@ -3459,9 +3516,7 @@
             "e8ae66c1.7229a8"
         ],
         "x": 234,
-        "y": 539,
-        "w": 752,
-        "h": 242
+        "y": 539
     },
     {
         "id": "a035a752.10f9d8",
@@ -3493,9 +3548,7 @@
             "bd48652a.f5a5e8"
         ],
         "x": 234,
-        "y": 789,
-        "w": 752,
-        "h": 242
+        "y": 789
     },
     {
         "id": "eb91dac5.690838",
@@ -3822,7 +3875,9 @@
             "da8d71fd.6a33c"
         ],
         "x": 844,
-        "y": 319
+        "y": 319,
+        "w": 862,
+        "h": 452
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -3847,7 +3902,9 @@
             "fd328934.0ddd18"
         ],
         "x": 854,
-        "y": 1239
+        "y": 1239,
+        "w": 662,
+        "h": 202
     },
     {
         "id": "f78dcb63.bde038",
@@ -3871,7 +3928,9 @@
             "d458c292.e2009"
         ],
         "x": 844,
-        "y": 1069
+        "y": 1069,
+        "w": 672,
+        "h": 162
     },
     {
         "id": "90ebdbed.1907a8",
@@ -3897,7 +3956,9 @@
             "75954ddb.3b0f04"
         ],
         "x": 844,
-        "y": 39
+        "y": 39,
+        "w": 812,
+        "h": 272
     },
     {
         "id": "311890ad.cc4ed",
@@ -3924,7 +3985,9 @@
             "920374c9.134898"
         ],
         "x": 844,
-        "y": 779
+        "y": 779,
+        "w": 652,
+        "h": 282
     },
     {
         "id": "8a7f783.a732b88",
@@ -3947,7 +4010,9 @@
             "f65a5bee.378fe8"
         ],
         "x": 854,
-        "y": 1449
+        "y": 1449,
+        "w": 572,
+        "h": 182
     },
     {
         "id": "8c3082f9.73975",
@@ -3974,7 +4039,9 @@
             "836be50a.5287e8"
         ],
         "x": 854,
-        "y": 1639
+        "y": 1639,
+        "w": 862,
+        "h": 182
     },
     {
         "id": "215bed4c.7858c2",
@@ -3996,7 +4063,9 @@
             "2a671cfc.7a9654"
         ],
         "x": 1524,
-        "y": 1149
+        "y": 1149,
+        "w": 152,
+        "h": 292
     },
     {
         "id": "5ff12c29.d4cc64",
@@ -4448,9 +4517,7 @@
             "6db11539.a3447c"
         ],
         "x": 724,
-        "y": 1089,
-        "w": 602,
-        "h": 82
+        "y": 1089
     },
     {
         "id": "9560ef4.a49141",
@@ -4474,9 +4541,7 @@
             "864b03bd.9ce3c"
         ],
         "x": 114,
-        "y": 1089,
-        "w": 602,
-        "h": 82
+        "y": 1089
     },
     {
         "id": "f185a628.7c4598",
@@ -4497,9 +4562,7 @@
             "d73d6d43.ab8f4"
         ],
         "x": 724,
-        "y": 1179,
-        "w": 232,
-        "h": 82
+        "y": 1179
     },
     {
         "id": "b5305a67.80d008",
@@ -4525,9 +4588,7 @@
             "8207386.0661fc8"
         ],
         "x": 964,
-        "y": 1179,
-        "w": 362,
-        "h": 202
+        "y": 1179
     },
     {
         "id": "52cef377.daab5c",
@@ -4551,9 +4612,7 @@
             "b4b08522.2499f8"
         ],
         "x": 114,
-        "y": 1179,
-        "w": 602,
-        "h": 82
+        "y": 1179
     },
     {
         "id": "de6d41a4.0f4d2",
@@ -4777,7 +4836,9 @@
             "d2d1f05b.20687"
         ],
         "x": 2514,
-        "y": 49
+        "y": 49,
+        "w": 1592,
+        "h": 642
     },
     {
         "id": "dc098d16.abc16",
@@ -4796,7 +4857,9 @@
             "e503ca5.7ac8738"
         ],
         "x": 118,
-        "y": 43
+        "y": 43,
+        "w": 2384,
+        "h": 1114
     },
     {
         "id": "b9df7528.923398",
@@ -5121,6 +5184,90 @@
         "y": 339
     },
     {
+        "id": "b15394d1.1fa588",
+        "type": "group",
+        "z": "d2972edf.3d6c1",
+        "g": "91665de9.7194",
+        "name": "Estado mecánico",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "5d74d873.b85e38",
+            "b871a674.63ee98",
+            "fc2f9ecf.0a471",
+            "2e0f600b.ba499",
+            "fe9c53b6.0ee09",
+            "72d873dd.bb8b2c",
+            "500f3da0.344694",
+            "68bf1bb.d9b73e4"
+        ],
+        "x": 424,
+        "y": 49
+    },
+    {
+        "id": "594bfb02.2b8894",
+        "type": "group",
+        "z": "d2972edf.3d6c1",
+        "g": "91665de9.7194",
+        "name": "Propiedades de fluido",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "dd79fcdb.0c25f",
+            "e5c7184b.c31ce8",
+            "179c1c4.7a073e4",
+            "144d85f.39e447a",
+            "75ecbaf4.e5a914",
+            "b8f5a967.a9c448"
+        ],
+        "x": 424,
+        "y": 259
+    },
+    {
+        "id": "6de7b375.6750cc",
+        "type": "group",
+        "z": "d2972edf.3d6c1",
+        "g": "91665de9.7194",
+        "name": "Prueba de producción",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "6b9a12e9.a4161c",
+            "3b4c211f.264d0e",
+            "75e32793.0fd7d8",
+            "717a5102.84ce4",
+            "f9a2608d.84b6f",
+            "8d85bed3.e80e",
+            "e9fbe4c2.81bcc8",
+            "a99d2c43.563ca"
+        ],
+        "x": 424,
+        "y": 429
+    },
+    {
+        "id": "5f8972b7.b986dc",
+        "type": "group",
+        "z": "d2972edf.3d6c1",
+        "g": "91665de9.7194",
+        "name": "Datos para IPR",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "acc7ef26.c7f4b",
+            "7aa05938.679ec8",
+            "611f1586.1a9e7c",
+            "4bdf00ae.20f57",
+            "7cad0caf.316bc4",
+            "6bff5a6a.c8a6b4"
+        ],
+        "x": 424,
+        "y": 639
+    },
+    {
         "id": "1d477816.993308",
         "type": "group",
         "z": "3df4c8d9.0bdc38",
@@ -5206,7 +5353,9 @@
             "fd9df9f7.0350c8"
         ],
         "x": 144,
-        "y": 69
+        "y": 69,
+        "w": 922,
+        "h": 242
     },
     {
         "id": "7b165c8f.b14834",
@@ -5241,11 +5390,15 @@
             "79fb7790.809a08",
             "bd420231.1a153",
             "d428246e.250f38",
-            "ce51fc05.bdcac",
-            "2d017655.64384a"
+            "2d017655.64384a",
+            "67730133.9e443",
+            "91f9dd8.d63f02",
+            "242f1895.633768"
         ],
         "x": 144,
-        "y": 319
+        "y": 319,
+        "w": 1582,
+        "h": 312
     },
     {
         "id": "e503ca5.7ac8738",
@@ -5326,7 +5479,9 @@
             "e45b510.d40b5b"
         ],
         "x": 144,
-        "y": 639
+        "y": 639,
+        "w": 2332,
+        "h": 492
     },
     {
         "id": "779bed65.1819b4",
@@ -11220,6 +11375,86 @@
         "collapse": false
     },
     {
+        "id": "f1008a66.cfa988",
+        "type": "ui_tab",
+        "name": "Monitoreo-AVAS-IPR",
+        "icon": "dashboard",
+        "order": 45,
+        "disabled": false,
+        "hidden": false,
+        "info": "# Página 43"
+    },
+    {
+        "id": "55b1d3e4.76eb2c",
+        "type": "ui_group",
+        "name": "Navbar",
+        "tab": "f1008a66.cfa988",
+        "order": 1,
+        "disp": false,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "58d04dfc.842d54",
+        "type": "ui_group",
+        "name": "Gráfica IPR",
+        "tab": "f1008a66.cfa988",
+        "order": 2,
+        "disp": true,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "8f5a8841.d0e4e8",
+        "type": "ui_group",
+        "name": "Estado mecánico",
+        "tab": "4e2f4485.4ef94c",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "53a03d62.f141c4",
+        "type": "ui_group",
+        "name": "Navegación-IWOC",
+        "tab": "4e2f4485.4ef94c",
+        "order": 2,
+        "disp": false,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "d46ce325.e7de2",
+        "type": "ui_group",
+        "name": "Propiedades de fluido",
+        "tab": "4e2f4485.4ef94c",
+        "order": 4,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "3ad8a22c.6207fe",
+        "type": "ui_group",
+        "name": "Prueba de producción",
+        "tab": "4e2f4485.4ef94c",
+        "order": 5,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "25ecb2a6.9c350e",
+        "type": "ui_group",
+        "name": "Datos para IPR",
+        "tab": "4e2f4485.4ef94c",
+        "order": 6,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
         "id": "32cc6176.70f1ae",
         "type": "change",
         "z": "ed83123a.a1745",
@@ -12020,7 +12255,7 @@
         "g": "7b165c8f.b14834",
         "name": " Referencia de Velocidad Manual",
         "info": "",
-        "x": 300,
+        "x": 430,
         "y": 360,
         "wires": []
     },
@@ -12040,7 +12275,7 @@
         "mode": "number",
         "delay": "100",
         "topic": "Ref",
-        "x": 440,
+        "x": 570,
         "y": 440,
         "wires": [
             [
@@ -12069,7 +12304,7 @@
         "payload": "true",
         "payloadType": "bool",
         "topic": "Send",
-        "x": 460,
+        "x": 590,
         "y": 480,
         "wires": [
             [
@@ -19393,7 +19628,7 @@
         "raw": false,
         "topic": "",
         "name": "",
-        "x": 1480,
+        "x": 1610,
         "y": 530,
         "wires": []
     },
@@ -19420,7 +19655,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 1090,
+        "x": 1220,
         "y": 550,
         "wires": [
             [
@@ -19465,7 +19700,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1250,
+        "x": 1380,
         "y": 530,
         "wires": [
             [
@@ -19499,7 +19734,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1250,
+        "x": 1380,
         "y": 570,
         "wires": [
             [
@@ -19517,7 +19752,7 @@
         "links": [
             "59e817c2.295b38"
         ],
-        "x": 1405,
+        "x": 1535,
         "y": 570,
         "wires": []
     },
@@ -35048,12 +35283,13 @@
         "z": "5f404c88.fa75a4",
         "g": "7b165c8f.b14834",
         "name": "LimitesVelocidad",
-        "func": "var Velocidad = global.get(\"Speed_Control\");\n\nvar Min = Velocidad.MinLimit;\nvar Max = Velocidad.MaxLimit;\n\nif(Max <= Min){\n    return;\n}\nif(msg.payload > Max){\n    msg.payload = Max;\n    node.status({fill:\"yellow\",shape:\"dot\",text:msg.payload});\n\n}\nelse if(msg.payload <= Min){\n    msg.payload = Min;\n    node.status({fill:\"blue\",shape:\"dot\",text:msg.payload});\n}\nreturn msg;",
+        "func": "//var Velocidad = global.get(\"Speed_Control\");\n\nvar Min = global.get(\"Speed_Control.MinLimit\")||0;//Velocidad.MinLimit;\nvar Max = global.get(\"Speed_Control.MaxLimit\")||60;//Velocidad.MaxLimit;\n\nif(Max <= Min){\n    return;\n}\nif(msg.payload > Max){\n    msg.payload = Max;\n    node.status({fill:\"yellow\",shape:\"dot\",text:msg.payload});\n\n}\nelse if(msg.payload <= Min){\n    msg.payload = Min;\n    node.status({fill:\"blue\",shape:\"dot\",text:msg.payload});\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 290,
+        "libs": [],
+        "x": 420,
         "y": 400,
         "wires": [
             [
@@ -35098,7 +35334,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 680,
+        "x": 810,
         "y": 510,
         "wires": []
     },
@@ -38916,7 +39152,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 800,
+        "x": 930,
         "y": 400,
         "wires": [
             [
@@ -41587,7 +41823,7 @@
         "links": [
             "ad87cee4.7dbb5"
         ],
-        "x": 635,
+        "x": 765,
         "y": 400,
         "wires": [
             [
@@ -41755,7 +41991,8 @@
             "d458c292.e2009",
             "abd57ed0.925e2",
             "eeb74e26.02437",
-            "487b8eaa.36a75"
+            "487b8eaa.36a75",
+            "242f1895.633768"
         ],
         "x": 405,
         "y": 1410,
@@ -44373,7 +44610,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 660,
+        "x": 790,
         "y": 460,
         "wires": [
             [
@@ -44437,7 +44674,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 930,
+        "x": 1060,
         "y": 550,
         "wires": [
             [
@@ -49591,7 +49828,7 @@
         "bytopic": "all",
         "topic": "topic",
         "outputs": 1,
-        "x": 690,
+        "x": 820,
         "y": 550,
         "wires": [
             [
@@ -49615,7 +49852,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "x": 1310,
+        "x": 1440,
         "y": 440,
         "wires": [
             [
@@ -49638,7 +49875,7 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1480,
+        "x": 1610,
         "y": 440,
         "wires": []
     },
@@ -56601,7 +56838,7 @@
         "endpoint": "5a40295d.6caa18",
         "variable": "PF755T_SpeedReference",
         "name": "",
-        "x": 980,
+        "x": 1110,
         "y": 440,
         "wires": []
     },
@@ -58680,7 +58917,7 @@
         "scope": [
             "a4829f7d.87894"
         ],
-        "x": 1160,
+        "x": 1290,
         "y": 440,
         "wires": [
             [
@@ -65284,7 +65521,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 800,
+        "x": 930,
         "y": 460,
         "wires": [
             [
@@ -65297,13 +65534,13 @@
         "type": "link out",
         "z": "5f404c88.fa75a4",
         "g": "7b165c8f.b14834",
-        "name": "",
+        "name": "Confirmar velocidad",
         "links": [
-            "3639fe99.776b42",
+            "223f7107.39115e",
             "d0a19b38.893ab8",
-            "223f7107.39115e"
+            "a7923a8c.7c39d8"
         ],
-        "x": 605,
+        "x": 735,
         "y": 590,
         "wires": []
     },
@@ -65634,7 +65871,7 @@
         "links": [
             "2b0080ad.3ac38"
         ],
-        "x": 1075,
+        "x": 1205,
         "y": 400,
         "wires": [
             [
@@ -66682,7 +66919,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 4490,
+        "x": 4620,
         "y": 1510,
         "wires": [
             [
@@ -71853,7 +72090,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 4320,
+        "x": 4460,
         "y": 1510,
         "wires": [
             [
@@ -71868,13 +72105,14 @@
         "g": "b690d102.38713",
         "name": "",
         "links": [
-            "935ca480.525e98"
+            "935ca480.525e98",
+            "bd420231.1a153"
         ],
         "x": 4235,
         "y": 1510,
         "wires": [
             [
-                "33e6cf98.a413f"
+                "b3483c29.e4ff4"
             ]
         ]
     },
@@ -72057,26 +72295,6 @@
         "wires": []
     },
     {
-        "id": "ce51fc05.bdcac",
-        "type": "link in",
-        "z": "5f404c88.fa75a4",
-        "g": "7b165c8f.b14834",
-        "name": "Referencia C2S Link In",
-        "links": [
-            "8c6f2064.7cbdc",
-            "b51c9943.537c98",
-            "4ddffb40.6e1254",
-            "798117c9.7c1428"
-        ],
-        "x": 295,
-        "y": 440,
-        "wires": [
-            [
-                "3cc764fd.7e58cc"
-            ]
-        ]
-    },
-    {
         "id": "bf7979d0.9fd018",
         "type": "switch",
         "z": "6c7d2db7.37ef34",
@@ -72099,82 +72317,6 @@
         "wires": [
             [
                 "adffe9df.c5bb18"
-            ]
-        ]
-    },
-    {
-        "id": "798117c9.7c1428",
-        "type": "link out",
-        "z": "5ef5b1ce.d3899",
-        "g": "6b6e253f.c8615c",
-        "name": "Referencia C2S Link Out",
-        "links": [
-            "ce51fc05.bdcac"
-        ],
-        "x": 2215,
-        "y": 210,
-        "wires": []
-    },
-    {
-        "id": "abd57ed0.925e2",
-        "type": "link in",
-        "z": "5ef5b1ce.d3899",
-        "g": "6b6e253f.c8615c",
-        "name": "",
-        "links": [
-            "97407954.a004c8"
-        ],
-        "x": 1795,
-        "y": 210,
-        "wires": [
-            [
-                "1fde6201.3e531e"
-            ]
-        ]
-    },
-    {
-        "id": "1fde6201.3e531e",
-        "type": "switch",
-        "z": "5ef5b1ce.d3899",
-        "g": "6b6e253f.c8615c",
-        "name": "",
-        "property": "name",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "Main",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1880,
-        "y": 210,
-        "wires": [
-            [
-                "23b326be.07f33a"
-            ]
-        ]
-    },
-    {
-        "id": "23b326be.07f33a",
-        "type": "function",
-        "z": "5ef5b1ce.d3899",
-        "g": "6b6e253f.c8615c",
-        "name": "ABS",
-        "func": "var Speed   = global.get(\"Speed_Control.MinLimit\")||0;\nvar Ref     = global.get(\"C2S.Commanded_SpdRef\",\"memoryOnly\")||Speed;\nmsg.payload = Math.abs(Ref);\n\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 2000,
-        "y": 210,
-        "wires": [
-            [
-                "d568869f.bd9ce8",
-                "798117c9.7c1428"
             ]
         ]
     },
@@ -72712,24 +72854,6 @@
         ]
     },
     {
-        "id": "d568869f.bd9ce8",
-        "type": "debug",
-        "z": "5ef5b1ce.d3899",
-        "g": "6b6e253f.c8615c",
-        "name": "",
-        "active": true,
-        "tosidebar": false,
-        "console": false,
-        "tostatus": true,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "payload",
-        "statusType": "auto",
-        "x": 2150,
-        "y": 250,
-        "wires": []
-    },
-    {
         "id": "2d017655.64384a",
         "type": "delay",
         "z": "5f404c88.fa75a4",
@@ -72745,7 +72869,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "x": 460,
+        "x": 590,
         "y": 400,
         "wires": [
             [
@@ -72757,6 +72881,7 @@
         "id": "52df689b.264478",
         "type": "debug",
         "z": "e86f0ca4.7feb5",
+        "g": "b690d102.38713",
         "name": "",
         "active": true,
         "tosidebar": true,
@@ -72766,222 +72891,9 @@
         "targetType": "full",
         "statusVal": "payload",
         "statusType": "msg",
-        "x": 4710,
-        "y": 1390,
+        "x": 4810,
+        "y": 1510,
         "wires": []
-    },
-    {
-        "id": "d2972edf.3d6c1",
-        "type": "tab",
-        "label": "AVAS",
-        "disabled": false,
-        "info": ""
-    },
-    {
-        "id": "1a2c71e0.bd05fe",
-        "type": "group",
-        "z": "d2972edf.3d6c1",
-        "name": "Gráfica IPR",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "cf8af234.7080f",
-            "eeb74e26.02437",
-            "cb802800.5ab818",
-            "d2362d4.b7c40d",
-            "debf988f.cbfee8",
-            "f9233058.fe67f",
-            "e47ce41e.65d978",
-            "1d262758.d91059"
-        ],
-        "x": 44,
-        "y": 839
-    },
-    {
-        "id": "91665de9.7194",
-        "type": "group",
-        "z": "d2972edf.3d6c1",
-        "name": "Configuración - IWOC",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "594bfb02.2b8894",
-            "5f8972b7.b986dc",
-            "6de7b375.6750cc",
-            "b15394d1.1fa588",
-            "a5acd955.76ebc8",
-            "a8eca441.f9a4b8",
-            "a2acb5a2.e85b98"
-        ],
-        "x": 44,
-        "y": 23
-    },
-    {
-        "id": "b15394d1.1fa588",
-        "type": "group",
-        "z": "d2972edf.3d6c1",
-        "g": "91665de9.7194",
-        "name": "Estado mecánico",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "5d74d873.b85e38",
-            "b871a674.63ee98",
-            "fc2f9ecf.0a471",
-            "2e0f600b.ba499",
-            "fe9c53b6.0ee09",
-            "72d873dd.bb8b2c",
-            "500f3da0.344694",
-            "68bf1bb.d9b73e4"
-        ],
-        "x": 424,
-        "y": 49
-    },
-    {
-        "id": "594bfb02.2b8894",
-        "type": "group",
-        "z": "d2972edf.3d6c1",
-        "g": "91665de9.7194",
-        "name": "Propiedades de fluido",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "dd79fcdb.0c25f",
-            "e5c7184b.c31ce8",
-            "179c1c4.7a073e4",
-            "144d85f.39e447a",
-            "75ecbaf4.e5a914",
-            "b8f5a967.a9c448"
-        ],
-        "x": 424,
-        "y": 259
-    },
-    {
-        "id": "6de7b375.6750cc",
-        "type": "group",
-        "z": "d2972edf.3d6c1",
-        "g": "91665de9.7194",
-        "name": "Prueba de producción",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "6b9a12e9.a4161c",
-            "3b4c211f.264d0e",
-            "75e32793.0fd7d8",
-            "717a5102.84ce4",
-            "f9a2608d.84b6f",
-            "8d85bed3.e80e",
-            "e9fbe4c2.81bcc8",
-            "a99d2c43.563ca"
-        ],
-        "x": 424,
-        "y": 429
-    },
-    {
-        "id": "5f8972b7.b986dc",
-        "type": "group",
-        "z": "d2972edf.3d6c1",
-        "g": "91665de9.7194",
-        "name": "Datos para IPR",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "acc7ef26.c7f4b",
-            "7aa05938.679ec8",
-            "611f1586.1a9e7c",
-            "4bdf00ae.20f57",
-            "7cad0caf.316bc4",
-            "6bff5a6a.c8a6b4"
-        ],
-        "x": 424,
-        "y": 639
-    },
-    {
-        "id": "f1008a66.cfa988",
-        "type": "ui_tab",
-        "name": "Monitoreo-AVAS-IPR",
-        "icon": "dashboard",
-        "order": 45,
-        "disabled": false,
-        "hidden": false,
-        "info": "# Página 43"
-    },
-    {
-        "id": "55b1d3e4.76eb2c",
-        "type": "ui_group",
-        "name": "Navbar",
-        "tab": "f1008a66.cfa988",
-        "order": 1,
-        "disp": false,
-        "width": "12",
-        "collapse": false
-    },
-    {
-        "id": "58d04dfc.842d54",
-        "type": "ui_group",
-        "name": "Gráfica IPR",
-        "tab": "f1008a66.cfa988",
-        "order": 2,
-        "disp": true,
-        "width": "12",
-        "collapse": false
-    },
-    {
-        "id": "8f5a8841.d0e4e8",
-        "type": "ui_group",
-        "name": "Estado mecánico",
-        "tab": "4e2f4485.4ef94c",
-        "order": 3,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "53a03d62.f141c4",
-        "type": "ui_group",
-        "name": "Navegación-IWOC",
-        "tab": "4e2f4485.4ef94c",
-        "order": 2,
-        "disp": false,
-        "width": "12",
-        "collapse": false
-    },
-    {
-        "id": "d46ce325.e7de2",
-        "type": "ui_group",
-        "name": "Propiedades de fluido",
-        "tab": "4e2f4485.4ef94c",
-        "order": 4,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "3ad8a22c.6207fe",
-        "type": "ui_group",
-        "name": "Prueba de producción",
-        "tab": "4e2f4485.4ef94c",
-        "order": 5,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "25ecb2a6.9c350e",
-        "type": "ui_group",
-        "name": "Datos para IPR",
-        "tab": "4e2f4485.4ef94c",
-        "order": 6,
-        "disp": true,
-        "width": "6",
-        "collapse": false
     },
     {
         "id": "ddc6bfd.136e24",
@@ -74714,6 +74626,93 @@
         "wires": [
             [
                 "a5acd955.76ebc8"
+            ]
+        ]
+    },
+    {
+        "id": "67730133.9e443",
+        "type": "function",
+        "z": "5f404c88.fa75a4",
+        "g": "7b165c8f.b14834",
+        "name": "ABS",
+        "func": "var Speed   = global.get(\"Speed_Control.MinLimit\")||0;\nvar Ref     = global.get(\"C2S.Commanded_SpdRef\",\"memoryOnly\")||Speed;\nmsg.payload = Math.abs(Ref);\n\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 450,
+        "wires": [
+            [
+                "3cc764fd.7e58cc"
+            ]
+        ]
+    },
+    {
+        "id": "91f9dd8.d63f02",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "7b165c8f.b14834",
+        "name": "",
+        "property": "name",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Main",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 270,
+        "y": 450,
+        "wires": [
+            [
+                "67730133.9e443"
+            ]
+        ]
+    },
+    {
+        "id": "242f1895.633768",
+        "type": "link in",
+        "z": "5f404c88.fa75a4",
+        "g": "7b165c8f.b14834",
+        "name": "",
+        "links": [
+            "97407954.a004c8"
+        ],
+        "x": 185,
+        "y": 450,
+        "wires": [
+            [
+                "91f9dd8.d63f02"
+            ]
+        ]
+    },
+    {
+        "id": "b3483c29.e4ff4",
+        "type": "delay",
+        "z": "e86f0ca4.7feb5",
+        "g": "b690d102.38713",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "3",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 4330,
+        "y": 1510,
+        "wires": [
+            [
+                "33e6cf98.a413f"
             ]
         ]
     }

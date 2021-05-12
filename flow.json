@@ -906,9 +906,7 @@
             "2409fb72.507894"
         ],
         "x": 1754,
-        "y": 19,
-        "w": 512,
-        "h": 142
+        "y": 19
     },
     {
         "id": "31baddff.ea0922",
@@ -963,9 +961,7 @@
             "ac1f5c0.f7b06a"
         ],
         "x": 18,
-        "y": 13,
-        "w": 794,
-        "h": 2074
+        "y": 13
     },
     {
         "id": "7b6f4b41.106164",
@@ -1126,9 +1122,7 @@
             "215bed4c.7858c2"
         ],
         "x": 818,
-        "y": 13,
-        "w": 924,
-        "h": 1834
+        "y": 13
     },
     {
         "id": "aa1ba550.cbd9d8",
@@ -1394,9 +1388,7 @@
             "9b29345d.646748"
         ],
         "x": 824,
-        "y": 1859,
-        "w": 852,
-        "h": 242
+        "y": 1859
     },
     {
         "id": "4888c9a8.82cb88",
@@ -1812,6 +1804,8 @@
         ],
         "x": 14,
         "y": 21.5,
+        "w": 552,
+        "h": 217,
         "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
     },
     {
@@ -1830,7 +1824,9 @@
             "5e35a538.cad0cc"
         ],
         "x": 14,
-        "y": 251.5
+        "y": 251.5,
+        "w": 432,
+        "h": 157
     },
     {
         "id": "6f673d7.00debc4",
@@ -2735,9 +2731,7 @@
         },
         "nodes": [],
         "x": 1754,
-        "y": 169,
-        "w": 304,
-        "h": 40
+        "y": 169
     },
     {
         "id": "3d68b202.2bc67e",
@@ -3244,9 +3238,7 @@
             "273454d7.4d089c"
         ],
         "x": 44,
-        "y": 39,
-        "w": 682,
-        "h": 242
+        "y": 39
     },
     {
         "id": "cf57802e.7d258",
@@ -3395,9 +3387,7 @@
             "b2d06cf6.fb5af"
         ],
         "x": 44,
-        "y": 289,
-        "w": 742,
-        "h": 1772
+        "y": 289
     },
     {
         "id": "f3c2e7cf.5ed158",
@@ -3875,9 +3865,7 @@
             "da8d71fd.6a33c"
         ],
         "x": 844,
-        "y": 319,
-        "w": 862,
-        "h": 452
+        "y": 319
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -3902,9 +3890,7 @@
             "fd328934.0ddd18"
         ],
         "x": 854,
-        "y": 1239,
-        "w": 662,
-        "h": 202
+        "y": 1239
     },
     {
         "id": "f78dcb63.bde038",
@@ -3928,9 +3914,7 @@
             "d458c292.e2009"
         ],
         "x": 844,
-        "y": 1069,
-        "w": 672,
-        "h": 162
+        "y": 1069
     },
     {
         "id": "90ebdbed.1907a8",
@@ -3956,9 +3940,7 @@
             "75954ddb.3b0f04"
         ],
         "x": 844,
-        "y": 39,
-        "w": 812,
-        "h": 272
+        "y": 39
     },
     {
         "id": "311890ad.cc4ed",
@@ -3985,9 +3967,7 @@
             "920374c9.134898"
         ],
         "x": 844,
-        "y": 779,
-        "w": 652,
-        "h": 282
+        "y": 779
     },
     {
         "id": "8a7f783.a732b88",
@@ -4010,9 +3990,7 @@
             "f65a5bee.378fe8"
         ],
         "x": 854,
-        "y": 1449,
-        "w": 572,
-        "h": 182
+        "y": 1449
     },
     {
         "id": "8c3082f9.73975",
@@ -4039,9 +4017,7 @@
             "836be50a.5287e8"
         ],
         "x": 854,
-        "y": 1639,
-        "w": 862,
-        "h": 182
+        "y": 1639
     },
     {
         "id": "215bed4c.7858c2",
@@ -4063,9 +4039,7 @@
             "2a671cfc.7a9654"
         ],
         "x": 1524,
-        "y": 1149,
-        "w": 152,
-        "h": 292
+        "y": 1149
     },
     {
         "id": "5ff12c29.d4cc64",
@@ -35283,12 +35257,11 @@
         "z": "5f404c88.fa75a4",
         "g": "7b165c8f.b14834",
         "name": "LimitesVelocidad",
-        "func": "//var Velocidad = global.get(\"Speed_Control\");\n\nvar Min = global.get(\"Speed_Control.MinLimit\")||0;//Velocidad.MinLimit;\nvar Max = global.get(\"Speed_Control.MaxLimit\")||60;//Velocidad.MaxLimit;\n\nif(Max <= Min){\n    return;\n}\nif(msg.payload > Max){\n    msg.payload = Max;\n    node.status({fill:\"yellow\",shape:\"dot\",text:msg.payload});\n\n}\nelse if(msg.payload <= Min){\n    msg.payload = Min;\n    node.status({fill:\"blue\",shape:\"dot\",text:msg.payload});\n}\nreturn msg;",
+        "func": "//var Velocidad = global.get(\"Speed_Control\");\n\nvar Min = global.get(\"Speed_Control.MinLimit\")||0;//Velocidad.MinLimit;\nvar Max = global.get(\"Speed_Control.MaxLimit\")||60;//Velocidad.MaxLimit;\n\nif(Max <= Min){\n    node.status({fill:\"grey\",shape:\"dot\",text:\"Payload: \"+msg.payload+\" MaxLim: \"+Max+\" MinLimit: \"+Min});\n    return;\n}\nif(msg.payload > Max){\n    msg.payload = Max;\n    node.status({fill:\"yellow\",shape:\"dot\",text:\"Payload: \"+msg.payload+\" MaxLim: \"+Max+\" MinLimit: \"+Min});\n    return msg;\n}\nelse if(msg.payload < Min){\n    msg.payload = Min;\n    node.status({fill:\"blue\",shape:\"dot\",text:\"Payload: \"+msg.payload+\" MaxLim: \"+Max+\" MinLimit: \"+Min});\n    return msg;\n}\nreturn;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 420,
         "y": 400,
         "wires": [
@@ -63454,7 +63427,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 450,
         "y": 1620,
         "wires": [
@@ -64880,7 +64852,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 330,
         "y": 500,
         "wires": [
@@ -66935,7 +66906,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "7dbc5902.4206c8",
         "name": "",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -72860,7 +72831,7 @@
         "g": "7b165c8f.b14834",
         "name": "",
         "pauseType": "delay",
-        "timeout": "3",
+        "timeout": "1",
         "timeoutUnits": "seconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -72883,7 +72854,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "b690d102.38713",
         "name": "",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": true,
@@ -74640,7 +74611,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 390,
         "y": 450,
         "wires": [

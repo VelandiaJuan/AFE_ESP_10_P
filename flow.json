@@ -1613,7 +1613,9 @@
             "f981eb1b.025a78"
         ],
         "x": 58,
-        "y": 63
+        "y": 63,
+        "w": 1430,
+        "h": 1524
     },
     {
         "id": "6889f2bb.892f0c",
@@ -2076,7 +2078,9 @@
             "cb0d324.9efa3d"
         ],
         "x": 1634,
-        "y": 149
+        "y": 149,
+        "w": 972,
+        "h": 592
     },
     {
         "id": "35440cdc.e5d764",
@@ -2129,7 +2133,9 @@
             "5bf3fb88.25b264"
         ],
         "x": 2614,
-        "y": 149
+        "y": 149,
+        "w": 932,
+        "h": 592
     },
     {
         "id": "888265d9.138288",
@@ -2182,7 +2188,9 @@
             "ea97a2e4.6a67d"
         ],
         "x": 3554,
-        "y": 149
+        "y": 149,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "54b245d3.9431dc",
@@ -2235,7 +2243,9 @@
             "b636759a.1af358"
         ],
         "x": 1634,
-        "y": 749
+        "y": 749,
+        "w": 1052,
+        "h": 592
     },
     {
         "id": "58747709.2ffd98",
@@ -2288,7 +2298,9 @@
             "86aeff9f.23163"
         ],
         "x": 2694,
-        "y": 749
+        "y": 749,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "4b571a8f.d70524",
@@ -2341,7 +2353,9 @@
             "3368017a.de213e"
         ],
         "x": 3794,
-        "y": 749
+        "y": 749,
+        "w": 1172,
+        "h": 592
     },
     {
         "id": "b7d3914a.2a17",
@@ -2394,7 +2408,9 @@
             "ada97752.874638"
         ],
         "x": 1634,
-        "y": 1349
+        "y": 1349,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "a3b836be.d5cde8",
@@ -2447,7 +2463,9 @@
             "739b4fcf.1c18"
         ],
         "x": 2734,
-        "y": 1349
+        "y": 1349,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "53806295.7831ac",
@@ -2500,7 +2518,9 @@
             "4fe0e535.f16e5c"
         ],
         "x": 3834,
-        "y": 1349
+        "y": 1349,
+        "w": 1072,
+        "h": 592
     },
     {
         "id": "dabbb1f4.9b65e",
@@ -2516,7 +2536,9 @@
             "a72a1eba.19d99"
         ],
         "x": 1634,
-        "y": 59
+        "y": 59,
+        "w": 132,
+        "h": 82
     },
     {
         "id": "96de1dd.d202ce",
@@ -2569,7 +2591,9 @@
             "5f1b7de2.8dd7c4"
         ],
         "x": 1634,
-        "y": 1949
+        "y": 1949,
+        "w": 972,
+        "h": 592
     },
     {
         "id": "d0981fa6.05ffc",
@@ -2622,7 +2646,9 @@
             "9481caa7.5d67e8"
         ],
         "x": 2615,
-        "y": 1959
+        "y": 1959,
+        "w": 941,
+        "h": 592
     },
     {
         "id": "4b9b7d58.136ec4",
@@ -2675,7 +2701,9 @@
             "c2a4f4bb.6e2aa8"
         ],
         "x": 3565,
-        "y": 1959
+        "y": 1959,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "d84615.919209e8",
@@ -3034,7 +3062,9 @@
             "9b21d21b.7ae4d"
         ],
         "x": 844,
-        "y": 89
+        "y": 89,
+        "w": 522,
+        "h": 632
     },
     {
         "id": "aa324282.4f554",
@@ -3061,7 +3091,9 @@
             "bf7979d0.9fd018"
         ],
         "x": 84,
-        "y": 269
+        "y": 269,
+        "w": 742,
+        "h": 182
     },
     {
         "id": "bf91bfd8.84eda",
@@ -3086,7 +3118,9 @@
             "3fe04302.c538cc"
         ],
         "x": 84,
-        "y": 89
+        "y": 89,
+        "w": 712,
+        "h": 172
     },
     {
         "id": "f58295c0.4d4228",
@@ -3103,7 +3137,9 @@
             "3cf0ba38.d2e4f6"
         ],
         "x": 848,
-        "y": 733
+        "y": 733,
+        "w": 614,
+        "h": 424
     },
     {
         "id": "f7a3cb7b.69e4d8",
@@ -3188,7 +3224,9 @@
             "9529d99e.485f28"
         ],
         "x": 84,
-        "y": 459
+        "y": 459,
+        "w": 742,
+        "h": 1102
     },
     {
         "id": "11f55817.139c18",
@@ -5490,7 +5528,9 @@
             "5805c268.31f02c"
         ],
         "x": 874,
-        "y": 759
+        "y": 759,
+        "w": 562,
+        "h": 242
     },
     {
         "id": "3cf0ba38.d2e4f6",
@@ -5508,7 +5548,9 @@
             "2f5679af.c10006"
         ],
         "x": 874,
-        "y": 1009
+        "y": 1009,
+        "w": 172,
+        "h": 122
     },
     {
         "id": "38ea9e35.6d66c2",
@@ -37924,7 +37966,7 @@
         "links": [
             "64688fe5.072df"
         ],
-        "x": 395,
+        "x": 375,
         "y": 560,
         "wires": [
             [
@@ -39167,7 +39209,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Tensión",
-        "func": "node.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Tensión HH\";\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Tensión LL\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Tensión H\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Tensión L\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var Tension = global.get(\"PQA.Real_Time_Parameters.Average_Line_Voltage\",'memoryOnly')||0;\nTension = parseFloat(Tension).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Tensión HH: \"+ Tension;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Tensión LL: \"+ Tension;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Tensión H: \"+Tension;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Tensión L: \"+Tension;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -39187,7 +39229,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Carga",
-        "func": "node.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Corriente HH\";\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Corriente LL\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Corriente H\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Corriente L\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var Carga = global.get(\"C2S.Output_Current\",'memoryOnly')||0;\nCarga = parseFloat(Carga).toFixed(2);\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Corriente HH :\"+Carga;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Corriente LL: \"+Carga;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Corriente H: \"+Carga;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Corriente L: \"+Carga;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -58842,7 +58884,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Bus DC",
-        "func": "node.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Tensión Bus DC HH\";\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Tensión Bus DC LL\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Tensión Bus DC H\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Tensión Bus DC L\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var BusDC = global.get(\"C2S.Bus_DC_Volts\",'memoryOnly')||0;\nBusDC = parseFloat(BusDC).toFixed(2);\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Tensión Bus DC HH: \"+BusDC;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Tensión Bus DC LL: \"+BusDC;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Tensión Bus DC H: \"+BusDC;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Tensión Bus DC L: \"+BusDC;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -64824,7 +64866,7 @@
         "type": "inject",
         "z": "6c7d2db7.37ef34",
         "g": "f7a3cb7b.69e4d8",
-        "name": "PIn",
+        "name": "CLeakage",
         "props": [
             {
                 "p": "payload"
@@ -64841,7 +64883,7 @@
         "topic": "value",
         "payload": "#:(memoryOnly)::DownHoleData.DHS[\"Corriente de fuga\"]",
         "payloadType": "global",
-        "x": 340,
+        "x": 320,
         "y": 610,
         "wires": [
             [
@@ -65085,7 +65127,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Vibración",
-        "func": "node.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Vibración HH\";\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Vibración LL\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Vibración H\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Vibración L\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var Vib = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\n\nXVibration  = Vib[\"Vibración X\"]||0;\nZVibration  = Vib[\"Vibración Z\"]||0;\nHVibration  = XVibration > ZVibration ? XVibration :ZVibration; \nHVibration  = parseFloat(HVibration).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Vibración HH: \"+HVibration;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Vibración LL: \"+HVibration;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Vibración H: \"+HVibration;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Vibración L: \"+HVibration;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -65122,7 +65164,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Corriente de fuga",
-        "func": "node.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Corriente de fuga HH\";\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Corriente de fuga LL\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Corriente de fuga H\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Corriente de fuga L\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "//DownHoleData.DHS[\"Corriente de fuga\"]\nvar DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar CLeakage        = DownHoleData[\"Corriente de fuga\"]||0;\nCLeakage            = parseFloat(CLeakage).toFixed(2);\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Corriente de fuga HH: \"+CLeakage;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Corriente de fuga LL: \"+CLeakage;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Corriente de fuga H: \"+CLeakage;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Corriente de fuga L: \"+CLeakage;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -65159,7 +65201,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Presión de entrada",
-        "func": "node.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Presión de entrada HH\";\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Presión de entrada LL\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Presión de entrada H\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Presión de entrada L\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar Pin             = DownHoleData[\"Presión de entrada\"]||0;\nPin                 = parseFloat(Pin).toFixed(2);\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Presión de entrada HH: \"+Pin;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Presión de entrada LL: \"+Pin;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Presión de entrada H: \"+Pin;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Presión de entrada L: \"+Pin;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -65196,7 +65238,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Temperatura de entrada",
-        "func": "node.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Temperatura de entrada HH\";\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Temperatura de entrada LL\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Temperatura de entrada H\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Temperatura de entrada L\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar InTemp          = DownHoleData[\"Temperatura de entrada\"]||0;\nInTemp              = parseFloat(InTemp).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Temperatura de entrada HH: \"+InTemp;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Temperatura de entrada LL: \"+InTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Temperatura de entrada H: \"+InTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Temperatura de entrada L: \"+InTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -65233,7 +65275,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Temperatura de motor",
-        "func": "node.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Temperatura de motor HH\";\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Temperatura de motor LL\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Temperatura de motor H\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Temperatura de motor L\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar MtrTemp         = DownHoleData[\"Temperatura de motor\"]||0;\nMtrTemp             = parseFloat(MtrTemp).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Temperatura de motor HH: \"+MtrTemp;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Temperatura de motor LL: \"+MtrTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Temperatura de motor H: \"+MtrTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Temperatura de motor L: \"+MtrTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -65270,7 +65312,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Temperatura de descarga",
-        "func": "node.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Temperatura de descarga HH\";\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Temperatura de descarga LL\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Temperatura de descarga H\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Temperatura de descarga L\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar DisTemp         = DownHoleData[\"Temperatura de descarga\"]||0;\nDisTemp             = parseFloat(DisTemp).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Temperatura de descarga HH: \"+DisTemp;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Temperatura de descarga LL: \"+DisTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Temperatura de descarga H: \"+DisTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Temperatura de descarga L:\"+DisTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -65307,7 +65349,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Presión de descarga",
-        "func": "node.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Presión de entrada HH\";\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Presión de entrada LL\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Presión de entrada H\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Presión de entrada L\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar Pout            = DownHoleData[\"Presión de descarga\"]||0;\nPout                = parseFloat(Pout).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Presión de descarga HH: \"+Pout;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Presión de descarga LL:\"+Pout;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Presión de descarga H: \"+Pout;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Presión de descarga L: \"+Pout;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -69543,7 +69585,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Presión de Tubing",
-        "func": "node.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Presión de Tubing (THP) HH\";\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Presión de Tubing (THP) LL\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Presión de Tubing (THP) H\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Presión de Tubing (THP) L\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var DownHoleData    = global.get(\"DownHoleData.AI\",'memoryOnly')||null;\nvar THP             = DownHoleData[\"Presión de cabeza THP\"]||0;\nTHP                 = parseFloat(THP).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Presión de Tubing (THP) HH: \"+THP;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Presión de Tubing (THP) LL: \"+THP;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Presión de Tubing (THP) H: \"+THP;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Presión de Tubing (THP) L: \"+THP;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -69580,7 +69622,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Presión de Casing",
-        "func": "node.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Presión de Casing HH\";\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Presión de Casing LL\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Presión de Casing H\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Presión de Casing L\";\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "//Presión de casing\nvar DownHoleData    = global.get(\"DownHoleData.AI\",'memoryOnly')||null;\nvar TCP             = DownHoleData[\"Presión de casing\"]||0;\nTCP                 = parseFloat(TCP).toFixed(2);\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Presión de Casing HH: \"+TCP;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Presión de Casing LL: \"+TCP;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Presión de Casing H: \"+TCP;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Presión de Casing L: \"+TCP;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",

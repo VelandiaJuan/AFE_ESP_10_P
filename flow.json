@@ -4869,7 +4869,8 @@
             "30acc1e4.ab123e",
             "ec162b81.0c2ea8",
             "c35b8f49.241be",
-            "d2d1f05b.20687"
+            "d2d1f05b.20687",
+            "34c50142.25b63e"
         ],
         "x": 2514,
         "y": 49,
@@ -59616,7 +59617,7 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "5",
+        "payload": "10",
         "payloadType": "num",
         "x": 2890,
         "y": 250,
@@ -59852,7 +59853,7 @@
         ],
         "repeat": "",
         "crontab": "",
-        "once": false,
+        "once": true,
         "onceDelay": 0.1,
         "topic": "",
         "payload": "false",
@@ -65754,8 +65755,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 2670,
-        "y": 330,
+        "x": 2660,
+        "y": 370,
         "wires": [
             [
                 "98154bef.f1c1c8"
@@ -65770,8 +65771,8 @@
         "endpoint": "5a40295d.6caa18",
         "variable": "CommandWord",
         "name": "",
-        "x": 2980,
-        "y": 330,
+        "x": 2970,
+        "y": 370,
         "wires": []
     },
     {
@@ -65792,8 +65793,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 2820,
-        "y": 330,
+        "x": 2810,
+        "y": 370,
         "wires": [
             [
                 "4008f635.52a288"
@@ -66488,8 +66489,8 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 2650,
-        "y": 370,
+        "x": 2640,
+        "y": 410,
         "wires": [
             [
                 "1286dd4c.802a73"
@@ -72333,8 +72334,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2920,
-        "y": 290,
+        "x": 2910,
+        "y": 330,
         "wires": [
             [
                 "8c6f2064.7cbdc"
@@ -72350,8 +72351,8 @@
         "links": [
             "ce51fc05.bdcac"
         ],
-        "x": 3045,
-        "y": 290,
+        "x": 3035,
+        "y": 330,
         "wires": []
     },
     {
@@ -74790,6 +74791,32 @@
         "wires": [
             [
                 "96de9397.2cea6"
+            ]
+        ]
+    },
+    {
+        "id": "34c50142.25b63e",
+        "type": "inject",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "0",
+        "payloadType": "num",
+        "x": 2890,
+        "y": 290,
+        "wires": [
+            [
+                "776db11c.07117"
             ]
         ]
     }

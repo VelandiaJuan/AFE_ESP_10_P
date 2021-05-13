@@ -1326,7 +1326,9 @@
             "ab7a4a2c.17d8a8"
         ],
         "x": 48,
-        "y": 603
+        "y": 603,
+        "w": 2014,
+        "h": 1104
     },
     {
         "id": "e3aa057d.09fb18",
@@ -1344,7 +1346,9 @@
             "b9df7528.923398"
         ],
         "x": 48,
-        "y": 1713
+        "y": 1713,
+        "w": 2900,
+        "h": 1080
     },
     {
         "id": "a163450f.bc4438",
@@ -1480,7 +1484,9 @@
             "ba5f4e4b.e55a2"
         ],
         "x": 1204,
-        "y": 1169
+        "y": 1169,
+        "w": 412,
+        "h": 82
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -2709,7 +2715,9 @@
             "675af0d1.a9fc4"
         ],
         "x": 52,
-        "y": 17
+        "y": 17,
+        "w": 2060,
+        "h": 576
     },
     {
         "id": "854dec5e.9e51d",
@@ -2728,7 +2736,9 @@
             "b4d97ea9.9a1f1"
         ],
         "x": 2128,
-        "y": 13
+        "y": 13,
+        "w": 2314,
+        "h": 834
     },
     {
         "id": "c2c48d08.f1c96",
@@ -2743,7 +2753,9 @@
             "7a6388b7.eddf38"
         ],
         "x": 2134,
-        "y": 859
+        "y": 859,
+        "w": 332,
+        "h": 142
     },
     {
         "id": "6b6e253f.c8615c",
@@ -2853,7 +2865,9 @@
             "9bdf522.eba6db"
         ],
         "x": 78,
-        "y": 43
+        "y": 43,
+        "w": 1014,
+        "h": 524
     },
     {
         "id": "6150cb44.a8b4c4",
@@ -2884,7 +2898,9 @@
             "51d2e767.639a98"
         ],
         "x": 1104,
-        "y": 49
+        "y": 49,
+        "w": 982,
+        "h": 262
     },
     {
         "id": "70d8d562.df63ac",
@@ -4167,7 +4183,9 @@
             "272ed76d.7cce68"
         ],
         "x": 74,
-        "y": 929
+        "y": 929,
+        "w": 1568,
+        "h": 752
     },
     {
         "id": "84c9494b.d4dbe8",
@@ -4201,7 +4219,9 @@
             "e2832ff4.8c486"
         ],
         "x": 74,
-        "y": 629
+        "y": 629,
+        "w": 912,
+        "h": 292
     },
     {
         "id": "dad84feb.d4773",
@@ -4276,7 +4296,9 @@
             "eb7c6393.8c838"
         ],
         "x": 74,
-        "y": 2049
+        "y": 2049,
+        "w": 1542,
+        "h": 700
     },
     {
         "id": "7aad629d.de652c",
@@ -4338,7 +4360,9 @@
             "b8c12e8b.715b2"
         ],
         "x": 74,
-        "y": 1739
+        "y": 1739,
+        "w": 2632,
+        "h": 302
     },
     {
         "id": "4eb2e67c.e57628",
@@ -4706,7 +4730,9 @@
             "577047bb.6519b8"
         ],
         "x": 994,
-        "y": 629
+        "y": 629,
+        "w": 1042,
+        "h": 272
     },
     {
         "id": "e2e299a6.d3c5c8",
@@ -4768,7 +4794,9 @@
             "4e19cfd4.3982f"
         ],
         "x": 1624,
-        "y": 2049
+        "y": 2049,
+        "w": 1062,
+        "h": 312
     },
     {
         "id": "dde9e22c.88ef2",
@@ -4885,7 +4913,9 @@
             "c25b39de.c92f08"
         ],
         "x": 1628,
-        "y": 2393
+        "y": 2393,
+        "w": 1294,
+        "h": 374
     },
     {
         "id": "46208c12.9b8aa4",
@@ -5073,7 +5103,9 @@
             "168b6577.3e722b"
         ],
         "x": 2804,
-        "y": 39
+        "y": 39,
+        "w": 892,
+        "h": 292
     },
     {
         "id": "c30870cb.fa25a",
@@ -5102,7 +5134,9 @@
             "3df3dfb.cab992"
         ],
         "x": 2154,
-        "y": 39
+        "y": 39,
+        "w": 642,
+        "h": 202
     },
     {
         "id": "4384031.9ff1afc",
@@ -5123,7 +5157,9 @@
             "446190d2.61b54"
         ],
         "x": 3704,
-        "y": 39
+        "y": 39,
+        "w": 712,
+        "h": 122
     },
     {
         "id": "b4d97ea9.9a1f1",
@@ -5189,7 +5225,9 @@
             "ece75963.8a7658"
         ],
         "x": 2154,
-        "y": 339
+        "y": 339,
+        "w": 1922,
+        "h": 482
     },
     {
         "id": "b15394d1.1fa588",
@@ -5298,7 +5336,9 @@
             "d0a19b38.893ab8"
         ],
         "x": 104,
-        "y": 69
+        "y": 69,
+        "w": 962,
+        "h": 212
     },
     {
         "id": "9bdf522.eba6db",
@@ -5333,7 +5373,9 @@
             "f144e183.7ff68"
         ],
         "x": 104,
-        "y": 289
+        "y": 289,
+        "w": 912,
+        "h": 252
     },
     {
         "id": "5613a5b2.95577c",
@@ -5872,7 +5914,9 @@
             "97085297.91fc4"
         ],
         "x": 944,
-        "y": 959
+        "y": 959,
+        "w": 672,
+        "h": 202
     },
     {
         "id": "5d1065e2.7b952c",
@@ -5989,7 +6033,9 @@
             "f4363e16.f1813"
         ],
         "x": 1654,
-        "y": 2419
+        "y": 2419,
+        "w": 1022,
+        "h": 82
     },
     {
         "id": "c25b39de.c92f08",
@@ -6019,7 +6065,9 @@
             "38bdd4ac.3dc20c"
         ],
         "x": 1654,
-        "y": 2509
+        "y": 2509,
+        "w": 1242,
+        "h": 232
     },
     {
         "id": "2fb80d12.b93df2",
@@ -41820,7 +41868,8 @@
             "3df3dfb.cab992",
             "8d16d48d.753ca8",
             "f9233058.fe67f",
-            "a8eca441.f9a4b8"
+            "a8eca441.f9a4b8",
+            "a7923a8c.7c39d8"
         ],
         "x": 405,
         "y": 1320,
@@ -56183,7 +56232,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "e2e299a6.d3c5c8",
         "name": "Mapa Modbus",
-        "func": "var C2S         = global.get('C2S','memoryOnly')                || null;\nvar Np          = global.get('Motor_Control.Nameplate')         || null;\nvar LR          = global.get('Local/Remoto')                    || null;     \nvar SC          = global.get('Speed_Control')                   || null;\nvar Status      = global.get('Drive_Status','memoryOnly')       || null;\nvar PQA         = global.get('PQA','memoryOnly')                || null;\nvar MtrCurrent  = global.get('Motor.Current','memoryOnly')      || null;\nvar DHSelect    = flow.get('DownholeSensor.Number')             || 0;\nvar DHSData     = global.get('DownHoleData.DHS','memoryOnly')   || null;\nvar DHSData2    = global.get('DownHoleData.AI','memoryOnly')    || null;\n\n// Vector mapa Modbus\nvar Mapa = [];\n\nif(typeof C2S != 'undefined' && C2S != null){\n    Mapa[0]   = val(C2S.Output_Frecuency*10);\n    Mapa[1]   = val(C2S.Output_Voltage*10);\n    Mapa[2]   = val(C2S.Output_Current*10);\n    Mapa[8]   = val(C2S.Output_Power*10);\n    Mapa[10]  = val(C2S.Output_Voltage*10);\n    Mapa[12]  = 1;\n    Mapa[14]  = val(C2S.Commanded_SpdRef);\n    Mapa[15]  = 1;                                        // No se ha definido. Estados Re-Arranque\n    Mapa[16]  = val(C2S.Bus_DC_Volts);\n    Mapa[17]  = 1;                                        // No se ha definido. Potencia aparente.\n    Mapa[18]  = val(C2S.Drive_Temp_C);\n    Mapa[20]  = 1;                                        // No se ha definido. Relación TX Elevador.\n    Mapa[21]  = 1;                                        // No se ha definido. Delta Voltaje de caida actual.\n    Mapa[22]  = 1;                                        // No se ha definido. Presión Actual.\n    Mapa[23]  = 1;                                        // No se ha definido. Temperatura de entrada actual.\n    Mapa[24]  = 1;                                        // No se ha definido. Vibración bomba lado acople.\n    Mapa[47]  = 1;                                        // No se ha definido. Referencia prolongada.\n\n}\n\n// Datos placa de motor.\nif(typeof MtrCurrent != 'undefined' && MtrCurrent != null){\n    Mapa[3]   = MtrCurrent*10;\n}\n\n// Datos comando Local/Remoto.\nif(typeof DHSelect != 'undefined' && DHSelect != null){\n    Mapa[4]   = DHSelect;\n}\n\n// Datos control de velocidad.\nif(typeof SC != 'undefined' && SC != null){\n    Mapa[5]   = SC.Accel;\n    Mapa[6]   = SC.Decel;\n    Mapa[9]   = SC.MinLimit*10;\n    Mapa[11]  = SC.MaxLimit*10;\n}\n// Datos estado C2S\nif(typeof Status != 'undefined' && Status != null){\n    Mapa[7]   = Status.Active == 1 ? 0:1;\n    Mapa[13]  = Status.Actual_dir == 1 ? 1:0;\n}\n\n// Datos PQA\nif(typeof PQA != 'undefined' && PQA != null){\n    Mapa[19]  = val(PQA.Real_Time_Parameters.Total_Power_Factor*100);\n    Mapa[25]  = 1;\n    Mapa[26]  = 1;\n    Mapa[27]  = val(PQA.Real_Time_Parameters.Average_Phase_Current*10);\n    Mapa[28]  = val(PQA.Real_Time_Parameters.Frequency*10);\n    Mapa[29]  = val(PQA.Real_Time_Parameters.Total_System_Power*10);\n    Mapa[30]  = val(PQA.Real_Time_Parameters.Total_Apparent_Power*10);\n    Mapa[31]  = val(PQA.Real_Time_Parameters.Total_Reactive_Power*10);\n    Mapa[32]  = val(PQA.Real_Time_Parameters.Total_Power_Factor*100);\n    Mapa[33]  = val(PQA.Real_Time_Parameters.Line_Voltage_1_2*10);\n    Mapa[34]  = val(PQA.Real_Time_Parameters.Line_Voltage_2_3*10);\n    Mapa[35]  = val(PQA.Real_Time_Parameters.Line_Voltage_3_1*10);\n    Mapa[36]  = val(PQA.Real_Time_Parameters.Phase_1_Voltage*10);\n    Mapa[37]  = val(PQA.Real_Time_Parameters.Phase_2_Voltage*10);\n    Mapa[38]  = val(PQA.Real_Time_Parameters.Phase_3_Voltage*10);\n    Mapa[39]  = val(PQA.Real_Time_Parameters.Total_Phase_A_Current*10);\n    Mapa[40]  = val(PQA.Real_Time_Parameters.Total_Phase_B_Current*10);\n    Mapa[41]  = val(PQA.Real_Time_Parameters.Total_Phase_C_Current*10);\n    Mapa[42]  = val(PQA.Real_Time_Parameters.Phase_A_Power*10);\n    Mapa[43]  = val(PQA.Real_Time_Parameters.Phase_B_Power*10);\n    Mapa[44]  = val(PQA.Real_Time_Parameters.Phase_C_Power*10);\n    Mapa[45]  = val(PQA.Harmonics.Power_Quality.THD_Iavg*10);\n    Mapa[46]  = val(PQA.Harmonics.Power_Quality.THD_avg*10);\n}\n\n// Datos Sensor de fondo\n//if(typeof DHSData != 'undefined' && DHSData != null && Object.keys(DHSData).length != 0){\n    Mapa[47]  = val(DHSData[\"Presión de entrada\"]);\n    Mapa[48]  = val(DHSData[\"Presión de descarga\"]);\n    Mapa[49]  = val(DHSData[\"Temperatura de entrada\"]);\n    Mapa[50]  = val(DHSData[\"Temperatura de descarga\"]);\n    Mapa[51]  = val(DHSData[\"Temperatura de motor\"]);\n    Mapa[52]  = val(DHSData2[\"Presión de casing\"]);\n    Mapa[53]  = val(DHSData2[\"Presión de cabeza THP\"]);\n    Mapa[54]  = val(DHSData[\"Temperatura de cabeza THT\"]);\n//}\n\n// Recorrer el mapa para evitar valores indefinidos\nfor(var i=0; i<Mapa.length; i+=1){\n    Mapa[i] = val(Mapa[i]);\n}\n\n// Escribir Mapa\nmsg.payload = { \n    value: Mapa, \n    'fc': 16,\n    'unitid': 1, \n    'address': 0 , \n    'quantity': Mapa.length \n}\nreturn msg;\n\n// Ajustar datos |definded X|\nfunction val(X){\n    if (isNaN(X)){X=0;}\n    return typeof X != 'undefined' ? parseInt(Math.abs(X)):0;\n}",
+        "func": "var C2S         = global.get('C2S','memoryOnly')                || null;\nvar Np          = global.get('Motor_Control.Nameplate')         || null;\nvar LR          = global.get('Local/Remoto')                    || null;     \nvar SC          = global.get('Speed_Control')                   || null;\nvar Status      = global.get('Drive_Status','memoryOnly')       || null;\nvar PQA         = global.get('PQA','memoryOnly')                || null;\nvar MtrCurrent  = global.get('Motor.Current','memoryOnly')      || 0;\nvar MtrVoltage  = global.get('Motor.Voltage','memoryOnly')      || 0;\nvar DHSelect    = flow.get('DownholeSensor.Number')             || 0;\nvar DHSData     = global.get('DownHoleData.DHS','memoryOnly')   || null;\nvar DHSData2    = global.get('DownHoleData.AI','memoryOnly')    || null;\n\n// Vector mapa Modbus\nvar Mapa = [];\n\nif(typeof C2S != 'undefined' && C2S != null){\n    Mapa[0]   = val(C2S.Output_Frecuency*10);\n    Mapa[1]   = val(MtrVoltage*10);\n    Mapa[2]   = val(C2S.Output_Current*10);\n    Mapa[8]   = val(C2S.Output_Power*10);\n    Mapa[10]  = val(C2S.Output_Voltage*10);\n    Mapa[12]  = 1;\n    Mapa[14]  = val(C2S.Commanded_SpdRef);\n    Mapa[15]  = 1;                                        // No se ha definido. Estados Re-Arranque\n    Mapa[16]  = val(C2S.Bus_DC_Volts);\n    Mapa[17]  = 1;                                        // No se ha definido. Potencia aparente.\n    Mapa[18]  = val(C2S.Drive_Temp_C);\n    Mapa[20]  = 1;                                        // No se ha definido. Relación TX Elevador.\n    Mapa[21]  = 1;                                        // No se ha definido. Delta Voltaje de caida actual.\n    Mapa[22]  = 1;                                        // No se ha definido. Presión Actual.\n    Mapa[23]  = 1;                                        // No se ha definido. Temperatura de entrada actual.\n    Mapa[24]  = 1;                                        // No se ha definido. Vibración bomba lado acople.\n    Mapa[47]  = 1;                                        // No se ha definido. Referencia prolongada.\n\n}\n\n// Datos placa de motor.\nif(typeof MtrCurrent != 'undefined' && MtrCurrent != null){\n    Mapa[3]   = MtrCurrent*10;\n}\n\n// Datos comando Local/Remoto.\nif(typeof DHSelect != 'undefined' && DHSelect != null){\n    Mapa[4]   = DHSelect;\n}\n\n// Datos control de velocidad.\nif(typeof SC != 'undefined' && SC != null){\n    Mapa[5]   = SC.Accel;\n    Mapa[6]   = SC.Decel;\n    Mapa[9]   = SC.MinLimit*10;\n    Mapa[11]  = SC.MaxLimit*10;\n}\n// Datos estado C2S\nif(typeof Status != 'undefined' && Status != null){\n    Mapa[7]   = Status.Active == 1 ? 0:1;\n    Mapa[13]  = Status.Actual_dir == 1 ? 1:0;\n}\n\n// Datos PQA\nif(typeof PQA != 'undefined' && PQA != null){\n    Mapa[19]  = val(PQA.Real_Time_Parameters.Total_Power_Factor*100);\n    Mapa[25]  = 1;\n    Mapa[26]  = 1;\n    Mapa[27]  = val(PQA.Real_Time_Parameters.Average_Phase_Current*10);\n    Mapa[28]  = val(PQA.Real_Time_Parameters.Frequency*10);\n    Mapa[29]  = val(PQA.Real_Time_Parameters.Total_System_Power*10);\n    Mapa[30]  = val(PQA.Real_Time_Parameters.Total_Apparent_Power*10);\n    Mapa[31]  = val(PQA.Real_Time_Parameters.Total_Reactive_Power*10);\n    Mapa[32]  = val(PQA.Real_Time_Parameters.Total_Power_Factor*100);\n    Mapa[33]  = val(PQA.Real_Time_Parameters.Line_Voltage_1_2*10);\n    Mapa[34]  = val(PQA.Real_Time_Parameters.Line_Voltage_2_3*10);\n    Mapa[35]  = val(PQA.Real_Time_Parameters.Line_Voltage_3_1*10);\n    Mapa[36]  = val(PQA.Real_Time_Parameters.Phase_1_Voltage*10);\n    Mapa[37]  = val(PQA.Real_Time_Parameters.Phase_2_Voltage*10);\n    Mapa[38]  = val(PQA.Real_Time_Parameters.Phase_3_Voltage*10);\n    Mapa[39]  = val(PQA.Real_Time_Parameters.Total_Phase_A_Current*10);\n    Mapa[40]  = val(PQA.Real_Time_Parameters.Total_Phase_B_Current*10);\n    Mapa[41]  = val(PQA.Real_Time_Parameters.Total_Phase_C_Current*10);\n    Mapa[42]  = val(PQA.Real_Time_Parameters.Phase_A_Power*10);\n    Mapa[43]  = val(PQA.Real_Time_Parameters.Phase_B_Power*10);\n    Mapa[44]  = val(PQA.Real_Time_Parameters.Phase_C_Power*10);\n    Mapa[45]  = val(PQA.Harmonics.Power_Quality.THD_Iavg*10);\n    Mapa[46]  = val(PQA.Harmonics.Power_Quality.THD_avg*10);\n}\n\n// Datos Sensor de fondo\n//if(typeof DHSData != 'undefined' && DHSData != null && Object.keys(DHSData).length != 0){\n    Mapa[47]  = val(DHSData[\"Presión de entrada\"]);\n    Mapa[48]  = val(DHSData[\"Presión de descarga\"]);\n    Mapa[49]  = val(DHSData[\"Temperatura de entrada\"]);\n    Mapa[50]  = val(DHSData[\"Temperatura de descarga\"]);\n    Mapa[51]  = val(DHSData[\"Temperatura de motor\"]);\n    Mapa[52]  = val(DHSData2[\"Presión de casing\"]);\n    Mapa[53]  = val(DHSData2[\"Presión de cabeza THP\"]);\n    Mapa[54]  = val(DHSData[\"Temperatura de cabeza THT\"]);\n//}\n\n// Recorrer el mapa para evitar valores indefinidos\nfor(var i=0; i<Mapa.length; i+=1){\n    Mapa[i] = val(Mapa[i]);\n}\n\n// Escribir Mapa\nmsg.payload = { \n    value: Mapa, \n    'fc': 16,\n    'unitid': 1, \n    'address': 0 , \n    'quantity': Mapa.length \n}\nreturn msg;\n\n// Ajustar datos |definded X|\nfunction val(X){\n    if (isNaN(X)){X=0;}\n    return typeof X != 'undefined' ? parseInt(Math.abs(X)):0;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -67008,7 +67057,7 @@
         ],
         "repeat": "",
         "crontab": "",
-        "once": false,
+        "once": true,
         "onceDelay": 0.1,
         "topic": "",
         "payload": "0",
@@ -72116,6 +72165,7 @@
         "name": "",
         "links": [
             "935ca480.525e98",
+            "ad87cee4.7dbb5",
             "bd420231.1a153"
         ],
         "x": 4235,

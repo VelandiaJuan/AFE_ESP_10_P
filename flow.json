@@ -776,9 +776,7 @@
             "2939a4d0.1f6b6c"
         ],
         "x": 144,
-        "y": 19,
-        "w": 1002,
-        "h": 272
+        "y": 19
     },
     {
         "id": "95e4279e.465018",
@@ -865,9 +863,7 @@
             "1a75f72d.2bf409"
         ],
         "x": 144,
-        "y": 631.5,
-        "w": 492,
-        "h": 129.5
+        "y": 631.5
     },
     {
         "id": "c0366b36.2372f8",
@@ -891,9 +887,7 @@
             "2aac0837.208b38"
         ],
         "x": 144,
-        "y": 299,
-        "w": 492,
-        "h": 212
+        "y": 299
     },
     {
         "id": "e0133d8.e6db5c",
@@ -1147,8 +1141,8 @@
             "8d4d7.c3fc3b29",
             "47e5c17d.f308"
         ],
-        "x": 604,
-        "y": 1279,
+        "x": 614,
+        "y": 1429,
         "w": 872,
         "h": 122
     },
@@ -1315,9 +1309,7 @@
             "82e7028e.38e78"
         ],
         "x": 644,
-        "y": 299,
-        "w": 472,
-        "h": 122
+        "y": 299
     },
     {
         "id": "353eeed0.7959d2",
@@ -1370,9 +1362,7 @@
             "5f07f1b.ac4631"
         ],
         "x": 144,
-        "y": 521.5,
-        "w": 522,
-        "h": 97
+        "y": 521.5
     },
     {
         "id": "b55b6178.ef377",
@@ -1694,7 +1684,7 @@
             "e9e93a2c.deeb18"
         ],
         "x": 98,
-        "y": 1253,
+        "y": 1403,
         "w": 374,
         "h": 264
     },
@@ -2918,7 +2908,6 @@
             "eb2a9f36.96637",
             "4de602f2.c6858c",
             "6054591f.97bbc8",
-            "20c7cde4.586f82",
             "17ca02e7.855ccd",
             "9515e42e.7cd818",
             "24520f16.b2073",
@@ -2928,7 +2917,8 @@
             "46cdb592.10060c",
             "5c77bc75.2ac4e4",
             "eaf3c61f.78e7d8",
-            "5b1cac10.b42af4"
+            "5b1cac10.b42af4",
+            "20c7cde4.586f82"
         ],
         "x": 2744,
         "y": 539,
@@ -2994,7 +2984,7 @@
             "ad87cee4.7dbb5"
         ],
         "x": 124,
-        "y": 1279,
+        "y": 1429,
         "w": 322,
         "h": 82
     },
@@ -3016,7 +3006,7 @@
             "37f2db57.b831c4"
         ],
         "x": 174,
-        "y": 1369,
+        "y": 1519,
         "w": 272,
         "h": 122
     },
@@ -6069,6 +6059,32 @@
         "y": 2009,
         "w": 722,
         "h": 442
+    },
+    {
+        "id": "e52ecc43.c86a5",
+        "type": "group",
+        "z": "5f404c88.fa75a4",
+        "name": "Cambio de sentido de giro remoto",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "c973a8a2.547fd8",
+            "a941419b.07d0b",
+            "5bb29222.3201bc",
+            "ab968d92.63f1a",
+            "b7525f1.09e7ba",
+            "b6be19c5.be9248",
+            "cdbd9120.22da1",
+            "bb8a6cb2.8b74c",
+            "767f6ef3.dc93e",
+            "32b103a.fd52dfc"
+        ],
+        "x": 94,
+        "y": 1189,
+        "w": 1452,
+        "h": 142
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -39464,8 +39480,8 @@
         "mode": "text",
         "delay": 300,
         "topic": "",
-        "x": 1040,
-        "y": 1320,
+        "x": 1050,
+        "y": 1470,
         "wires": [
             [
                 "2acca295.66b21e",
@@ -39493,8 +39509,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1340,
-        "y": 1320,
+        "x": 1350,
+        "y": 1470,
         "wires": [
             []
         ]
@@ -39519,8 +39535,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 780,
-        "y": 1320,
+        "x": 790,
+        "y": 1470,
         "wires": [
             [
                 "ddd3ba80.4f0788",
@@ -39544,8 +39560,8 @@
         "mode": "text",
         "delay": 300,
         "topic": "",
-        "x": 1050,
-        "y": 1360,
+        "x": 1060,
+        "y": 1510,
         "wires": [
             [
                 "ddd3ba80.4f0788",
@@ -41748,7 +41764,7 @@
         "payload": "true",
         "payloadType": "bool",
         "x": 270,
-        "y": 1320,
+        "y": 1470,
         "wires": [
             [
                 "ad87cee4.7dbb5"
@@ -41835,7 +41851,7 @@
             "a7923a8c.7c39d8"
         ],
         "x": 405,
-        "y": 1320,
+        "y": 1470,
         "wires": []
     },
     {
@@ -41966,8 +41982,8 @@
         "links": [
             "ad87cee4.7dbb5"
         ],
-        "x": 645,
-        "y": 1320,
+        "x": 655,
+        "y": 1470,
         "wires": [
             [
                 "41a6416e.309fb"
@@ -41982,7 +41998,7 @@
         "name": "",
         "events": "all",
         "x": 310,
-        "y": 1410,
+        "y": 1560,
         "wires": [
             [
                 "97407954.a004c8",
@@ -42019,7 +42035,7 @@
             "242f1895.633768"
         ],
         "x": 405,
-        "y": 1410,
+        "y": 1560,
         "wires": []
     },
     {
@@ -42045,7 +42061,7 @@
             "651fde0c.6b2e9"
         ],
         "x": 215,
-        "y": 1410,
+        "y": 1560,
         "wires": [
             [
                 "7abe043b.fb14fc"
@@ -51895,7 +51911,8 @@
         "y": 1050,
         "wires": [
             [
-                "41951c57.8e84c4"
+                "41951c57.8e84c4",
+                "2b4f4fc2.a7ca"
             ]
         ]
     },
@@ -51930,7 +51947,8 @@
         "y": 1090,
         "wires": [
             [
-                "41951c57.8e84c4"
+                "41951c57.8e84c4",
+                "2b4f4fc2.a7ca"
             ]
         ]
     },
@@ -59782,24 +59800,6 @@
         "statusType": "auto",
         "x": 3490,
         "y": 820,
-        "wires": []
-    },
-    {
-        "id": "20c7cde4.586f82",
-        "type": "debug",
-        "z": "e86f0ca4.7feb5",
-        "g": "70d8d562.df63ac",
-        "name": "",
-        "active": true,
-        "tosidebar": false,
-        "console": false,
-        "tostatus": true,
-        "complete": "payload[0]",
-        "targetType": "msg",
-        "statusVal": "payload[50]",
-        "statusType": "auto",
-        "x": 3480,
-        "y": 630,
         "wires": []
     },
     {
@@ -72958,7 +72958,7 @@
         "to": "",
         "reg": false,
         "x": 310,
-        "y": 1450,
+        "y": 1600,
         "wires": [
             []
         ]
@@ -74779,6 +74779,496 @@
         "wires": [
             [
                 "776db11c.07117"
+            ]
+        ]
+    },
+    {
+        "id": "20c7cde4.586f82",
+        "type": "debug",
+        "z": "e86f0ca4.7feb5",
+        "g": "70d8d562.df63ac",
+        "name": "",
+        "active": true,
+        "tosidebar": false,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload[0]",
+        "targetType": "msg",
+        "statusVal": "payload[50]",
+        "statusType": "auto",
+        "x": 3480,
+        "y": 630,
+        "wires": []
+    },
+    {
+        "id": "128b2671.32fb7a",
+        "type": "complete",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "scope": [
+            "2cd079.27675f88"
+        ],
+        "uncaught": false,
+        "x": 170,
+        "y": 1660,
+        "wires": [
+            [
+                "21406dc1.9d5782"
+            ]
+        ]
+    },
+    {
+        "id": "21406dc1.9d5782",
+        "type": "function",
+        "z": "6c7d2db7.37ef34",
+        "name": "Voltage",
+        "func": "HH_Setpoint = global.get('Protections.Voltage.HH.Setpoint')||0;\nH_Setpoint  = global.get('Protections.Voltage.H.Setpoint')||0;\nL_Setpoint  = global.get('Protections.Voltage.L.Setpoint')||0;\nLL_Setpoint = global.get('Protections.Voltage.LL.Setpoint')||0;\n\nmsg.payload = { \n    value: [HH_Setpoint, H_Setpoint, L_Setpoint, LL_Setpoint], \n    'fc': 16, \n    'unitid': 1, \n    'address': 57, \n    'quantity': 4\n} \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 320,
+        "y": 1660,
+        "wires": [
+            [
+                "d2066f4.d47179"
+            ]
+        ]
+    },
+    {
+        "id": "d2066f4.d47179",
+        "type": "modbus-flex-write",
+        "z": "6c7d2db7.37ef34",
+        "name": "PyModbusServer",
+        "showStatusActivities": false,
+        "showErrors": false,
+        "server": "3548b3b4.c8d65c",
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 490,
+        "y": 1660,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "4970f246.2964dc",
+        "type": "modbus-read",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "topic": "",
+        "showStatusActivities": false,
+        "logIOActivities": false,
+        "showErrors": false,
+        "unitid": "",
+        "dataType": "HoldingRegister",
+        "adr": "57",
+        "quantity": "4",
+        "rate": "1",
+        "rateUnit": "s",
+        "delayOnStart": false,
+        "startDelayTime": "",
+        "server": "3548b3b4.c8d65c",
+        "useIOFile": false,
+        "ioFile": "",
+        "useIOForPayload": false,
+        "emptyMsgOnFail": false,
+        "x": 170,
+        "y": 1750,
+        "wires": [
+            [
+                "888867d4.3eb148"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "426c1933.2f4b68",
+        "type": "debug",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 550,
+        "y": 1750,
+        "wires": []
+    },
+    {
+        "id": "6088b329.555dac",
+        "type": "rbe",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 430,
+        "y": 1750,
+        "wires": [
+            [
+                "426c1933.2f4b68"
+            ]
+        ]
+    },
+    {
+        "id": "888867d4.3eb148",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "property": "Local/Remoto",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Remoto",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 310,
+        "y": 1750,
+        "wires": [
+            [
+                "6088b329.555dac"
+            ]
+        ]
+    },
+    {
+        "id": "8dd3e4dc.7b82c8",
+        "type": "function",
+        "z": "6c7d2db7.37ef34",
+        "name": "Load",
+        "func": "HH_Setpoint = global.get('Protections.Load.HH.Setpoint')||0;\nH_Setpoint  = global.get('Protections.Load.H.Setpoint')||0;\nL_Setpoint  = global.get('Protections.Load.L.Setpoint')||0;\nLL_Setpoint = global.get('Protections.Load.LL.Setpoint')||0;\n\nmsg.payload = { \n    value: [HH_Setpoint, H_Setpoint, L_Setpoint, LL_Setpoint], \n    'fc': 16, \n    'unitid': 1, \n    'address': 61, \n    'quantity': 4\n} \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 310,
+        "y": 1710,
+        "wires": [
+            [
+                "d2066f4.d47179"
+            ]
+        ]
+    },
+    {
+        "id": "d41da57e.fda528",
+        "type": "complete",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "scope": [
+            "d54f3181.5d7ad"
+        ],
+        "uncaught": false,
+        "x": 170,
+        "y": 1710,
+        "wires": [
+            [
+                "8dd3e4dc.7b82c8"
+            ]
+        ]
+    },
+    {
+        "id": "c973a8a2.547fd8",
+        "type": "modbus-read",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "name": "PyModbusServer",
+        "topic": "",
+        "showStatusActivities": true,
+        "logIOActivities": false,
+        "showErrors": false,
+        "unitid": "1",
+        "dataType": "HoldingRegister",
+        "adr": "57",
+        "quantity": "1",
+        "rate": "1",
+        "rateUnit": "s",
+        "delayOnStart": false,
+        "startDelayTime": "",
+        "server": "3548b3b4.c8d65c",
+        "useIOFile": false,
+        "ioFile": "",
+        "useIOForPayload": false,
+        "emptyMsgOnFail": false,
+        "x": 220,
+        "y": 1250,
+        "wires": [
+            [
+                "a941419b.07d0b"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "a941419b.07d0b",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "name": "Local/Remoto",
+        "property": "Local/Remoto",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Remoto",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 400,
+        "y": 1250,
+        "wires": [
+            [
+                "bb8a6cb2.8b74c"
+            ]
+        ]
+    },
+    {
+        "id": "5bb29222.3201bc",
+        "type": "ui_toast",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "Aceptar",
+        "cancel": "Cancelar",
+        "raw": false,
+        "topic": "",
+        "name": "",
+        "x": 1430,
+        "y": 1250,
+        "wires": []
+    },
+    {
+        "id": "ab968d92.63f1a",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "name": "Selector sentido de giro",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 910,
+        "y": 1250,
+        "wires": [
+            [
+                "cdbd9120.22da1"
+            ],
+            [
+                "b6be19c5.be9248"
+            ]
+        ]
+    },
+    {
+        "id": "9064a0d0.cc1fe",
+        "type": "modbus-flex-write",
+        "z": "5f404c88.fa75a4",
+        "name": "Actualizar sentido de giro",
+        "showStatusActivities": false,
+        "showErrors": false,
+        "server": "3548b3b4.c8d65c",
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 1350,
+        "y": 1060,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "2b4f4fc2.a7ca",
+        "type": "function",
+        "z": "5f404c88.fa75a4",
+        "name": "",
+        "func": "msg.payload = { \n    value: msg.payload, \n    'fc': 6, \n    'unitid': 1, \n    'address': 57 , \n    'quantity': 1\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1160,
+        "y": 1060,
+        "wires": [
+            [
+                "9064a0d0.cc1fe"
+            ]
+        ]
+    },
+    {
+        "id": "b7525f1.09e7ba",
+        "type": "debug",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "name": "",
+        "active": true,
+        "tosidebar": false,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 880,
+        "y": 1290,
+        "wires": []
+    },
+    {
+        "id": "b6be19c5.be9248",
+        "type": "change",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "name": "Reverse",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "1",
+                "tot": "num"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Direction",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1100,
+        "y": 1270,
+        "wires": [
+            [
+                "516eb117.80341",
+                "32b103a.fd52dfc"
+            ]
+        ]
+    },
+    {
+        "id": "cdbd9120.22da1",
+        "type": "change",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "name": "Forward",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Direction",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1100,
+        "y": 1230,
+        "wires": [
+            [
+                "516eb117.80341",
+                "32b103a.fd52dfc"
+            ]
+        ]
+    },
+    {
+        "id": "bb8a6cb2.8b74c",
+        "type": "rbe",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 550,
+        "y": 1250,
+        "wires": [
+            [
+                "767f6ef3.dc93e"
+            ]
+        ]
+    },
+    {
+        "id": "767f6ef3.dc93e",
+        "type": "function",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "name": "Command Dir",
+        "func": "var Dir = global.get('Drive_Status.Command_dir','memoryOnly');\nDir = Dir == 0 ? 1:0;\nnode.status({fill:\"green\",shape:\"dot\",text:'Dir: '+Dir});\n\nif(msg.payload== Dir){\n    return;\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 700,
+        "y": 1250,
+        "wires": [
+            [
+                "ab968d92.63f1a",
+                "b7525f1.09e7ba"
+            ]
+        ]
+    },
+    {
+        "id": "32b103a.fd52dfc",
+        "type": "function",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "name": "Mensaje",
+        "func": "msg.payload = msg.payload == 0 ? \"Cambio de sentido de giro remoto a forward\":\"Cambio de sentido de giro remoto a reverse\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1260,
+        "y": 1250,
+        "wires": [
+            [
+                "5bb29222.3201bc"
             ]
         ]
     }

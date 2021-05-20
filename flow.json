@@ -748,6 +748,14 @@
         "icon": "node-red/parser-csv.svg"
     },
     {
+        "id": "15ab1156.4d9def",
+        "type": "subflow",
+        "name": "Subflow 1",
+        "info": "",
+        "in": [],
+        "out": []
+    },
+    {
         "id": "3383e29e.9b29fe",
         "type": "group",
         "z": "ef673f81.6ec95",
@@ -1032,7 +1040,9 @@
             "a7e99088.c8108"
         ],
         "x": 269,
-        "y": 73
+        "y": 73,
+        "w": 1693,
+        "h": 454
     },
     {
         "id": "43bab036.712ca",
@@ -1048,7 +1058,9 @@
             "e9d2f5f0.86a518"
         ],
         "x": 268,
-        "y": 533
+        "y": 533,
+        "w": 1704,
+        "h": 704
     },
     {
         "id": "27a0641a.d154dc",
@@ -1064,7 +1076,9 @@
             "1306de9a.9ba341"
         ],
         "x": 268,
-        "y": 1243
+        "y": 1243,
+        "w": 1744,
+        "h": 454
     },
     {
         "id": "af9ea997.5900c8",
@@ -1080,7 +1094,9 @@
             "7b926503.10d39c"
         ],
         "x": 268,
-        "y": 1703
+        "y": 1703,
+        "w": 1324,
+        "h": 224
     },
     {
         "id": "8a04702.34fd29",
@@ -1100,7 +1116,9 @@
             "49534500.cd9cdc"
         ],
         "x": 1969,
-        "y": 75
+        "y": 75,
+        "w": 527,
+        "h": 196
     },
     {
         "id": "f7d4f68f.ac6a38",
@@ -1326,7 +1344,9 @@
             "ab7a4a2c.17d8a8"
         ],
         "x": 48,
-        "y": 603
+        "y": 603,
+        "w": 2014,
+        "h": 1104
     },
     {
         "id": "e3aa057d.09fb18",
@@ -1344,7 +1364,9 @@
             "b9df7528.923398"
         ],
         "x": 48,
-        "y": 1713
+        "y": 1713,
+        "w": 2900,
+        "h": 1080
     },
     {
         "id": "a163450f.bc4438",
@@ -1480,7 +1502,9 @@
             "ba5f4e4b.e55a2"
         ],
         "x": 1204,
-        "y": 1169
+        "y": 1169,
+        "w": 412,
+        "h": 82
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -2709,7 +2733,9 @@
             "675af0d1.a9fc4"
         ],
         "x": 52,
-        "y": 17
+        "y": 17,
+        "w": 2060,
+        "h": 576
     },
     {
         "id": "854dec5e.9e51d",
@@ -2728,7 +2754,9 @@
             "b4d97ea9.9a1f1"
         ],
         "x": 2128,
-        "y": 13
+        "y": 13,
+        "w": 2314,
+        "h": 834
     },
     {
         "id": "c2c48d08.f1c96",
@@ -2743,7 +2771,9 @@
             "7a6388b7.eddf38"
         ],
         "x": 2134,
-        "y": 859
+        "y": 859,
+        "w": 332,
+        "h": 142
     },
     {
         "id": "6b6e253f.c8615c",
@@ -2816,7 +2846,9 @@
             "1d262758.d91059"
         ],
         "x": 44,
-        "y": 839
+        "y": 839,
+        "w": 882,
+        "h": 162
     },
     {
         "id": "91665de9.7194",
@@ -2836,7 +2868,9 @@
             "a2acb5a2.e85b98"
         ],
         "x": 44,
-        "y": 23
+        "y": 23,
+        "w": 1218,
+        "h": 804
     },
     {
         "id": "675af0d1.a9fc4",
@@ -2853,7 +2887,9 @@
             "9bdf522.eba6db"
         ],
         "x": 78,
-        "y": 43
+        "y": 43,
+        "w": 1014,
+        "h": 524
     },
     {
         "id": "6150cb44.a8b4c4",
@@ -2884,7 +2920,9 @@
             "51d2e767.639a98"
         ],
         "x": 1104,
-        "y": 49
+        "y": 49,
+        "w": 982,
+        "h": 262
     },
     {
         "id": "70d8d562.df63ac",
@@ -3637,7 +3675,9 @@
             "f75e195a.cf9c28"
         ],
         "x": 295,
-        "y": 99
+        "y": 99,
+        "w": 832,
+        "h": 402
     },
     {
         "id": "27c43941.e9e0c6",
@@ -3688,7 +3728,9 @@
             "3ac432d5.f6b63e"
         ],
         "x": 294,
-        "y": 559
+        "y": 559,
+        "w": 832,
+        "h": 652
     },
     {
         "id": "c41a251e.427c98",
@@ -3724,7 +3766,9 @@
             "4b4d89b2.afea38"
         ],
         "x": 294,
-        "y": 1269
+        "y": 1269,
+        "w": 962,
+        "h": 402
     },
     {
         "id": "a7e99088.c8108",
@@ -3761,7 +3805,9 @@
             "c48a9a39.50daa8"
         ],
         "x": 1134,
-        "y": 99
+        "y": 99,
+        "w": 802,
+        "h": 402
     },
     {
         "id": "b60351ac.2ba88",
@@ -3783,7 +3829,9 @@
             "1f8e91cb.d426be"
         ],
         "x": 294,
-        "y": 1729
+        "y": 1729,
+        "w": 752,
+        "h": 162
     },
     {
         "id": "e9d2f5f0.86a518",
@@ -3817,7 +3865,9 @@
             "8307ca17.c4d5b8"
         ],
         "x": 1134,
-        "y": 559
+        "y": 559,
+        "w": 812,
+        "h": 412
     },
     {
         "id": "1306de9a.9ba341",
@@ -3845,7 +3895,9 @@
             "6f6dca07.0b3994"
         ],
         "x": 1264,
-        "y": 1269
+        "y": 1269,
+        "w": 722,
+        "h": 292
     },
     {
         "id": "7b926503.10d39c",
@@ -3866,7 +3918,9 @@
             "b60d4442.d5f0e8"
         ],
         "x": 1054,
-        "y": 1729
+        "y": 1729,
+        "w": 512,
+        "h": 172
     },
     {
         "id": "25d1d69b.64e0ca",
@@ -4167,7 +4221,9 @@
             "272ed76d.7cce68"
         ],
         "x": 74,
-        "y": 929
+        "y": 929,
+        "w": 1568,
+        "h": 752
     },
     {
         "id": "84c9494b.d4dbe8",
@@ -4201,7 +4257,9 @@
             "e2832ff4.8c486"
         ],
         "x": 74,
-        "y": 629
+        "y": 629,
+        "w": 912,
+        "h": 292
     },
     {
         "id": "dad84feb.d4773",
@@ -4276,7 +4334,9 @@
             "eb7c6393.8c838"
         ],
         "x": 74,
-        "y": 2049
+        "y": 2049,
+        "w": 1542,
+        "h": 700
     },
     {
         "id": "7aad629d.de652c",
@@ -4338,7 +4398,9 @@
             "b8c12e8b.715b2"
         ],
         "x": 74,
-        "y": 1739
+        "y": 1739,
+        "w": 2632,
+        "h": 302
     },
     {
         "id": "4eb2e67c.e57628",
@@ -4706,7 +4768,9 @@
             "577047bb.6519b8"
         ],
         "x": 994,
-        "y": 629
+        "y": 629,
+        "w": 1042,
+        "h": 272
     },
     {
         "id": "e2e299a6.d3c5c8",
@@ -4768,7 +4832,9 @@
             "4e19cfd4.3982f"
         ],
         "x": 1624,
-        "y": 2049
+        "y": 2049,
+        "w": 1062,
+        "h": 312
     },
     {
         "id": "dde9e22c.88ef2",
@@ -4886,7 +4952,9 @@
             "c25b39de.c92f08"
         ],
         "x": 1628,
-        "y": 2393
+        "y": 2393,
+        "w": 1294,
+        "h": 374
     },
     {
         "id": "46208c12.9b8aa4",
@@ -5074,7 +5142,9 @@
             "168b6577.3e722b"
         ],
         "x": 2804,
-        "y": 39
+        "y": 39,
+        "w": 892,
+        "h": 292
     },
     {
         "id": "c30870cb.fa25a",
@@ -5103,7 +5173,9 @@
             "3df3dfb.cab992"
         ],
         "x": 2154,
-        "y": 39
+        "y": 39,
+        "w": 642,
+        "h": 202
     },
     {
         "id": "4384031.9ff1afc",
@@ -5124,7 +5196,9 @@
             "446190d2.61b54"
         ],
         "x": 3704,
-        "y": 39
+        "y": 39,
+        "w": 712,
+        "h": 122
     },
     {
         "id": "b4d97ea9.9a1f1",
@@ -5190,7 +5264,9 @@
             "ece75963.8a7658"
         ],
         "x": 2154,
-        "y": 339
+        "y": 339,
+        "w": 1922,
+        "h": 482
     },
     {
         "id": "b15394d1.1fa588",
@@ -5212,7 +5288,9 @@
             "68bf1bb.d9b73e4"
         ],
         "x": 424,
-        "y": 49
+        "y": 49,
+        "w": 792,
+        "h": 202
     },
     {
         "id": "594bfb02.2b8894",
@@ -5232,7 +5310,9 @@
             "b8f5a967.a9c448"
         ],
         "x": 424,
-        "y": 259
+        "y": 259,
+        "w": 812,
+        "h": 162
     },
     {
         "id": "6de7b375.6750cc",
@@ -5254,7 +5334,9 @@
             "a99d2c43.563ca"
         ],
         "x": 424,
-        "y": 429
+        "y": 429,
+        "w": 792,
+        "h": 202
     },
     {
         "id": "5f8972b7.b986dc",
@@ -5274,7 +5356,9 @@
             "6bff5a6a.c8a6b4"
         ],
         "x": 424,
-        "y": 639
+        "y": 639,
+        "w": 752,
+        "h": 162
     },
     {
         "id": "1d477816.993308",
@@ -5296,10 +5380,13 @@
             "2813951c.bf7bfa",
             "74d5017e.e1082",
             "9353759f.984b88",
-            "d0a19b38.893ab8"
+            "d0a19b38.893ab8",
+            "6d33fcb1.428484"
         ],
         "x": 104,
-        "y": 69
+        "y": 69,
+        "w": 962,
+        "h": 212
     },
     {
         "id": "9bdf522.eba6db",
@@ -5334,7 +5421,9 @@
             "f144e183.7ff68"
         ],
         "x": 104,
-        "y": 289
+        "y": 289,
+        "w": 912,
+        "h": 252
     },
     {
         "id": "5613a5b2.95577c",
@@ -5873,7 +5962,9 @@
             "97085297.91fc4"
         ],
         "x": 944,
-        "y": 959
+        "y": 959,
+        "w": 672,
+        "h": 202
     },
     {
         "id": "5d1065e2.7b952c",
@@ -5990,7 +6081,9 @@
             "f4363e16.f1813"
         ],
         "x": 1654,
-        "y": 2419
+        "y": 2419,
+        "w": 1022,
+        "h": 82
     },
     {
         "id": "c25b39de.c92f08",
@@ -6020,7 +6113,9 @@
             "38bdd4ac.3dc20c"
         ],
         "x": 1654,
-        "y": 2509
+        "y": 2509,
+        "w": 1242,
+        "h": 232
     },
     {
         "id": "2fb80d12.b93df2",
@@ -28637,9 +28732,10 @@
         "type": "link in",
         "z": "6c7d2db7.37ef34",
         "g": "35440cdc.e5d764",
-        "name": "Timestamp In",
+        "name": "Timestamp In Load",
         "links": [
-            "485a456c.532fdc"
+            "485a456c.532fdc",
+            "cb121d99.6b0c6"
         ],
         "x": 2655,
         "y": 190,
@@ -28665,9 +28761,10 @@
         "type": "link in",
         "z": "6c7d2db7.37ef34",
         "g": "888265d9.138288",
-        "name": "Timestamp In",
+        "name": "Timestamp In Intake Temperature",
         "links": [
-            "485a456c.532fdc"
+            "485a456c.532fdc",
+            "560afdd6.770de4"
         ],
         "x": 3595,
         "y": 190,
@@ -28693,9 +28790,10 @@
         "type": "link in",
         "z": "6c7d2db7.37ef34",
         "g": "54b245d3.9431dc",
-        "name": "Timestamp In",
+        "name": "Timestamp In Intake Pressure",
         "links": [
-            "485a456c.532fdc"
+            "485a456c.532fdc",
+            "54f813eb.c136ec"
         ],
         "x": 1675,
         "y": 790,
@@ -28749,9 +28847,10 @@
         "type": "link in",
         "z": "6c7d2db7.37ef34",
         "g": "4b571a8f.d70524",
-        "name": "Timestamp In",
+        "name": "Timestamp In Discharge Temp",
         "links": [
-            "485a456c.532fdc"
+            "485a456c.532fdc",
+            "9ecab94a.2f4f68"
         ],
         "x": 3835,
         "y": 790,
@@ -28805,9 +28904,10 @@
         "type": "link in",
         "z": "6c7d2db7.37ef34",
         "g": "a3b836be.d5cde8",
-        "name": "Timestamp In",
+        "name": "Timestamp In Motor Temp",
         "links": [
-            "485a456c.532fdc"
+            "485a456c.532fdc",
+            "78debc56.b9b7b4"
         ],
         "x": 2775,
         "y": 1390,
@@ -41781,7 +41881,6 @@
             "41414c01.67ae34",
             "3af4cca.ce68834",
             "ba8baeac.e028c",
-            "a72a1eba.19d99",
             "fb44ddcd.cf816",
             "f4208b50.a8abc8",
             "fbd8c1e9.7d493",
@@ -41878,7 +41977,7 @@
         "g": "dabbb1f4.9b65e",
         "name": "",
         "links": [
-            "ad87cee4.7dbb5"
+            "97407954.a004c8"
         ],
         "x": 1675,
         "y": 100,
@@ -42032,7 +42131,8 @@
             "abd57ed0.925e2",
             "eeb74e26.02437",
             "487b8eaa.36a75",
-            "242f1895.633768"
+            "242f1895.633768",
+            "a72a1eba.19d99"
         ],
         "x": 405,
         "y": 1560,
@@ -44812,7 +44912,9 @@
         "x": 840,
         "y": 160,
         "wires": [
-            []
+            [
+                "6d33fcb1.428484"
+            ]
         ]
     },
     {
@@ -44942,7 +45044,8 @@
         "name": "Incremento prolongado",
         "links": [
             "ad87cee4.7dbb5",
-            "bd420231.1a153"
+            "bd420231.1a153",
+            "bdd292d2.61916"
         ],
         "x": 285,
         "y": 200,
@@ -74801,41 +74904,6 @@
         "wires": []
     },
     {
-        "id": "128b2671.32fb7a",
-        "type": "complete",
-        "z": "6c7d2db7.37ef34",
-        "name": "",
-        "scope": [
-            "2cd079.27675f88"
-        ],
-        "uncaught": false,
-        "x": 170,
-        "y": 1660,
-        "wires": [
-            [
-                "21406dc1.9d5782"
-            ]
-        ]
-    },
-    {
-        "id": "21406dc1.9d5782",
-        "type": "function",
-        "z": "6c7d2db7.37ef34",
-        "name": "Voltage",
-        "func": "HH_Setpoint = global.get('Protections.Voltage.HH.Setpoint')||0;\nH_Setpoint  = global.get('Protections.Voltage.H.Setpoint')||0;\nL_Setpoint  = global.get('Protections.Voltage.L.Setpoint')||0;\nLL_Setpoint = global.get('Protections.Voltage.LL.Setpoint')||0;\n\nmsg.payload = { \n    value: [HH_Setpoint, H_Setpoint, L_Setpoint, LL_Setpoint], \n    'fc': 16, \n    'unitid': 1, \n    'address': 57, \n    'quantity': 4\n} \nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 320,
-        "y": 1660,
-        "wires": [
-            [
-                "d2066f4.d47179"
-            ]
-        ]
-    },
-    {
         "id": "d2066f4.d47179",
         "type": "modbus-flex-write",
         "z": "6c7d2db7.37ef34",
@@ -74845,8 +74913,8 @@
         "server": "3548b3b4.c8d65c",
         "emptyMsgOnFail": false,
         "keepMsgProperties": false,
-        "x": 490,
-        "y": 1660,
+        "x": 650,
+        "y": 1640,
         "wires": [
             [],
             []
@@ -74863,8 +74931,8 @@
         "showErrors": false,
         "unitid": "",
         "dataType": "HoldingRegister",
-        "adr": "57",
-        "quantity": "4",
+        "adr": "58",
+        "quantity": "8",
         "rate": "1",
         "rateUnit": "s",
         "delayOnStart": false,
@@ -74874,48 +74942,13 @@
         "ioFile": "",
         "useIOForPayload": false,
         "emptyMsgOnFail": false,
-        "x": 170,
-        "y": 1750,
+        "x": 140,
+        "y": 1830,
         "wires": [
             [
                 "888867d4.3eb148"
             ],
             []
-        ]
-    },
-    {
-        "id": "426c1933.2f4b68",
-        "type": "debug",
-        "z": "6c7d2db7.37ef34",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 550,
-        "y": 1750,
-        "wires": []
-    },
-    {
-        "id": "6088b329.555dac",
-        "type": "rbe",
-        "z": "6c7d2db7.37ef34",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 430,
-        "y": 1750,
-        "wires": [
-            [
-                "426c1933.2f4b68"
-            ]
         ]
     },
     {
@@ -74935,11 +74968,11 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 310,
-        "y": 1750,
+        "x": 280,
+        "y": 1830,
         "wires": [
             [
-                "6088b329.555dac"
+                "f9984424.f2ea88"
             ]
         ]
     },
@@ -74947,14 +74980,14 @@
         "id": "8dd3e4dc.7b82c8",
         "type": "function",
         "z": "6c7d2db7.37ef34",
-        "name": "Load",
-        "func": "HH_Setpoint = global.get('Protections.Load.HH.Setpoint')||0;\nH_Setpoint  = global.get('Protections.Load.H.Setpoint')||0;\nL_Setpoint  = global.get('Protections.Load.L.Setpoint')||0;\nLL_Setpoint = global.get('Protections.Load.LL.Setpoint')||0;\n\nmsg.payload = { \n    value: [HH_Setpoint, H_Setpoint, L_Setpoint, LL_Setpoint], \n    'fc': 16, \n    'unitid': 1, \n    'address': 61, \n    'quantity': 4\n} \nreturn msg;",
+        "name": "Mapa Modbus Protecciones",
+        "func": "var Load_HH_Sp  = global.get('Protections.Load.HH.Setpoint')||0;\nvar Load_LL_Sp  = global.get('Protections.Load.LL.Setpoint')||0;\nvar PReference  = global.get('Prolonged_Reference.Time')||0;\nvar PIn_HH_Sp   = global.get('Protections.Intake.Pressure.HH.Setpoint')||0;\nvar PIn_LL_Sp   = global.get('Protections.Intake.Pressure.LL.Setpoint')||0;\nvar TIn_HH_Sp   = global.get('Protections.Intake.Temperature.HH.Setpoint')||0;\nvar TDis_HH_Sp  = global.get('Protections.Discharge.Temperature.HH.Setpoint')||0;\nvar Mtr_Temp_HH_Sp = global.get('Protections.Motor.Temperature.HH.Setpoint')||0;\n\nvar vector = [\n    Load_HH_Sp, \n    Load_LL_Sp,\n    PReference,\n    PIn_HH_Sp,\n    PIn_LL_Sp,\n    TIn_HH_Sp,\n    TDis_HH_Sp,\n    Mtr_Temp_HH_Sp\n]\n\nmsg.payload = { \n    value: vector, \n    'fc': 16, \n    'unitid': 1, \n    'address': 58, \n    'quantity': vector.length\n} \n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 310,
-        "y": 1710,
+        "x": 420,
+        "y": 1640,
         "wires": [
             [
                 "d2066f4.d47179"
@@ -74967,11 +75000,15 @@
         "z": "6c7d2db7.37ef34",
         "name": "",
         "scope": [
-            "d54f3181.5d7ad"
+            "d54f3181.5d7ad",
+            "33575158.040bce",
+            "fa27ee3.dd7941",
+            "3cab3ca5.8a90e4",
+            "4d839d32.72a8f4"
         ],
         "uncaught": false,
-        "x": 170,
-        "y": 1710,
+        "x": 190,
+        "y": 1640,
         "wires": [
             [
                 "8dd3e4dc.7b82c8"
@@ -75271,5 +75308,571 @@
                 "5bb29222.3201bc"
             ]
         ]
+    },
+    {
+        "id": "6d33fcb1.428484",
+        "type": "link out",
+        "z": "3df4c8d9.0bdc38",
+        "g": "1d477816.993308",
+        "name": "Referencia prolongada Inc. Link Out",
+        "links": [
+            "28b9d8d4.780938"
+        ],
+        "x": 1015,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "28b9d8d4.780938",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "links": [
+            "6d33fcb1.428484"
+        ],
+        "x": 245,
+        "y": 1680,
+        "wires": [
+            [
+                "8dd3e4dc.7b82c8"
+            ]
+        ]
+    },
+    {
+        "id": "f9984424.f2ea88",
+        "type": "function",
+        "z": "6c7d2db7.37ef34",
+        "name": "Modbus",
+        "func": "var modbus = [\n    MSG(msg.payload[0]),\n    MSG(msg.payload[1]),\n    MSG(msg.payload[2]),\n    MSG(msg.payload[3]),\n    MSG(msg.payload[4]),\n    MSG(msg.payload[5]),\n    MSG(msg.payload[6]),\n    MSG(msg.payload[7]),\n]\nreturn modbus;\n\nfunction MSG(X){\n    return {payload: X}\n}\n",
+        "outputs": 8,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 410,
+        "y": 1830,
+        "wires": [
+            [
+                "22b4769d.fa73aa"
+            ],
+            [
+                "7fcd7f44.da50a"
+            ],
+            [
+                "7e94d37b.d9ba6c"
+            ],
+            [
+                "11a05a7f.1ef4b6"
+            ],
+            [
+                "39b7d6d0.170dda"
+            ],
+            [
+                "e7ce38e8.ddf7a8"
+            ],
+            [
+                "30a1afd8.5fed9"
+            ],
+            [
+                "b9e47311.f3082"
+            ]
+        ],
+        "outputLabels": [
+            "Load HH Setpoint",
+            "Load LL Setpoint",
+            "P. Ref. Reference",
+            "Intake Pressure HH Setpoint",
+            "Intake Pressure LL Setpoint",
+            "Intake Temp HH Setpoint",
+            "Discharge Temp HH Setpoint",
+            "Mtr. Temp HH Setpoint"
+        ]
+    },
+    {
+        "id": "22b4769d.fa73aa",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Protections.Load.HH.Setpoint",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 610,
+        "y": 1690,
+        "wires": [
+            [
+                "898a9e08.eb30d"
+            ]
+        ]
+    },
+    {
+        "id": "7fcd7f44.da50a",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Protections.Load.LL.Setpoint",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 610,
+        "y": 1730,
+        "wires": [
+            [
+                "d49a58a4.182318"
+            ]
+        ]
+    },
+    {
+        "id": "7e94d37b.d9ba6c",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Prolonged_Reference.Time",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 610,
+        "y": 1770,
+        "wires": [
+            [
+                "f149f03c.2778"
+            ]
+        ]
+    },
+    {
+        "id": "11a05a7f.1ef4b6",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Protections.Intake.Pressure.HH.Setpoint",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 610,
+        "y": 1810,
+        "wires": [
+            [
+                "7eb9f31b.5d87ac"
+            ]
+        ]
+    },
+    {
+        "id": "39b7d6d0.170dda",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Protections.Intake.Pressure.LL.Setpoint",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 610,
+        "y": 1850,
+        "wires": [
+            [
+                "e848d5b7.89ed48"
+            ]
+        ]
+    },
+    {
+        "id": "e7ce38e8.ddf7a8",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Protections.Intake.Temperature.HH.Setpoint",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 610,
+        "y": 1890,
+        "wires": [
+            [
+                "de525e4.80448a"
+            ]
+        ]
+    },
+    {
+        "id": "30a1afd8.5fed9",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Protections.Discharge.Temperature.HH.Setpoint",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 610,
+        "y": 1930,
+        "wires": [
+            [
+                "366809a8.54ae36"
+            ]
+        ]
+    },
+    {
+        "id": "b9e47311.f3082",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Protections.Motor.Temperature.HH.Setpoint",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 610,
+        "y": 1970,
+        "wires": [
+            [
+                "e1b1ed5d.b46dc"
+            ]
+        ]
+    },
+    {
+        "id": "898a9e08.eb30d",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Protections.Load.HH.Setpoint",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 840,
+        "y": 1690,
+        "wires": [
+            [
+                "cb121d99.6b0c6"
+            ]
+        ]
+    },
+    {
+        "id": "d49a58a4.182318",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Protections.Load.LL.EN",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 820,
+        "y": 1730,
+        "wires": [
+            [
+                "cb121d99.6b0c6"
+            ]
+        ]
+    },
+    {
+        "id": "f149f03c.2778",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Prolonged_Reference.Time",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 830,
+        "y": 1770,
+        "wires": [
+            [
+                "bdd292d2.61916"
+            ]
+        ]
+    },
+    {
+        "id": "7eb9f31b.5d87ac",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Protections.Intake.Pressure.HH.Setpoint",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 870,
+        "y": 1810,
+        "wires": [
+            [
+                "54f813eb.c136ec"
+            ]
+        ]
+    },
+    {
+        "id": "e848d5b7.89ed48",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Protections.Intake.Pressure.LL.Setpoint",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 870,
+        "y": 1850,
+        "wires": [
+            [
+                "54f813eb.c136ec"
+            ]
+        ]
+    },
+    {
+        "id": "de525e4.80448a",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Protections.Intake.Temperature.HH.Setpoint",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 880,
+        "y": 1890,
+        "wires": [
+            [
+                "560afdd6.770de4"
+            ]
+        ]
+    },
+    {
+        "id": "366809a8.54ae36",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Protections.Discharge.Temperature.HH.Setpoint",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 900,
+        "y": 1930,
+        "wires": [
+            [
+                "9ecab94a.2f4f68"
+            ]
+        ]
+    },
+    {
+        "id": "e1b1ed5d.b46dc",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Protections.Motor.Temperature.HH.Setpoint",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 880,
+        "y": 1970,
+        "wires": [
+            [
+                "78debc56.b9b7b4"
+            ]
+        ]
+    },
+    {
+        "id": "cb121d99.6b0c6",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "links": [
+            "3e39b5ec.dda60a"
+        ],
+        "x": 1155,
+        "y": 1730,
+        "wires": []
+    },
+    {
+        "id": "bdd292d2.61916",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "links": [
+            "d0a19b38.893ab8"
+        ],
+        "x": 1155,
+        "y": 1770,
+        "wires": []
+    },
+    {
+        "id": "54f813eb.c136ec",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "links": [
+            "f1b01bce.f6aca8"
+        ],
+        "x": 1155,
+        "y": 1810,
+        "wires": []
+    },
+    {
+        "id": "560afdd6.770de4",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "links": [
+            "28fd8b2e.2b37e4"
+        ],
+        "x": 1155,
+        "y": 1890,
+        "wires": []
+    },
+    {
+        "id": "9ecab94a.2f4f68",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "links": [
+            "49ed0754.2b0538"
+        ],
+        "x": 1155,
+        "y": 1930,
+        "wires": []
+    },
+    {
+        "id": "78debc56.b9b7b4",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "links": [
+            "e44c2e4e.679a2"
+        ],
+        "x": 1155,
+        "y": 1970,
+        "wires": []
     }
 ]

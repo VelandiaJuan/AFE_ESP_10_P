@@ -851,7 +851,9 @@
             "ccd73af1.690d48"
         ],
         "x": 14,
-        "y": 2769
+        "y": 2769,
+        "w": 1202,
+        "h": 202
     },
     {
         "id": "25cd4464.cad59c",
@@ -1002,7 +1004,9 @@
             "1027a10.a1e515f"
         ],
         "x": 12,
-        "y": 7
+        "y": 7,
+        "w": 2696,
+        "h": 1626
     },
     {
         "id": "c17de691.f363c8",
@@ -1020,7 +1024,9 @@
             "de6d41a4.0f4d2"
         ],
         "x": 12,
-        "y": 1637
+        "y": 1637,
+        "w": 2626,
+        "h": 866
     },
     {
         "id": "68e6bb30.d1fce4",
@@ -1268,7 +1274,9 @@
             "82f203e8.c02ef"
         ],
         "x": 2724,
-        "y": 9
+        "y": 9,
+        "w": 1032,
+        "h": 492
     },
     {
         "id": "8341562d.ffacc8",
@@ -1433,7 +1441,9 @@
             "5039e78a.ed1d88"
         ],
         "x": 14,
-        "y": 2679
+        "y": 2679,
+        "w": 462,
+        "h": 82
     },
     {
         "id": "96c06653.552da8",
@@ -1582,7 +1592,9 @@
             "ebc9a134.b2cde"
         ],
         "x": 18,
-        "y": 2983
+        "y": 2983,
+        "w": 1054,
+        "h": 344
     },
     {
         "id": "63291ccb.08e434",
@@ -1601,7 +1613,9 @@
             "f981eb1b.025a78"
         ],
         "x": 58,
-        "y": 63
+        "y": 63,
+        "w": 1430,
+        "h": 1824
     },
     {
         "id": "6889f2bb.892f0c",
@@ -1705,7 +1719,9 @@
             "c099945b.08bf98"
         ],
         "x": 14,
-        "y": 2509
+        "y": 2509,
+        "w": 872,
+        "h": 162
     },
     {
         "id": "40cf1345.13cc7c",
@@ -1721,7 +1737,9 @@
             "7f0ad68d.a88dc8"
         ],
         "x": 2718,
-        "y": 953
+        "y": 953,
+        "w": 1464,
+        "h": 714
     },
     {
         "id": "aa2fba7e.146688",
@@ -1745,7 +1763,9 @@
             "341c89fa.21c126"
         ],
         "x": 2718,
-        "y": 1683
+        "y": 1683,
+        "w": 1228,
+        "h": 864
     },
     {
         "id": "aaa733ec.38139",
@@ -1842,7 +1862,9 @@
             "8188a395.bb719"
         ],
         "x": 2714,
-        "y": 2559
+        "y": 2559,
+        "w": 522,
+        "h": 282
     },
     {
         "id": "93269d6d.f01df",
@@ -1862,7 +1884,9 @@
             "f6e30287.8d13d"
         ],
         "x": 2718,
-        "y": 513
+        "y": 513,
+        "w": 2294,
+        "h": 434
     },
     {
         "id": "f766f95b.4e6278",
@@ -1888,7 +1912,9 @@
             "1e165b65.d6c425"
         ],
         "x": 3254,
-        "y": 2559
+        "y": 2559,
+        "w": 862,
+        "h": 222
     },
     {
         "id": "8f02baa.cd86a48",
@@ -1909,7 +1935,9 @@
             "afc5c849.968498"
         ],
         "x": 4194,
-        "y": 1049
+        "y": 1049,
+        "w": 752,
+        "h": 202
     },
     {
         "id": "4454562c.314c58",
@@ -1928,7 +1956,9 @@
             "9ba73f69.14911"
         ],
         "x": 4194,
-        "y": 1259
+        "y": 1259,
+        "w": 412,
+        "h": 202
     },
     {
         "id": "e41c42c4.24372",
@@ -1950,7 +1980,9 @@
             "7940a891.ccd658"
         ],
         "x": 4194,
-        "y": 959
+        "y": 959,
+        "w": 792,
+        "h": 82
     },
     {
         "id": "b690d102.38713",
@@ -1969,7 +2001,9 @@
             "52df689b.264478"
         ],
         "x": 4194,
-        "y": 1469
+        "y": 1469,
+        "w": 712,
+        "h": 82
     },
     {
         "id": "7dbc5902.4206c8",
@@ -1992,7 +2026,9 @@
             "ec35814f.e4c98"
         ],
         "x": 4194,
-        "y": 1559
+        "y": 1559,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "51885913.764608",
@@ -2045,7 +2081,9 @@
             "cb0d324.9efa3d"
         ],
         "x": 1634,
-        "y": 149
+        "y": 149,
+        "w": 972,
+        "h": 592
     },
     {
         "id": "35440cdc.e5d764",
@@ -2098,7 +2136,9 @@
             "5bf3fb88.25b264"
         ],
         "x": 2614,
-        "y": 149
+        "y": 149,
+        "w": 932,
+        "h": 592
     },
     {
         "id": "888265d9.138288",
@@ -2151,7 +2191,9 @@
             "ea97a2e4.6a67d"
         ],
         "x": 3554,
-        "y": 149
+        "y": 149,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "54b245d3.9431dc",
@@ -2204,7 +2246,9 @@
             "b636759a.1af358"
         ],
         "x": 1634,
-        "y": 749
+        "y": 749,
+        "w": 1052,
+        "h": 592
     },
     {
         "id": "58747709.2ffd98",
@@ -2257,7 +2301,9 @@
             "86aeff9f.23163"
         ],
         "x": 2694,
-        "y": 749
+        "y": 749,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "4b571a8f.d70524",
@@ -2310,7 +2356,9 @@
             "3368017a.de213e"
         ],
         "x": 3794,
-        "y": 749
+        "y": 749,
+        "w": 1172,
+        "h": 592
     },
     {
         "id": "b7d3914a.2a17",
@@ -2363,7 +2411,9 @@
             "ada97752.874638"
         ],
         "x": 1634,
-        "y": 1349
+        "y": 1349,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "a3b836be.d5cde8",
@@ -2416,7 +2466,9 @@
             "739b4fcf.1c18"
         ],
         "x": 2734,
-        "y": 1349
+        "y": 1349,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "53806295.7831ac",
@@ -2469,7 +2521,9 @@
             "4fe0e535.f16e5c"
         ],
         "x": 3834,
-        "y": 1349
+        "y": 1349,
+        "w": 1072,
+        "h": 592
     },
     {
         "id": "dabbb1f4.9b65e",
@@ -2485,7 +2539,9 @@
             "a72a1eba.19d99"
         ],
         "x": 1634,
-        "y": 59
+        "y": 59,
+        "w": 132,
+        "h": 82
     },
     {
         "id": "96de1dd.d202ce",
@@ -2538,7 +2594,9 @@
             "5f1b7de2.8dd7c4"
         ],
         "x": 1634,
-        "y": 1949
+        "y": 1949,
+        "w": 972,
+        "h": 592
     },
     {
         "id": "d0981fa6.05ffc",
@@ -2591,7 +2649,9 @@
             "9481caa7.5d67e8"
         ],
         "x": 2615,
-        "y": 1959
+        "y": 1959,
+        "w": 941,
+        "h": 592
     },
     {
         "id": "4b9b7d58.136ec4",
@@ -2644,7 +2704,9 @@
             "c2a4f4bb.6e2aa8"
         ],
         "x": 3565,
-        "y": 1959
+        "y": 1959,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "d84615.919209e8",
@@ -2745,13 +2807,14 @@
             "a5c076e6.b3cdf8",
             "85366b43.f6bda8",
             "bc8762e.9b52fa",
-            "c8eb68ae.c19118",
             "b1cb2195.c8a37",
             "df086dcc.f3e5",
             "8f903bea.3e5c78"
         ],
         "x": 1304,
-        "y": 2509
+        "y": 2509,
+        "w": 1132,
+        "h": 402
     },
     {
         "id": "1a2c71e0.bd05fe",
@@ -2836,68 +2899,6 @@
         "h": 242
     },
     {
-        "id": "527fb039.aa59f",
-        "type": "group",
-        "z": "6c7d2db7.37ef34",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "b803e401.b39198",
-            "d41da57e.fda528",
-            "28b9d8d4.780938",
-            "8dd3e4dc.7b82c8",
-            "d2066f4.d47179",
-            "22b4769d.fa73aa",
-            "7fcd7f44.da50a",
-            "7e94d37b.d9ba6c",
-            "11a05a7f.1ef4b6",
-            "39b7d6d0.170dda",
-            "e7ce38e8.ddf7a8",
-            "30a1afd8.5fed9",
-            "b9e47311.f3082",
-            "5a4c3f91.66de5",
-            "1d2a31df.d8149e",
-            "93b8513a.2e011",
-            "2cd74731.e47058",
-            "e1b1ed5d.b46dc",
-            "366809a8.54ae36",
-            "de525e4.80448a",
-            "e848d5b7.89ed48",
-            "7eb9f31b.5d87ac",
-            "f149f03c.2778",
-            "d49a58a4.182318",
-            "898a9e08.eb30d",
-            "cb121d99.6b0c6",
-            "bdd292d2.61916",
-            "54f813eb.c136ec",
-            "560afdd6.770de4",
-            "9ecab94a.2f4f68",
-            "78debc56.b9b7b4",
-            "ee762eb7.aef99",
-            "ca5f96a1.874c58",
-            "f9984424.f2ea88",
-            "19f40c8c.08b2c3",
-            "888867d4.3eb148",
-            "4970f246.2964dc",
-            "18312819.54fd68",
-            "66c4a9b8.ae31f8",
-            "8b6335c4.c877f8",
-            "8cd9b627.3e1fe8",
-            "dd479ce7.53bf1",
-            "5530c155.8e88f",
-            "fd592d35.6763e"
-        ],
-        "x": 64,
-        "y": 2429
-    },
-    {
         "id": "9d081424.4d82d8",
         "type": "group",
         "z": "6c7d2db7.37ef34",
@@ -2961,7 +2962,9 @@
             "75c5342b.04f0ac"
         ],
         "x": 64,
-        "y": 1899
+        "y": 1899,
+        "w": 742,
+        "h": 522
     },
     {
         "id": "675af0d1.a9fc4",
@@ -3046,7 +3049,9 @@
             "20c7cde4.586f82"
         ],
         "x": 2744,
-        "y": 539
+        "y": 539,
+        "w": 1782,
+        "h": 232
     },
     {
         "id": "7f0ad68d.a88dc8",
@@ -3087,7 +3092,9 @@
             "2249a8a.5b30458"
         ],
         "x": 2744,
-        "y": 979
+        "y": 979,
+        "w": 1412,
+        "h": 492
     },
     {
         "id": "e2589faa.5b6d2",
@@ -3173,7 +3180,9 @@
             "9b21d21b.7ae4d"
         ],
         "x": 844,
-        "y": 89
+        "y": 89,
+        "w": 522,
+        "h": 632
     },
     {
         "id": "aa324282.4f554",
@@ -3201,7 +3210,9 @@
             "9556df44.42ebb"
         ],
         "x": 84,
-        "y": 299
+        "y": 299,
+        "w": 712,
+        "h": 222
     },
     {
         "id": "bf91bfd8.84eda",
@@ -3227,7 +3238,9 @@
             "30c80316.8016dc"
         ],
         "x": 84,
-        "y": 89
+        "y": 89,
+        "w": 712,
+        "h": 202
     },
     {
         "id": "f58295c0.4d4228",
@@ -3244,7 +3257,9 @@
             "3cf0ba38.d2e4f6"
         ],
         "x": 848,
-        "y": 733
+        "y": 733,
+        "w": 614,
+        "h": 424
     },
     {
         "id": "f7a3cb7b.69e4d8",
@@ -3343,7 +3358,9 @@
             "e149f7ce.895fb8"
         ],
         "x": 84,
-        "y": 529
+        "y": 529,
+        "w": 712,
+        "h": 1332
     },
     {
         "id": "11f55817.139c18",
@@ -3445,7 +3462,9 @@
             "5c3a9c15.3a4554"
         ],
         "x": 1338,
-        "y": 33
+        "y": 33,
+        "w": 1344,
+        "h": 1011.5
     },
     {
         "id": "23bbdddc.b8c5c2",
@@ -3464,7 +3483,9 @@
             "5d1065e2.7b952c"
         ],
         "x": 38,
-        "y": 33
+        "y": 33,
+        "w": 1284,
+        "h": 1574
     },
     {
         "id": "d22a2793.24a988",
@@ -3481,7 +3502,9 @@
             "1b19a252.cfe16e"
         ],
         "x": 38,
-        "y": 1663
+        "y": 1663,
+        "w": 1284,
+        "h": 574
     },
     {
         "id": "ac1f5c0.f7b06a",
@@ -4759,7 +4782,9 @@
             "2fb80d12.b93df2"
         ],
         "x": 1328,
-        "y": 1663
+        "y": 1663,
+        "w": 1284,
+        "h": 814
     },
     {
         "id": "ebc9a134.b2cde",
@@ -4793,7 +4818,9 @@
             "8b8bfe12.48faa"
         ],
         "x": 44,
-        "y": 3009
+        "y": 3009,
+        "w": 1002,
+        "h": 292
     },
     {
         "id": "ab7a4a2c.17d8a8",
@@ -4851,7 +4878,9 @@
             "97dbb46e.15a998"
         ],
         "x": 2744,
-        "y": 779
+        "y": 779,
+        "w": 982,
+        "h": 132
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -5031,7 +5060,9 @@
             "8b6bbe7b.4904"
         ],
         "x": 2744,
-        "y": 1479
+        "y": 1479,
+        "w": 552,
+        "h": 162
     },
     {
         "id": "3a6bee4b.22d342",
@@ -5057,7 +5088,9 @@
             "16b64fab.dbb22"
         ],
         "x": 2744,
-        "y": 1709
+        "y": 1709,
+        "w": 772,
+        "h": 182
     },
     {
         "id": "ebb7241e.548d68",
@@ -5084,7 +5117,9 @@
             "1a2660d3.c50b5f"
         ],
         "x": 2744,
-        "y": 1899
+        "y": 1899,
+        "w": 932,
+        "h": 322
     },
     {
         "id": "f059af07.db923",
@@ -5104,7 +5139,9 @@
             "3caf0b56.43a3b4"
         ],
         "x": 2744,
-        "y": 2229
+        "y": 2229,
+        "w": 602,
+        "h": 122
     },
     {
         "id": "beae8e2f.5f80b",
@@ -5127,7 +5164,9 @@
             "57cd5933.3df778"
         ],
         "x": 2744,
-        "y": 2359
+        "y": 2359,
+        "w": 1042,
+        "h": 162
     },
     {
         "id": "f6e30287.8d13d",
@@ -5157,7 +5196,9 @@
             "835bdb6b.664a58"
         ],
         "x": 3734,
-        "y": 779
+        "y": 779,
+        "w": 1252,
+        "h": 142
     },
     {
         "id": "f3b2b1b2.a0af2",
@@ -5635,7 +5676,9 @@
             "5805c268.31f02c"
         ],
         "x": 874,
-        "y": 759
+        "y": 759,
+        "w": 562,
+        "h": 242
     },
     {
         "id": "3cf0ba38.d2e4f6",
@@ -5653,7 +5696,9 @@
             "2f5679af.c10006"
         ],
         "x": 874,
-        "y": 1009
+        "y": 1009,
+        "w": 172,
+        "h": 122
     },
     {
         "id": "38ea9e35.6d66c2",
@@ -5690,7 +5735,9 @@
             "85f12e7a.2e726"
         ],
         "x": 1354,
-        "y": 1689
+        "y": 1689,
+        "w": 1232,
+        "h": 312
     },
     {
         "id": "c05026cc.2a6048",
@@ -5755,7 +5802,9 @@
             "2b33cbc0.5a4c64"
         ],
         "x": 64,
-        "y": 909
+        "y": 909,
+        "w": 1232,
+        "h": 482
     },
     {
         "id": "5c3a9c15.3a4554",
@@ -5814,7 +5863,9 @@
             "f280a028.0f854"
         ],
         "x": 1364,
-        "y": 479
+        "y": 479,
+        "w": 1292,
+        "h": 539.5
     },
     {
         "id": "62757ffc.dca08",
@@ -5867,7 +5918,9 @@
             "ba03cbde.df6f78"
         ],
         "x": 64,
-        "y": 59
+        "y": 59,
+        "w": 1232,
+        "h": 842
     },
     {
         "id": "2d061227.66d7ce",
@@ -5912,7 +5965,9 @@
             "ffda9256.dc79c"
         ],
         "x": 1364,
-        "y": 59
+        "y": 59,
+        "w": 1282,
+        "h": 412
     },
     {
         "id": "a80677cf.4274c8",
@@ -6005,7 +6060,9 @@
             "55d7f98f.7ca518"
         ],
         "x": 64,
-        "y": 1399
+        "y": 1399,
+        "w": 632,
+        "h": 182
     },
     {
         "id": "1b19a252.cfe16e",
@@ -6049,7 +6106,9 @@
             "7be459fd.6dc178"
         ],
         "x": 64,
-        "y": 1689
+        "y": 1689,
+        "w": 1232,
+        "h": 522
     },
     {
         "id": "be55ea76.ed4478",
@@ -6155,7 +6214,92 @@
             "9d6b8eeb.cad3c"
         ],
         "x": 1354,
-        "y": 2009
+        "y": 2009,
+        "w": 722,
+        "h": 442
+    },
+    {
+        "id": "b9b6bdec.0d911",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "name": "Sentido de giro remoto RTU",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "a25a5686.c1fbb8",
+            "8d178471.b37618",
+            "6fe68481.e69d5c"
+        ],
+        "x": 4194,
+        "y": 1809,
+        "w": 422,
+        "h": 122
+    },
+    {
+        "id": "527fb039.aa59f",
+        "type": "group",
+        "z": "6c7d2db7.37ef34",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "b803e401.b39198",
+            "d41da57e.fda528",
+            "28b9d8d4.780938",
+            "8dd3e4dc.7b82c8",
+            "d2066f4.d47179",
+            "22b4769d.fa73aa",
+            "7fcd7f44.da50a",
+            "7e94d37b.d9ba6c",
+            "11a05a7f.1ef4b6",
+            "39b7d6d0.170dda",
+            "e7ce38e8.ddf7a8",
+            "30a1afd8.5fed9",
+            "b9e47311.f3082",
+            "5a4c3f91.66de5",
+            "1d2a31df.d8149e",
+            "93b8513a.2e011",
+            "2cd74731.e47058",
+            "e1b1ed5d.b46dc",
+            "366809a8.54ae36",
+            "de525e4.80448a",
+            "e848d5b7.89ed48",
+            "7eb9f31b.5d87ac",
+            "f149f03c.2778",
+            "d49a58a4.182318",
+            "898a9e08.eb30d",
+            "cb121d99.6b0c6",
+            "bdd292d2.61916",
+            "54f813eb.c136ec",
+            "560afdd6.770de4",
+            "9ecab94a.2f4f68",
+            "78debc56.b9b7b4",
+            "ee762eb7.aef99",
+            "ca5f96a1.874c58",
+            "f9984424.f2ea88",
+            "19f40c8c.08b2c3",
+            "888867d4.3eb148",
+            "4970f246.2964dc",
+            "18312819.54fd68",
+            "66c4a9b8.ae31f8",
+            "8b6335c4.c877f8",
+            "8cd9b627.3e1fe8",
+            "dd479ce7.53bf1",
+            "5530c155.8e88f",
+            "fd592d35.6763e"
+        ],
+        "x": 64,
+        "y": 2429,
+        "w": 1442,
+        "h": 572
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -72553,7 +72697,7 @@
                 "p": "payload"
             }
         ],
-        "repeat": "1.5",
+        "repeat": "1.8",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
@@ -74841,123 +74985,6 @@
         "wires": []
     },
     {
-        "id": "d2066f4.d47179",
-        "type": "modbus-flex-write",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "PyModbusServer",
-        "showStatusActivities": false,
-        "showErrors": false,
-        "server": "3548b3b4.c8d65c",
-        "emptyMsgOnFail": false,
-        "keepMsgProperties": false,
-        "x": 1220,
-        "y": 2550,
-        "wires": [
-            [],
-            []
-        ]
-    },
-    {
-        "id": "4970f246.2964dc",
-        "type": "modbus-read",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "topic": "",
-        "showStatusActivities": false,
-        "logIOActivities": false,
-        "showErrors": false,
-        "unitid": "",
-        "dataType": "HoldingRegister",
-        "adr": "58",
-        "quantity": "8",
-        "rate": "1",
-        "rateUnit": "s",
-        "delayOnStart": false,
-        "startDelayTime": "",
-        "server": "3548b3b4.c8d65c",
-        "useIOFile": false,
-        "ioFile": "",
-        "useIOForPayload": false,
-        "emptyMsgOnFail": false,
-        "x": 270,
-        "y": 2820,
-        "wires": [
-            [
-                "fd592d35.6763e"
-            ],
-            []
-        ]
-    },
-    {
-        "id": "888867d4.3eb148",
-        "type": "switch",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "Remoto",
-        "property": "Local/Remoto",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "Remoto",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 550,
-        "y": 2820,
-        "wires": [
-            [
-                "19f40c8c.08b2c3"
-            ]
-        ]
-    },
-    {
-        "id": "8dd3e4dc.7b82c8",
-        "type": "function",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "Mapa Modbus Protecciones",
-        "func": "var Load_HH_Sp      = global.get('Protections.Load.HH.Setpoint')||0;\nvar Load_LL_Sp      = global.get('Protections.Load.LL.Setpoint')||0;\nvar PReference      = global.get('Prolonged_Reference.Time')||0;\nvar PIn_HH_Sp       = global.get('Protections.Intake.Pressure.HH.Setpoint')||0;\nvar PIn_LL_Sp       = global.get('Protections.Intake.Pressure.LL.Setpoint')||0;\nvar TIn_HH_Sp       = global.get('Protections.Intake.Temperature.HH.Setpoint')||0;\nvar TDis_HH_Sp      = global.get('Protections.Discharge.Temperature.HH.Setpoint')||0;\nvar Mtr_Temp_HH_Sp  = global.get('Protections.Motor.Temperature.HH.Setpoint')||0;\nvar Accel           = global.get('Speed_Control.Accel')||0;\nvar Deccel          = global.get('Speed_Control.Decel')||0;\n\nvar vector = [\n    Load_HH_Sp,     // 58\n    Load_LL_Sp,     // 59\n    PReference,     // 60\n    PIn_HH_Sp,      // 61\n    PIn_LL_Sp,      // 62\n    TIn_HH_Sp,      // 63\n    TDis_HH_Sp,     // 64\n    Mtr_Temp_HH_Sp, // 65\n    Accel,          // 66\n    Deccel          // 67\n]\n\nmsg.payload = { \n    value: vector, \n    'fc': 16, \n    'unitid': 1, \n    'address': 58, \n    'quantity': vector.length\n} \n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 970,
-        "y": 2550,
-        "wires": [
-            [
-                "d2066f4.d47179"
-            ]
-        ]
-    },
-    {
-        "id": "d41da57e.fda528",
-        "type": "complete",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "scope": [
-            "d54f3181.5d7ad",
-            "33575158.040bce",
-            "fa27ee3.dd7941",
-            "3cab3ca5.8a90e4",
-            "4d839d32.72a8f4"
-        ],
-        "uncaught": false,
-        "x": 640,
-        "y": 2590,
-        "wires": [
-            [
-                "8dd3e4dc.7b82c8"
-            ]
-        ]
-    },
-    {
         "id": "c973a8a2.547fd8",
         "type": "modbus-read",
         "z": "5f404c88.fa75a4",
@@ -75266,727 +75293,6 @@
         "wires": []
     },
     {
-        "id": "28b9d8d4.780938",
-        "type": "link in",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "links": [
-            "6d33fcb1.428484",
-            "998f0e93.941f1",
-            "ad87cee4.7dbb5"
-        ],
-        "x": 695,
-        "y": 2640,
-        "wires": [
-            [
-                "8dd3e4dc.7b82c8"
-            ]
-        ]
-    },
-    {
-        "id": "f9984424.f2ea88",
-        "type": "function",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "Modbus",
-        "func": "var modbus = [\n    MSG(msg.payload[0]),\n    MSG(msg.payload[1]),\n    MSG(msg.payload[2]),\n    MSG(msg.payload[3]),\n    MSG(msg.payload[4]),\n    MSG(msg.payload[5]),\n    MSG(msg.payload[6]),\n    MSG(msg.payload[7]),\n]\nreturn modbus;\n\nfunction MSG(X){\n    return {payload: X}\n}\n",
-        "outputs": 10,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 710,
-        "y": 2780,
-        "wires": [
-            [
-                "22b4769d.fa73aa"
-            ],
-            [
-                "7fcd7f44.da50a"
-            ],
-            [
-                "7e94d37b.d9ba6c"
-            ],
-            [
-                "11a05a7f.1ef4b6"
-            ],
-            [
-                "39b7d6d0.170dda"
-            ],
-            [
-                "e7ce38e8.ddf7a8"
-            ],
-            [
-                "30a1afd8.5fed9"
-            ],
-            [
-                "b9e47311.f3082"
-            ],
-            [
-                "5a4c3f91.66de5"
-            ],
-            [
-                "1d2a31df.d8149e"
-            ]
-        ],
-        "outputLabels": [
-            "Load HH Setpoint",
-            "Load LL Setpoint",
-            "P. Ref. Reference",
-            "Intake Pressure HH Setpoint",
-            "Intake Pressure LL Setpoint",
-            "Intake Temp HH Setpoint",
-            "Discharge Temp HH Setpoint",
-            "Mtr. Temp HH Setpoint",
-            null,
-            null
-        ]
-    },
-    {
-        "id": "22b4769d.fa73aa",
-        "type": "switch",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "SpDiff",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "neq",
-                "v": "Protections.Load.HH.Setpoint",
-                "vt": "global"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 920,
-        "y": 2600,
-        "wires": [
-            [
-                "898a9e08.eb30d"
-            ]
-        ]
-    },
-    {
-        "id": "7fcd7f44.da50a",
-        "type": "switch",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "SpDiff",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "neq",
-                "v": "Protections.Load.LL.Setpoint",
-                "vt": "global"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 920,
-        "y": 2640,
-        "wires": [
-            [
-                "d49a58a4.182318"
-            ]
-        ]
-    },
-    {
-        "id": "7e94d37b.d9ba6c",
-        "type": "switch",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "SpDiff",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "neq",
-                "v": "Prolonged_Reference.Time",
-                "vt": "global"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 920,
-        "y": 2680,
-        "wires": [
-            [
-                "f149f03c.2778"
-            ]
-        ]
-    },
-    {
-        "id": "11a05a7f.1ef4b6",
-        "type": "switch",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "SpDiff",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "neq",
-                "v": "Protections.Intake.Pressure.HH.Setpoint",
-                "vt": "global"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 920,
-        "y": 2720,
-        "wires": [
-            [
-                "7eb9f31b.5d87ac"
-            ]
-        ]
-    },
-    {
-        "id": "39b7d6d0.170dda",
-        "type": "switch",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "SpDiff",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "neq",
-                "v": "Protections.Intake.Pressure.LL.Setpoint",
-                "vt": "global"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 920,
-        "y": 2760,
-        "wires": [
-            [
-                "e848d5b7.89ed48"
-            ]
-        ]
-    },
-    {
-        "id": "e7ce38e8.ddf7a8",
-        "type": "switch",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "SpDiff",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "neq",
-                "v": "Protections.Intake.Temperature.HH.Setpoint",
-                "vt": "global"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 920,
-        "y": 2800,
-        "wires": [
-            [
-                "de525e4.80448a"
-            ]
-        ]
-    },
-    {
-        "id": "30a1afd8.5fed9",
-        "type": "switch",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "SpDiff",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "neq",
-                "v": "Protections.Discharge.Temperature.HH.Setpoint",
-                "vt": "global"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 920,
-        "y": 2840,
-        "wires": [
-            [
-                "366809a8.54ae36"
-            ]
-        ]
-    },
-    {
-        "id": "b9e47311.f3082",
-        "type": "switch",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "SpDiff",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "neq",
-                "v": "Protections.Motor.Temperature.HH.Setpoint",
-                "vt": "global"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 920,
-        "y": 2880,
-        "wires": [
-            [
-                "e1b1ed5d.b46dc"
-            ]
-        ]
-    },
-    {
-        "id": "898a9e08.eb30d",
-        "type": "change",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Protections.Load.HH.Setpoint",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1150,
-        "y": 2600,
-        "wires": [
-            [
-                "cb121d99.6b0c6"
-            ]
-        ]
-    },
-    {
-        "id": "d49a58a4.182318",
-        "type": "change",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Protections.Load.LL.Setpoint",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1150,
-        "y": 2640,
-        "wires": [
-            [
-                "cb121d99.6b0c6"
-            ]
-        ]
-    },
-    {
-        "id": "f149f03c.2778",
-        "type": "change",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Prolonged_Reference.Time",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1140,
-        "y": 2680,
-        "wires": [
-            [
-                "bdd292d2.61916"
-            ]
-        ]
-    },
-    {
-        "id": "7eb9f31b.5d87ac",
-        "type": "change",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Protections.Intake.Pressure.HH.Setpoint",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1180,
-        "y": 2720,
-        "wires": [
-            [
-                "54f813eb.c136ec"
-            ]
-        ]
-    },
-    {
-        "id": "e848d5b7.89ed48",
-        "type": "change",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Protections.Intake.Pressure.LL.Setpoint",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1180,
-        "y": 2760,
-        "wires": [
-            [
-                "54f813eb.c136ec"
-            ]
-        ]
-    },
-    {
-        "id": "de525e4.80448a",
-        "type": "change",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Protections.Intake.Temperature.HH.Setpoint",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1190,
-        "y": 2800,
-        "wires": [
-            [
-                "560afdd6.770de4"
-            ]
-        ]
-    },
-    {
-        "id": "366809a8.54ae36",
-        "type": "change",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Protections.Discharge.Temperature.HH.Setpoint",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1210,
-        "y": 2840,
-        "wires": [
-            [
-                "9ecab94a.2f4f68"
-            ]
-        ]
-    },
-    {
-        "id": "e1b1ed5d.b46dc",
-        "type": "change",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Protections.Motor.Temperature.HH.Setpoint",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1190,
-        "y": 2880,
-        "wires": [
-            [
-                "78debc56.b9b7b4"
-            ]
-        ]
-    },
-    {
-        "id": "cb121d99.6b0c6",
-        "type": "link out",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "links": [
-            "3e39b5ec.dda60a"
-        ],
-        "x": 1465,
-        "y": 2640,
-        "wires": []
-    },
-    {
-        "id": "bdd292d2.61916",
-        "type": "link out",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "links": [
-            "d0a19b38.893ab8"
-        ],
-        "x": 1465,
-        "y": 2680,
-        "wires": []
-    },
-    {
-        "id": "54f813eb.c136ec",
-        "type": "link out",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "links": [
-            "f1b01bce.f6aca8"
-        ],
-        "x": 1465,
-        "y": 2720,
-        "wires": []
-    },
-    {
-        "id": "560afdd6.770de4",
-        "type": "link out",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "links": [
-            "28fd8b2e.2b37e4"
-        ],
-        "x": 1465,
-        "y": 2800,
-        "wires": []
-    },
-    {
-        "id": "9ecab94a.2f4f68",
-        "type": "link out",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "links": [
-            "49ed0754.2b0538"
-        ],
-        "x": 1465,
-        "y": 2840,
-        "wires": []
-    },
-    {
-        "id": "78debc56.b9b7b4",
-        "type": "link out",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "links": [
-            "e44c2e4e.679a2"
-        ],
-        "x": 1465,
-        "y": 2880,
-        "wires": []
-    },
-    {
-        "id": "5a4c3f91.66de5",
-        "type": "switch",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "SpDiff",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "neq",
-                "v": "Speed_Control.Accel",
-                "vt": "global"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 920,
-        "y": 2920,
-        "wires": [
-            [
-                "2cd74731.e47058"
-            ]
-        ]
-    },
-    {
-        "id": "1d2a31df.d8149e",
-        "type": "switch",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "SpDiff",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "neq",
-                "v": "Speed_Control.Decel",
-                "vt": "global"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 920,
-        "y": 2960,
-        "wires": [
-            [
-                "93b8513a.2e011"
-            ]
-        ]
-    },
-    {
-        "id": "2cd74731.e47058",
-        "type": "change",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Speed_Control.Accel",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1120,
-        "y": 2920,
-        "wires": [
-            [
-                "ee762eb7.aef99"
-            ]
-        ]
-    },
-    {
-        "id": "93b8513a.2e011",
-        "type": "change",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Speed_Control.Decel",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1120,
-        "y": 2960,
-        "wires": [
-            [
-                "ca5f96a1.874c58"
-            ]
-        ]
-    },
-    {
-        "id": "ee762eb7.aef99",
-        "type": "link out",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "links": [
-            "2d0c4fa4.505a8"
-        ],
-        "x": 1465,
-        "y": 2920,
-        "wires": []
-    },
-    {
-        "id": "ca5f96a1.874c58",
-        "type": "link out",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "links": [
-            "251a85e5.2591ca"
-        ],
-        "x": 1465,
-        "y": 2960,
-        "wires": []
-    },
-    {
         "id": "998f0e93.941f1",
         "type": "link out",
         "z": "43b51d90.0b47f4",
@@ -75998,52 +75304,6 @@
         "x": 1955,
         "y": 220,
         "wires": []
-    },
-    {
-        "id": "b803e401.b39198",
-        "type": "inject",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 660,
-        "y": 2550,
-        "wires": [
-            [
-                "8dd3e4dc.7b82c8",
-                "18312819.54fd68"
-            ]
-        ]
-    },
-    {
-        "id": "19f40c8c.08b2c3",
-        "type": "function",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "Retardo Lectura Mapa Modbus",
-        "func": "var Counter = context.get(\"count\",\"memoryOnly\")||0;\nif(Counter <= 5){\n    Counter += 1;\n    context.set(\"count\",Counter,\"memoryOnly\");\n    return;\n}\nelse{\n    return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 480,
-        "y": 2780,
-        "wires": [
-            [
-                "f9984424.f2ea88"
-            ]
-        ]
     },
     {
         "id": "2a1f1c0d.25ca44",
@@ -77763,68 +77023,6 @@
         ]
     },
     {
-        "id": "18312819.54fd68",
-        "type": "function",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "Estado Protecciones MBS",
-        "func": "var Voltage         = global.get(\"Protections.Voltage.Status\",'memoryOnly')||0;\nvar Current         = global.get(\"Protections.Current.Status\",'memoryOnly')||0;\nvar Vibration       = global.get(\"Protections.Vibration.Status\",'memoryOnly')||0;\nvar InPressure      = global.get(\"Protections.Intake.Pressure.Status\",'memoryOnly')||0;\nvar InTemperaure    = global.get(\"Protections.Intake.Temperature.Status\",'memoryOnly')||0;\nvar DisPressure     = global.get(\"Protections.Discharge.Pressure.Status\",'memoryOnly')||0;\nvar DisTemperature  = global.get(\"Protections.Discharge.Temperature.Status\",'memoryOnly')||0;\nvar MtrTemp         = global.get(\"Protections.Motor.Temperature.Status\",'memoryOnly')||0;\nvar Tubing          = global.get(\"Protections.Tubing.Status\",'memoryOnly')||0;\nvar Casing          = global.get(\"Protections.Casing.Status\",'memoryOnly')||0;\n\nvar vector = [\n    Voltage,        // 68\n    Current,        // 69\n    Vibration,      // 70\n    InPressure,     // 71\n    InTemperaure,   // 72\n    DisPressure,    // 73\n    DisTemperature, // 74\n    MtrTemp,        // 75\n    Tubing,         // 76\n    Casing          // 77\n]\n\nmsg.payload = { \n    value: vector, \n    'fc': 16, \n    'unitid': 1, \n    'address': 68, \n    'quantity': vector.length\n} \nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 970,
-        "y": 2510,
-        "wires": [
-            [
-                "d2066f4.d47179"
-            ]
-        ]
-    },
-    {
-        "id": "66c4a9b8.ae31f8",
-        "type": "link in",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "links": [
-            "ad87cee4.7dbb5"
-        ],
-        "x": 695,
-        "y": 2470,
-        "wires": [
-            [
-                "18312819.54fd68"
-            ]
-        ]
-    },
-    {
-        "id": "8b6335c4.c877f8",
-        "type": "inject",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "1",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 660,
-        "y": 2510,
-        "wires": [
-            [
-                "18312819.54fd68"
-            ]
-        ]
-    },
-    {
         "id": "f78d5a67.c13168",
         "type": "delay",
         "z": "e86f0ca4.7feb5",
@@ -77844,8 +77042,8 @@
         "y": 2790,
         "wires": [
             [
-                "a5c076e6.b3cdf8",
-                "85366b43.f6bda8"
+                "85366b43.f6bda8",
+                "b1cb2195.c8a37"
             ]
         ]
     },
@@ -77858,7 +77056,7 @@
         "links": [
             "dd479ce7.53bf1"
         ],
-        "x": 1665,
+        "x": 1925,
         "y": 2790,
         "wires": []
     },
@@ -77883,7 +77081,7 @@
         "wires": [
             [
                 "bc8762e.9b52fa",
-                "c8eb68ae.c19118"
+                "df086dcc.f3e5"
             ]
         ]
     },
@@ -77907,46 +77105,21 @@
         ]
     },
     {
-        "id": "c8eb68ae.c19118",
-        "type": "delay",
-        "z": "e86f0ca4.7feb5",
-        "g": "3d68b202.2bc67e",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "150",
-        "timeoutUnits": "milliseconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "x": 1540,
-        "y": 2870,
-        "wires": [
-            [
-                "b1cb2195.c8a37",
-                "df086dcc.f3e5"
-            ]
-        ]
-    },
-    {
         "id": "b1cb2195.c8a37",
         "type": "function",
         "z": "e86f0ca4.7feb5",
         "g": "3d68b202.2bc67e",
         "name": "Mapa Modbus Protecciones",
-        "func": "var Load_HH_Sp      = global.get('Protections.Load.HH.Setpoint')||0;\nvar Load_LL_Sp      = global.get('Protections.Load.LL.Setpoint')||0;\nvar PReference      = global.get('Prolonged_Reference.Time')||0;\nvar PIn_HH_Sp       = global.get('Protections.Intake.Pressure.HH.Setpoint')||0;\nvar PIn_LL_Sp       = global.get('Protections.Intake.Pressure.LL.Setpoint')||0;\nvar TIn_HH_Sp       = global.get('Protections.Intake.Temperature.HH.Setpoint')||0;\nvar TDis_HH_Sp      = global.get('Protections.Discharge.Temperature.HH.Setpoint')||0;\nvar Mtr_Temp_HH_Sp  = global.get('Protections.Motor.Temperature.HH.Setpoint')||0;\nvar Accel           = global.get('Speed_Control.Accel')||0;\nvar Deccel          = global.get('Speed_Control.Decel')||0;\n\nvar vector = [\n    Load_HH_Sp,     // 58\n    Load_LL_Sp,     // 59\n    PReference,     // 60\n    PIn_HH_Sp,      // 61\n    PIn_LL_Sp,      // 62\n    TIn_HH_Sp,      // 63\n    TDis_HH_Sp,     // 64\n    Mtr_Temp_HH_Sp, // 65\n    Accel,          // 66\n    Deccel          // 67\n]\n\nmsg.payload = { \n    value: vector, \n    'fc': 16, \n    'unitid': 1, \n    'address': 28672+20+58,\n    'quantity': vector.length\n} \n\nreturn msg;",
+        "func": "var Load_HH_Sp      = global.get('Protections.Load.HH.Setpoint')||0;\nvar Load_LL_Sp      = global.get('Protections.Load.LL.Setpoint')||0;\nvar PReference      = global.get('Prolonged_Reference.Time')||0;\nvar PIn_HH_Sp       = global.get('Protections.Intake.Pressure.HH.Setpoint')||0;\nvar PIn_LL_Sp       = global.get('Protections.Intake.Pressure.LL.Setpoint')||0;\nvar TIn_HH_Sp       = global.get('Protections.Intake.Temperature.HH.Setpoint')||0;\nvar TDis_HH_Sp      = global.get('Protections.Discharge.Temperature.HH.Setpoint')||0;\nvar Mtr_Temp_HH_Sp  = global.get('Protections.Motor.Temperature.HH.Setpoint')||0;\nvar Accel           = global.get('Speed_Control.Accel')||0;\nvar Deccel          = global.get('Speed_Control.Decel')||0;\n\nvar vector = [\n    Load_HH_Sp,     // 58\n    Load_LL_Sp,     // 59\n    PReference,     // 60\n    PIn_HH_Sp,      // 61\n    PIn_LL_Sp,      // 62\n    TIn_HH_Sp,      // 63\n    TDis_HH_Sp,     // 64\n    Mtr_Temp_HH_Sp, // 65\n    Accel,          // 66\n    Deccel          // 67\n]\n\nmsg.payload = { \n    value: vector, \n    'fc': 3, \n    'unitid': 1, \n    'address': 28672+20+58,\n    'quantity': vector.length\n} \n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "x": 1770,
-        "y": 2870,
+        "y": 2790,
         "wires": [
             [
-                "7902854d.6ff0fc"
+                "a5c076e6.b3cdf8"
             ]
         ]
     },
@@ -77973,99 +77146,6 @@
         "wires": [
             [
                 "776db11c.07117"
-            ]
-        ]
-    },
-    {
-        "id": "8cd9b627.3e1fe8",
-        "type": "modbus-flex-getter",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "showStatusActivities": false,
-        "showErrors": false,
-        "logIOActivities": false,
-        "server": "f630cb55.8d18e8",
-        "useIOFile": false,
-        "ioFile": "",
-        "useIOForPayload": false,
-        "emptyMsgOnFail": false,
-        "keepMsgProperties": false,
-        "x": 240,
-        "y": 2870,
-        "wires": [
-            [
-                "5530c155.8e88f"
-            ],
-            []
-        ]
-    },
-    {
-        "id": "dd479ce7.53bf1",
-        "type": "link in",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "",
-        "links": [
-            "a5c076e6.b3cdf8"
-        ],
-        "x": 105,
-        "y": 2870,
-        "wires": [
-            [
-                "8cd9b627.3e1fe8"
-            ]
-        ]
-    },
-    {
-        "id": "5530c155.8e88f",
-        "type": "switch",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "RTU",
-        "property": "SCADA.Type",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "RTU",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 410,
-        "y": 2870,
-        "wires": [
-            [
-                "888867d4.3eb148"
-            ]
-        ]
-    },
-    {
-        "id": "fd592d35.6763e",
-        "type": "switch",
-        "z": "6c7d2db7.37ef34",
-        "g": "527fb039.aa59f",
-        "name": "TCP",
-        "property": "SCADA.Type",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "TCP",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 410,
-        "y": 2820,
-        "wires": [
-            [
-                "888867d4.3eb148"
             ]
         ]
     },
@@ -78185,7 +77265,7 @@
         "randomUnits": "seconds",
         "drop": false,
         "x": 1540,
-        "y": 2910,
+        "y": 2870,
         "wires": [
             [
                 "8f903bea.3e5c78"
@@ -78202,7 +77282,7 @@
             "367aaa61.59c686"
         ],
         "x": 1665,
-        "y": 2910,
+        "y": 2870,
         "wires": []
     },
     {
@@ -78271,6 +77351,1234 @@
         "wires": [
             [
                 "a941419b.07d0b"
+            ]
+        ]
+    },
+    {
+        "id": "a25a5686.c1fbb8",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "b9b6bdec.0d911",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "0",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1850,
+        "wires": [
+            [
+                "6fe68481.e69d5c"
+            ]
+        ]
+    },
+    {
+        "id": "8d178471.b37618",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "g": "b9b6bdec.0d911",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "1",
+        "payloadType": "num",
+        "x": 4290,
+        "y": 1890,
+        "wires": [
+            [
+                "6fe68481.e69d5c"
+            ]
+        ]
+    },
+    {
+        "id": "6fe68481.e69d5c",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "b9b6bdec.0d911",
+        "name": "Sentido de giro remoto",
+        "func": "msg.payload = { \n    value: msg.payload, \n    'fc': 6, \n    'unitid': 1, \n    'address': 28672+20+57, \n    'quantity':1   \n}\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload.address});\nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 4480,
+        "y": 1870,
+        "wires": [
+            [
+                "7f604934.3e3958"
+            ]
+        ]
+    },
+    {
+        "id": "e4748b80.aba188",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "name": "Protections.Load.HH.Setpoint",
+        "func": "\nmsg.payload = { \n    value: msg.payload, \n    'fc': 6, \n    'unitid': 1, \n    'address': 28672+20+58, \n    'quantity':1   \n}\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload.address});\nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 4500,
+        "y": 2020,
+        "wires": [
+            [
+                "7f604934.3e3958"
+            ]
+        ]
+    },
+    {
+        "id": "ba8d7a29.e44068",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "375",
+        "payloadType": "num",
+        "x": 4280,
+        "y": 2080,
+        "wires": [
+            [
+                "e4748b80.aba188"
+            ]
+        ]
+    },
+    {
+        "id": "acde7ff6.51e5b",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "200",
+        "payloadType": "num",
+        "x": 4280,
+        "y": 2040,
+        "wires": [
+            [
+                "e4748b80.aba188"
+            ]
+        ]
+    },
+    {
+        "id": "29c3427.185e8be",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "150",
+        "payloadType": "num",
+        "x": 4280,
+        "y": 2000,
+        "wires": [
+            [
+                "e4748b80.aba188"
+            ]
+        ]
+    },
+    {
+        "id": "54bd02d9.5107ac",
+        "type": "inject",
+        "z": "e86f0ca4.7feb5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "100",
+        "payloadType": "num",
+        "x": 4280,
+        "y": 1960,
+        "wires": [
+            [
+                "e4748b80.aba188"
+            ]
+        ]
+    },
+    {
+        "id": "b803e401.b39198",
+        "type": "inject",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 660,
+        "y": 2550,
+        "wires": [
+            [
+                "8dd3e4dc.7b82c8",
+                "18312819.54fd68"
+            ]
+        ]
+    },
+    {
+        "id": "d41da57e.fda528",
+        "type": "complete",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "scope": [
+            "d54f3181.5d7ad",
+            "33575158.040bce",
+            "fa27ee3.dd7941",
+            "3cab3ca5.8a90e4",
+            "4d839d32.72a8f4"
+        ],
+        "uncaught": false,
+        "x": 640,
+        "y": 2590,
+        "wires": [
+            [
+                "8dd3e4dc.7b82c8"
+            ]
+        ]
+    },
+    {
+        "id": "28b9d8d4.780938",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "links": [
+            "6d33fcb1.428484",
+            "998f0e93.941f1",
+            "ad87cee4.7dbb5"
+        ],
+        "x": 695,
+        "y": 2640,
+        "wires": [
+            [
+                "8dd3e4dc.7b82c8"
+            ]
+        ]
+    },
+    {
+        "id": "8dd3e4dc.7b82c8",
+        "type": "function",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "Mapa Modbus Protecciones",
+        "func": "var Load_HH_Sp      = global.get('Protections.Load.HH.Setpoint')||0;\nvar Load_LL_Sp      = global.get('Protections.Load.LL.Setpoint')||0;\nvar PReference      = global.get('Prolonged_Reference.Time')||0;\nvar PIn_HH_Sp       = global.get('Protections.Intake.Pressure.HH.Setpoint')||0;\nvar PIn_LL_Sp       = global.get('Protections.Intake.Pressure.LL.Setpoint')||0;\nvar TIn_HH_Sp       = global.get('Protections.Intake.Temperature.HH.Setpoint')||0;\nvar TDis_HH_Sp      = global.get('Protections.Discharge.Temperature.HH.Setpoint')||0;\nvar Mtr_Temp_HH_Sp  = global.get('Protections.Motor.Temperature.HH.Setpoint')||0;\nvar Accel           = global.get('Speed_Control.Accel')||0;\nvar Deccel          = global.get('Speed_Control.Decel')||0;\n\nvar vector = [\n    Load_HH_Sp,     // 58\n    Load_LL_Sp,     // 59\n    PReference,     // 60\n    PIn_HH_Sp,      // 61\n    PIn_LL_Sp,      // 62\n    TIn_HH_Sp,      // 63\n    TDis_HH_Sp,     // 64\n    Mtr_Temp_HH_Sp, // 65\n    Accel,          // 66\n    Deccel          // 67\n]\n\nmsg.payload = { \n    value: vector, \n    'fc': 16, \n    'unitid': 1, \n    'address': 58, \n    'quantity': vector.length\n} \n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 970,
+        "y": 2550,
+        "wires": [
+            [
+                "d2066f4.d47179"
+            ]
+        ]
+    },
+    {
+        "id": "d2066f4.d47179",
+        "type": "modbus-flex-write",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "PyModbusServer",
+        "showStatusActivities": false,
+        "showErrors": false,
+        "server": "3548b3b4.c8d65c",
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 1220,
+        "y": 2550,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "22b4769d.fa73aa",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Protections.Load.HH.Setpoint",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 920,
+        "y": 2600,
+        "wires": [
+            [
+                "898a9e08.eb30d"
+            ]
+        ]
+    },
+    {
+        "id": "7fcd7f44.da50a",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Protections.Load.LL.Setpoint",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 920,
+        "y": 2640,
+        "wires": [
+            [
+                "d49a58a4.182318"
+            ]
+        ]
+    },
+    {
+        "id": "7e94d37b.d9ba6c",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Prolonged_Reference.Time",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 920,
+        "y": 2680,
+        "wires": [
+            [
+                "f149f03c.2778"
+            ]
+        ]
+    },
+    {
+        "id": "11a05a7f.1ef4b6",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Protections.Intake.Pressure.HH.Setpoint",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 920,
+        "y": 2720,
+        "wires": [
+            [
+                "7eb9f31b.5d87ac"
+            ]
+        ]
+    },
+    {
+        "id": "39b7d6d0.170dda",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Protections.Intake.Pressure.LL.Setpoint",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 920,
+        "y": 2760,
+        "wires": [
+            [
+                "e848d5b7.89ed48"
+            ]
+        ]
+    },
+    {
+        "id": "e7ce38e8.ddf7a8",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Protections.Intake.Temperature.HH.Setpoint",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 920,
+        "y": 2800,
+        "wires": [
+            [
+                "de525e4.80448a"
+            ]
+        ]
+    },
+    {
+        "id": "30a1afd8.5fed9",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Protections.Discharge.Temperature.HH.Setpoint",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 920,
+        "y": 2840,
+        "wires": [
+            [
+                "366809a8.54ae36"
+            ]
+        ]
+    },
+    {
+        "id": "b9e47311.f3082",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Protections.Motor.Temperature.HH.Setpoint",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 920,
+        "y": 2880,
+        "wires": [
+            [
+                "e1b1ed5d.b46dc"
+            ]
+        ]
+    },
+    {
+        "id": "5a4c3f91.66de5",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Speed_Control.Accel",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 920,
+        "y": 2920,
+        "wires": [
+            [
+                "2cd74731.e47058"
+            ]
+        ]
+    },
+    {
+        "id": "1d2a31df.d8149e",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "SpDiff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "Speed_Control.Decel",
+                "vt": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 920,
+        "y": 2960,
+        "wires": [
+            [
+                "93b8513a.2e011"
+            ]
+        ]
+    },
+    {
+        "id": "93b8513a.2e011",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Speed_Control.Decel",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1120,
+        "y": 2960,
+        "wires": [
+            [
+                "ca5f96a1.874c58"
+            ]
+        ]
+    },
+    {
+        "id": "2cd74731.e47058",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Speed_Control.Accel",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1120,
+        "y": 2920,
+        "wires": [
+            [
+                "ee762eb7.aef99"
+            ]
+        ]
+    },
+    {
+        "id": "e1b1ed5d.b46dc",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Protections.Motor.Temperature.HH.Setpoint",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1190,
+        "y": 2880,
+        "wires": [
+            [
+                "78debc56.b9b7b4"
+            ]
+        ]
+    },
+    {
+        "id": "366809a8.54ae36",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Protections.Discharge.Temperature.HH.Setpoint",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1210,
+        "y": 2840,
+        "wires": [
+            [
+                "9ecab94a.2f4f68"
+            ]
+        ]
+    },
+    {
+        "id": "de525e4.80448a",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Protections.Intake.Temperature.HH.Setpoint",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1190,
+        "y": 2800,
+        "wires": [
+            [
+                "560afdd6.770de4"
+            ]
+        ]
+    },
+    {
+        "id": "e848d5b7.89ed48",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Protections.Intake.Pressure.LL.Setpoint",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1180,
+        "y": 2760,
+        "wires": [
+            [
+                "54f813eb.c136ec"
+            ]
+        ]
+    },
+    {
+        "id": "7eb9f31b.5d87ac",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Protections.Intake.Pressure.HH.Setpoint",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1180,
+        "y": 2720,
+        "wires": [
+            [
+                "54f813eb.c136ec"
+            ]
+        ]
+    },
+    {
+        "id": "f149f03c.2778",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Prolonged_Reference.Time",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1140,
+        "y": 2680,
+        "wires": [
+            [
+                "bdd292d2.61916"
+            ]
+        ]
+    },
+    {
+        "id": "d49a58a4.182318",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Protections.Load.LL.Setpoint",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1150,
+        "y": 2640,
+        "wires": [
+            [
+                "cb121d99.6b0c6"
+            ]
+        ]
+    },
+    {
+        "id": "898a9e08.eb30d",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Protections.Load.HH.Setpoint",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1150,
+        "y": 2600,
+        "wires": [
+            [
+                "cb121d99.6b0c6"
+            ]
+        ]
+    },
+    {
+        "id": "cb121d99.6b0c6",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "links": [
+            "3e39b5ec.dda60a"
+        ],
+        "x": 1465,
+        "y": 2640,
+        "wires": []
+    },
+    {
+        "id": "bdd292d2.61916",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "links": [
+            "d0a19b38.893ab8"
+        ],
+        "x": 1465,
+        "y": 2680,
+        "wires": []
+    },
+    {
+        "id": "54f813eb.c136ec",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "links": [
+            "f1b01bce.f6aca8"
+        ],
+        "x": 1465,
+        "y": 2720,
+        "wires": []
+    },
+    {
+        "id": "560afdd6.770de4",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "links": [
+            "28fd8b2e.2b37e4"
+        ],
+        "x": 1465,
+        "y": 2800,
+        "wires": []
+    },
+    {
+        "id": "9ecab94a.2f4f68",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "links": [
+            "49ed0754.2b0538"
+        ],
+        "x": 1465,
+        "y": 2840,
+        "wires": []
+    },
+    {
+        "id": "78debc56.b9b7b4",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "links": [
+            "e44c2e4e.679a2"
+        ],
+        "x": 1465,
+        "y": 2880,
+        "wires": []
+    },
+    {
+        "id": "ee762eb7.aef99",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "links": [
+            "2d0c4fa4.505a8"
+        ],
+        "x": 1465,
+        "y": 2920,
+        "wires": []
+    },
+    {
+        "id": "ca5f96a1.874c58",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "links": [
+            "251a85e5.2591ca"
+        ],
+        "x": 1465,
+        "y": 2960,
+        "wires": []
+    },
+    {
+        "id": "f9984424.f2ea88",
+        "type": "function",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "Modbus",
+        "func": "var modbus = [\n    MSG(msg.payload[0]),\n    MSG(msg.payload[1]),\n    MSG(msg.payload[2]),\n    MSG(msg.payload[3]),\n    MSG(msg.payload[4]),\n    MSG(msg.payload[5]),\n    MSG(msg.payload[6]),\n    MSG(msg.payload[7]),\n]\nreturn modbus;\n\nfunction MSG(X){\n    return {payload: X}\n}\n",
+        "outputs": 10,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 710,
+        "y": 2780,
+        "wires": [
+            [
+                "22b4769d.fa73aa"
+            ],
+            [
+                "7fcd7f44.da50a"
+            ],
+            [
+                "7e94d37b.d9ba6c"
+            ],
+            [
+                "11a05a7f.1ef4b6"
+            ],
+            [
+                "39b7d6d0.170dda"
+            ],
+            [
+                "e7ce38e8.ddf7a8"
+            ],
+            [
+                "30a1afd8.5fed9"
+            ],
+            [
+                "b9e47311.f3082"
+            ],
+            [
+                "5a4c3f91.66de5"
+            ],
+            [
+                "1d2a31df.d8149e"
+            ]
+        ],
+        "outputLabels": [
+            "Load HH Setpoint",
+            "Load LL Setpoint",
+            "P. Ref. Reference",
+            "Intake Pressure HH Setpoint",
+            "Intake Pressure LL Setpoint",
+            "Intake Temp HH Setpoint",
+            "Discharge Temp HH Setpoint",
+            "Mtr. Temp HH Setpoint",
+            null,
+            null
+        ]
+    },
+    {
+        "id": "19f40c8c.08b2c3",
+        "type": "function",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "Retardo Lectura Mapa Modbus",
+        "func": "var Counter = context.get(\"count\",\"memoryOnly\")||0;\nif(Counter <= 5){\n    Counter += 1;\n    context.set(\"count\",Counter,\"memoryOnly\");\n    return;\n}\nelse{\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 480,
+        "y": 2780,
+        "wires": [
+            [
+                "f9984424.f2ea88"
+            ]
+        ]
+    },
+    {
+        "id": "888867d4.3eb148",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "Remoto",
+        "property": "Local/Remoto",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Remoto",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 550,
+        "y": 2820,
+        "wires": [
+            [
+                "19f40c8c.08b2c3"
+            ]
+        ]
+    },
+    {
+        "id": "4970f246.2964dc",
+        "type": "modbus-read",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "topic": "",
+        "showStatusActivities": false,
+        "logIOActivities": false,
+        "showErrors": false,
+        "unitid": "",
+        "dataType": "HoldingRegister",
+        "adr": "58",
+        "quantity": "8",
+        "rate": "1",
+        "rateUnit": "s",
+        "delayOnStart": false,
+        "startDelayTime": "",
+        "server": "3548b3b4.c8d65c",
+        "useIOFile": false,
+        "ioFile": "",
+        "useIOForPayload": false,
+        "emptyMsgOnFail": false,
+        "x": 270,
+        "y": 2820,
+        "wires": [
+            [
+                "fd592d35.6763e"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "18312819.54fd68",
+        "type": "function",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "Estado Protecciones MBS",
+        "func": "var Voltage         = global.get(\"Protections.Voltage.Status\",'memoryOnly')||0;\nvar Current         = global.get(\"Protections.Current.Status\",'memoryOnly')||0;\nvar Vibration       = global.get(\"Protections.Vibration.Status\",'memoryOnly')||0;\nvar InPressure      = global.get(\"Protections.Intake.Pressure.Status\",'memoryOnly')||0;\nvar InTemperaure    = global.get(\"Protections.Intake.Temperature.Status\",'memoryOnly')||0;\nvar DisPressure     = global.get(\"Protections.Discharge.Pressure.Status\",'memoryOnly')||0;\nvar DisTemperature  = global.get(\"Protections.Discharge.Temperature.Status\",'memoryOnly')||0;\nvar MtrTemp         = global.get(\"Protections.Motor.Temperature.Status\",'memoryOnly')||0;\nvar Tubing          = global.get(\"Protections.Tubing.Status\",'memoryOnly')||0;\nvar Casing          = global.get(\"Protections.Casing.Status\",'memoryOnly')||0;\n\nvar vector = [\n    Voltage,        // 68\n    Current,        // 69\n    Vibration,      // 70\n    InPressure,     // 71\n    InTemperaure,   // 72\n    DisPressure,    // 73\n    DisTemperature, // 74\n    MtrTemp,        // 75\n    Tubing,         // 76\n    Casing          // 77\n]\n\nmsg.payload = { \n    value: vector, \n    'fc': 16, \n    'unitid': 1, \n    'address': 68, \n    'quantity': vector.length\n} \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 970,
+        "y": 2510,
+        "wires": [
+            [
+                "d2066f4.d47179"
+            ]
+        ]
+    },
+    {
+        "id": "66c4a9b8.ae31f8",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "links": [
+            "ad87cee4.7dbb5"
+        ],
+        "x": 695,
+        "y": 2470,
+        "wires": [
+            [
+                "18312819.54fd68"
+            ]
+        ]
+    },
+    {
+        "id": "8b6335c4.c877f8",
+        "type": "inject",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 660,
+        "y": 2510,
+        "wires": [
+            [
+                "18312819.54fd68"
+            ]
+        ]
+    },
+    {
+        "id": "8cd9b627.3e1fe8",
+        "type": "modbus-flex-getter",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "showStatusActivities": false,
+        "showErrors": false,
+        "logIOActivities": false,
+        "server": "f630cb55.8d18e8",
+        "useIOFile": false,
+        "ioFile": "",
+        "useIOForPayload": false,
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 240,
+        "y": 2870,
+        "wires": [
+            [
+                "5530c155.8e88f"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "dd479ce7.53bf1",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "links": [
+            "a5c076e6.b3cdf8"
+        ],
+        "x": 105,
+        "y": 2870,
+        "wires": [
+            [
+                "8cd9b627.3e1fe8"
+            ]
+        ]
+    },
+    {
+        "id": "5530c155.8e88f",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "RTU",
+        "property": "SCADA.Type",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "RTU",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 410,
+        "y": 2870,
+        "wires": [
+            [
+                "888867d4.3eb148"
+            ]
+        ]
+    },
+    {
+        "id": "fd592d35.6763e",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "TCP",
+        "property": "SCADA.Type",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "TCP",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 410,
+        "y": 2820,
+        "wires": [
+            [
+                "888867d4.3eb148"
             ]
         ]
     }

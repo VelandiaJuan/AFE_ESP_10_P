@@ -466,6 +466,16 @@
                         "port": 0
                     }
                 ]
+            },
+            {
+                "x": 1190,
+                "y": 690,
+                "wires": [
+                    {
+                        "id": "4db5015.cde76",
+                        "port": 0
+                    }
+                ]
             }
         ],
         "env": [
@@ -1142,7 +1152,7 @@
             "47e5c17d.f308"
         ],
         "x": 614,
-        "y": 1429,
+        "y": 1469,
         "w": 872,
         "h": 122
     },
@@ -1603,7 +1613,9 @@
             "f981eb1b.025a78"
         ],
         "x": 58,
-        "y": 63
+        "y": 63,
+        "w": 1430,
+        "h": 1824
     },
     {
         "id": "6889f2bb.892f0c",
@@ -1682,7 +1694,7 @@
             "e9e93a2c.deeb18"
         ],
         "x": 98,
-        "y": 1403,
+        "y": 1443,
         "w": 374,
         "h": 264
     },
@@ -2069,7 +2081,9 @@
             "cb0d324.9efa3d"
         ],
         "x": 1634,
-        "y": 149
+        "y": 149,
+        "w": 972,
+        "h": 592
     },
     {
         "id": "35440cdc.e5d764",
@@ -2122,7 +2136,9 @@
             "5bf3fb88.25b264"
         ],
         "x": 2614,
-        "y": 149
+        "y": 149,
+        "w": 932,
+        "h": 592
     },
     {
         "id": "888265d9.138288",
@@ -2175,7 +2191,9 @@
             "ea97a2e4.6a67d"
         ],
         "x": 3554,
-        "y": 149
+        "y": 149,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "54b245d3.9431dc",
@@ -2228,7 +2246,9 @@
             "b636759a.1af358"
         ],
         "x": 1634,
-        "y": 749
+        "y": 749,
+        "w": 1052,
+        "h": 592
     },
     {
         "id": "58747709.2ffd98",
@@ -2281,7 +2301,9 @@
             "86aeff9f.23163"
         ],
         "x": 2694,
-        "y": 749
+        "y": 749,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "4b571a8f.d70524",
@@ -2334,7 +2356,9 @@
             "3368017a.de213e"
         ],
         "x": 3794,
-        "y": 749
+        "y": 749,
+        "w": 1172,
+        "h": 592
     },
     {
         "id": "b7d3914a.2a17",
@@ -2387,7 +2411,9 @@
             "ada97752.874638"
         ],
         "x": 1634,
-        "y": 1349
+        "y": 1349,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "a3b836be.d5cde8",
@@ -2440,7 +2466,9 @@
             "739b4fcf.1c18"
         ],
         "x": 2734,
-        "y": 1349
+        "y": 1349,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "53806295.7831ac",
@@ -2493,7 +2521,9 @@
             "4fe0e535.f16e5c"
         ],
         "x": 3834,
-        "y": 1349
+        "y": 1349,
+        "w": 1072,
+        "h": 592
     },
     {
         "id": "dabbb1f4.9b65e",
@@ -2509,7 +2539,9 @@
             "a72a1eba.19d99"
         ],
         "x": 1634,
-        "y": 59
+        "y": 59,
+        "w": 132,
+        "h": 82
     },
     {
         "id": "96de1dd.d202ce",
@@ -2562,7 +2594,9 @@
             "5f1b7de2.8dd7c4"
         ],
         "x": 1634,
-        "y": 1949
+        "y": 1949,
+        "w": 972,
+        "h": 592
     },
     {
         "id": "d0981fa6.05ffc",
@@ -2615,7 +2649,9 @@
             "9481caa7.5d67e8"
         ],
         "x": 2615,
-        "y": 1959
+        "y": 1959,
+        "w": 941,
+        "h": 592
     },
     {
         "id": "4b9b7d58.136ec4",
@@ -2668,7 +2704,9 @@
             "c2a4f4bb.6e2aa8"
         ],
         "x": 3565,
-        "y": 1959
+        "y": 1959,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "d84615.919209e8",
@@ -2764,12 +2802,20 @@
             "8ae178b2.678558",
             "d6696a76.a52418",
             "f4e3682b.f045c8",
-            "ddc6bfd.136e24"
+            "ddc6bfd.136e24",
+            "f78d5a67.c13168",
+            "a5c076e6.b3cdf8",
+            "85366b43.f6bda8",
+            "bc8762e.9b52fa",
+            "c8eb68ae.c19118",
+            "b1cb2195.c8a37",
+            "df086dcc.f3e5",
+            "8f903bea.3e5c78"
         ],
         "x": 1304,
         "y": 2509,
         "w": 1132,
-        "h": 332
+        "h": 442
     },
     {
         "id": "1a2c71e0.bd05fe",
@@ -2791,7 +2837,9 @@
             "1d262758.d91059"
         ],
         "x": 44,
-        "y": 839
+        "y": 839,
+        "w": 882,
+        "h": 162
     },
     {
         "id": "91665de9.7194",
@@ -2811,7 +2859,9 @@
             "a2acb5a2.e85b98"
         ],
         "x": 44,
-        "y": 23
+        "y": 23,
+        "w": 1218,
+        "h": 804
     },
     {
         "id": "e52ecc43.c86a5",
@@ -2838,12 +2888,20 @@
             "dbdd149d.067a48",
             "75ae9dfb.c587e4",
             "c7fb486e.cbe278",
-            "2ae6e9d4.8de576"
+            "2ae6e9d4.8de576",
+            "147476e5.8f75e9",
+            "b468d7fd.170728",
+            "8e0bd418.ddd0a8",
+            "9b2f7ea6.27b4a",
+            "1b2dd03e.2d9c2",
+            "367aaa61.59c686",
+            "ce9c2a06.7d7468",
+            "262ed40b.412f1c"
         ],
         "x": 94,
         "y": 1189,
-        "w": 1732,
-        "h": 152
+        "w": 2182,
+        "h": 242
     },
     {
         "id": "675af0d1.a9fc4",
@@ -2991,7 +3049,7 @@
             "ad87cee4.7dbb5"
         ],
         "x": 124,
-        "y": 1429,
+        "y": 1469,
         "w": 322,
         "h": 82
     },
@@ -3013,7 +3071,7 @@
             "37f2db57.b831c4"
         ],
         "x": 174,
-        "y": 1519,
+        "y": 1559,
         "w": 272,
         "h": 122
     },
@@ -3059,7 +3117,9 @@
             "9b21d21b.7ae4d"
         ],
         "x": 844,
-        "y": 89
+        "y": 89,
+        "w": 522,
+        "h": 632
     },
     {
         "id": "aa324282.4f554",
@@ -3083,10 +3143,13 @@
             "767cdd32.f3dfc4",
             "3c6e6977.ced646",
             "27a2d5e6.eea14a",
-            "bf7979d0.9fd018"
+            "bf7979d0.9fd018",
+            "9556df44.42ebb"
         ],
         "x": 84,
-        "y": 269
+        "y": 299,
+        "w": 712,
+        "h": 222
     },
     {
         "id": "bf91bfd8.84eda",
@@ -3108,10 +3171,13 @@
             "c098b366.21f6e",
             "8ab99b43.236ef8",
             "61a58376.7d0cec",
-            "3fe04302.c538cc"
+            "3fe04302.c538cc",
+            "30c80316.8016dc"
         ],
         "x": 84,
-        "y": 89
+        "y": 89,
+        "w": 712,
+        "h": 202
     },
     {
         "id": "f58295c0.4d4228",
@@ -3128,7 +3194,9 @@
             "3cf0ba38.d2e4f6"
         ],
         "x": 848,
-        "y": 733
+        "y": 733,
+        "w": 614,
+        "h": 424
     },
     {
         "id": "f7a3cb7b.69e4d8",
@@ -3210,10 +3278,26 @@
             "5d423b2e.e4f6f4",
             "19f66388.0df99c",
             "724efabe.d416b4",
-            "9529d99e.485f28"
+            "9529d99e.485f28",
+            "a943ed58.e925d",
+            "4fbab036.e35de",
+            "a902e81d.dec2f8",
+            "f8ea205f.95545",
+            "64e91638.e5d088",
+            "c3312994.ff0fb8",
+            "5f9e6187.aeb77",
+            "c031a11.d7a7d6",
+            "66854960.424778",
+            "f0565f48.a5877",
+            "fd04a4a3.98d468",
+            "13747032.1e864",
+            "c4e47709.e84c88",
+            "e149f7ce.895fb8"
         ],
         "x": 84,
-        "y": 459
+        "y": 529,
+        "w": 712,
+        "h": 1332
     },
     {
         "id": "11f55817.139c18",
@@ -4844,7 +4928,8 @@
             "5fd3049a.ba921c",
             "cc746868.3a1298",
             "8bd29002.2e3d7",
-            "46cc6143.4abf6"
+            "46cc6143.4abf6",
+            "57667282.8fc56c"
         ],
         "x": 2574,
         "y": 49,
@@ -5218,7 +5303,9 @@
             "68bf1bb.d9b73e4"
         ],
         "x": 424,
-        "y": 49
+        "y": 49,
+        "w": 792,
+        "h": 202
     },
     {
         "id": "594bfb02.2b8894",
@@ -5238,7 +5325,9 @@
             "b8f5a967.a9c448"
         ],
         "x": 424,
-        "y": 259
+        "y": 259,
+        "w": 812,
+        "h": 162
     },
     {
         "id": "6de7b375.6750cc",
@@ -5260,7 +5349,9 @@
             "a99d2c43.563ca"
         ],
         "x": 424,
-        "y": 429
+        "y": 429,
+        "w": 792,
+        "h": 202
     },
     {
         "id": "5f8972b7.b986dc",
@@ -5280,7 +5371,9 @@
             "6bff5a6a.c8a6b4"
         ],
         "x": 424,
-        "y": 639
+        "y": 639,
+        "w": 752,
+        "h": 162
     },
     {
         "id": "1d477816.993308",
@@ -5528,7 +5621,9 @@
             "5805c268.31f02c"
         ],
         "x": 874,
-        "y": 759
+        "y": 759,
+        "w": 562,
+        "h": 242
     },
     {
         "id": "3cf0ba38.d2e4f6",
@@ -5546,7 +5641,9 @@
             "2f5679af.c10006"
         ],
         "x": 874,
-        "y": 1009
+        "y": 1009,
+        "w": 172,
+        "h": 122
     },
     {
         "id": "38ea9e35.6d66c2",
@@ -6065,6 +6162,138 @@
         "y": 2009,
         "w": 722,
         "h": 442
+    },
+    {
+        "id": "527fb039.aa59f",
+        "type": "group",
+        "z": "6c7d2db7.37ef34",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "b803e401.b39198",
+            "d41da57e.fda528",
+            "28b9d8d4.780938",
+            "8dd3e4dc.7b82c8",
+            "d2066f4.d47179",
+            "22b4769d.fa73aa",
+            "7fcd7f44.da50a",
+            "7e94d37b.d9ba6c",
+            "11a05a7f.1ef4b6",
+            "39b7d6d0.170dda",
+            "e7ce38e8.ddf7a8",
+            "30a1afd8.5fed9",
+            "b9e47311.f3082",
+            "5a4c3f91.66de5",
+            "1d2a31df.d8149e",
+            "93b8513a.2e011",
+            "2cd74731.e47058",
+            "e1b1ed5d.b46dc",
+            "366809a8.54ae36",
+            "de525e4.80448a",
+            "e848d5b7.89ed48",
+            "7eb9f31b.5d87ac",
+            "f149f03c.2778",
+            "d49a58a4.182318",
+            "898a9e08.eb30d",
+            "cb121d99.6b0c6",
+            "bdd292d2.61916",
+            "54f813eb.c136ec",
+            "560afdd6.770de4",
+            "9ecab94a.2f4f68",
+            "78debc56.b9b7b4",
+            "ee762eb7.aef99",
+            "ca5f96a1.874c58",
+            "f9984424.f2ea88",
+            "19f40c8c.08b2c3",
+            "888867d4.3eb148",
+            "4970f246.2964dc",
+            "18312819.54fd68",
+            "66c4a9b8.ae31f8",
+            "8b6335c4.c877f8",
+            "8cd9b627.3e1fe8",
+            "dd479ce7.53bf1",
+            "5530c155.8e88f",
+            "fd592d35.6763e"
+        ],
+        "x": 64,
+        "y": 2429,
+        "w": 1442,
+        "h": 572
+    },
+    {
+        "id": "9d081424.4d82d8",
+        "type": "group",
+        "z": "6c7d2db7.37ef34",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "eef57205.0279",
+            "2d8cbfa9.4d256",
+            "21fce78e.ebeaa8",
+            "72d8c268.ee2e5c",
+            "f98d3684.f56598",
+            "a33a5a0f.9b5448",
+            "dd44aaf.b842558",
+            "5b1577ec.9b4af8",
+            "d1846718.23b9d8",
+            "14529b0b.973455",
+            "42bd2d0f.94aac4",
+            "16b11081.a66aaf",
+            "abab70b6.d82e",
+            "c61f9199.04ad9",
+            "3579deb2.649902",
+            "43904762.a95398",
+            "65ef4f43.d9e79",
+            "738ce1b6.6ee83",
+            "6170deee.c5858",
+            "8da9e33f.1e002",
+            "494ae468.d5a86c",
+            "28ea28c3.fe5848",
+            "b264fda7.d59ea",
+            "dd10a48f.5f6858",
+            "4d981e81.2969a",
+            "45662b95.0ebc64",
+            "952fbb3c.0de4c8",
+            "7a24ff55.5feaf",
+            "96ad0efc.f1245",
+            "5e319e6f.ce68",
+            "331c91f7.cdadde",
+            "49e9024a.3e8d8c",
+            "3005ff4f.08fea",
+            "18389cc8.f2dd53",
+            "adf04b0b.ec88d8",
+            "207cf12c.487b4e",
+            "b93da0e2.39d41",
+            "53e38264.c6173c",
+            "2a96ed81.66de02",
+            "15a41cda.8cfaf3",
+            "80b99eed.0adfc",
+            "49ebd11f.bc40c",
+            "1e3299af.a33326",
+            "687e827f.e743bc",
+            "a680f602.d0a638",
+            "f740130c.150a9",
+            "97b84d8d.59486",
+            "75c5342b.04f0ac"
+        ],
+        "x": 64,
+        "y": 1899,
+        "w": 742,
+        "h": 522
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -13705,7 +13934,7 @@
         "type": "function",
         "z": "f4a6b35e.fd0a3",
         "name": "Protection Function",
-        "func": "// Setpoints\nvar HHSetpoint  = flow.get(\"HHSetpoint\")||0;\nvar HSetpoint   = flow.get(\"HSetpoint\")||0;\nvar LSetpoint   = flow.get(\"LSetpoint\")||0;\nvar LLSetpoint  = flow.get(\"LLSetpoint\")||0;\n\n// Enablers\nvar HH_EN       = flow.get(\"HHEN\")||false;\nvar H_EN        = flow.get(\"HEN\")||false;\nvar L_EN        = flow.get(\"LEN\")||false;\nvar LL_EN       = flow.get(\"LLEN\")||false;\n\n// Death times\nvar HHDeathTime = flow.get(\"HHDT\")||0;\nvar HDeathTime  = flow.get(\"HDT\")||0;\nvar LDeathTime  = flow.get(\"LDT\")||0;\nvar LLDeathTime = flow.get(\"LLDT\")||0;\n\n// Value\nvar CurrentValue = msg.payload;\n\nif(CurrentValue >= HHSetpoint && HH_EN === true){\n    msg.disp = true;\n    msg.alrm = false;\n    msg.message = \"Trigger by HH Protection\";\n    msg.delay = HHDeathTime * 1000;\n}\nelse if(CurrentValue >= HSetpoint && H_EN === true){\n    msg.disp = false;\n    msg.alrm = true;\n    msg.message = \"Alarm by H Protection\";\n    msg.delay = HDeathTime * 1000;\n}\nelse if(CurrentValue <= LLSetpoint && LL_EN === true){\n    msg.disp = true;\n    msg.alrm = false;\n    msg.message = \"Trigger by LL Protection\"\n    msg.delay = LLDeathTime * 1000;\n}\nelse if(CurrentValue <= LSetpoint && L_EN === true){\n    msg.disp = false;\n    msg.alrm = true;\n    msg.message = \"Alarm by L Protection\";\n    msg.delay = LDeathTime * 1000;\n}\nelse{\n    msg.disp = false;\n    msg.alrm = false;\n    msg.message = \"Normal condition\";\n    msg.reset = true;\n}\nreturn msg;",
+        "func": "// Setpoints\nvar HHSetpoint  = flow.get(\"HHSetpoint\")||0;\nvar HSetpoint   = flow.get(\"HSetpoint\")||0;\nvar LSetpoint   = flow.get(\"LSetpoint\")||0;\nvar LLSetpoint  = flow.get(\"LLSetpoint\")||0;\n\n// Enablers\nvar HH_EN       = flow.get(\"HHEN\")||false;\nvar H_EN        = flow.get(\"HEN\")||false;\nvar L_EN        = flow.get(\"LEN\")||false;\nvar LL_EN       = flow.get(\"LLEN\")||false;\n\n// Death times\nvar HHDeathTime = flow.get(\"HHDT\")||0;\nvar HDeathTime  = flow.get(\"HDT\")||0;\nvar LDeathTime  = flow.get(\"LDT\")||0;\nvar LLDeathTime = flow.get(\"LLDT\")||0;\n\n// Value\nvar CurrentValue = msg.payload;\n\nif(CurrentValue >= HHSetpoint && HH_EN === true){\n    msg.disp = true;\n    msg.alrm = false;\n    msg.message = \"Trigger by HH Protection\";\n    msg.delay = HHDeathTime * 1000;\n    msg.state = 4;\n}\nelse if(CurrentValue >= HSetpoint && H_EN === true){\n    msg.disp = false;\n    msg.alrm = true;\n    msg.message = \"Alarm by H Protection\";\n    msg.delay = HDeathTime * 1000;\n    msg.state = 2;\n}\nelse if(CurrentValue <= LLSetpoint && LL_EN === true){\n    msg.disp = true;\n    msg.alrm = false;\n    msg.message = \"Trigger by LL Protection\"\n    msg.delay = LLDeathTime * 1000;\n    msg.state = 3;\n}\nelse if(CurrentValue <= LSetpoint && L_EN === true){\n    msg.disp = false;\n    msg.alrm = true;\n    msg.message = \"Alarm by L Protection\";\n    msg.delay = LDeathTime * 1000;\n    msg.state = 1;\n}\nelse{\n    msg.disp = false;\n    msg.alrm = false;\n    msg.message = \"Normal condition\";\n    msg.reset = true;\n    msg.state= 0;\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -13716,7 +13945,8 @@
             [
                 "4e7c8a55.a1ffa4",
                 "ea20c75e.326798",
-                "8f669088.6ce6"
+                "8f669088.6ce6",
+                "4db5015.cde76"
             ]
         ]
     },
@@ -37711,14 +37941,17 @@
                 "type": "num"
             }
         ],
-        "x": 270,
-        "y": 180,
+        "x": 630,
+        "y": 210,
         "wires": [
             [
                 "61a58376.7d0cec"
             ],
             [
                 "3fe04302.c538cc"
+            ],
+            [
+                "30c80316.8016dc"
             ]
         ]
     },
@@ -37735,14 +37968,17 @@
                 "type": "num"
             }
         ],
-        "x": 470,
-        "y": 390,
+        "x": 600,
+        "y": 440,
         "wires": [
             [
                 "767cdd32.f3dfc4"
             ],
             [
                 "3c6e6977.ced646"
+            ],
+            [
+                "9556df44.42ebb"
             ]
         ]
     },
@@ -37760,13 +37996,16 @@
             }
         ],
         "x": 560,
-        "y": 920,
+        "y": 1130,
         "wires": [
             [
                 "f04c901f.dd12"
             ],
             [
                 "e1469d81.80e24"
+            ],
+            [
+                "66854960.424778"
             ]
         ]
     },
@@ -37784,13 +38023,16 @@
             }
         ],
         "x": 550,
-        "y": 740,
+        "y": 890,
         "wires": [
             [
                 "a943ed58.e925d"
             ],
             [
                 "4fbab036.e35de"
+            ],
+            [
+                "5f9e6187.aeb77"
             ]
         ]
     },
@@ -37808,13 +38050,16 @@
             }
         ],
         "x": 550,
-        "y": 830,
+        "y": 1010,
         "wires": [
             [
                 "693c775a.488e48"
             ],
             [
                 "2e11499b.b80e16"
+            ],
+            [
+                "c031a11.d7a7d6"
             ]
         ]
     },
@@ -37832,13 +38077,16 @@
             }
         ],
         "x": 570,
-        "y": 1100,
+        "y": 1370,
         "wires": [
             [
                 "40b18d07.723fa4"
             ],
             [
                 "64e23160.f2226"
+            ],
+            [
+                "fd04a4a3.98d468"
             ]
         ]
     },
@@ -37851,8 +38099,8 @@
         "links": [
             "2cd079.27675f88"
         ],
-        "x": 125,
-        "y": 180,
+        "x": 485,
+        "y": 210,
         "wires": [
             [
                 "da6f04d.143ddf8"
@@ -37868,8 +38116,8 @@
         "links": [
             "d54f3181.5d7ad"
         ],
-        "x": 295,
-        "y": 390,
+        "x": 425,
+        "y": 440,
         "wires": [
             [
                 "adffe9df.c5bb18"
@@ -37886,7 +38134,7 @@
             "4d839d32.72a8f4"
         ],
         "x": 375,
-        "y": 920,
+        "y": 1130,
         "wires": [
             [
                 "91957e64.06da6"
@@ -37903,7 +38151,7 @@
             "33575158.040bce"
         ],
         "x": 375,
-        "y": 740,
+        "y": 890,
         "wires": [
             [
                 "8d456762.d29828"
@@ -37920,7 +38168,7 @@
             "fa27ee3.dd7941"
         ],
         "x": 375,
-        "y": 830,
+        "y": 1010,
         "wires": [
             [
                 "50f03a.017defc8"
@@ -37937,7 +38185,7 @@
             "99ff714a.7a819"
         ],
         "x": 375,
-        "y": 1100,
+        "y": 1370,
         "wires": [
             [
                 "8c08f202.ae3eb"
@@ -37957,14 +38205,17 @@
                 "type": "num"
             }
         ],
-        "x": 560,
-        "y": 560,
+        "x": 540,
+        "y": 650,
         "wires": [
             [
                 "e5601be4.cf01b8"
             ],
             [
                 "7c83e70f.fd63d8"
+            ],
+            [
+                "64e91638.e5d088"
             ]
         ]
     },
@@ -37978,7 +38229,7 @@
             "64688fe5.072df"
         ],
         "x": 375,
-        "y": 560,
+        "y": 650,
         "wires": [
             [
                 "afd0928b.cd82a"
@@ -37999,13 +38250,16 @@
             }
         ],
         "x": 560,
-        "y": 1010,
+        "y": 1250,
         "wires": [
             [
                 "b9fb6552.28c578"
             ],
             [
                 "5c00e40a.1e606c"
+            ],
+            [
+                "f0565f48.a5877"
             ]
         ]
     },
@@ -38023,13 +38277,16 @@
             }
         ],
         "x": 540,
-        "y": 650,
+        "y": 770,
         "wires": [
             [
                 "a902e81d.dec2f8"
             ],
             [
                 "f8ea205f.95545"
+            ],
+            [
+                "c3312994.ff0fb8"
             ]
         ]
     },
@@ -38043,7 +38300,7 @@
             "3cab3ca5.8a90e4"
         ],
         "x": 375,
-        "y": 1010,
+        "y": 1250,
         "wires": [
             [
                 "89023996.5cc628"
@@ -38060,7 +38317,7 @@
             "4d351b9.638afe4"
         ],
         "x": 375,
-        "y": 650,
+        "y": 770,
         "wires": [
             [
                 "e8e85d1b.ab894"
@@ -38248,7 +38505,7 @@
         "to": "",
         "reg": false,
         "x": 260,
-        "y": 310,
+        "y": 340,
         "wires": [
             [
                 "1baa28a3.faa137",
@@ -38267,7 +38524,7 @@
             "510bf900.1fbea8"
         ],
         "x": 125,
-        "y": 310,
+        "y": 340,
         "wires": [
             [
                 "258395bf.b5730a"
@@ -38424,8 +38681,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 610,
-        "y": 310,
+        "x": 580,
+        "y": 340,
         "wires": [
             [
                 "e25384d8.73d5b8"
@@ -38444,7 +38701,7 @@
         "initialize": "",
         "finalize": "",
         "x": 480,
-        "y": 500,
+        "y": 570,
         "wires": [
             [
                 "f670f91d.3ad478"
@@ -38490,7 +38747,7 @@
         "peakmode": false,
         "peaktime": 3000,
         "x": 650,
-        "y": 500,
+        "y": 570,
         "wires": []
     },
     {
@@ -38505,7 +38762,7 @@
         "initialize": "",
         "finalize": "",
         "x": 480,
-        "y": 610,
+        "y": 730,
         "wires": [
             [
                 "d51b6dcd.3c4b5"
@@ -38551,7 +38808,7 @@
         "peakmode": false,
         "peaktime": 3000,
         "x": 620,
-        "y": 610,
+        "y": 730,
         "wires": []
     },
     {
@@ -38566,7 +38823,7 @@
         "initialize": "",
         "finalize": "",
         "x": 480,
-        "y": 700,
+        "y": 850,
         "wires": [
             [
                 "3733b898.274cd8"
@@ -38612,7 +38869,7 @@
         "peakmode": false,
         "peaktime": 3000,
         "x": 620,
-        "y": 700,
+        "y": 850,
         "wires": []
     },
     {
@@ -38627,7 +38884,7 @@
         "initialize": "",
         "finalize": "",
         "x": 480,
-        "y": 790,
+        "y": 970,
         "wires": [
             [
                 "8e3d778a.37fdd8"
@@ -38673,7 +38930,7 @@
         "peakmode": false,
         "peaktime": 3000,
         "x": 620,
-        "y": 790,
+        "y": 970,
         "wires": []
     },
     {
@@ -38688,7 +38945,7 @@
         "initialize": "",
         "finalize": "",
         "x": 480,
-        "y": 880,
+        "y": 1090,
         "wires": [
             [
                 "6c8ad0aa.ecebd"
@@ -38734,7 +38991,7 @@
         "peakmode": false,
         "peaktime": 3000,
         "x": 620,
-        "y": 880,
+        "y": 1090,
         "wires": []
     },
     {
@@ -38749,7 +39006,7 @@
         "initialize": "",
         "finalize": "",
         "x": 480,
-        "y": 970,
+        "y": 1210,
         "wires": [
             [
                 "9c9ca5e7.69fa38"
@@ -38795,7 +39052,7 @@
         "peakmode": false,
         "peaktime": 3000,
         "x": 620,
-        "y": 970,
+        "y": 1210,
         "wires": []
     },
     {
@@ -38810,7 +39067,7 @@
         "initialize": "",
         "finalize": "",
         "x": 480,
-        "y": 1060,
+        "y": 1330,
         "wires": [
             [
                 "b777e226.10c8b"
@@ -38856,7 +39113,7 @@
         "peakmode": false,
         "peaktime": 3000,
         "x": 620,
-        "y": 1060,
+        "y": 1330,
         "wires": []
     },
     {
@@ -38898,8 +39155,8 @@
         "peakmode": false,
         "property": "payload",
         "peaktime": 3000,
-        "x": 750,
-        "y": 310,
+        "x": 720,
+        "y": 340,
         "wires": []
     },
     {
@@ -39159,7 +39416,7 @@
         "repair": false,
         "outputs": 1,
         "x": 290,
-        "y": 350,
+        "y": 380,
         "wires": [
             [
                 "bf7979d0.9fd018"
@@ -39220,7 +39477,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Tensión",
-        "func": "var Tension = global.get(\"PQA.Real_Time_Parameters.Average_Line_Voltage\",'memoryOnly')||0;\nTension = parseFloat(Tension).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Tensión HH: \"+ Tension;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Tensión LL: \"+ Tension;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Tensión H: \"+Tension;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Tensión L: \"+Tension;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n",
+        "func": "var Tension = global.get(\"PQA.Real_Time_Parameters.Average_Line_Voltage\",'memoryOnly')||0;\nTension = parseFloat(Tension).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Tensión HH: \"+ Tension;\n    global.set('Protections.Voltage.Status',4,'memoryOnly');    \n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Tensión LL: \"+ Tension;\n    global.set('Protections.Voltage.Status',3,'memoryOnly');    \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Tensión H: \"+Tension;\n    global.set('Protections.Voltage.Status',2,'memoryOnly');    \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Tensión L: \"+Tension;\n    global.set('Protections.Voltage.Status',1,'memoryOnly');    \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    global.set('Protections.Voltage.Status',0,'memoryOnly');    \n    delete msg.topic;\n    return msg;\n}\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -39240,7 +39497,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Carga",
-        "func": "var Carga = global.get(\"C2S.Output_Current\",'memoryOnly')||0;\nCarga = parseFloat(Carga).toFixed(2);\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Corriente HH :\"+Carga;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Corriente LL: \"+Carga;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Corriente H: \"+Carga;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Corriente L: \"+Carga;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var Carga = global.get(\"C2S.Output_Current\",'memoryOnly')||0;\nCarga = parseFloat(Carga).toFixed(2);\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Corriente HH :\"+Carga;\n    global.set('Protections.Load.Status',4,'memoryOnly');\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Corriente LL: \"+Carga;\n    global.set('Protections.Load.Status',3,'memoryOnly');    \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Corriente H: \"+Carga;\n    global.set('Protections.Load.Status',2,'memoryOnly');    \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Corriente L: \"+Carga;\n    global.set('Protections.Load.Status',1,'memoryOnly');    \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    global.set('Protections.Load.Status',0,'memoryOnly');\n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -39259,7 +39516,7 @@
         "type": "link out",
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
-        "name": "",
+        "name": "Link Eventos",
         "links": [
             "59e817c2.295b38"
         ],
@@ -39276,8 +39533,8 @@
         "links": [
             "728a8a65.02a3c4"
         ],
-        "x": 625,
-        "y": 370,
+        "x": 755,
+        "y": 400,
         "wires": []
     },
     {
@@ -39289,8 +39546,8 @@
         "links": [
             "2115be6e.78c1f2"
         ],
-        "x": 435,
-        "y": 180,
+        "x": 755,
+        "y": 170,
         "wires": []
     },
     {
@@ -39334,8 +39591,8 @@
         "g": "f7a3cb7b.69e4d8",
         "name": "Todos se conectan por salida dos",
         "info": "",
-        "x": 550,
-        "y": 1520,
+        "x": 560,
+        "y": 1820,
         "wires": []
     },
     {
@@ -39476,7 +39733,7 @@
         "delay": 300,
         "topic": "",
         "x": 1050,
-        "y": 1470,
+        "y": 1510,
         "wires": [
             [
                 "2acca295.66b21e",
@@ -39505,7 +39762,7 @@
         "to": "",
         "reg": false,
         "x": 1350,
-        "y": 1470,
+        "y": 1510,
         "wires": [
             []
         ]
@@ -39531,7 +39788,7 @@
         "to": "",
         "reg": false,
         "x": 790,
-        "y": 1470,
+        "y": 1510,
         "wires": [
             [
                 "ddd3ba80.4f0788",
@@ -39556,7 +39813,7 @@
         "delay": 300,
         "topic": "",
         "x": 1060,
-        "y": 1510,
+        "y": 1550,
         "wires": [
             [
                 "ddd3ba80.4f0788",
@@ -41759,7 +42016,7 @@
         "payload": "true",
         "payloadType": "bool",
         "x": 270,
-        "y": 1470,
+        "y": 1510,
         "wires": [
             [
                 "ad87cee4.7dbb5"
@@ -41844,10 +42101,11 @@
             "a8eca441.f9a4b8",
             "a7923a8c.7c39d8",
             "28b9d8d4.780938",
-            "dbdd149d.067a48"
+            "dbdd149d.067a48",
+            "66c4a9b8.ae31f8"
         ],
         "x": 405,
-        "y": 1470,
+        "y": 1510,
         "wires": []
     },
     {
@@ -41979,7 +42237,7 @@
             "ad87cee4.7dbb5"
         ],
         "x": 655,
-        "y": 1470,
+        "y": 1510,
         "wires": [
             [
                 "41a6416e.309fb"
@@ -41994,7 +42252,7 @@
         "name": "",
         "events": "all",
         "x": 310,
-        "y": 1560,
+        "y": 1600,
         "wires": [
             [
                 "97407954.a004c8",
@@ -42032,7 +42290,7 @@
             "a72a1eba.19d99"
         ],
         "x": 405,
-        "y": 1560,
+        "y": 1600,
         "wires": []
     },
     {
@@ -42058,7 +42316,7 @@
             "651fde0c.6b2e9"
         ],
         "x": 215,
-        "y": 1560,
+        "y": 1600,
         "wires": [
             [
                 "7abe043b.fb14fc"
@@ -44534,7 +44792,7 @@
         "type": "link out",
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
-        "name": "",
+        "name": "Link Alarmas",
         "links": [
             "33f2aa3c.6c08f6"
         ],
@@ -44593,8 +44851,8 @@
         "links": [
             "9209cfb3.3a43a"
         ],
-        "x": 435,
-        "y": 220,
+        "x": 755,
+        "y": 210,
         "wires": []
     },
     {
@@ -44606,8 +44864,8 @@
         "links": [
             "9209cfb3.3a43a"
         ],
-        "x": 625,
-        "y": 410,
+        "x": 755,
+        "y": 440,
         "wires": []
     },
     {
@@ -58733,13 +58991,16 @@
             }
         ],
         "x": 510,
-        "y": 1390,
+        "y": 1730,
         "wires": [
             [
                 "27b35800.57e518"
             ],
             [
                 "2416b4e2.c6543c"
+            ],
+            [
+                "e149f7ce.895fb8"
             ]
         ]
     },
@@ -58754,8 +59015,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 620,
-        "y": 1350,
+        "x": 480,
+        "y": 1690,
         "wires": [
             [
                 "fe775f56.9b835",
@@ -58802,8 +59063,8 @@
         "peakmode": false,
         "property": "payload",
         "peaktime": 3000,
-        "x": 750,
-        "y": 1350,
+        "x": 620,
+        "y": 1690,
         "wires": []
     },
     {
@@ -58816,8 +59077,8 @@
             "bc0b7d3f.ca291",
             "e6dcbeb6.ceddc"
         ],
-        "x": 375,
-        "y": 1350,
+        "x": 245,
+        "y": 1690,
         "wires": [
             [
                 "ff2256f1.e3a778"
@@ -58834,7 +59095,7 @@
             "12d0ed7b.82c653"
         ],
         "x": 375,
-        "y": 1390,
+        "y": 1730,
         "wires": [
             [
                 "7e885447.389d0c"
@@ -58861,8 +59122,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 480,
-        "y": 1350,
+        "x": 340,
+        "y": 1690,
         "wires": [
             [
                 "bb8e252c.9dfcb8"
@@ -58878,8 +59139,8 @@
         "links": [
             "9209cfb3.3a43a"
         ],
-        "x": 655,
-        "y": 1430,
+        "x": 755,
+        "y": 1730,
         "wires": []
     },
     {
@@ -58892,8 +59153,8 @@
             "8013081a.005838",
             "b5aafa12.c8b648"
         ],
-        "x": 655,
-        "y": 1390,
+        "x": 755,
+        "y": 1690,
         "wires": []
     },
     {
@@ -58902,7 +59163,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Bus DC",
-        "func": "var BusDC = global.get(\"C2S.Bus_DC_Volts\",'memoryOnly')||0;\nBusDC = parseFloat(BusDC).toFixed(2);\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Tensión Bus DC HH: \"+BusDC;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Tensión Bus DC LL: \"+BusDC;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Tensión Bus DC H: \"+BusDC;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Tensión Bus DC L: \"+BusDC;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}",
+        "func": "var BusDC = global.get(\"C2S.Bus_DC_Volts\",'memoryOnly')||0;\nBusDC = parseFloat(BusDC).toFixed(2);\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Tensión Bus DC HH: \"+BusDC;\n    global.set('Protections.BusDC.Status',4,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Tensión Bus DC LL: \"+BusDC;\n    global.set('Protections.BusDC.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Tensión Bus DC H: \"+BusDC;\n    global.set('Protections.BusDC.Status',2,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Tensión Bus DC L: \"+BusDC;\n    global.set('Protections.BusDC.Status',1,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    global.set('Protections.BusDC.Status',0,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -60298,8 +60559,8 @@
             "1baa28a3.faa137"
         ],
         "uncaught": false,
-        "x": 710,
-        "y": 370,
+        "x": 250,
+        "y": 420,
         "wires": [
             []
         ]
@@ -60324,7 +60585,7 @@
         ],
         "uncaught": false,
         "x": 510,
-        "y": 1470,
+        "y": 1780,
         "wires": [
             []
         ]
@@ -64456,7 +64717,7 @@
         "payload": "#:(memoryOnly)::DownHoleData.DHS[\"Presión de entrada\"]",
         "payloadType": "global",
         "x": 340,
-        "y": 700,
+        "y": 850,
         "wires": [
             [
                 "8d456762.d29828",
@@ -64735,7 +64996,7 @@
         "payload": "#:(memoryOnly)::DownHoleData.DHS[\"Presión de descarga\"]",
         "payloadType": "global",
         "x": 340,
-        "y": 790,
+        "y": 970,
         "wires": [
             [
                 "7dedf7c7.3568e8",
@@ -64766,7 +65027,7 @@
         "payload": "#:(memoryOnly)::DownHoleData.DHS[\"Temperatura de entrada\"]",
         "payloadType": "global",
         "x": 340,
-        "y": 880,
+        "y": 1090,
         "wires": [
             [
                 "b79b0088.e0571",
@@ -64797,7 +65058,7 @@
         "payload": "#:(memoryOnly)::DownHoleData.DHS[\"Temperatura de motor\"]",
         "payloadType": "global",
         "x": 330,
-        "y": 970,
+        "y": 1210,
         "wires": [
             [
                 "39509b2.05d2f64",
@@ -64828,7 +65089,7 @@
         "payload": "#:(memoryOnly)::DownHoleData.DHS[\"Temperatura de descarga\"]",
         "payloadType": "global",
         "x": 330,
-        "y": 1060,
+        "y": 1330,
         "wires": [
             [
                 "390f354c.d49e3a",
@@ -64859,7 +65120,7 @@
         "payload": "#:(memoryOnly)::DownHoleData.DHS[\"Corriente de fuga\"]",
         "payloadType": "global",
         "x": 320,
-        "y": 610,
+        "y": 730,
         "wires": [
             [
                 "c5e33e4d.00d55",
@@ -64879,7 +65140,7 @@
         "initialize": "",
         "finalize": "",
         "x": 330,
-        "y": 500,
+        "y": 570,
         "wires": [
             [
                 "15f0eae5.dcd0a5",
@@ -64910,7 +65171,7 @@
         "payload": "#:(memoryOnly)::DownHoleData.DHS",
         "payloadType": "global",
         "x": 190,
-        "y": 500,
+        "y": 570,
         "wires": [
             [
                 "9ee87017.647be"
@@ -64928,7 +65189,7 @@
             "37e61bec.7d5a14"
         ],
         "x": 755,
-        "y": 540,
+        "y": 610,
         "wires": []
     },
     {
@@ -64941,55 +65202,59 @@
             "9209cfb3.3a43a"
         ],
         "x": 755,
-        "y": 580,
+        "y": 650,
         "wires": []
     },
     {
         "id": "a902e81d.dec2f8",
         "type": "link out",
         "z": "6c7d2db7.37ef34",
+        "g": "f7a3cb7b.69e4d8",
         "name": "Corriente de fuga Eventos",
         "links": [
             "617d545d.946abc"
         ],
         "x": 755,
-        "y": 630,
+        "y": 730,
         "wires": []
     },
     {
         "id": "f8ea205f.95545",
         "type": "link out",
         "z": "6c7d2db7.37ef34",
+        "g": "f7a3cb7b.69e4d8",
         "name": "Corriente de fuga Estados",
         "links": [
             "9209cfb3.3a43a"
         ],
         "x": 755,
-        "y": 670,
+        "y": 770,
         "wires": []
     },
     {
         "id": "a943ed58.e925d",
         "type": "link out",
         "z": "6c7d2db7.37ef34",
+        "g": "f7a3cb7b.69e4d8",
         "name": "Presión de entrada Eventos",
         "links": [
             "688211ad.4299a"
         ],
         "x": 755,
-        "y": 720,
+        "y": 850,
         "wires": []
     },
     {
         "id": "4fbab036.e35de",
         "type": "link out",
         "z": "6c7d2db7.37ef34",
+        "g": "f7a3cb7b.69e4d8",
         "name": "Presión de entrada Estado",
         "links": [
             "9209cfb3.3a43a"
         ],
         "x": 755,
-        "y": 760,
+        "y": 890,
         "wires": []
     },
     {
@@ -65002,7 +65267,7 @@
             "a1842f67.5ada7"
         ],
         "x": 755,
-        "y": 810,
+        "y": 970,
         "wires": []
     },
     {
@@ -65015,7 +65280,7 @@
             "9209cfb3.3a43a"
         ],
         "x": 755,
-        "y": 850,
+        "y": 1010,
         "wires": []
     },
     {
@@ -65028,7 +65293,7 @@
             "37b12ec4.ce43d2"
         ],
         "x": 755,
-        "y": 900,
+        "y": 1090,
         "wires": []
     },
     {
@@ -65041,7 +65306,7 @@
             "9209cfb3.3a43a"
         ],
         "x": 755,
-        "y": 940,
+        "y": 1130,
         "wires": []
     },
     {
@@ -65054,7 +65319,7 @@
             "78f4bf0d.80779"
         ],
         "x": 755,
-        "y": 990,
+        "y": 1210,
         "wires": []
     },
     {
@@ -65067,7 +65332,7 @@
             "9209cfb3.3a43a"
         ],
         "x": 755,
-        "y": 1030,
+        "y": 1250,
         "wires": []
     },
     {
@@ -65080,7 +65345,7 @@
             "332bea0e.72cc56"
         ],
         "x": 755,
-        "y": 1080,
+        "y": 1330,
         "wires": []
     },
     {
@@ -65093,7 +65358,7 @@
             "9209cfb3.3a43a"
         ],
         "x": 755,
-        "y": 1120,
+        "y": 1370,
         "wires": []
     },
     {
@@ -65102,7 +65367,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Vibración",
-        "func": "var Vib = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\n\nXVibration  = Vib[\"Vibración X\"]||0;\nZVibration  = Vib[\"Vibración Z\"]||0;\nHVibration  = XVibration > ZVibration ? XVibration :ZVibration; \nHVibration  = parseFloat(HVibration).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Vibración HH: \"+HVibration;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Vibración LL: \"+HVibration;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Vibración H: \"+HVibration;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Vibración L: \"+HVibration;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var Vib = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\n\nXVibration  = Vib[\"Vibración X\"]||0;\nZVibration  = Vib[\"Vibración Z\"]||0;\nHVibration  = XVibration > ZVibration ? XVibration :ZVibration; \nHVibration  = parseFloat(HVibration).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Vibración HH: \"+HVibration;\n    global.set('Protections.Vibration.Status',4,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Vibración LL: \"+HVibration;\n    global.set('Protections.Vibration.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Vibración H: \"+HVibration;\n    global.set('Protections.Vibration.Status',2,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Vibración L: \"+HVibration;\n    global.set('Protections.Vibration.Status',1,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    global.set('Protections.Vibration.Status',0,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -65139,7 +65404,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Corriente de fuga",
-        "func": "//DownHoleData.DHS[\"Corriente de fuga\"]\nvar DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar CLeakage        = DownHoleData[\"Corriente de fuga\"]||0;\nCLeakage            = parseFloat(CLeakage).toFixed(2);\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Corriente de fuga HH: \"+CLeakage;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Corriente de fuga LL: \"+CLeakage;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Corriente de fuga H: \"+CLeakage;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Corriente de fuga L: \"+CLeakage;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}",
+        "func": "//DownHoleData.DHS[\"Corriente de fuga\"]\nvar DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar CLeakage        = DownHoleData[\"Corriente de fuga\"]||0;\nCLeakage            = parseFloat(CLeakage).toFixed(2);\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Corriente de fuga HH: \"+CLeakage;\n    global.set('Protections.Current.Leakage.Status',4,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Corriente de fuga LL: \"+CLeakage;\n    global.set('Protections.Current.Leakage.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Corriente de fuga H: \"+CLeakage;\n    global.set('Protections.Current.Leakage.Status',2,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Corriente de fuga L: \"+CLeakage;\n    global.set('Protections.Current.Leakage.Status',1,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    global.set('Protections.Current.Leakage.Status',0,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -65176,7 +65441,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Presión de entrada",
-        "func": "var DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar Pin             = DownHoleData[\"Presión de entrada\"]||0;\nPin                 = parseFloat(Pin).toFixed(2);\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Presión de entrada HH: \"+Pin;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Presión de entrada LL: \"+Pin;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Presión de entrada H: \"+Pin;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Presión de entrada L: \"+Pin;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar Pin             = DownHoleData[\"Presión de entrada\"]||0;\nPin                 = parseFloat(Pin).toFixed(2);\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Presión de entrada HH: \"+Pin;\n    global.set('Protections.Intake.Pressure.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Presión de entrada LL: \"+Pin;\n    global.set('Protections.Intake.Pressure.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Presión de entrada H: \"+Pin;\n    global.set('Protections.Intake.Pressure.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Presión de entrada L: \"+Pin;\n    global.set('Protections.Intake.Pressure.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    global.set('Protections.Intake.Pressure.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -65213,7 +65478,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Temperatura de entrada",
-        "func": "var DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar InTemp          = DownHoleData[\"Temperatura de entrada\"]||0;\nInTemp              = parseFloat(InTemp).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Temperatura de entrada HH: \"+InTemp;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Temperatura de entrada LL: \"+InTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Temperatura de entrada H: \"+InTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Temperatura de entrada L: \"+InTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar InTemp          = DownHoleData[\"Temperatura de entrada\"]||0;\nInTemp              = parseFloat(InTemp).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Temperatura de entrada HH: \"+InTemp;\n    global.set('Protections.Intake.Temperature.Status',4,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Temperatura de entrada LL: \"+InTemp;\n    global.set('Protections.Intake.Temperature.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Temperatura de entrada H: \"+InTemp;\n    global.set('Protections.Intake.Temperature.Status',2,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Temperatura de entrada L: \"+InTemp;\n    global.set('Protections.Intake.Temperature.Status',1,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    global.set('Protections.Intake.Temperature.Status',0,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -65250,7 +65515,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Temperatura de motor",
-        "func": "var DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar MtrTemp         = DownHoleData[\"Temperatura de motor\"]||0;\nMtrTemp             = parseFloat(MtrTemp).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Temperatura de motor HH: \"+MtrTemp;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Temperatura de motor LL: \"+MtrTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Temperatura de motor H: \"+MtrTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Temperatura de motor L: \"+MtrTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar MtrTemp         = DownHoleData[\"Temperatura de motor\"]||0;\nMtrTemp             = parseFloat(MtrTemp).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Temperatura de motor HH: \"+MtrTemp;\n    global.set('Protections.Motor.Temperature.Status',4,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Temperatura de motor LL: \"+MtrTemp;\n    global.set('Protections.Motor.Temperature.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Temperatura de motor H: \"+MtrTemp;\n    global.set('Protections.Motor.Temperature.Status',2,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Temperatura de motor L: \"+MtrTemp;\n    global.set('Protections.Motor.Temperature.Status',1,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    global.set('Protections.Motor.Temperature.Status',0,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -65287,7 +65552,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Temperatura de descarga",
-        "func": "var DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar DisTemp         = DownHoleData[\"Temperatura de descarga\"]||0;\nDisTemp             = parseFloat(DisTemp).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Temperatura de descarga HH: \"+DisTemp;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Temperatura de descarga LL: \"+DisTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Temperatura de descarga H: \"+DisTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Temperatura de descarga L:\"+DisTemp;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar DisTemp         = DownHoleData[\"Temperatura de descarga\"]||0;\nDisTemp             = parseFloat(DisTemp).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Temperatura de descarga HH: \"+DisTemp;\n    global.set('Protections.Discharge.Temperature.Status',4,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Temperatura de descarga LL: \"+DisTemp;\n    global.set('Protections.Discharge.Temperature.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Temperatura de descarga H: \"+DisTemp;\n    global.set('Protections.Discharge.Temperature.Status',2,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Temperatura de descarga L:\"+DisTemp;\n    global.set('Protections.Discharge.Temperature.Status',1,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    global.set('Protections.Discharge.Temperature.Status',0,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -65324,7 +65589,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Presión de descarga",
-        "func": "var DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar Pout            = DownHoleData[\"Presión de descarga\"]||0;\nPout                = parseFloat(Pout).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Presión de descarga HH: \"+Pout;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Presión de descarga LL:\"+Pout;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Presión de descarga H: \"+Pout;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Presión de descarga L: \"+Pout;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var DownHoleData    = global.get(\"DownHoleData.DHS\",'memoryOnly')||null;\nvar Pout            = DownHoleData[\"Presión de descarga\"]||0;\nPout                = parseFloat(Pout).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Presión de descarga HH: \"+Pout;\n    global.set('Protections.Ddischarge.Pressure.Status',4,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Presión de descarga LL:\"+Pout;\n    global.set('Protections.Ddischarge.Pressure.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Presión de descarga H: \"+Pout;\n    global.set('Protections.Ddischarge.Pressure.Status',2,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Presión de descarga L: \"+Pout;\n    global.set('Protections.Ddischarge.Pressure.Status',1,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    global.set('Protections.Ddischarge.Pressure.Status',0,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -69214,7 +69479,7 @@
         "payload": "#:(memoryOnly)::DownHoleData.AI[\"Presión de cabeza THP\"]",
         "payloadType": "global",
         "x": 330,
-        "y": 1150,
+        "y": 1450,
         "wires": [
             [
                 "910f918e.ca3b4"
@@ -69233,7 +69498,7 @@
         "initialize": "",
         "finalize": "",
         "x": 480,
-        "y": 1150,
+        "y": 1450,
         "wires": [
             [
                 "594b1b94.64a064",
@@ -69281,7 +69546,7 @@
         "property": "payload",
         "peaktime": 3000,
         "x": 620,
-        "y": 1150,
+        "y": 1450,
         "wires": []
     },
     {
@@ -69294,7 +69559,7 @@
             "77f1774e.dbb788"
         ],
         "x": 375,
-        "y": 1190,
+        "y": 1490,
         "wires": [
             [
                 "d3952106.89f57"
@@ -69315,13 +69580,16 @@
             }
         ],
         "x": 560,
-        "y": 1190,
+        "y": 1490,
         "wires": [
             [
                 "6e13beb.0d4804"
             ],
             [
                 "7208f314.664a4c"
+            ],
+            [
+                "13747032.1e864"
             ]
         ]
     },
@@ -69348,7 +69616,7 @@
         "payload": "#:(memoryOnly)::DownHoleData.AI[\"Presión de casing\"]",
         "payloadType": "global",
         "x": 330,
-        "y": 1240,
+        "y": 1570,
         "wires": [
             [
                 "5d423b2e.e4f6f4"
@@ -69367,7 +69635,7 @@
         "initialize": "",
         "finalize": "",
         "x": 480,
-        "y": 1240,
+        "y": 1570,
         "wires": [
             [
                 "2989ca5b.45d5b6",
@@ -69415,7 +69683,7 @@
         "property": "payload",
         "peaktime": 3000,
         "x": 620,
-        "y": 1240,
+        "y": 1570,
         "wires": []
     },
     {
@@ -69428,7 +69696,7 @@
             "8eb993d8.86438"
         ],
         "x": 375,
-        "y": 1280,
+        "y": 1610,
         "wires": [
             [
                 "9529d99e.485f28"
@@ -69449,13 +69717,16 @@
             }
         ],
         "x": 550,
-        "y": 1280,
+        "y": 1610,
         "wires": [
             [
                 "3f2cfd63.788712"
             ],
             [
                 "b5bb0faf.0b4a"
+            ],
+            [
+                "c4e47709.e84c88"
             ]
         ]
     },
@@ -69469,7 +69740,7 @@
             "9209cfb3.3a43a"
         ],
         "x": 755,
-        "y": 1210,
+        "y": 1490,
         "wires": []
     },
     {
@@ -69482,7 +69753,7 @@
             "9209cfb3.3a43a"
         ],
         "x": 755,
-        "y": 1300,
+        "y": 1610,
         "wires": []
     },
     {
@@ -69495,7 +69766,7 @@
             "9102ca93.35fc08"
         ],
         "x": 755,
-        "y": 1170,
+        "y": 1450,
         "wires": []
     },
     {
@@ -69508,7 +69779,7 @@
             "9b21d21b.7ae4d"
         ],
         "x": 755,
-        "y": 1260,
+        "y": 1570,
         "wires": []
     },
     {
@@ -69517,7 +69788,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Presión de Tubing",
-        "func": "var DownHoleData    = global.get(\"DownHoleData.AI\",'memoryOnly')||null;\nvar THP             = DownHoleData[\"Presión de cabeza THP\"]||0;\nTHP                 = parseFloat(THP).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Presión de Tubing (THP) HH: \"+THP;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Presión de Tubing (THP) LL: \"+THP;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Presión de Tubing (THP) H: \"+THP;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Presión de Tubing (THP) L: \"+THP;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var DownHoleData    = global.get(\"DownHoleData.AI\",'memoryOnly')||null;\nvar THP             = DownHoleData[\"Presión de cabeza THP\"]||0;\nTHP                 = parseFloat(THP).toFixed(2);\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Presión de Tubing (THP) HH: \"+THP;\n    global.set('Protections.Tubing.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Presión de Tubing (THP) LL: \"+THP;\n    global.set('Protections.Tubing.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Presión de Tubing (THP) H: \"+THP;\n    global.set('Protections.Tubing.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Presión de Tubing (THP) L: \"+THP;\n    global.set('Protections.Tubing.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    global.set('Protections.Tubing.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -69554,7 +69825,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Presión de Casing",
-        "func": "//Presión de casing\nvar DownHoleData    = global.get(\"DownHoleData.AI\",'memoryOnly')||null;\nvar TCP             = DownHoleData[\"Presión de casing\"]||0;\nTCP                 = parseFloat(TCP).toFixed(2);\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Presión de Casing HH: \"+TCP;\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Presión de Casing LL: \"+TCP;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Presión de Casing H: \"+TCP;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Presión de Casing L: \"+TCP;\n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    delete msg.topic;\n    return msg;\n}",
+        "func": "//Presión de casing\nvar DownHoleData    = global.get(\"DownHoleData.AI\",'memoryOnly')||null;\nvar TCP             = DownHoleData[\"Presión de casing\"]||0;\nTCP                 = parseFloat(TCP).toFixed(2);\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por Proteción de Presión de Casing HH: \"+TCP;\n    global.set('Protections.Casing.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Presión de Casing LL: \"+TCP;\n    global.set('Protections.Casing.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Presión de Casing H: \"+TCP;\n    global.set('Protections.Casing.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Presión de Casing L: \"+TCP;\n    global.set('Protections.Casing.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    global.set('Protections.Casing.Status',3,'memoryOnly'); \n    delete msg.topic;\n    return msg;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -72268,7 +72539,7 @@
         "repair": false,
         "outputs": 1,
         "x": 480,
-        "y": 350,
+        "y": 380,
         "wires": [
             [
                 "adffe9df.c5bb18"
@@ -72557,7 +72828,7 @@
         "g": "3d68b202.2bc67e",
         "name": "",
         "pauseType": "delay",
-        "timeout": "200",
+        "timeout": "150",
         "timeoutUnits": "milliseconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -72582,7 +72853,7 @@
         "g": "3d68b202.2bc67e",
         "name": "",
         "pauseType": "delay",
-        "timeout": "200",
+        "timeout": "150",
         "timeoutUnits": "milliseconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -72607,7 +72878,7 @@
         "g": "3d68b202.2bc67e",
         "name": "",
         "pauseType": "delay",
-        "timeout": "200",
+        "timeout": "150",
         "timeoutUnits": "milliseconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -72632,7 +72903,7 @@
         "g": "3d68b202.2bc67e",
         "name": "",
         "pauseType": "delay",
-        "timeout": "200",
+        "timeout": "150",
         "timeoutUnits": "milliseconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -72657,7 +72928,7 @@
         "g": "3d68b202.2bc67e",
         "name": "",
         "pauseType": "delay",
-        "timeout": "200",
+        "timeout": "150",
         "timeoutUnits": "milliseconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -72670,7 +72941,8 @@
         "y": 2750,
         "wires": [
             [
-                "ddc6bfd.136e24"
+                "ddc6bfd.136e24",
+                "f78d5a67.c13168"
             ]
         ]
     },
@@ -72681,7 +72953,7 @@
         "g": "3d68b202.2bc67e",
         "name": "",
         "pauseType": "delay",
-        "timeout": "200",
+        "timeout": "150",
         "timeoutUnits": "milliseconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -72890,7 +73162,7 @@
         "to": "",
         "reg": false,
         "x": 310,
-        "y": 1600,
+        "y": 1640,
         "wires": [
             []
         ]
@@ -74710,14 +74982,15 @@
         "id": "d2066f4.d47179",
         "type": "modbus-flex-write",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "PyModbusServer",
         "showStatusActivities": false,
         "showErrors": false,
         "server": "3548b3b4.c8d65c",
         "emptyMsgOnFail": false,
         "keepMsgProperties": false,
-        "x": 650,
-        "y": 1640,
+        "x": 1220,
+        "y": 2550,
         "wires": [
             [],
             []
@@ -74727,6 +75000,7 @@
         "id": "4970f246.2964dc",
         "type": "modbus-read",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "topic": "",
         "showStatusActivities": false,
@@ -74745,11 +75019,11 @@
         "ioFile": "",
         "useIOForPayload": false,
         "emptyMsgOnFail": false,
-        "x": 230,
-        "y": 1950,
+        "x": 270,
+        "y": 2820,
         "wires": [
             [
-                "888867d4.3eb148"
+                "fd592d35.6763e"
             ],
             []
         ]
@@ -74758,6 +75032,7 @@
         "id": "888867d4.3eb148",
         "type": "switch",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "Remoto",
         "property": "Local/Remoto",
         "propertyType": "global",
@@ -74771,8 +75046,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 240,
-        "y": 1910,
+        "x": 550,
+        "y": 2820,
         "wires": [
             [
                 "19f40c8c.08b2c3"
@@ -74783,18 +75058,18 @@
         "id": "8dd3e4dc.7b82c8",
         "type": "function",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "Mapa Modbus Protecciones",
         "func": "var Load_HH_Sp      = global.get('Protections.Load.HH.Setpoint')||0;\nvar Load_LL_Sp      = global.get('Protections.Load.LL.Setpoint')||0;\nvar PReference      = global.get('Prolonged_Reference.Time')||0;\nvar PIn_HH_Sp       = global.get('Protections.Intake.Pressure.HH.Setpoint')||0;\nvar PIn_LL_Sp       = global.get('Protections.Intake.Pressure.LL.Setpoint')||0;\nvar TIn_HH_Sp       = global.get('Protections.Intake.Temperature.HH.Setpoint')||0;\nvar TDis_HH_Sp      = global.get('Protections.Discharge.Temperature.HH.Setpoint')||0;\nvar Mtr_Temp_HH_Sp  = global.get('Protections.Motor.Temperature.HH.Setpoint')||0;\nvar Accel           = global.get('Speed_Control.Accel')||0;\nvar Deccel          = global.get('Speed_Control.Decel')||0;\n\nvar vector = [\n    Load_HH_Sp,     // 58\n    Load_LL_Sp,     // 59\n    PReference,     // 60\n    PIn_HH_Sp,      // 61\n    PIn_LL_Sp,      // 62\n    TIn_HH_Sp,      // 63\n    TDis_HH_Sp,     // 64\n    Mtr_Temp_HH_Sp, // 65\n    Accel,          // 66\n    Deccel          // 67\n]\n\nmsg.payload = { \n    value: vector, \n    'fc': 16, \n    'unitid': 1, \n    'address': 58, \n    'quantity': vector.length\n} \n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 420,
-        "y": 1640,
+        "x": 970,
+        "y": 2550,
         "wires": [
             [
-                "d2066f4.d47179",
-                "6ce3815b.73f94"
+                "d2066f4.d47179"
             ]
         ]
     },
@@ -74802,6 +75077,7 @@
         "id": "d41da57e.fda528",
         "type": "complete",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "scope": [
             "d54f3181.5d7ad",
@@ -74811,8 +75087,8 @@
             "4d839d32.72a8f4"
         ],
         "uncaught": false,
-        "x": 190,
-        "y": 1640,
+        "x": 640,
+        "y": 2590,
         "wires": [
             [
                 "8dd3e4dc.7b82c8"
@@ -74842,7 +75118,7 @@
         "ioFile": "",
         "useIOForPayload": false,
         "emptyMsgOnFail": false,
-        "x": 220,
+        "x": 530,
         "y": 1250,
         "wires": [
             [
@@ -74869,7 +75145,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 680,
+        "x": 1130,
         "y": 1250,
         "wires": [
             [
@@ -74892,7 +75168,7 @@
         "raw": false,
         "topic": "",
         "name": "",
-        "x": 1710,
+        "x": 2160,
         "y": 1250,
         "wires": []
     },
@@ -74919,7 +75195,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 1190,
+        "x": 1640,
         "y": 1250,
         "wires": [
             [
@@ -74979,7 +75255,7 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 1160,
+        "x": 1600,
         "y": 1290,
         "wires": []
     },
@@ -75010,7 +75286,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1380,
+        "x": 1830,
         "y": 1270,
         "wires": [
             [
@@ -75046,7 +75322,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1380,
+        "x": 1830,
         "y": 1230,
         "wires": [
             [
@@ -75066,7 +75342,7 @@
         "start": "",
         "inout": "out",
         "property": "payload",
-        "x": 830,
+        "x": 1280,
         "y": 1250,
         "wires": [
             [
@@ -75085,7 +75361,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 980,
+        "x": 1430,
         "y": 1250,
         "wires": [
             [
@@ -75105,7 +75381,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1540,
+        "x": 1990,
         "y": 1250,
         "wires": [
             [
@@ -75131,14 +75407,15 @@
         "id": "28b9d8d4.780938",
         "type": "link in",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "links": [
             "6d33fcb1.428484",
             "998f0e93.941f1",
             "ad87cee4.7dbb5"
         ],
-        "x": 245,
-        "y": 1690,
+        "x": 695,
+        "y": 2640,
         "wires": [
             [
                 "8dd3e4dc.7b82c8"
@@ -75149,14 +75426,15 @@
         "id": "f9984424.f2ea88",
         "type": "function",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "Modbus",
         "func": "var modbus = [\n    MSG(msg.payload[0]),\n    MSG(msg.payload[1]),\n    MSG(msg.payload[2]),\n    MSG(msg.payload[3]),\n    MSG(msg.payload[4]),\n    MSG(msg.payload[5]),\n    MSG(msg.payload[6]),\n    MSG(msg.payload[7]),\n]\nreturn modbus;\n\nfunction MSG(X){\n    return {payload: X}\n}\n",
         "outputs": 10,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 400,
-        "y": 1870,
+        "x": 710,
+        "y": 2780,
         "wires": [
             [
                 "22b4769d.fa73aa"
@@ -75206,6 +75484,7 @@
         "id": "22b4769d.fa73aa",
         "type": "switch",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "SpDiff",
         "property": "payload",
         "propertyType": "msg",
@@ -75219,8 +75498,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 610,
-        "y": 1690,
+        "x": 920,
+        "y": 2600,
         "wires": [
             [
                 "898a9e08.eb30d"
@@ -75231,6 +75510,7 @@
         "id": "7fcd7f44.da50a",
         "type": "switch",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "SpDiff",
         "property": "payload",
         "propertyType": "msg",
@@ -75244,8 +75524,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 610,
-        "y": 1730,
+        "x": 920,
+        "y": 2640,
         "wires": [
             [
                 "d49a58a4.182318"
@@ -75256,6 +75536,7 @@
         "id": "7e94d37b.d9ba6c",
         "type": "switch",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "SpDiff",
         "property": "payload",
         "propertyType": "msg",
@@ -75269,8 +75550,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 610,
-        "y": 1770,
+        "x": 920,
+        "y": 2680,
         "wires": [
             [
                 "f149f03c.2778"
@@ -75281,6 +75562,7 @@
         "id": "11a05a7f.1ef4b6",
         "type": "switch",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "SpDiff",
         "property": "payload",
         "propertyType": "msg",
@@ -75294,8 +75576,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 610,
-        "y": 1810,
+        "x": 920,
+        "y": 2720,
         "wires": [
             [
                 "7eb9f31b.5d87ac"
@@ -75306,6 +75588,7 @@
         "id": "39b7d6d0.170dda",
         "type": "switch",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "SpDiff",
         "property": "payload",
         "propertyType": "msg",
@@ -75319,8 +75602,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 610,
-        "y": 1850,
+        "x": 920,
+        "y": 2760,
         "wires": [
             [
                 "e848d5b7.89ed48"
@@ -75331,6 +75614,7 @@
         "id": "e7ce38e8.ddf7a8",
         "type": "switch",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "SpDiff",
         "property": "payload",
         "propertyType": "msg",
@@ -75344,8 +75628,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 610,
-        "y": 1890,
+        "x": 920,
+        "y": 2800,
         "wires": [
             [
                 "de525e4.80448a"
@@ -75356,6 +75640,7 @@
         "id": "30a1afd8.5fed9",
         "type": "switch",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "SpDiff",
         "property": "payload",
         "propertyType": "msg",
@@ -75369,8 +75654,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 610,
-        "y": 1930,
+        "x": 920,
+        "y": 2840,
         "wires": [
             [
                 "366809a8.54ae36"
@@ -75381,6 +75666,7 @@
         "id": "b9e47311.f3082",
         "type": "switch",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "SpDiff",
         "property": "payload",
         "propertyType": "msg",
@@ -75394,8 +75680,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 610,
-        "y": 1970,
+        "x": 920,
+        "y": 2880,
         "wires": [
             [
                 "e1b1ed5d.b46dc"
@@ -75406,6 +75692,7 @@
         "id": "898a9e08.eb30d",
         "type": "change",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "rules": [
             {
@@ -75421,8 +75708,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 840,
-        "y": 1690,
+        "x": 1150,
+        "y": 2600,
         "wires": [
             [
                 "cb121d99.6b0c6"
@@ -75433,6 +75720,7 @@
         "id": "d49a58a4.182318",
         "type": "change",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "rules": [
             {
@@ -75448,8 +75736,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 840,
-        "y": 1730,
+        "x": 1150,
+        "y": 2640,
         "wires": [
             [
                 "cb121d99.6b0c6"
@@ -75460,6 +75748,7 @@
         "id": "f149f03c.2778",
         "type": "change",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "rules": [
             {
@@ -75475,8 +75764,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 830,
-        "y": 1770,
+        "x": 1140,
+        "y": 2680,
         "wires": [
             [
                 "bdd292d2.61916"
@@ -75487,6 +75776,7 @@
         "id": "7eb9f31b.5d87ac",
         "type": "change",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "rules": [
             {
@@ -75502,8 +75792,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 870,
-        "y": 1810,
+        "x": 1180,
+        "y": 2720,
         "wires": [
             [
                 "54f813eb.c136ec"
@@ -75514,6 +75804,7 @@
         "id": "e848d5b7.89ed48",
         "type": "change",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "rules": [
             {
@@ -75529,8 +75820,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 870,
-        "y": 1850,
+        "x": 1180,
+        "y": 2760,
         "wires": [
             [
                 "54f813eb.c136ec"
@@ -75541,6 +75832,7 @@
         "id": "de525e4.80448a",
         "type": "change",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "rules": [
             {
@@ -75556,8 +75848,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 880,
-        "y": 1890,
+        "x": 1190,
+        "y": 2800,
         "wires": [
             [
                 "560afdd6.770de4"
@@ -75568,6 +75860,7 @@
         "id": "366809a8.54ae36",
         "type": "change",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "rules": [
             {
@@ -75583,8 +75876,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 900,
-        "y": 1930,
+        "x": 1210,
+        "y": 2840,
         "wires": [
             [
                 "9ecab94a.2f4f68"
@@ -75595,6 +75888,7 @@
         "id": "e1b1ed5d.b46dc",
         "type": "change",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "rules": [
             {
@@ -75610,8 +75904,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 880,
-        "y": 1970,
+        "x": 1190,
+        "y": 2880,
         "wires": [
             [
                 "78debc56.b9b7b4"
@@ -75622,78 +75916,85 @@
         "id": "cb121d99.6b0c6",
         "type": "link out",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "links": [
             "3e39b5ec.dda60a"
         ],
-        "x": 1155,
-        "y": 1730,
+        "x": 1465,
+        "y": 2640,
         "wires": []
     },
     {
         "id": "bdd292d2.61916",
         "type": "link out",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "links": [
             "d0a19b38.893ab8"
         ],
-        "x": 1155,
-        "y": 1770,
+        "x": 1465,
+        "y": 2680,
         "wires": []
     },
     {
         "id": "54f813eb.c136ec",
         "type": "link out",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "links": [
             "f1b01bce.f6aca8"
         ],
-        "x": 1155,
-        "y": 1810,
+        "x": 1465,
+        "y": 2720,
         "wires": []
     },
     {
         "id": "560afdd6.770de4",
         "type": "link out",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "links": [
             "28fd8b2e.2b37e4"
         ],
-        "x": 1155,
-        "y": 1890,
+        "x": 1465,
+        "y": 2800,
         "wires": []
     },
     {
         "id": "9ecab94a.2f4f68",
         "type": "link out",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "links": [
             "49ed0754.2b0538"
         ],
-        "x": 1155,
-        "y": 1930,
+        "x": 1465,
+        "y": 2840,
         "wires": []
     },
     {
         "id": "78debc56.b9b7b4",
         "type": "link out",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "links": [
             "e44c2e4e.679a2"
         ],
-        "x": 1155,
-        "y": 1970,
+        "x": 1465,
+        "y": 2880,
         "wires": []
     },
     {
         "id": "5a4c3f91.66de5",
         "type": "switch",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "SpDiff",
         "property": "payload",
         "propertyType": "msg",
@@ -75707,8 +76008,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 610,
-        "y": 2010,
+        "x": 920,
+        "y": 2920,
         "wires": [
             [
                 "2cd74731.e47058"
@@ -75719,6 +76020,7 @@
         "id": "1d2a31df.d8149e",
         "type": "switch",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "SpDiff",
         "property": "payload",
         "propertyType": "msg",
@@ -75732,8 +76034,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 610,
-        "y": 2050,
+        "x": 920,
+        "y": 2960,
         "wires": [
             [
                 "93b8513a.2e011"
@@ -75744,6 +76046,7 @@
         "id": "2cd74731.e47058",
         "type": "change",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "rules": [
             {
@@ -75759,8 +76062,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 810,
-        "y": 2010,
+        "x": 1120,
+        "y": 2920,
         "wires": [
             [
                 "ee762eb7.aef99"
@@ -75771,6 +76074,7 @@
         "id": "93b8513a.2e011",
         "type": "change",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "rules": [
             {
@@ -75786,8 +76090,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 810,
-        "y": 2050,
+        "x": 1120,
+        "y": 2960,
         "wires": [
             [
                 "ca5f96a1.874c58"
@@ -75798,24 +76102,26 @@
         "id": "ee762eb7.aef99",
         "type": "link out",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "links": [
             "2d0c4fa4.505a8"
         ],
-        "x": 1155,
-        "y": 2010,
+        "x": 1465,
+        "y": 2920,
         "wires": []
     },
     {
         "id": "ca5f96a1.874c58",
         "type": "link out",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "links": [
             "251a85e5.2591ca"
         ],
-        "x": 1155,
-        "y": 2050,
+        "x": 1465,
+        "y": 2960,
         "wires": []
     },
     {
@@ -75835,6 +76141,7 @@
         "id": "b803e401.b39198",
         "type": "inject",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "",
         "props": [
             {
@@ -75848,60 +76155,28 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 210,
-        "y": 1600,
+        "x": 660,
+        "y": 2550,
         "wires": [
             [
-                "8dd3e4dc.7b82c8"
+                "8dd3e4dc.7b82c8",
+                "18312819.54fd68"
             ]
         ]
-    },
-    {
-        "id": "6ce3815b.73f94",
-        "type": "debug",
-        "z": "6c7d2db7.37ef34",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 400,
-        "y": 1690,
-        "wires": []
-    },
-    {
-        "id": "41f08582.63a7bc",
-        "type": "debug",
-        "z": "6c7d2db7.37ef34",
-        "name": "",
-        "active": true,
-        "tosidebar": false,
-        "console": false,
-        "tostatus": true,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "payload",
-        "statusType": "auto",
-        "x": 890,
-        "y": 1640,
-        "wires": []
     },
     {
         "id": "19f40c8c.08b2c3",
         "type": "function",
         "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
         "name": "Retardo Lectura Mapa Modbus",
         "func": "var Counter = context.get(\"count\",\"memoryOnly\")||0;\nif(Counter <= 5){\n    Counter += 1;\n    context.set(\"count\",Counter,\"memoryOnly\");\n    return;\n}\nelse{\n    return msg;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 170,
-        "y": 1870,
+        "x": 480,
+        "y": 2780,
         "wires": [
             [
                 "f9984424.f2ea88"
@@ -76038,11 +76313,11 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 450,
+        "x": 760,
         "y": 1250,
         "wires": [
             [
-                "a941419b.07d0b"
+                "ce9c2a06.7d7468"
             ]
         ]
     },
@@ -76057,8 +76332,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 610,
-        "y": 1300,
+        "x": 1400,
+        "y": 1340,
         "wires": [
             [
                 "75ae9dfb.c587e4"
@@ -76076,8 +76351,8 @@
         "server": "3548b3b4.c8d65c",
         "emptyMsgOnFail": false,
         "keepMsgProperties": false,
-        "x": 830,
-        "y": 1300,
+        "x": 1620,
+        "y": 1340,
         "wires": [
             [],
             []
@@ -76092,8 +76367,8 @@
         "links": [
             "ad87cee4.7dbb5"
         ],
-        "x": 285,
-        "y": 1300,
+        "x": 1075,
+        "y": 1340,
         "wires": [
             [
                 "c7fb486e.cbe278"
@@ -76111,11 +76386,12 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 400,
-        "y": 1300,
+        "x": 1190,
+        "y": 1340,
         "wires": [
             [
-                "ee97766f.b938a8"
+                "ee97766f.b938a8",
+                "147476e5.8f75e9"
             ]
         ]
     },
@@ -76128,7 +76404,7 @@
         "links": [
             "59e817c2.295b38"
         ],
-        "x": 1645,
+        "x": 2095,
         "y": 1290,
         "wires": []
     },
@@ -76220,7 +76496,7 @@
         "g": "dde9e22c.88ef2",
         "name": "",
         "pauseType": "delay",
-        "timeout": "3",
+        "timeout": "1",
         "timeoutUnits": "seconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -76372,5 +76648,1768 @@
         "x": 4360,
         "y": 870,
         "wires": []
+    },
+    {
+        "id": "30c80316.8016dc",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "bf91bfd8.84eda",
+        "name": "Tensión Estado Link MBS",
+        "links": [
+            "75e84c68.225864",
+            "eef57205.0279"
+        ],
+        "x": 755,
+        "y": 250,
+        "wires": []
+    },
+    {
+        "id": "9556df44.42ebb",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "aa324282.4f554",
+        "name": "Carga Estado Link MBS",
+        "links": [
+            "f98d3684.f56598"
+        ],
+        "x": 755,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "64e91638.e5d088",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "f7a3cb7b.69e4d8",
+        "name": "Vibración Estados Link MBS",
+        "links": [
+            "d1846718.23b9d8",
+            "ee4a9db1.bd1eb"
+        ],
+        "x": 755,
+        "y": 690,
+        "wires": []
+    },
+    {
+        "id": "c3312994.ff0fb8",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "f7a3cb7b.69e4d8",
+        "name": "Corriente de fuga Estados MSB",
+        "links": [
+            "abab70b6.d82e"
+        ],
+        "x": 755,
+        "y": 810,
+        "wires": []
+    },
+    {
+        "id": "5f9e6187.aeb77",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "f7a3cb7b.69e4d8",
+        "name": "Presión de entrada Estado MBS",
+        "links": [
+            "65ef4f43.d9e79"
+        ],
+        "x": 755,
+        "y": 930,
+        "wires": []
+    },
+    {
+        "id": "c031a11.d7a7d6",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "f7a3cb7b.69e4d8",
+        "name": "Presión de descarga Estados MBS",
+        "links": [
+            "494ae468.d5a86c"
+        ],
+        "x": 755,
+        "y": 1050,
+        "wires": []
+    },
+    {
+        "id": "66854960.424778",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "f7a3cb7b.69e4d8",
+        "name": "Temperatura de entrada Estados MBS",
+        "links": [
+            "4d981e81.2969a"
+        ],
+        "x": 755,
+        "y": 1170,
+        "wires": []
+    },
+    {
+        "id": "f0565f48.a5877",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "f7a3cb7b.69e4d8",
+        "name": "Temperatura de motor Estados MBS",
+        "links": [
+            "96ad0efc.f1245"
+        ],
+        "x": 755,
+        "y": 1290,
+        "wires": []
+    },
+    {
+        "id": "fd04a4a3.98d468",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "f7a3cb7b.69e4d8",
+        "name": "Temperatura de descarga Estados MBS",
+        "links": [
+            "3005ff4f.08fea"
+        ],
+        "x": 755,
+        "y": 1410,
+        "wires": []
+    },
+    {
+        "id": "13747032.1e864",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "f7a3cb7b.69e4d8",
+        "name": "Presión de Tubing (THP) Estados MBS",
+        "links": [
+            "b93da0e2.39d41"
+        ],
+        "x": 755,
+        "y": 1530,
+        "wires": []
+    },
+    {
+        "id": "c4e47709.e84c88",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "f7a3cb7b.69e4d8",
+        "name": "Presión de Casing Estados MBS",
+        "links": [
+            "80b99eed.0adfc"
+        ],
+        "x": 755,
+        "y": 1650,
+        "wires": []
+    },
+    {
+        "id": "e149f7ce.895fb8",
+        "type": "link out",
+        "z": "6c7d2db7.37ef34",
+        "g": "f7a3cb7b.69e4d8",
+        "name": "Bus DC Estado Link MBS",
+        "links": [
+            "a680f602.d0a638"
+        ],
+        "x": 755,
+        "y": 1770,
+        "wires": []
+    },
+    {
+        "id": "4db5015.cde76",
+        "type": "change",
+        "z": "f4a6b35e.fd0a3",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "state",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 840,
+        "y": 690,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "991bfb61.826ba8",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "name": "",
+        "links": [],
+        "x": -25,
+        "y": 700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "eef57205.0279",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "links": [
+            "30c80316.8016dc"
+        ],
+        "x": 105,
+        "y": 1940,
+        "wires": [
+            [
+                "21fce78e.ebeaa8"
+            ]
+        ]
+    },
+    {
+        "id": "2d8cbfa9.4d256",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 310,
+        "y": 1940,
+        "wires": [
+            [
+                "72d8c268.ee2e5c"
+            ]
+        ]
+    },
+    {
+        "id": "21fce78e.ebeaa8",
+        "type": "rbe",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 190,
+        "y": 1940,
+        "wires": [
+            [
+                "2d8cbfa9.4d256"
+            ]
+        ]
+    },
+    {
+        "id": "72d8c268.ee2e5c",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Protections.Voltage.Status",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 530,
+        "y": 1940,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f98d3684.f56598",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "links": [
+            "9556df44.42ebb"
+        ],
+        "x": 105,
+        "y": 1980,
+        "wires": [
+            [
+                "a33a5a0f.9b5448"
+            ]
+        ]
+    },
+    {
+        "id": "a33a5a0f.9b5448",
+        "type": "rbe",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 190,
+        "y": 1980,
+        "wires": [
+            [
+                "dd44aaf.b842558"
+            ]
+        ]
+    },
+    {
+        "id": "dd44aaf.b842558",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 310,
+        "y": 1980,
+        "wires": [
+            [
+                "5b1577ec.9b4af8"
+            ]
+        ]
+    },
+    {
+        "id": "5b1577ec.9b4af8",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Protections.Load.Status",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 520,
+        "y": 1980,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d1846718.23b9d8",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "links": [
+            "64e91638.e5d088"
+        ],
+        "x": 105,
+        "y": 2020,
+        "wires": [
+            [
+                "14529b0b.973455"
+            ]
+        ]
+    },
+    {
+        "id": "14529b0b.973455",
+        "type": "rbe",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 190,
+        "y": 2020,
+        "wires": [
+            [
+                "42bd2d0f.94aac4"
+            ]
+        ]
+    },
+    {
+        "id": "42bd2d0f.94aac4",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 310,
+        "y": 2020,
+        "wires": [
+            [
+                "16b11081.a66aaf"
+            ]
+        ]
+    },
+    {
+        "id": "16b11081.a66aaf",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Protections.Vibration.Status",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 530,
+        "y": 2020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "abab70b6.d82e",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "links": [
+            "c3312994.ff0fb8"
+        ],
+        "x": 105,
+        "y": 2060,
+        "wires": [
+            [
+                "c61f9199.04ad9"
+            ]
+        ]
+    },
+    {
+        "id": "c61f9199.04ad9",
+        "type": "rbe",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 190,
+        "y": 2060,
+        "wires": [
+            [
+                "3579deb2.649902"
+            ]
+        ]
+    },
+    {
+        "id": "3579deb2.649902",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 310,
+        "y": 2060,
+        "wires": [
+            [
+                "43904762.a95398"
+            ]
+        ]
+    },
+    {
+        "id": "43904762.a95398",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Protections.Current.Leakage.Status",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 560,
+        "y": 2060,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "65ef4f43.d9e79",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "links": [
+            "5f9e6187.aeb77"
+        ],
+        "x": 105,
+        "y": 2100,
+        "wires": [
+            [
+                "738ce1b6.6ee83"
+            ]
+        ]
+    },
+    {
+        "id": "738ce1b6.6ee83",
+        "type": "rbe",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 190,
+        "y": 2100,
+        "wires": [
+            [
+                "6170deee.c5858"
+            ]
+        ]
+    },
+    {
+        "id": "6170deee.c5858",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 310,
+        "y": 2100,
+        "wires": [
+            [
+                "8da9e33f.1e002"
+            ]
+        ]
+    },
+    {
+        "id": "8da9e33f.1e002",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Protections.Intake.Pressure.Status",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 550,
+        "y": 2100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "494ae468.d5a86c",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "links": [
+            "c031a11.d7a7d6"
+        ],
+        "x": 105,
+        "y": 2140,
+        "wires": [
+            [
+                "28ea28c3.fe5848"
+            ]
+        ]
+    },
+    {
+        "id": "28ea28c3.fe5848",
+        "type": "rbe",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 190,
+        "y": 2140,
+        "wires": [
+            [
+                "b264fda7.d59ea"
+            ]
+        ]
+    },
+    {
+        "id": "b264fda7.d59ea",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 310,
+        "y": 2140,
+        "wires": [
+            [
+                "dd10a48f.5f6858"
+            ]
+        ]
+    },
+    {
+        "id": "dd10a48f.5f6858",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Protections.Discharge.Pressure.Status",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 570,
+        "y": 2140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4d981e81.2969a",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "links": [
+            "66854960.424778"
+        ],
+        "x": 105,
+        "y": 2180,
+        "wires": [
+            [
+                "45662b95.0ebc64"
+            ]
+        ]
+    },
+    {
+        "id": "45662b95.0ebc64",
+        "type": "rbe",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 190,
+        "y": 2180,
+        "wires": [
+            [
+                "952fbb3c.0de4c8"
+            ]
+        ]
+    },
+    {
+        "id": "952fbb3c.0de4c8",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 310,
+        "y": 2180,
+        "wires": [
+            [
+                "7a24ff55.5feaf"
+            ]
+        ]
+    },
+    {
+        "id": "7a24ff55.5feaf",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Protections.Intake.Temperature.Status",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 570,
+        "y": 2180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "96ad0efc.f1245",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "links": [
+            "f0565f48.a5877"
+        ],
+        "x": 105,
+        "y": 2220,
+        "wires": [
+            [
+                "5e319e6f.ce68"
+            ]
+        ]
+    },
+    {
+        "id": "5e319e6f.ce68",
+        "type": "rbe",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 190,
+        "y": 2220,
+        "wires": [
+            [
+                "331c91f7.cdadde"
+            ]
+        ]
+    },
+    {
+        "id": "331c91f7.cdadde",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 310,
+        "y": 2220,
+        "wires": [
+            [
+                "49e9024a.3e8d8c"
+            ]
+        ]
+    },
+    {
+        "id": "49e9024a.3e8d8c",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Protections.Motor.Temperature.Status",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 560,
+        "y": 2220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3005ff4f.08fea",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "links": [
+            "fd04a4a3.98d468"
+        ],
+        "x": 105,
+        "y": 2260,
+        "wires": [
+            [
+                "18389cc8.f2dd53"
+            ]
+        ]
+    },
+    {
+        "id": "18389cc8.f2dd53",
+        "type": "rbe",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 190,
+        "y": 2260,
+        "wires": [
+            [
+                "adf04b0b.ec88d8"
+            ]
+        ]
+    },
+    {
+        "id": "adf04b0b.ec88d8",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 310,
+        "y": 2260,
+        "wires": [
+            [
+                "207cf12c.487b4e"
+            ]
+        ]
+    },
+    {
+        "id": "207cf12c.487b4e",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Protections.Discharge.Temperature.Status",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 580,
+        "y": 2260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b93da0e2.39d41",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "links": [
+            "13747032.1e864"
+        ],
+        "x": 105,
+        "y": 2300,
+        "wires": [
+            [
+                "53e38264.c6173c"
+            ]
+        ]
+    },
+    {
+        "id": "53e38264.c6173c",
+        "type": "rbe",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 190,
+        "y": 2300,
+        "wires": [
+            [
+                "2a96ed81.66de02"
+            ]
+        ]
+    },
+    {
+        "id": "2a96ed81.66de02",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 310,
+        "y": 2300,
+        "wires": [
+            [
+                "15a41cda.8cfaf3"
+            ]
+        ]
+    },
+    {
+        "id": "15a41cda.8cfaf3",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Protections.Tubing.Status",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 530,
+        "y": 2300,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "80b99eed.0adfc",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "links": [
+            "c4e47709.e84c88"
+        ],
+        "x": 105,
+        "y": 2340,
+        "wires": [
+            [
+                "49ebd11f.bc40c"
+            ]
+        ]
+    },
+    {
+        "id": "49ebd11f.bc40c",
+        "type": "rbe",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 190,
+        "y": 2340,
+        "wires": [
+            [
+                "1e3299af.a33326"
+            ]
+        ]
+    },
+    {
+        "id": "1e3299af.a33326",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 310,
+        "y": 2340,
+        "wires": [
+            [
+                "687e827f.e743bc"
+            ]
+        ]
+    },
+    {
+        "id": "687e827f.e743bc",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Protections.Casing.Status",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 530,
+        "y": 2340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a680f602.d0a638",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "links": [
+            "e149f7ce.895fb8"
+        ],
+        "x": 105,
+        "y": 2380,
+        "wires": [
+            [
+                "f740130c.150a9"
+            ]
+        ]
+    },
+    {
+        "id": "f740130c.150a9",
+        "type": "rbe",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 190,
+        "y": 2380,
+        "wires": [
+            [
+                "97b84d8d.59486"
+            ]
+        ]
+    },
+    {
+        "id": "97b84d8d.59486",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 310,
+        "y": 2380,
+        "wires": [
+            [
+                "75c5342b.04f0ac"
+            ]
+        ]
+    },
+    {
+        "id": "75c5342b.04f0ac",
+        "type": "change",
+        "z": "6c7d2db7.37ef34",
+        "g": "9d081424.4d82d8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Protections.BusDC.Status",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 530,
+        "y": 2380,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "18312819.54fd68",
+        "type": "function",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "Estado Protecciones MBS",
+        "func": "var Voltage         = global.get(\"Protections.Voltage.Status\",'memoryOnly')||0;\nvar Current         = global.get(\"Protections.Current.Status\",'memoryOnly')||0;\nvar Vibration       = global.get(\"Protections.Vibration.Status\",'memoryOnly')||0;\nvar InPressure      = global.get(\"Protections.Intake.Pressure.Status\",'memoryOnly')||0;\nvar InTemperaure    = global.get(\"Protections.Intake.Temperature.Status\",'memoryOnly')||0;\nvar DisPressure     = global.get(\"Protections.Discharge.Pressure.Status\",'memoryOnly')||0;\nvar DisTemperature  = global.get(\"Protections.Discharge.Temperature.Status\",'memoryOnly')||0;\nvar MtrTemp         = global.get(\"Protections.Motor.Temperature.Status\",'memoryOnly')||0;\nvar Tubing          = global.get(\"Protections.Tubing.Status\",'memoryOnly')||0;\nvar Casing          = global.get(\"Protections.Casing.Status\",'memoryOnly')||0;\n\nvar vector = [\n    Voltage,        // 68\n    Current,        // 69\n    Vibration,      // 70\n    InPressure,     // 71\n    InTemperaure,   // 72\n    DisPressure,    // 73\n    DisTemperature, // 74\n    MtrTemp,        // 75\n    Tubing,         // 76\n    Casing          // 77\n]\n\nmsg.payload = { \n    value: vector, \n    'fc': 16, \n    'unitid': 1, \n    'address': 68, \n    'quantity': vector.length\n} \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 970,
+        "y": 2510,
+        "wires": [
+            [
+                "d2066f4.d47179"
+            ]
+        ]
+    },
+    {
+        "id": "66c4a9b8.ae31f8",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "links": [
+            "ad87cee4.7dbb5"
+        ],
+        "x": 695,
+        "y": 2470,
+        "wires": [
+            [
+                "18312819.54fd68"
+            ]
+        ]
+    },
+    {
+        "id": "8b6335c4.c877f8",
+        "type": "inject",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 660,
+        "y": 2510,
+        "wires": [
+            [
+                "18312819.54fd68"
+            ]
+        ]
+    },
+    {
+        "id": "f78d5a67.c13168",
+        "type": "delay",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "150",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1540,
+        "y": 2790,
+        "wires": [
+            [
+                "a5c076e6.b3cdf8",
+                "85366b43.f6bda8"
+            ]
+        ]
+    },
+    {
+        "id": "a5c076e6.b3cdf8",
+        "type": "link out",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "Leer Cubloc Protecciones MSB",
+        "links": [
+            "dd479ce7.53bf1"
+        ],
+        "x": 1665,
+        "y": 2790,
+        "wires": []
+    },
+    {
+        "id": "85366b43.f6bda8",
+        "type": "delay",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "150",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1540,
+        "y": 2830,
+        "wires": [
+            [
+                "bc8762e.9b52fa",
+                "c8eb68ae.c19118"
+            ]
+        ]
+    },
+    {
+        "id": "bc8762e.9b52fa",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "Estado Protecciones MBS",
+        "func": "var Voltage         = global.get(\"Protections.Voltage.Status\",'memoryOnly')||0;\nvar Current         = global.get(\"Protections.Current.Status\",'memoryOnly')||0;\nvar Vibration       = global.get(\"Protections.Vibration.Status\",'memoryOnly')||0;\nvar InPressure      = global.get(\"Protections.Intake.Pressure.Status\",'memoryOnly')||0;\nvar InTemperaure    = global.get(\"Protections.Intake.Temperature.Status\",'memoryOnly')||0;\nvar DisPressure     = global.get(\"Protections.Discharge.Pressure.Status\",'memoryOnly')||0;\nvar DisTemperature  = global.get(\"Protections.Discharge.Temperature.Status\",'memoryOnly')||0;\nvar MtrTemp         = global.get(\"Protections.Motor.Temperature.Status\",'memoryOnly')||0;\nvar Tubing          = global.get(\"Protections.Tubing.Status\",'memoryOnly')||0;\nvar Casing          = global.get(\"Protections.Casing.Status\",'memoryOnly')||0;\n\nvar vector = [\n    Voltage,        // 68\n    Current,        // 69\n    Vibration,      // 70\n    InPressure,     // 71\n    InTemperaure,   // 72\n    DisPressure,    // 73\n    DisTemperature, // 74\n    MtrTemp,        // 75\n    Tubing,         // 76\n    Casing          // 77\n]\n\nmsg.payload = { \n    value: vector, \n    'fc': 16, \n    'unitid': 1, \n    'address': 28672+20+68, \n    'quantity': vector.length\n} \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1770,
+        "y": 2830,
+        "wires": [
+            [
+                "7902854d.6ff0fc"
+            ]
+        ]
+    },
+    {
+        "id": "c8eb68ae.c19118",
+        "type": "delay",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "150",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1540,
+        "y": 2870,
+        "wires": [
+            [
+                "b1cb2195.c8a37",
+                "df086dcc.f3e5"
+            ]
+        ]
+    },
+    {
+        "id": "b1cb2195.c8a37",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "Mapa Modbus Protecciones",
+        "func": "var Load_HH_Sp      = global.get('Protections.Load.HH.Setpoint')||0;\nvar Load_LL_Sp      = global.get('Protections.Load.LL.Setpoint')||0;\nvar PReference      = global.get('Prolonged_Reference.Time')||0;\nvar PIn_HH_Sp       = global.get('Protections.Intake.Pressure.HH.Setpoint')||0;\nvar PIn_LL_Sp       = global.get('Protections.Intake.Pressure.LL.Setpoint')||0;\nvar TIn_HH_Sp       = global.get('Protections.Intake.Temperature.HH.Setpoint')||0;\nvar TDis_HH_Sp      = global.get('Protections.Discharge.Temperature.HH.Setpoint')||0;\nvar Mtr_Temp_HH_Sp  = global.get('Protections.Motor.Temperature.HH.Setpoint')||0;\nvar Accel           = global.get('Speed_Control.Accel')||0;\nvar Deccel          = global.get('Speed_Control.Decel')||0;\n\nvar vector = [\n    Load_HH_Sp,     // 58\n    Load_LL_Sp,     // 59\n    PReference,     // 60\n    PIn_HH_Sp,      // 61\n    PIn_LL_Sp,      // 62\n    TIn_HH_Sp,      // 63\n    TDis_HH_Sp,     // 64\n    Mtr_Temp_HH_Sp, // 65\n    Accel,          // 66\n    Deccel          // 67\n]\n\nmsg.payload = { \n    value: vector, \n    'fc': 16, \n    'unitid': 1, \n    'address': 28672+20+58,\n    'quantity': vector.length\n} \n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1770,
+        "y": 2870,
+        "wires": [
+            [
+                "7902854d.6ff0fc"
+            ]
+        ]
+    },
+    {
+        "id": "57667282.8fc56c",
+        "type": "inject",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "20",
+        "payloadType": "num",
+        "x": 2920,
+        "y": 200,
+        "wires": [
+            [
+                "776db11c.07117"
+            ]
+        ]
+    },
+    {
+        "id": "8cd9b627.3e1fe8",
+        "type": "modbus-flex-getter",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "showStatusActivities": false,
+        "showErrors": false,
+        "logIOActivities": false,
+        "server": "f630cb55.8d18e8",
+        "useIOFile": false,
+        "ioFile": "",
+        "useIOForPayload": false,
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 240,
+        "y": 2870,
+        "wires": [
+            [
+                "5530c155.8e88f"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "dd479ce7.53bf1",
+        "type": "link in",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "",
+        "links": [
+            "a5c076e6.b3cdf8"
+        ],
+        "x": 105,
+        "y": 2870,
+        "wires": [
+            [
+                "8cd9b627.3e1fe8"
+            ]
+        ]
+    },
+    {
+        "id": "5530c155.8e88f",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "RTU",
+        "property": "SCADA.Type",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "RTU",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 410,
+        "y": 2870,
+        "wires": [
+            [
+                "888867d4.3eb148"
+            ]
+        ]
+    },
+    {
+        "id": "fd592d35.6763e",
+        "type": "switch",
+        "z": "6c7d2db7.37ef34",
+        "g": "527fb039.aa59f",
+        "name": "TCP",
+        "property": "SCADA.Type",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "TCP",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 410,
+        "y": 2820,
+        "wires": [
+            [
+                "888867d4.3eb148"
+            ]
+        ]
+    },
+    {
+        "id": "147476e5.8f75e9",
+        "type": "function",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "name": "Sentido de giro remoto",
+        "func": "\nmsg.payload = { \n    value: msg.payload, \n    'fc': 6, \n    'unitid': 1, \n    'address': 28672+20+57, \n    'quantity':1   \n}\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload.address});\nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1400,
+        "y": 1390,
+        "wires": [
+            [
+                "b468d7fd.170728"
+            ]
+        ]
+    },
+    {
+        "id": "b468d7fd.170728",
+        "type": "modbus-flex-write",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "name": "",
+        "showStatusActivities": false,
+        "showErrors": false,
+        "server": "f630cb55.8d18e8",
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 1620,
+        "y": 1390,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "8e0bd418.ddd0a8",
+        "type": "function",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "name": "Retardo Lectura Mapa Modbus",
+        "func": "var Counter = context.get(\"count\",\"memoryOnly\")||0;\nif(Counter <= 5){\n    Counter += 1;\n    context.set(\"count\",Counter,\"memoryOnly\");\n    return;\n}\nelse{\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 760,
+        "y": 1300,
+        "wires": [
+            [
+                "262ed40b.412f1c"
+            ]
+        ]
+    },
+    {
+        "id": "9b2f7ea6.27b4a",
+        "type": "modbus-flex-getter",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "name": "",
+        "showStatusActivities": false,
+        "showErrors": false,
+        "logIOActivities": false,
+        "server": "f630cb55.8d18e8",
+        "useIOFile": false,
+        "ioFile": "",
+        "useIOForPayload": false,
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 510,
+        "y": 1300,
+        "wires": [
+            [
+                "8e0bd418.ddd0a8"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "1b2dd03e.2d9c2",
+        "type": "function",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "name": "Sentido de giro remoto",
+        "func": "\nmsg.payload = { \n    value: msg.payload, \n    'fc': 6, \n    'unitid': 1, \n    'address': 28672+20+57, \n    'quantity':1   \n}\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload.address});\nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 280,
+        "y": 1300,
+        "wires": [
+            [
+                "9b2f7ea6.27b4a"
+            ]
+        ]
+    },
+    {
+        "id": "df086dcc.f3e5",
+        "type": "delay",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "150",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1540,
+        "y": 2910,
+        "wires": [
+            [
+                "8f903bea.3e5c78"
+            ]
+        ]
+    },
+    {
+        "id": "8f903bea.3e5c78",
+        "type": "link out",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "Sentido de giro remoto",
+        "links": [
+            "367aaa61.59c686"
+        ],
+        "x": 1665,
+        "y": 2910,
+        "wires": []
+    },
+    {
+        "id": "367aaa61.59c686",
+        "type": "link in",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "name": "",
+        "links": [
+            "8f903bea.3e5c78"
+        ],
+        "x": 135,
+        "y": 1300,
+        "wires": [
+            [
+                "1b2dd03e.2d9c2"
+            ]
+        ]
+    },
+    {
+        "id": "ce9c2a06.7d7468",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "name": "TCP",
+        "property": "SCADA.Type",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "TCP",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 960,
+        "y": 1250,
+        "wires": [
+            [
+                "a941419b.07d0b"
+            ]
+        ]
+    },
+    {
+        "id": "262ed40b.412f1c",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "e52ecc43.c86a5",
+        "name": "RTU",
+        "property": "SCADA.Type",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "RTU",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 960,
+        "y": 1300,
+        "wires": [
+            [
+                "a941419b.07d0b"
+            ]
+        ]
     }
 ]

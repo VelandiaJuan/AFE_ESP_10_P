@@ -1613,7 +1613,9 @@
             "f981eb1b.025a78"
         ],
         "x": 58,
-        "y": 63
+        "y": 63,
+        "w": 1430,
+        "h": 1824
     },
     {
         "id": "6889f2bb.892f0c",
@@ -2079,7 +2081,9 @@
             "cb0d324.9efa3d"
         ],
         "x": 1634,
-        "y": 149
+        "y": 149,
+        "w": 972,
+        "h": 592
     },
     {
         "id": "35440cdc.e5d764",
@@ -2132,7 +2136,9 @@
             "5bf3fb88.25b264"
         ],
         "x": 2614,
-        "y": 149
+        "y": 149,
+        "w": 932,
+        "h": 592
     },
     {
         "id": "888265d9.138288",
@@ -2185,7 +2191,9 @@
             "ea97a2e4.6a67d"
         ],
         "x": 3554,
-        "y": 149
+        "y": 149,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "54b245d3.9431dc",
@@ -2238,7 +2246,9 @@
             "b636759a.1af358"
         ],
         "x": 1634,
-        "y": 749
+        "y": 749,
+        "w": 1052,
+        "h": 592
     },
     {
         "id": "58747709.2ffd98",
@@ -2291,7 +2301,9 @@
             "86aeff9f.23163"
         ],
         "x": 2694,
-        "y": 749
+        "y": 749,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "4b571a8f.d70524",
@@ -2344,7 +2356,9 @@
             "3368017a.de213e"
         ],
         "x": 3794,
-        "y": 749
+        "y": 749,
+        "w": 1172,
+        "h": 592
     },
     {
         "id": "b7d3914a.2a17",
@@ -2397,7 +2411,9 @@
             "ada97752.874638"
         ],
         "x": 1634,
-        "y": 1349
+        "y": 1349,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "a3b836be.d5cde8",
@@ -2450,7 +2466,9 @@
             "739b4fcf.1c18"
         ],
         "x": 2734,
-        "y": 1349
+        "y": 1349,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "53806295.7831ac",
@@ -2503,7 +2521,9 @@
             "4fe0e535.f16e5c"
         ],
         "x": 3834,
-        "y": 1349
+        "y": 1349,
+        "w": 1072,
+        "h": 592
     },
     {
         "id": "dabbb1f4.9b65e",
@@ -2519,7 +2539,9 @@
             "a72a1eba.19d99"
         ],
         "x": 1634,
-        "y": 59
+        "y": 59,
+        "w": 132,
+        "h": 82
     },
     {
         "id": "96de1dd.d202ce",
@@ -2572,7 +2594,9 @@
             "5f1b7de2.8dd7c4"
         ],
         "x": 1634,
-        "y": 1949
+        "y": 1949,
+        "w": 972,
+        "h": 592
     },
     {
         "id": "d0981fa6.05ffc",
@@ -2625,7 +2649,9 @@
             "9481caa7.5d67e8"
         ],
         "x": 2615,
-        "y": 1959
+        "y": 1959,
+        "w": 941,
+        "h": 592
     },
     {
         "id": "4b9b7d58.136ec4",
@@ -2678,7 +2704,9 @@
             "c2a4f4bb.6e2aa8"
         ],
         "x": 3565,
-        "y": 1959
+        "y": 1959,
+        "w": 1092,
+        "h": 592
     },
     {
         "id": "d84615.919209e8",
@@ -2781,12 +2809,14 @@
             "bc8762e.9b52fa",
             "b1cb2195.c8a37",
             "df086dcc.f3e5",
-            "8f903bea.3e5c78"
+            "8f903bea.3e5c78",
+            "efcf76de.3c9038",
+            "73a225c4.f6a26c"
         ],
         "x": 1304,
         "y": 2509,
         "w": 1132,
-        "h": 402
+        "h": 442
     },
     {
         "id": "1a2c71e0.bd05fe",
@@ -2934,7 +2964,9 @@
             "75c5342b.04f0ac"
         ],
         "x": 64,
-        "y": 1899
+        "y": 1899,
+        "w": 742,
+        "h": 522
     },
     {
         "id": "b9b6bdec.0d911",
@@ -3015,7 +3047,9 @@
             "fd592d35.6763e"
         ],
         "x": 64,
-        "y": 2429
+        "y": 2429,
+        "w": 1442,
+        "h": 572
     },
     {
         "id": "675af0d1.a9fc4",
@@ -3231,7 +3265,9 @@
             "9b21d21b.7ae4d"
         ],
         "x": 844,
-        "y": 89
+        "y": 89,
+        "w": 522,
+        "h": 632
     },
     {
         "id": "aa324282.4f554",
@@ -3259,7 +3295,9 @@
             "9556df44.42ebb"
         ],
         "x": 84,
-        "y": 299
+        "y": 299,
+        "w": 712,
+        "h": 222
     },
     {
         "id": "bf91bfd8.84eda",
@@ -3285,7 +3323,9 @@
             "30c80316.8016dc"
         ],
         "x": 84,
-        "y": 89
+        "y": 89,
+        "w": 712,
+        "h": 202
     },
     {
         "id": "f58295c0.4d4228",
@@ -3302,7 +3342,9 @@
             "3cf0ba38.d2e4f6"
         ],
         "x": 848,
-        "y": 733
+        "y": 733,
+        "w": 614,
+        "h": 424
     },
     {
         "id": "f7a3cb7b.69e4d8",
@@ -3401,7 +3443,9 @@
             "e149f7ce.895fb8"
         ],
         "x": 84,
-        "y": 529
+        "y": 529,
+        "w": 712,
+        "h": 1332
     },
     {
         "id": "11f55817.139c18",
@@ -5717,7 +5761,9 @@
             "5805c268.31f02c"
         ],
         "x": 874,
-        "y": 759
+        "y": 759,
+        "w": 562,
+        "h": 242
     },
     {
         "id": "3cf0ba38.d2e4f6",
@@ -5735,7 +5781,9 @@
             "2f5679af.c10006"
         ],
         "x": 874,
-        "y": 1009
+        "y": 1009,
+        "w": 172,
+        "h": 122
     },
     {
         "id": "38ea9e35.6d66c2",
@@ -72651,7 +72699,7 @@
                 "p": "payload"
             }
         ],
-        "repeat": "2",
+        "repeat": "2.5",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
@@ -77222,7 +77270,8 @@
         "y": 2870,
         "wires": [
             [
-                "8f903bea.3e5c78"
+                "8f903bea.3e5c78",
+                "efcf76de.3c9038"
             ]
         ]
     },
@@ -78533,6 +78582,49 @@
         "wires": [
             [
                 "888867d4.3eb148"
+            ]
+        ]
+    },
+    {
+        "id": "efcf76de.3c9038",
+        "type": "delay",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "200",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1540,
+        "y": 2910,
+        "wires": [
+            [
+                "73a225c4.f6a26c"
+            ]
+        ]
+    },
+    {
+        "id": "73a225c4.f6a26c",
+        "type": "function",
+        "z": "e86f0ca4.7feb5",
+        "g": "3d68b202.2bc67e",
+        "name": "Mapa Modbus Protecciones",
+        "func": "var Load_HH_Sp      = global.get('Protections.Load.HH.Setpoint')||0;\nvar Load_LL_Sp      = global.get('Protections.Load.LL.Setpoint')||0;\nvar PReference      = global.get('Prolonged_Reference.Time')||0;\nvar PIn_HH_Sp       = global.get('Protections.Intake.Pressure.HH.Setpoint')||0;\nvar PIn_LL_Sp       = global.get('Protections.Intake.Pressure.LL.Setpoint')||0;\nvar TIn_HH_Sp       = global.get('Protections.Intake.Temperature.HH.Setpoint')||0;\nvar TDis_HH_Sp      = global.get('Protections.Discharge.Temperature.HH.Setpoint')||0;\nvar Mtr_Temp_HH_Sp  = global.get('Protections.Motor.Temperature.HH.Setpoint')||0;\nvar Accel           = global.get('Speed_Control.Accel')||0;\nvar Deccel          = global.get('Speed_Control.Decel')||0;\n\nvar vector = [\n    Load_HH_Sp,     // 58\n    Load_LL_Sp,     // 59\n    PReference,     // 60\n    PIn_HH_Sp,      // 61\n    PIn_LL_Sp,      // 62\n    TIn_HH_Sp,      // 63\n    TDis_HH_Sp,     // 64\n    Mtr_Temp_HH_Sp, // 65\n    Accel,          // 66\n    Deccel          // 67\n]\n\nmsg.payload = { \n    value: vector, \n    'fc': 16, \n    'unitid': 1, \n    'address': 28672+20+58,\n    'quantity': vector.length\n} \n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1770,
+        "y": 2910,
+        "wires": [
+            [
+                "7902854d.6ff0fc"
             ]
         ]
     }

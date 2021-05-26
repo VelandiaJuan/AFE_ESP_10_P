@@ -1671,7 +1671,7 @@
         ],
         "x": 92,
         "y": 17,
-        "w": 4120,
+        "w": 4450,
         "h": 1166
     },
     {
@@ -1792,29 +1792,6 @@
         ],
         "x": 94,
         "y": 1439
-    },
-    {
-        "id": "8a437085.d2b8",
-        "type": "group",
-        "z": "8ba0552a.e27ca8",
-        "name": "Actualizar librería AFE",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "6f9f13ef.fb565c",
-            "73f3cb42.e412c4",
-            "b2068e1d.c9d9",
-            "bf48213c.3548c",
-            "129d922.5d7c86e",
-            "2cd9e470.7e562c",
-            "2dae23d1.de8fec",
-            "849c9546.4f8a58"
-        ],
-        "x": 14,
-        "y": 21.5,
-        "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
     },
     {
         "id": "262051d5.79c84e",
@@ -2000,7 +1977,7 @@
             "52df689b.264478"
         ],
         "x": 4194,
-        "y": 1469,
+        "y": 1499,
         "w": 712,
         "h": 82
     },
@@ -2025,7 +2002,7 @@
             "ec35814f.e4c98"
         ],
         "x": 4194,
-        "y": 1559,
+        "y": 1589,
         "w": 752,
         "h": 242
     },
@@ -2954,7 +2931,7 @@
             "6fe68481.e69d5c"
         ],
         "x": 4194,
-        "y": 1809,
+        "y": 1839,
         "w": 422,
         "h": 122
     },
@@ -3019,6 +2996,54 @@
         ],
         "x": 64,
         "y": 2429
+    },
+    {
+        "id": "8a437085.d2b8",
+        "type": "group",
+        "z": "8ba0552a.e27ca8",
+        "name": "Actualizar librería AFE",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "6f9f13ef.fb565c",
+            "73f3cb42.e412c4",
+            "b2068e1d.c9d9",
+            "bf48213c.3548c",
+            "129d922.5d7c86e",
+            "2cd9e470.7e562c",
+            "2dae23d1.de8fec",
+            "849c9546.4f8a58"
+        ],
+        "x": 14,
+        "y": 21.5,
+        "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
+    },
+    {
+        "id": "65bfe6a8.c0a838",
+        "type": "group",
+        "z": "e86f0ca4.7feb5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e4748b80.aba188",
+            "ba8d7a29.e44068",
+            "acde7ff6.51e5b",
+            "29c3427.185e8be",
+            "54bd02d9.5107ac"
+        ],
+        "x": 4194,
+        "y": 1969,
+        "w": 472,
+        "h": 202
     },
     {
         "id": "675af0d1.a9fc4",
@@ -5036,11 +5061,16 @@
             "cc746868.3a1298",
             "8bd29002.2e3d7",
             "46cc6143.4abf6",
-            "57667282.8fc56c"
+            "57667282.8fc56c",
+            "23fbe207.7b1ede",
+            "1a719c26.34c704",
+            "3ca904fc.10f40c",
+            "542838ab.43ffb8",
+            "d40387aa.734878"
         ],
-        "x": 2574,
+        "x": 2514,
         "y": 49,
-        "w": 1612,
+        "w": 2002,
         "h": 642
     },
     {
@@ -59262,7 +59292,7 @@
         ],
         "allowColorForValueInMessage": false,
         "name": "Main",
-        "x": 3990,
+        "x": 4320,
         "y": 90,
         "wires": []
     },
@@ -59317,7 +59347,7 @@
         ],
         "allowColorForValueInMessage": false,
         "name": "Menú",
-        "x": 3990,
+        "x": 4320,
         "y": 130,
         "wires": []
     },
@@ -59334,7 +59364,7 @@
         "label": "Referencia actual:",
         "format": "{{msg.payload}}Hz",
         "layout": "row-left",
-        "x": 3910,
+        "x": 4240,
         "y": 330,
         "wires": []
     },
@@ -59349,7 +59379,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 3360,
+        "x": 3690,
         "y": 130,
         "wires": [
             [
@@ -59368,7 +59398,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 3540,
+        "x": 3870,
         "y": 130,
         "wires": [
             [
@@ -59387,7 +59417,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 3710,
+        "x": 4040,
         "y": 130,
         "wires": [
             [
@@ -59416,7 +59446,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3170,
+        "x": 3500,
         "y": 130,
         "wires": [
             [
@@ -59437,7 +59467,7 @@
         "label": "Vel: ",
         "format": "{{msg.payload}}Hz",
         "layout": "row-left",
-        "x": 3870,
+        "x": 4200,
         "y": 410,
         "wires": []
     },
@@ -59454,7 +59484,7 @@
         "label": "Vel: ",
         "format": "{{msg.payload}}Hz",
         "layout": "row-left",
-        "x": 3870,
+        "x": 4200,
         "y": 450,
         "wires": []
     },
@@ -59471,7 +59501,7 @@
         "label": "Velocidad",
         "format": "<font size = 8px> {{msg.payload}}Hz",
         "layout": "col-center",
-        "x": 3880,
+        "x": 4210,
         "y": 370,
         "wires": []
     },
@@ -59488,7 +59518,7 @@
         "label": "Corriente salida",
         "format": "<font size = 8px> {{msg.payload}}A",
         "layout": "col-center",
-        "x": 3900,
+        "x": 4230,
         "y": 170,
         "wires": []
     },
@@ -59505,7 +59535,7 @@
         "label": "Bus DC",
         "format": "<font size = 8px> {{msg.payload}}V",
         "layout": "col-center",
-        "x": 3880,
+        "x": 4210,
         "y": 290,
         "wires": []
     },
@@ -59522,7 +59552,7 @@
         "label": "Potencia",
         "format": "<font size = 8px> {{msg.payload}}kW",
         "layout": "col-center",
-        "x": 3880,
+        "x": 4210,
         "y": 250,
         "wires": []
     },
@@ -59539,7 +59569,7 @@
         "label": "Tensión Salida",
         "format": "<font size = 8px> {{msg.payload}}V",
         "layout": "col-center",
-        "x": 3900,
+        "x": 4230,
         "y": 210,
         "wires": []
     },
@@ -59563,7 +59593,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3180,
+        "x": 3510,
         "y": 170,
         "wires": [
             [
@@ -59600,7 +59630,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3460,
+        "x": 3790,
         "y": 170,
         "wires": [
             [
@@ -59629,7 +59659,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3460,
+        "x": 3790,
         "y": 210,
         "wires": [
             [
@@ -59657,7 +59687,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3460,
+        "x": 3790,
         "y": 250,
         "wires": [
             [
@@ -59685,7 +59715,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3430,
+        "x": 3760,
         "y": 290,
         "wires": [
             [
@@ -59714,7 +59744,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3460,
+        "x": 3790,
         "y": 330,
         "wires": [
             [
@@ -59742,7 +59772,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3430,
+        "x": 3760,
         "y": 370,
         "wires": [
             [
@@ -59762,8 +59792,8 @@
         "scope": [
             "6c83c496.5eb8ec"
         ],
-        "x": 2690,
-        "y": 200,
+        "x": 2630,
+        "y": 120,
         "wires": [
             [
                 "8bd29002.2e3d7"
@@ -59776,13 +59806,13 @@
         "z": "5f404c88.fa75a4",
         "g": "dde9e22c.88ef2",
         "name": "Arranque del Drive",
-        "func": "if(msg.payload == 'online'){\n    context.set('status',true,'memoryOnly');\n    node.status({fill:\"green\",shape:\"dot\",text:msg.payload});\n\n    //msg.payload = 10;\n    return msg;\n}\nelse if(msg.payload != 'online'){\n    context.set('status',false,'memoryOnly');\n    node.status({fill:\"red\",shape:\"dot\",text:msg.payload});\n    return;\n}",
+        "func": "if(msg.payload == 'online'){\n    context.set('status',true,'memoryOnly');\n    node.status({fill:\"green\",shape:\"dot\",text:msg.payload});\n    return msg;\n}\nelse if(msg.payload != 'online'){\n    context.set('status',false,'memoryOnly');\n    node.status({fill:\"red\",shape:\"dot\",text:msg.payload});\n    return;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 2880,
-        "y": 280,
+        "x": 2810,
+        "y": 200,
         "wires": [
             [
                 "5fd3049a.ba921c",
@@ -59800,7 +59830,7 @@
         "links": [
             "b234b8c9.aaba78"
         ],
-        "x": 3595,
+        "x": 3925,
         "y": 90,
         "wires": [
             [
@@ -59821,7 +59851,7 @@
         "label": "Porcentaje de Velocidad",
         "format": "<font size = 8px> {{msg.payload}}%",
         "layout": "col-center",
-        "x": 4050,
+        "x": 4380,
         "y": 490,
         "wires": []
     },
@@ -59836,7 +59866,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 3700,
+        "x": 4030,
         "y": 490,
         "wires": [
             [
@@ -59857,7 +59887,7 @@
         "label": "Factor potencia",
         "format": "<font size = 8px> {{msg.payload}}",
         "layout": "col-center",
-        "x": 3900,
+        "x": 4230,
         "y": 530,
         "wires": []
     },
@@ -59881,7 +59911,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3470,
+        "x": 3800,
         "y": 530,
         "wires": [
             [
@@ -59898,7 +59928,7 @@
         "links": [
             "3a8d51e1.99e71e"
         ],
-        "x": 3585,
+        "x": 3915,
         "y": 190,
         "wires": []
     },
@@ -59910,7 +59940,7 @@
         "endpoint": "5a40295d.6caa18",
         "variable": "TimeOut",
         "name": "",
-        "x": 3230,
+        "x": 3210,
         "y": 280,
         "wires": []
     },
@@ -59924,7 +59954,7 @@
         "variable": "PF755T_DLReading_0",
         "diff": true,
         "name": "",
-        "x": 2720,
+        "x": 3050,
         "y": 150,
         "wires": [
             [
@@ -59943,7 +59973,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 2950,
+        "x": 3280,
         "y": 150,
         "wires": [
             [
@@ -59962,7 +59992,7 @@
             "d05624d4.9c7ea8",
             "37528c32.e720c4"
         ],
-        "x": 3585,
+        "x": 3915,
         "y": 310,
         "wires": []
     },
@@ -64106,178 +64136,6 @@
         ]
     },
     {
-        "id": "6f9f13ef.fb565c",
-        "type": "inject",
-        "z": "8ba0552a.e27ca8",
-        "g": "8a437085.d2b8",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 130,
-        "y": 70,
-        "wires": [
-            [
-                "73f3cb42.e412c4"
-            ]
-        ]
-    },
-    {
-        "id": "73f3cb42.e412c4",
-        "type": "exec",
-        "z": "8ba0552a.e27ca8",
-        "g": "8a437085.d2b8",
-        "command": "sudo rm ~/.node-red/node_modules/nodepccc/nodePCCC.js",
-        "addpay": false,
-        "append": "",
-        "useSpawn": "false",
-        "timer": "",
-        "oldrc": false,
-        "name": "Eliminar librería PCCC actual",
-        "x": 420,
-        "y": 70,
-        "wires": [
-            [],
-            [],
-            []
-        ]
-    },
-    {
-        "id": "b2068e1d.c9d9",
-        "type": "complete",
-        "z": "8ba0552a.e27ca8",
-        "g": "8a437085.d2b8",
-        "name": "",
-        "scope": [
-            "73f3cb42.e412c4"
-        ],
-        "uncaught": false,
-        "x": 110,
-        "y": 110,
-        "wires": [
-            [
-                "bf48213c.3548c"
-            ]
-        ]
-    },
-    {
-        "id": "bf48213c.3548c",
-        "type": "exec",
-        "z": "8ba0552a.e27ca8",
-        "g": "8a437085.d2b8",
-        "command": "sudo cp ~/.node-red/projects/CILA2S-ESP-SWCPRO_AFE/NodePCCC/nodePCCC.js ~/.node-red/node_modules/nodepccc/nodePCCC.js",
-        "addpay": false,
-        "append": "",
-        "useSpawn": "false",
-        "timer": "",
-        "oldrc": false,
-        "name": "Reemplazar librería AFE",
-        "x": 430,
-        "y": 130,
-        "wires": [
-            [],
-            [],
-            []
-        ]
-    },
-    {
-        "id": "129d922.5d7c86e",
-        "type": "inject",
-        "z": "8ba0552a.e27ca8",
-        "g": "8a437085.d2b8",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 130,
-        "y": 150,
-        "wires": [
-            [
-                "bf48213c.3548c"
-            ]
-        ]
-    },
-    {
-        "id": "2cd9e470.7e562c",
-        "type": "exec",
-        "z": "8ba0552a.e27ca8",
-        "g": "8a437085.d2b8",
-        "command": "sudo reboot now",
-        "addpay": false,
-        "append": "",
-        "useSpawn": "false",
-        "timer": "",
-        "oldrc": false,
-        "name": "Reiniciar controlador",
-        "x": 440,
-        "y": 190,
-        "wires": [
-            [],
-            [],
-            []
-        ]
-    },
-    {
-        "id": "2dae23d1.de8fec",
-        "type": "complete",
-        "z": "8ba0552a.e27ca8",
-        "g": "8a437085.d2b8",
-        "name": "",
-        "scope": [
-            "bf48213c.3548c"
-        ],
-        "uncaught": false,
-        "x": 110,
-        "y": 190,
-        "wires": [
-            [
-                "849c9546.4f8a58"
-            ]
-        ]
-    },
-    {
-        "id": "849c9546.4f8a58",
-        "type": "delay",
-        "z": "8ba0552a.e27ca8",
-        "g": "8a437085.d2b8",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "5",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "x": 260,
-        "y": 190,
-        "wires": [
-            [
-                "2cd9e470.7e562c"
-            ]
-        ]
-    },
-    {
         "id": "aa3c422d.31446",
         "type": "exec",
         "z": "8ba0552a.e27ca8",
@@ -65916,7 +65774,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 3740,
+        "x": 4070,
         "y": 370,
         "wires": [
             [
@@ -65935,8 +65793,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 2900,
-        "y": 390,
+        "x": 3220,
+        "y": 370,
         "wires": [
             [
                 "98154bef.f1c1c8"
@@ -65951,8 +65809,8 @@
         "endpoint": "5a40295d.6caa18",
         "variable": "CommandWord",
         "name": "",
-        "x": 3230,
-        "y": 390,
+        "x": 3550,
+        "y": 370,
         "wires": []
     },
     {
@@ -65973,8 +65831,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 3070,
-        "y": 390,
+        "x": 3390,
+        "y": 370,
         "wires": [
             [
                 "4008f635.52a288"
@@ -65997,8 +65855,8 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "x": 2710,
-        "y": 350,
+        "x": 3030,
+        "y": 320,
         "wires": [
             [
                 "1286dd4c.802a73",
@@ -66885,7 +66743,7 @@
         "z": "e86f0ca4.7feb5",
         "g": "8f02baa.cd86a48",
         "name": "",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -67117,7 +66975,7 @@
         "initialize": "",
         "finalize": "",
         "x": 4620,
-        "y": 1510,
+        "y": 1540,
         "wires": [
             [
                 "8ad5beb8.173b5",
@@ -67139,7 +66997,7 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 4830,
-        "y": 1660,
+        "y": 1690,
         "wires": []
     },
     {
@@ -67154,7 +67012,7 @@
         "emptyMsgOnFail": false,
         "keepMsgProperties": false,
         "x": 4650,
-        "y": 1660,
+        "y": 1690,
         "wires": [
             [
                 "acb88797.a53388"
@@ -67174,7 +67032,7 @@
         "initialize": "",
         "finalize": "",
         "x": 4470,
-        "y": 1660,
+        "y": 1690,
         "wires": [
             [
                 "8ad5beb8.173b5"
@@ -67200,7 +67058,7 @@
         "payload": "0",
         "payloadType": "num",
         "x": 4290,
-        "y": 1600,
+        "y": 1630,
         "wires": [
             [
                 "d26ae57.89e2118"
@@ -67226,7 +67084,7 @@
         "payload": "1",
         "payloadType": "num",
         "x": 4290,
-        "y": 1640,
+        "y": 1670,
         "wires": [
             [
                 "d26ae57.89e2118"
@@ -67252,7 +67110,7 @@
         "payload": "2",
         "payloadType": "num",
         "x": 4290,
-        "y": 1680,
+        "y": 1710,
         "wires": [
             [
                 "d26ae57.89e2118"
@@ -67278,7 +67136,7 @@
         "payload": "4",
         "payloadType": "num",
         "x": 4290,
-        "y": 1720,
+        "y": 1750,
         "wires": [
             [
                 "d26ae57.89e2118"
@@ -72152,7 +72010,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3440,
+        "x": 3770,
         "y": 570,
         "wires": [
             [
@@ -72180,7 +72038,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3480,
+        "x": 3810,
         "y": 610,
         "wires": [
             [
@@ -72201,7 +72059,7 @@
         "label": "Run time:",
         "format": "<font size = 4px> {{msg.payload}}H",
         "layout": "row-left",
-        "x": 3880,
+        "x": 4210,
         "y": 570,
         "wires": []
     },
@@ -72218,7 +72076,7 @@
         "label": "Último codigo de error:",
         "format": "<font size = 4px> {{msg.payload}}",
         "layout": "row-left",
-        "x": 3930,
+        "x": 4260,
         "y": 610,
         "wires": []
     },
@@ -72242,7 +72100,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3490,
+        "x": 3820,
         "y": 650,
         "wires": [
             [
@@ -72263,7 +72121,7 @@
         "label": "Pot. total acumulada:",
         "format": "<font size = 4px> {{msg.payload}}kWh",
         "layout": "row-left",
-        "x": 3920,
+        "x": 4250,
         "y": 650,
         "wires": []
     },
@@ -72293,7 +72151,7 @@
         "to": "",
         "reg": false,
         "x": 4460,
-        "y": 1510,
+        "y": 1540,
         "wires": [
             [
                 "798ab24b.f2bb3c",
@@ -72308,12 +72166,13 @@
         "g": "b690d102.38713",
         "name": "",
         "links": [
+            "8c6f2064.7cbdc",
             "935ca480.525e98",
             "ad87cee4.7dbb5",
             "bd420231.1a153"
         ],
         "x": 4235,
-        "y": 1510,
+        "y": 1540,
         "wires": [
             [
                 "b3483c29.e4ff4"
@@ -72477,8 +72336,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2890,
-        "y": 350,
+        "x": 3230,
+        "y": 330,
         "wires": [
             [
                 "8c6f2064.7cbdc"
@@ -72492,10 +72351,11 @@
         "g": "dde9e22c.88ef2",
         "name": "Referencia C2S Link Out",
         "links": [
-            "ce51fc05.bdcac"
+            "ce51fc05.bdcac",
+            "a7923a8c.7c39d8"
         ],
-        "x": 3025,
-        "y": 350,
+        "x": 3345,
+        "y": 330,
         "wires": []
     },
     {
@@ -73022,7 +72882,7 @@
             "a6adbd4d.9a3c4"
         ],
         "x": 4235,
-        "y": 1760,
+        "y": 1790,
         "wires": [
             [
                 "ec35814f.e4c98"
@@ -73050,7 +72910,7 @@
         "to": "",
         "reg": false,
         "x": 4390,
-        "y": 1760,
+        "y": 1790,
         "wires": [
             [
                 "d26ae57.89e2118",
@@ -73097,7 +72957,7 @@
         "statusVal": "payload",
         "statusType": "msg",
         "x": 4810,
-        "y": 1510,
+        "y": 1540,
         "wires": []
     },
     {
@@ -73163,7 +73023,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 3870,
+        "x": 4200,
         "y": 90,
         "wires": [
             [
@@ -73189,7 +73049,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 3750,
+        "x": 4080,
         "y": 170,
         "wires": [
             [
@@ -73215,7 +73075,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 3750,
+        "x": 4080,
         "y": 210,
         "wires": [
             [
@@ -73241,7 +73101,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 3750,
+        "x": 4080,
         "y": 250,
         "wires": [
             [
@@ -73267,7 +73127,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 3750,
+        "x": 4080,
         "y": 290,
         "wires": [
             [
@@ -73293,7 +73153,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 3750,
+        "x": 4080,
         "y": 330,
         "wires": [
             [
@@ -73319,7 +73179,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 3750,
+        "x": 4080,
         "y": 530,
         "wires": [
             [
@@ -73345,7 +73205,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 3870,
+        "x": 4200,
         "y": 490,
         "wires": [
             [
@@ -73371,7 +73231,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 3750,
+        "x": 4080,
         "y": 410,
         "wires": [
             [
@@ -73397,7 +73257,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 3750,
+        "x": 4080,
         "y": 450,
         "wires": [
             [
@@ -73423,7 +73283,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 3870,
+        "x": 4200,
         "y": 130,
         "wires": [
             [
@@ -74913,7 +74773,7 @@
         "randomUnits": "seconds",
         "drop": false,
         "x": 4330,
-        "y": 1510,
+        "y": 1540,
         "wires": [
             [
                 "33e6cf98.a413f"
@@ -75547,7 +75407,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3060,
+        "x": 3040,
         "y": 240,
         "wires": [
             [
@@ -75575,7 +75435,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3060,
+        "x": 3040,
         "y": 280,
         "wires": [
             [
@@ -75590,7 +75450,7 @@
         "g": "dde9e22c.88ef2",
         "name": "",
         "pauseType": "delay",
-        "timeout": "1",
+        "timeout": "3",
         "timeoutUnits": "seconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -75599,7 +75459,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "x": 3190,
+        "x": 3210,
         "y": 240,
         "wires": [
             [
@@ -75625,8 +75485,8 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 2720,
-        "y": 390,
+        "x": 3040,
+        "y": 370,
         "wires": [
             [
                 "1286dd4c.802a73"
@@ -75651,8 +75511,8 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 2920,
-        "y": 240,
+        "x": 2850,
+        "y": 160,
         "wires": [
             [
                 "899909d1.d446c8",
@@ -75680,8 +75540,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2680,
-        "y": 240,
+        "x": 2620,
+        "y": 160,
         "wires": [
             [
                 "46cc6143.4abf6"
@@ -75699,8 +75559,8 @@
         "start": "",
         "inout": "out",
         "property": "payload",
-        "x": 2710,
-        "y": 280,
+        "x": 2650,
+        "y": 200,
         "wires": [
             [
                 "7d3dd1dc.29c31"
@@ -77113,7 +76973,7 @@
         "topic": "",
         "payload": "20",
         "payloadType": "num",
-        "x": 2920,
+        "x": 3040,
         "y": 200,
         "wires": [
             [
@@ -77346,7 +77206,7 @@
         "payload": "0",
         "payloadType": "num",
         "x": 4290,
-        "y": 1850,
+        "y": 1880,
         "wires": [
             [
                 "6fe68481.e69d5c"
@@ -77372,7 +77232,7 @@
         "payload": "1",
         "payloadType": "num",
         "x": 4290,
-        "y": 1890,
+        "y": 1920,
         "wires": [
             [
                 "6fe68481.e69d5c"
@@ -77391,7 +77251,7 @@
         "initialize": "",
         "finalize": "",
         "x": 4480,
-        "y": 1870,
+        "y": 1900,
         "wires": [
             [
                 "7f604934.3e3958"
@@ -77402,14 +77262,15 @@
         "id": "e4748b80.aba188",
         "type": "function",
         "z": "e86f0ca4.7feb5",
+        "g": "65bfe6a8.c0a838",
         "name": "Protections.Load.HH.Setpoint",
         "func": "\nmsg.payload = { \n    value: msg.payload, \n    'fc': 6, \n    'unitid': 1, \n    'address': 28672+20+58, \n    'quantity':1   \n}\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload.address});\nreturn msg",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 4500,
-        "y": 2020,
+        "x": 4510,
+        "y": 2070,
         "wires": [
             [
                 "7f604934.3e3958"
@@ -77420,6 +77281,7 @@
         "id": "ba8d7a29.e44068",
         "type": "inject",
         "z": "e86f0ca4.7feb5",
+        "g": "65bfe6a8.c0a838",
         "name": "",
         "props": [
             {
@@ -77433,8 +77295,8 @@
         "topic": "",
         "payload": "375",
         "payloadType": "num",
-        "x": 4280,
-        "y": 2080,
+        "x": 4290,
+        "y": 2130,
         "wires": [
             [
                 "e4748b80.aba188"
@@ -77445,6 +77307,7 @@
         "id": "acde7ff6.51e5b",
         "type": "inject",
         "z": "e86f0ca4.7feb5",
+        "g": "65bfe6a8.c0a838",
         "name": "",
         "props": [
             {
@@ -77458,8 +77321,8 @@
         "topic": "",
         "payload": "200",
         "payloadType": "num",
-        "x": 4280,
-        "y": 2040,
+        "x": 4290,
+        "y": 2090,
         "wires": [
             [
                 "e4748b80.aba188"
@@ -77470,6 +77333,7 @@
         "id": "29c3427.185e8be",
         "type": "inject",
         "z": "e86f0ca4.7feb5",
+        "g": "65bfe6a8.c0a838",
         "name": "",
         "props": [
             {
@@ -77483,8 +77347,8 @@
         "topic": "",
         "payload": "150",
         "payloadType": "num",
-        "x": 4280,
-        "y": 2000,
+        "x": 4290,
+        "y": 2050,
         "wires": [
             [
                 "e4748b80.aba188"
@@ -77495,6 +77359,7 @@
         "id": "54bd02d9.5107ac",
         "type": "inject",
         "z": "e86f0ca4.7feb5",
+        "g": "65bfe6a8.c0a838",
         "name": "",
         "props": [
             {
@@ -77508,8 +77373,8 @@
         "topic": "",
         "payload": "100",
         "payloadType": "num",
-        "x": 4280,
-        "y": 1960,
+        "x": 4290,
+        "y": 2010,
         "wires": [
             [
                 "e4748b80.aba188"
@@ -78661,6 +78526,301 @@
         "wires": [
             [
                 "9ba73f69.14911"
+            ]
+        ]
+    },
+    {
+        "id": "6f9f13ef.fb565c",
+        "type": "inject",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 70,
+        "wires": [
+            [
+                "73f3cb42.e412c4"
+            ]
+        ]
+    },
+    {
+        "id": "73f3cb42.e412c4",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "command": "sudo rm ~/.node-red/node_modules/nodepccc/nodePCCC.js",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Eliminar librería PCCC actual",
+        "x": 420,
+        "y": 70,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "b2068e1d.c9d9",
+        "type": "complete",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "scope": [
+            "73f3cb42.e412c4"
+        ],
+        "uncaught": false,
+        "x": 110,
+        "y": 110,
+        "wires": [
+            [
+                "bf48213c.3548c"
+            ]
+        ]
+    },
+    {
+        "id": "bf48213c.3548c",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "command": "sudo cp ~/Documents/PCCC/PowerFlex755AFE/nodePCCC.js ~/.node-red/node_modules/nodepccc/nodePCCC.js",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Reemplazar librería AFE",
+        "x": 430,
+        "y": 130,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "129d922.5d7c86e",
+        "type": "inject",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 150,
+        "wires": [
+            [
+                "bf48213c.3548c"
+            ]
+        ]
+    },
+    {
+        "id": "2cd9e470.7e562c",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "command": "sudo reboot now",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Reiniciar controlador",
+        "x": 440,
+        "y": 190,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "2dae23d1.de8fec",
+        "type": "complete",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "scope": [
+            "bf48213c.3548c"
+        ],
+        "uncaught": false,
+        "x": 110,
+        "y": 190,
+        "wires": [
+            [
+                "849c9546.4f8a58"
+            ]
+        ]
+    },
+    {
+        "id": "849c9546.4f8a58",
+        "type": "delay",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 260,
+        "y": 190,
+        "wires": [
+            [
+                "2cd9e470.7e562c"
+            ]
+        ]
+    },
+    {
+        "id": "23fbe207.7b1ede",
+        "type": "status",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "Status Drive",
+        "scope": [
+            "776db11c.07117"
+        ],
+        "x": 2610,
+        "y": 320,
+        "wires": [
+            [
+                "3ca904fc.10f40c"
+            ]
+        ]
+    },
+    {
+        "id": "1a719c26.34c704",
+        "type": "inject",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "5s",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "3",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 2750,
+        "y": 280,
+        "wires": [
+            [
+                "542838ab.43ffb8"
+            ]
+        ]
+    },
+    {
+        "id": "3ca904fc.10f40c",
+        "type": "change",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Status_TimeOut",
+                "pt": "flow",
+                "to": "status.text",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2810,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "542838ab.43ffb8",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "",
+        "property": "#:(memoryOnly)::Status_TimeOut",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "20",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 2870,
+        "y": 280,
+        "wires": [
+            [
+                "899909d1.d446c8",
+                "ca5ead3a.831c7",
+                "5fd3049a.ba921c"
+            ]
+        ]
+    },
+    {
+        "id": "d40387aa.734878",
+        "type": "inject",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "0",
+        "payloadType": "num",
+        "x": 3220,
+        "y": 200,
+        "wires": [
+            [
+                "776db11c.07117"
             ]
         ]
     }

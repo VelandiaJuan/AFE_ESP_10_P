@@ -3089,7 +3089,7 @@
         ],
         "x": 78,
         "y": 43,
-        "w": 1054,
+        "w": 1024,
         "h": 524
     },
     {
@@ -5627,7 +5627,7 @@
         ],
         "x": 104,
         "y": 289,
-        "w": 1002,
+        "w": 972,
         "h": 252
     },
     {
@@ -45294,7 +45294,7 @@
             "8b72bbb3.5d5a38",
             "b34e348c.08d3d8"
         ],
-        "x": 235,
+        "x": 195,
         "y": 350,
         "wires": [
             [
@@ -45311,8 +45311,8 @@
         "links": [
             "cfde9e34.955e5"
         ],
-        "x": 235,
-        "y": 430,
+        "x": 145,
+        "y": 480,
         "wires": [
             [
                 "67f2d064.1098c"
@@ -45329,7 +45329,7 @@
         "sendInitialState": false,
         "sendStateWithoutChange": true,
         "showTransitionErrors": false,
-        "x": 380,
+        "x": 430,
         "y": 370,
         "wires": [
             [
@@ -45365,8 +45365,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 3,
-        "x": 330,
-        "y": 430,
+        "x": 230,
+        "y": 480,
         "wires": [
             [],
             [
@@ -45427,7 +45427,7 @@
         "z": "3df4c8d9.0bdc38",
         "g": "9bdf522.eba6db",
         "name": "VSD_Ref",
-        "func": "// Definitions\nvar PR          = global.get(\"Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Output_Frecuency','memoryOnly')||0;\nMtr_Speed       = Math.abs(Mtr_Speed);\n\nif(PR.Reference < Mtr_Speed){\n    msg.payload = parseFloat(Mtr_Speed) - PR.dHz;\n    msg.payload = msg.payload - PR.dHz < PR.Reference ? PR.Reference : msg.payload;\n    msg.code = 1;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" - \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse if(PR.Reference > Mtr_Speed){\n    msg.payload = parseFloat(Mtr_Speed) + PR.dHz;\n    msg.payload = msg.payload + PR.dHz > PR.Reference ? PR.Reference : msg.payload;\n    msg.payload.code = 1;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" + \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse{\n    msg.payload = Mtr_Speed;\n    msg.code = 0;\n}\nreturn msg;",
+        "func": "// Definitions\nvar PR          = global.get(\"Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Output_Frecuency','memoryOnly')||0;\nMtr_Speed       = Math.abs(Mtr_Speed);\nvar URef        = global.get(\"Ultima_Referencia\");\nvar Sts         = global.get(\"Drive_Status.Active\",\"memoryOnly\")||0;\n\nif(PR.Reference < Mtr_Speed){\n    msg.payload = parseFloat(Mtr_Speed) - PR.dHz;\n    msg.payload = msg.payload - PR.dHz < PR.Reference ? PR.Reference : msg.payload;\n    msg.code = 1;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" - \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse if(PR.Reference > Mtr_Speed){\n    msg.payload = parseFloat(Mtr_Speed) + PR.dHz;\n    msg.payload = msg.payload + PR.dHz > PR.Reference ? PR.Reference : msg.payload;\n    msg.payload.code = 1;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" + \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse{\n    msg.payload = Mtr_Speed;\n    msg.code = 0;\n}\nif(Sts == 0){\n    msg.payload = URef;\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -45495,7 +45495,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 920,
+        "x": 890,
         "y": 410,
         "wires": [
             [
@@ -45523,7 +45523,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 910,
+        "x": 880,
         "y": 450,
         "wires": [
             [
@@ -45540,7 +45540,7 @@
         "links": [
             "7984b34.194704c"
         ],
-        "x": 515,
+        "x": 565,
         "y": 370,
         "wires": []
     },
@@ -45553,7 +45553,7 @@
         "links": [
             "51d6f5bd.7b3bac"
         ],
-        "x": 1045,
+        "x": 1015,
         "y": 450,
         "wires": []
     },
@@ -45578,7 +45578,7 @@
         "endpoint": "5a40295d.6caa18",
         "variable": "PF755T_SpeedReference",
         "name": "Referencia de velocidad",
-        "x": 970,
+        "x": 940,
         "y": 360,
         "wires": []
     },
@@ -72065,7 +72065,7 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "reset",
-        "x": 200,
+        "x": 230,
         "y": 390,
         "wires": [
             [
@@ -79137,8 +79137,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 330,
-        "y": 480,
+        "x": 230,
+        "y": 430,
         "wires": [
             [
                 "406ea535.518d9c"
@@ -79154,8 +79154,8 @@
         "links": [
             "f87a07cd.22b318"
         ],
-        "x": 235,
-        "y": 480,
+        "x": 145,
+        "y": 430,
         "wires": [
             [
                 "a11437c4.3868e8"

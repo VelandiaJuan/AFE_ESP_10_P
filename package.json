@@ -9,10 +9,10 @@
         "node-red-contrib-pccc": "1.0.1",
         "node-red-contrib-ui-led": "0.3.3",
         "node-red-contrib-ui-level": "0.1.38",
-        "node-red-dashboard": "2.24.0",
         "node-red-node-random": "0.2.0",
         "node-red-node-rbe": "0.2.9",
-        "node-red-node-ui-table": "0.3.8"
+        "node-red-node-ui-table": "0.3.8",
+        "node-red-contrib-pid": "1.1.7"
     },
     "node-red": {
         "settings": {

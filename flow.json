@@ -4428,7 +4428,8 @@
             "d521fa7d.be0208",
             "864e753a.a4d358",
             "bb39aa69.c4e278",
-            "6af3aebb.d62aa"
+            "6af3aebb.d62aa",
+            "91f68c48.47e4b"
         ],
         "x": 74,
         "y": 979
@@ -4543,7 +4544,10 @@
             "679d1a7bed80c240",
             "44189db337f85bd8",
             "19f7e764da2b7e6d",
-            "533f18d250f0f542"
+            "533f18d250f0f542",
+            "a772b455.b98b58",
+            "bed2e4e6.0270b8",
+            "81ff0e36.a3d6"
         ],
         "x": 74,
         "y": 2099
@@ -39590,7 +39594,7 @@
         "z": "6c7d2db7.37ef34",
         "g": "f981eb1b.025a78",
         "name": "Evento de Carga",
-        "func": "var Carga = global.get(\"C2S.Output_Current\",'memoryOnly')||0;\nCarga = parseFloat(Carga).toFixed(2);\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Corriente HH :\"+Carga;\n    global.set('Protections.Load.Status',4,'memoryOnly');\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por por Proteción de Corriente LL: \"+Carga;\n    global.set('Protections.Load.Status',3,'memoryOnly');    \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por Corriente H: \"+Carga;\n    global.set('Protections.Load.Status',2,'memoryOnly');    \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por Corriente L: \"+Carga;\n    global.set('Protections.Load.Status',1,'memoryOnly');    \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    global.set('Protections.Load.Status',0,'memoryOnly');\n    delete msg.topic;\n    return msg;\n}\n\n",
+        "func": "var Carga = global.get(\"C2S.Output_Current\",'memoryOnly')||0;\nCarga = parseFloat(Carga).toFixed(2);\nnode.status({fill:\"red\",shape:\"ring\",text:msg.Mensaje});\n\nif(msg.Mensaje == \"Trigger by HH Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por proteción de sobrecarga :\"+Carga;\n    global.set('Protections.Load.Status',4,'memoryOnly');\n    delete msg.topic;\n    return msg;\n    \n}\nif(msg.Mensaje == \"Trigger by LL Protection\" && msg.payload === true){\n    msg.payload = \"Disparo por protección de subcarga: \"+Carga;\n    global.set('Protections.Load.Status',3,'memoryOnly');    \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by H Protection\"){\n    msg.payload = \"Alarma por sobrecarga: \"+Carga;\n    global.set('Protections.Load.Status',2,'memoryOnly');    \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Alarm by L Protection\"){\n    msg.payload = \"Alarma por subcarga: \"+Carga;\n    global.set('Protections.Load.Status',1,'memoryOnly');    \n    delete msg.topic;\n    return msg;\n}\nif(msg.Mensaje == \"Normal condition\"){\n    msg.payload = \"Condición normal\";\n    global.set('Protections.Load.Status',0,'memoryOnly');\n    delete msg.topic;\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -45457,7 +45461,7 @@
         "z": "3df4c8d9.0bdc38",
         "g": "9bdf522.eba6db",
         "name": "VSD_Ref",
-        "func": "// Definitions\nvar PR          = global.get(\"Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Output_Frecuency','memoryOnly')||0;\nMtr_Speed       = Math.abs(Mtr_Speed);\nvar URef        = global.get(\"Ultima_Referencia\");\nvar Sts         = global.get(\"Drive_Status.Active\",\"memoryOnly\")||0;\n\nif(PR.Reference < Mtr_Speed){\n    msg.payload = parseFloat(Mtr_Speed) - PR.dHz;\n    msg.payload = msg.payload - PR.dHz < PR.Reference ? PR.Reference : msg.payload;\n    msg.code = 1;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" - \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse if(PR.Reference > Mtr_Speed){\n    msg.payload = parseFloat(Mtr_Speed) + PR.dHz;\n    msg.payload = msg.payload + PR.dHz > PR.Reference ? PR.Reference : msg.payload;\n    msg.payload.code = 1;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" + \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse{\n    msg.payload = Mtr_Speed;\n    msg.code = 0;\n}\nif(Sts == 0){\n    msg.payload = URef;\n}\nreturn msg;",
+        "func": "// Definitions\nvar PR          = global.get(\"Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Output_Frecuency','memoryOnly')||0;\nMtr_Speed       = Math.abs(Mtr_Speed);\nvar URef        = global.get(\"Ultima_Referencia\");\nvar Sts         = global.get(\"Drive_Status.Active\",\"memoryOnly\")||0;\n\nif(Math.abs(PR.Reference - Mtr_Speed) < 0.005){\n    msg.payload = Mtr_Speed;\n    msg.code = 0;\n}\n\nelse if(PR.Reference < Mtr_Speed){\n    msg.payload = parseFloat(Mtr_Speed) - PR.dHz;\n    msg.payload = msg.payload - PR.dHz < PR.Reference ? PR.Reference : msg.payload;\n    msg.code = 1;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" - \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse if(PR.Reference > Mtr_Speed){\n    msg.payload = parseFloat(Mtr_Speed) + PR.dHz;\n    msg.payload = msg.payload + PR.dHz > PR.Reference ? PR.Reference : msg.payload;\n    msg.payload.code = 1;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" + \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse{\n    msg.payload = Mtr_Speed;\n    msg.code = 0;\n}\nif(Sts == 0){\n    msg.payload = URef;\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -46197,7 +46201,7 @@
         "z": "3df4c8d9.0bdc38",
         "g": "fbbdc4b7.95b5c8",
         "name": "E4",
-        "func": "var Motor_Speed = Math.abs(global.get(\"C2S.Output_Frecuency\",'memoryOnly')||0);\nvar Reference1  = flow.get(\"Staggered_start\").Reference_1||0;\n\nif(Motor_Speed == Reference1){\n    msg.topic = \"Ref V1 Reached\";\n}\nelse{\n    msg.topic = \"Ref V1 Not reached yet\";\n}\nnode.status({fill:\"green\",shape:\"dot\",text:\"Reference : \"+Reference1+\", \"+\"Motor Speed : \"+ Motor_Speed});\nreturn msg;",
+        "func": "var Motor_Speed = Math.abs(global.get(\"C2S.Output_Frecuency\",'memoryOnly')||0);\nvar Reference1  = flow.get(\"Staggered_start\").Reference_1||0;\n\nMotor_Speed = parseFloat(Motor_Speed.toFixed(2));\n\nif(Motor_Speed == Reference1){\n    msg.topic = \"Ref V1 Reached\";\n}\nelse{\n    msg.topic = \"Ref V1 Not reached yet\";\n}\nnode.status({fill:\"green\",shape:\"dot\",text:\"Reference : \"+Reference1+\", \"+\"Motor Speed : \"+ Motor_Speed});\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -46559,7 +46563,7 @@
         "z": "3df4c8d9.0bdc38",
         "g": "fbbdc4b7.95b5c8",
         "name": "E8",
-        "func": "var Motor_Speed = Math.abs(global.get(\"C2S.Output_Frecuency\",'memoryOnly')||0);\nvar Reference2  = flow.get(\"Staggered_start\").Reference_2||0;\n\nif(Motor_Speed == Reference2){\n    msg.topic = \"Ref V2 Reached\";\n}\nelse{\n    msg.topic = \"Ref V2 Not reached yet\"\n}\nnode.status({fill:\"green\",shape:\"dot\",text:\"Reference : \"+Reference2+\", \"+\"Motor Speed : \"+ Motor_Speed});\nreturn msg;",
+        "func": "var Motor_Speed = Math.abs(global.get(\"C2S.Output_Frecuency\",'memoryOnly')||0);\nvar Reference2  = flow.get(\"Staggered_start\").Reference_2||0;\n\nMotor_Speed = parseFloat(Motor_Speed.toFixed(2));\n\nif(Motor_Speed == Reference2){\n    msg.topic = \"Ref V2 Reached\";\n}\nelse{\n    msg.topic = \"Ref V2 Not reached yet\"\n}\nnode.status({fill:\"green\",shape:\"dot\",text:\"Reference : \"+Reference2+\", \"+\"Motor Speed : \"+ Motor_Speed});\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -47438,7 +47442,8 @@
         "y": 1270,
         "wires": [
             [
-                "19a2b155.ff424f"
+                "19a2b155.ff424f",
+                "91f68c48.47e4b"
             ]
         ]
     },
@@ -47457,7 +47462,8 @@
         "y": 1570,
         "wires": [
             [
-                "a9bbfe07.11d31"
+                "a9bbfe07.11d31",
+                "91f68c48.47e4b"
             ]
         ]
     },
@@ -47721,7 +47727,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 600,
         "y": 2410,
         "wires": [
@@ -47756,9 +47761,11 @@
         "z": "3df4c8d9.0bdc38",
         "g": "dad84feb.d4773",
         "name": "E4",
-        "func": "// Definitions\nvar AR = flow.get(\"Automatic_Restart\");\nAR.Attempts.Current_Attempt = AR.Attempts.Max;\nmsg.payload = \"End of Attemps reached!\";\n// Transition\nmsg.topic = \"Automatic Restart, Status Updated\";\nreturn msg;\n\n",
+        "func": "// Definitions\nvar AR = flow.get(\"Automatic_Restart\");\nAR.Attempts.Current_Attempt = AR.Attempts.Max;\nmsg.payload = \"Fin de intentos alcanzado!\";\n// Transition\nmsg.topic = \"Automatic Restart, Status Updated\";\nreturn msg;\n\n",
         "outputs": 1,
         "noerr": 0,
+        "initialize": "",
+        "finalize": "",
         "x": 600,
         "y": 2490,
         "wires": [
@@ -47955,7 +47962,8 @@
                 "baa92aab.077738"
             ],
             [
-                "ac728c7b.ad488"
+                "ac728c7b.ad488",
+                "a772b455.b98b58"
             ]
         ]
     },
@@ -53651,9 +53659,9 @@
         "dot": false,
         "ymin": "",
         "ymax": "",
-        "removeOlder": 1,
-        "removeOlderPoints": "",
-        "removeOlderUnit": "3600",
+        "removeOlder": "10",
+        "removeOlderPoints": "100",
+        "removeOlderUnit": "60",
         "cutout": 0,
         "useOneColor": false,
         "useUTC": false,
@@ -60978,7 +60986,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1620,
         "y": 2090,
         "wires": [
@@ -66409,7 +66416,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 4530,
         "y": 820,
         "wires": [
@@ -66924,7 +66930,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 4870,
         "y": 1470,
         "wires": [
@@ -72964,7 +72969,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "allowrate": false,
         "x": 710,
         "y": 400,
         "wires": [
@@ -81405,7 +81409,6 @@
         "mode": "number",
         "delay": "50",
         "topic": "Ref",
-        "topicType": "str",
         "x": 680,
         "y": 440,
         "wires": [
@@ -81782,7 +81785,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1620,
         "y": 2180,
         "wires": [
@@ -81809,7 +81811,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1620,
         "y": 2270,
         "wires": [
@@ -81836,7 +81837,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1620,
         "y": 2360,
         "wires": [
@@ -82615,9 +82615,7 @@
         "gap": "",
         "start": "",
         "inout": "out",
-        "septopics": true,
         "property": "payload",
-        "topi": "topic",
         "x": 380,
         "y": 490,
         "wires": [
@@ -82636,15 +82634,115 @@
         "gap": "",
         "start": "",
         "inout": "out",
-        "septopics": true,
         "property": "payload",
-        "topi": "topic",
         "x": 2390,
         "y": 2920,
         "wires": [
             [
                 "da3a7d44.c171"
             ]
+        ]
+    },
+    {
+        "id": "a772b455.b98b58",
+        "type": "delay",
+        "z": "3df4c8d9.0bdc38",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "10",
+        "timeoutUnits": "minutes",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 690,
+        "y": 2670,
+        "wires": [
+            [
+                "bed2e4e6.0270b8"
+            ]
+        ]
+    },
+    {
+        "id": "bed2e4e6.0270b8",
+        "type": "switch",
+        "z": "3df4c8d9.0bdc38",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "property": "#:(memoryOnly)::Drive_Status.Active",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 830,
+        "y": 2670,
+        "wires": [
+            [
+                "81ff0e36.a3d6"
+            ]
+        ]
+    },
+    {
+        "id": "81ff0e36.a3d6",
+        "type": "change",
+        "z": "3df4c8d9.0bdc38",
+        "g": "dad84feb.d4773",
+        "name": "Clear current attempt",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Automatic_Restart.Attempts.Current_Attempt",
+                "pt": "flow",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1000,
+        "y": 2670,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "91f68c48.47e4b",
+        "type": "change",
+        "z": "3df4c8d9.0bdc38",
+        "g": "fbbdc4b7.95b5c8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Ultima_Referencia",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1030,
+        "y": 1270,
+        "wires": [
+            []
         ]
     }
 ]

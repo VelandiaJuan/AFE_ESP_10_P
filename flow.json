@@ -876,9 +876,7 @@
             "2939a4d0.1f6b6c"
         ],
         "x": 144,
-        "y": 19,
-        "w": 1002,
-        "h": 272
+        "y": 19
     },
     {
         "id": "95e4279e.465018",
@@ -963,9 +961,7 @@
             "1a75f72d.2bf409"
         ],
         "x": 134,
-        "y": 631.5,
-        "w": 502,
-        "h": 129.5
+        "y": 631.5
     },
     {
         "id": "c0366b36.2372f8",
@@ -989,9 +985,7 @@
             "2aac0837.208b38"
         ],
         "x": 144,
-        "y": 299,
-        "w": 492,
-        "h": 212
+        "y": 299
     },
     {
         "id": "e0133d8.e6db5c",
@@ -1132,9 +1126,7 @@
             "a7e99088.c8108"
         ],
         "x": 269,
-        "y": 73,
-        "w": 1753,
-        "h": 454
+        "y": 73
     },
     {
         "id": "43bab036.712ca",
@@ -1150,9 +1142,7 @@
             "e9d2f5f0.86a518"
         ],
         "x": 268,
-        "y": 533,
-        "w": 1704,
-        "h": 704
+        "y": 533
     },
     {
         "id": "27a0641a.d154dc",
@@ -1168,9 +1158,7 @@
             "1306de9a.9ba341"
         ],
         "x": 268,
-        "y": 1243,
-        "w": 1744,
-        "h": 454
+        "y": 1243
     },
     {
         "id": "af9ea997.5900c8",
@@ -1186,9 +1174,7 @@
             "7b926503.10d39c"
         ],
         "x": 268,
-        "y": 1703,
-        "w": 1324,
-        "h": 224
+        "y": 1703
     },
     {
         "id": "8a04702.34fd29",
@@ -1208,9 +1194,7 @@
             "49534500.cd9cdc"
         ],
         "x": 2029,
-        "y": 75,
-        "w": 527,
-        "h": 196
+        "y": 75
     },
     {
         "id": "f7d4f68f.ac6a38",
@@ -1417,9 +1401,7 @@
             "82e7028e.38e78"
         ],
         "x": 644,
-        "y": 299,
-        "w": 472,
-        "h": 122
+        "y": 299
     },
     {
         "id": "353eeed0.7959d2",
@@ -1436,7 +1418,9 @@
             "ab7a4a2c.17d8a8"
         ],
         "x": 48,
-        "y": 653
+        "y": 653,
+        "w": 2034,
+        "h": 1104
     },
     {
         "id": "e3aa057d.09fb18",
@@ -1454,7 +1438,9 @@
             "b9df7528.923398"
         ],
         "x": 48,
-        "y": 1763
+        "y": 1763,
+        "w": 3230,
+        "h": 1064
     },
     {
         "id": "a163450f.bc4438",
@@ -1472,9 +1458,7 @@
             "5f07f1b.ac4631"
         ],
         "x": 144,
-        "y": 521.5,
-        "w": 522,
-        "h": 97
+        "y": 521.5
     },
     {
         "id": "b55b6178.ef377",
@@ -1590,7 +1574,9 @@
             "ba5f4e4b.e55a2"
         ],
         "x": 1204,
-        "y": 1219
+        "y": 1219,
+        "w": 412,
+        "h": 82
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -1901,9 +1887,7 @@
             "5e35a538.cad0cc"
         ],
         "x": 14,
-        "y": 251.5,
-        "w": 432,
-        "h": 157
+        "y": 251.5
     },
     {
         "id": "6f673d7.00debc4",
@@ -2709,7 +2693,9 @@
             "675af0d1.a9fc4"
         ],
         "x": 52,
-        "y": 17
+        "y": 17,
+        "w": 2100,
+        "h": 626
     },
     {
         "id": "854dec5e.9e51d",
@@ -2728,7 +2714,9 @@
             "b4d97ea9.9a1f1"
         ],
         "x": 2158,
-        "y": 13
+        "y": 13,
+        "w": 2314,
+        "h": 834
     },
     {
         "id": "c2c48d08.f1c96",
@@ -2743,7 +2731,9 @@
             "7a6388b7.eddf38"
         ],
         "x": 2164,
-        "y": 859
+        "y": 859,
+        "w": 332,
+        "h": 142
     },
     {
         "id": "6b6e253f.c8615c",
@@ -3030,8 +3020,6 @@
         ],
         "x": 14,
         "y": 21.5,
-        "w": 552,
-        "h": 217,
         "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
     },
     {
@@ -3092,7 +3080,9 @@
             "a02aef104543434c"
         ],
         "x": 48,
-        "y": 2833
+        "y": 2833,
+        "w": 2944,
+        "h": 644
     },
     {
         "id": "dbe2a7bb829f0b5c",
@@ -3126,6 +3116,27 @@
         "y": 1259
     },
     {
+        "id": "cc59962c92968460",
+        "type": "group",
+        "z": "ef673f81.6ec95",
+        "name": "Restart Kiosk",
+        "style": {
+            "fill": "#bfdbef",
+            "label": true,
+            "label-position": "n",
+            "color": "#ffffff"
+        },
+        "nodes": [
+            "0dad0ab968c4c2d2",
+            "9a19906ef873330b",
+            "c9e65bdc6658d8ee",
+            "7bb1447cded95235",
+            "d13491553f131f2a"
+        ],
+        "x": 684,
+        "y": 439
+    },
+    {
         "id": "675af0d1.a9fc4",
         "type": "group",
         "z": "3df4c8d9.0bdc38",
@@ -3140,7 +3151,9 @@
             "9bdf522.eba6db"
         ],
         "x": 78,
-        "y": 43
+        "y": 43,
+        "w": 1064,
+        "h": 574
     },
     {
         "id": "6150cb44.a8b4c4",
@@ -3172,7 +3185,9 @@
             "76e4fde6.1b44b4"
         ],
         "x": 1144,
-        "y": 49
+        "y": 49,
+        "w": 982,
+        "h": 262
     },
     {
         "id": "70d8d562.df63ac",
@@ -3920,9 +3935,7 @@
             "f75e195a.cf9c28"
         ],
         "x": 295,
-        "y": 99,
-        "w": 832,
-        "h": 402
+        "y": 99
     },
     {
         "id": "27c43941.e9e0c6",
@@ -3973,9 +3986,7 @@
             "3ac432d5.f6b63e"
         ],
         "x": 294,
-        "y": 559,
-        "w": 832,
-        "h": 652
+        "y": 559
     },
     {
         "id": "c41a251e.427c98",
@@ -4011,9 +4022,7 @@
             "4b4d89b2.afea38"
         ],
         "x": 294,
-        "y": 1269,
-        "w": 962,
-        "h": 402
+        "y": 1269
     },
     {
         "id": "a7e99088.c8108",
@@ -4051,9 +4060,7 @@
             "998f0e93.941f1"
         ],
         "x": 1134,
-        "y": 99,
-        "w": 862,
-        "h": 402
+        "y": 99
     },
     {
         "id": "b60351ac.2ba88",
@@ -4075,9 +4082,7 @@
             "1f8e91cb.d426be"
         ],
         "x": 294,
-        "y": 1729,
-        "w": 752,
-        "h": 162
+        "y": 1729
     },
     {
         "id": "e9d2f5f0.86a518",
@@ -4111,9 +4116,7 @@
             "8307ca17.c4d5b8"
         ],
         "x": 1134,
-        "y": 559,
-        "w": 812,
-        "h": 412
+        "y": 559
     },
     {
         "id": "1306de9a.9ba341",
@@ -4141,9 +4144,7 @@
             "6f6dca07.0b3994"
         ],
         "x": 1264,
-        "y": 1269,
-        "w": 722,
-        "h": 292
+        "y": 1269
     },
     {
         "id": "7b926503.10d39c",
@@ -4164,9 +4165,7 @@
             "b60d4442.d5f0e8"
         ],
         "x": 1054,
-        "y": 1729,
-        "w": 512,
-        "h": 172
+        "y": 1729
     },
     {
         "id": "25d1d69b.64e0ca",
@@ -4472,7 +4471,9 @@
             "91f68c48.47e4b"
         ],
         "x": 74,
-        "y": 979
+        "y": 979,
+        "w": 1568,
+        "h": 752
     },
     {
         "id": "84c9494b.d4dbe8",
@@ -4506,7 +4507,9 @@
             "e2832ff4.8c486"
         ],
         "x": 74,
-        "y": 679
+        "y": 679,
+        "w": 932,
+        "h": 292
     },
     {
         "id": "dad84feb.d4773",
@@ -4590,7 +4593,9 @@
             "81ff0e36.a3d6"
         ],
         "x": 74,
-        "y": 2099
+        "y": 2099,
+        "w": 1872,
+        "h": 702
     },
     {
         "id": "7aad629d.de652c",
@@ -4652,7 +4657,9 @@
             "b8c12e8b.715b2"
         ],
         "x": 74,
-        "y": 1789
+        "y": 1789,
+        "w": 2632,
+        "h": 302
     },
     {
         "id": "4eb2e67c.e57628",
@@ -5016,7 +5023,9 @@
             "577047bb.6519b8"
         ],
         "x": 1014,
-        "y": 689
+        "y": 689,
+        "w": 1042,
+        "h": 272
     },
     {
         "id": "e2e299a6.d3c5c8",
@@ -5076,7 +5085,9 @@
             "4e19cfd4.3982f"
         ],
         "x": 1954,
-        "y": 2099
+        "y": 2099,
+        "w": 1062,
+        "h": 312
     },
     {
         "id": "dde9e22c.88ef2",
@@ -5160,7 +5171,9 @@
             "1a719c26.34c704",
             "3ca904fc.10f40c",
             "542838ab.43ffb8",
-            "d40387aa.734878"
+            "d40387aa.734878",
+            "33606d23.583f02",
+            "c265b9d1.ed1968"
         ],
         "x": 2514,
         "y": 49,
@@ -5204,7 +5217,9 @@
             "c25b39de.c92f08"
         ],
         "x": 1958,
-        "y": 2423
+        "y": 2423,
+        "w": 1294,
+        "h": 374
     },
     {
         "id": "46208c12.9b8aa4",
@@ -5386,7 +5401,9 @@
             "168b6577.3e722b"
         ],
         "x": 2834,
-        "y": 39
+        "y": 39,
+        "w": 892,
+        "h": 292
     },
     {
         "id": "c30870cb.fa25a",
@@ -5415,7 +5432,9 @@
             "3df3dfb.cab992"
         ],
         "x": 2184,
-        "y": 39
+        "y": 39,
+        "w": 642,
+        "h": 202
     },
     {
         "id": "4384031.9ff1afc",
@@ -5436,7 +5455,9 @@
             "446190d2.61b54"
         ],
         "x": 3734,
-        "y": 39
+        "y": 39,
+        "w": 712,
+        "h": 122
     },
     {
         "id": "b4d97ea9.9a1f1",
@@ -5502,7 +5523,9 @@
             "ece75963.8a7658"
         ],
         "x": 2184,
-        "y": 339
+        "y": 339,
+        "w": 1922,
+        "h": 482
     },
     {
         "id": "b15394d1.1fa588",
@@ -5616,7 +5639,9 @@
             "26f10424.c1b77c"
         ],
         "x": 2094,
-        "y": 3069
+        "y": 3069,
+        "w": 872,
+        "h": 292
     },
     {
         "id": "bbe1a9f5.51c4a8",
@@ -5686,7 +5711,9 @@
             "b150667e.a8dd58"
         ],
         "x": 74,
-        "y": 2859
+        "y": 2859,
+        "w": 2012,
+        "h": 592
     },
     {
         "id": "a02aef104543434c",
@@ -5712,7 +5739,9 @@
             "f8091c1948cd5a42"
         ],
         "x": 2094,
-        "y": 2859
+        "y": 2859,
+        "w": 862,
+        "h": 202
     },
     {
         "id": "1d477816.993308",
@@ -5738,7 +5767,9 @@
             "6d33fcb1.428484"
         ],
         "x": 104,
-        "y": 69
+        "y": 69,
+        "w": 972,
+        "h": 212
     },
     {
         "id": "9bdf522.eba6db",
@@ -5779,7 +5810,9 @@
             "afa8e49c.0a9318"
         ],
         "x": 104,
-        "y": 289
+        "y": 289,
+        "w": 1012,
+        "h": 302
     },
     {
         "id": "5613a5b2.95577c",
@@ -5850,14 +5883,14 @@
             "ae9b727.7899b9",
             "4cac8e09.ee599",
             "635b4691.5d8188",
-            "b4e39862.6e63b8",
             "3cc764fd.7e58cc",
             "a77a8165a44afeaf",
             "6af78aaac1f43c31",
             "b0ece13.62d402",
             "bc38d9c6.3ba0b8",
             "bcba9217.5d025",
-            "3ed4847d.6ecafc"
+            "3ed4847d.6ecafc",
+            "192dce87.7c46d1"
         ],
         "x": 144,
         "y": 319,
@@ -6314,7 +6347,9 @@
             "97085297.91fc4"
         ],
         "x": 944,
-        "y": 1009
+        "y": 1009,
+        "w": 672,
+        "h": 202
     },
     {
         "id": "5d1065e2.7b952c",
@@ -6427,7 +6462,9 @@
             "f4363e16.f1813"
         ],
         "x": 1984,
-        "y": 2449
+        "y": 2449,
+        "w": 1022,
+        "h": 82
     },
     {
         "id": "c25b39de.c92f08",
@@ -6457,7 +6494,9 @@
             "38bdd4ac.3dc20c"
         ],
         "x": 1984,
-        "y": 2539
+        "y": 2539,
+        "w": 1242,
+        "h": 232
     },
     {
         "id": "2fb80d12.b93df2",
@@ -6522,30 +6561,9 @@
             "a60307c8.1b5708"
         ],
         "x": 1424,
-        "y": 3199
-    },
-    {
-        "id": "cc59962c92968460",
-        "type": "group",
-        "z": "ef673f81.6ec95",
-        "name": "Restart Kiosk",
-        "style": {
-            "fill": "#bfdbef",
-            "label": true,
-            "label-position": "n",
-            "color": "#ffffff"
-        },
-        "nodes": [
-            "0dad0ab968c4c2d2",
-            "9a19906ef873330b",
-            "c9e65bdc6658d8ee",
-            "7bb1447cded95235",
-            "d13491553f131f2a"
-        ],
-        "x": 684,
-        "y": 439,
-        "w": 432,
-        "h": 232
+        "y": 3199,
+        "w": 632,
+        "h": 222
     },
     {
         "id": "49f2e1fd.34fcd",
@@ -39603,12 +39621,12 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1040,
+        "x": 980,
         "y": 400,
         "wires": [
             [
-                "a4829f7d.87894",
-                "3cc764fd.7e58cc"
+                "3cc764fd.7e58cc",
+                "192dce87.7c46d1"
             ]
         ]
     },
@@ -60160,7 +60178,7 @@
         "z": "5f404c88.fa75a4",
         "g": "dde9e22c.88ef2",
         "name": "Interpretar comunicación",
-        "func": "\nmsg.payload =   {\n    'Status_Word'       : Float2Int(msg.payload.Status_Word),\n    'Output_Frecuency'  : parseFloat(msg.payload.Output_Frecuency).toFixed(3),\n    'Commanded_SpdRef'  : parseFloat((msg.payload.Commanded_SpdRef).toFixed(1)),\n    'Output_Current'    : parseFloat(msg.payload.Output_Current).toFixed(1),\n    'Output_Voltage'    : parseFloat(msg.payload.Output_Voltage).toFixed(1),\n    'Output_Power'      : parseFloat(msg.payload.Output_Power).toFixed(1),\n    'Power_Factor'      : parseFloat(msg.payload.Power_Factor).toFixed(3),\n    'Bus_DC_Volts'      : parseFloat(msg.payload.Bus_DC_Volts).toFixed(1),\n    'Elapsed_Run_Time'  : parseFloat(msg.payload.Elapsed_Run_Time).toFixed(1),\n    'Drive_Temp_C'      : parseFloat(msg.payload.Drive_Temp_C).toFixed(1),\n    'Last_Fault_Code'   : Float2Int(msg.payload.Last_Fault_Code),\n    'Elapsed_kWH'       : parseFloat(msg.payload.Elapsed_kWH*1000).toFixed(3)\n}\nreturn msg;\n\nfunction Float2Int(payload){    \n    const getHex = i => ('00' + i.toString(16)).slice(-2);\n    var view = new DataView(new ArrayBuffer(4)),\n        result;\n    view.setFloat32(0, payload);\n    result = Array\n        .apply(null, { length: 4 })\n        .map((_, i) => getHex(view.getUint8(i)))\n        .join('');\n    return parseInt(result,16);\n}\n//Fuente: https://stackoverflow.com/questions/47164675/convert-float-to-32bit-hex-string-in-javascript",
+        "func": "\nmsg.payload =   {\n    'Status_Word'       : Float2Int(msg.payload.Status_Word),\n    'Output_Frecuency'  : parseFloat(msg.payload.Output_Frecuency),\n    'Commanded_SpdRef'  : parseFloat((msg.payload.Commanded_SpdRef).toFixed(1)),\n    'Output_Current'    : parseFloat(msg.payload.Output_Current).toFixed(1),\n    'Output_Voltage'    : parseFloat(msg.payload.Output_Voltage).toFixed(1),\n    'Output_Power'      : parseFloat(msg.payload.Output_Power).toFixed(1),\n    'Power_Factor'      : parseFloat(msg.payload.Power_Factor).toFixed(3),\n    'Bus_DC_Volts'      : parseFloat(msg.payload.Bus_DC_Volts).toFixed(1),\n    'Elapsed_Run_Time'  : parseFloat(msg.payload.Elapsed_Run_Time).toFixed(1),\n    'Drive_Temp_C'      : parseFloat(msg.payload.Drive_Temp_C).toFixed(1),\n    'Last_Fault_Code'   : Float2Int(msg.payload.Last_Fault_Code),\n    'Elapsed_kWH'       : parseFloat(msg.payload.Elapsed_kWH*1000).toFixed(3)\n}\nreturn msg;\n\nfunction Float2Int(payload){    \n    const getHex = i => ('00' + i.toString(16)).slice(-2);\n    var view = new DataView(new ArrayBuffer(4)),\n        result;\n    view.setFloat32(0, payload);\n    result = Array\n        .apply(null, { length: 4 })\n        .map((_, i) => getHex(view.getUint8(i)))\n        .join('');\n    return parseInt(result,16);\n}\n//Fuente: https://stackoverflow.com/questions/47164675/convert-float-to-32bit-hex-string-in-javascript",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -73311,11 +73329,11 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 4080,
+        "x": 3940,
         "y": 410,
         "wires": [
             [
-                "ac7d9b40.a3fa48"
+                "33606d23.583f02"
             ]
         ]
     },
@@ -73337,11 +73355,11 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 4080,
+        "x": 3940,
         "y": 450,
         "wires": [
             [
-                "ba8f9132.a0406"
+                "c265b9d1.ed1968"
             ]
         ]
     },
@@ -75463,8 +75481,7 @@
         "y": 360,
         "wires": [
             [
-                "96de9397.2cea6",
-                "b4e39862.6e63b8"
+                "96de9397.2cea6"
             ]
         ]
     },
@@ -75647,24 +75664,6 @@
                 "7d3dd1dc.29c31"
             ]
         ]
-    },
-    {
-        "id": "b4e39862.6e63b8",
-        "type": "debug",
-        "z": "5f404c88.fa75a4",
-        "g": "7b165c8f.b14834",
-        "name": "",
-        "active": true,
-        "tosidebar": false,
-        "console": false,
-        "tostatus": true,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "payload",
-        "statusType": "auto",
-        "x": 1140,
-        "y": 360,
-        "wires": []
     },
     {
         "id": "835bdb6b.664a58",
@@ -81468,7 +81467,7 @@
         "order": 2,
         "width": 3,
         "height": 1,
-        "passthru": true,
+        "passthru": false,
         "mode": "number",
         "delay": "50",
         "topic": "Ref",
@@ -82844,7 +82843,6 @@
         "append": "",
         "useSpawn": "false",
         "timer": "",
-        "winHide": false,
         "oldrc": false,
         "name": "",
         "x": 970,
@@ -82930,6 +82928,72 @@
         "wires": [
             [
                 "9a19906ef873330b"
+            ]
+        ]
+    },
+    {
+        "id": "192dce87.7c46d1",
+        "type": "switch",
+        "z": "5f404c88.fa75a4",
+        "g": "7b165c8f.b14834",
+        "name": "",
+        "property": "#:(memoryOnly)::Funciones_control_activas.Incremento_prolongado",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1120,
+        "y": 400,
+        "wires": [
+            [],
+            [
+                "a4829f7d.87894"
+            ]
+        ]
+    },
+    {
+        "id": "33606d23.583f02",
+        "type": "function",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "toFixed(2)",
+        "func": "msg.payload = parseFloat(msg.payload).toFixed(2);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 4070,
+        "y": 410,
+        "wires": [
+            [
+                "ac7d9b40.a3fa48"
+            ]
+        ]
+    },
+    {
+        "id": "c265b9d1.ed1968",
+        "type": "function",
+        "z": "5f404c88.fa75a4",
+        "g": "dde9e22c.88ef2",
+        "name": "toFixed(2)",
+        "func": "msg.payload = parseFloat(msg.payload).toFixed(2);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 4070,
+        "y": 450,
+        "wires": [
+            [
+                "ba8f9132.a0406"
             ]
         ]
     }
